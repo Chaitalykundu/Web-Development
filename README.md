@@ -4,6 +4,18 @@ YouTube : [Web Development - WsCube Tech](https://www.youtube.com/watch?v=HVjjoM
 
 &nbsp;
 
+## Five layers of software
+
+```
+UI - How data is presented
+API - How data is fetched
+DATABASE - How data is stored
+LOGIC -How data is processed
+HOSTING - Where data is stored
+```
+
+&nbsp;
+
 ## HTML
 
 - learn the basics of HTML
@@ -13,4 +25,4 @@ YouTube : [Web Development - WsCube Tech](https://www.youtube.com/watch?v=HVjjoM
 
 - learn the basics of CSS
 - Style pages from previous steps
-- build a page with grid and flexbox
+- build a page with grid and flex box

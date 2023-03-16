@@ -22,8 +22,8 @@
 | ------ | --------------- |
 | base   | base URL        |
 | meta   | meta data       |
-| ttile  | title           |
-| link   | relevent source |
+| title  | title           |
+| link   | relevant source |
 | style  | style resource  |
 | script | script resource |
 |        |                 |
@@ -58,25 +58,32 @@
 
 ## 6. Text Markup
 
-| name       | description        |
-| ---------- | ------------------ |
-| strong     | strong emphasis    |
-| em         | emphasis           |
-| blockquote | long quotation     |
-| q          | short quotation    |
-| abbr       | abbreviation       |
-| acronym    | acronym            |
-| pre        | pre-formatted text |
-| dfn        | definition         |
-| code       | code               |
-| cite       | citation           |
-| del        | deleted text       |
-| ins        | inserted text      |
-| sub        | subscript          |
-| sup        | superscript        |
-| bdo        | text direction     |
-| address    | address            |
-|            |                    |
+| name       | description                                       |
+| ---------- | ------------------------------------------------- |
+| b          | bold                                              |
+| i          | italic                                            |
+| u          | underline                                         |
+| sub        | subscript - smaller text placed below normal text |
+| sup        | superscript - smaller text placed up normal text  |
+| strong     | strong emphasis                                   |
+| em         | emphasis                                          |
+| address    | address                                           |
+| strike     | Strikeout                                         |
+| blockquote | long quotation                                    |
+| q          | short quotation                                   |
+| abbr       | abbreviation                                      |
+| acronym    | acronym                                           |
+| pre        | pre-formatted text                                |
+| dfn        | definition                                        |
+| small      | fingerprint size text                             |
+| code       | code                                              |
+| cite       | citation                                          |
+| del        | deleted text                                      |
+| ins        | inserted text                                     |
+| bdo        | text direction                                    |
+| tt         | Typewriter text                                   |
+| font       | font tag obsolete, We use CSS instead of this     |
+|            |                                                   |
 
 &nbsp;
 
@@ -99,7 +106,7 @@
 | name     | description         |
 | -------- | ------------------- |
 | from     | form                |
-| flielset | collection of field |
+| fieldset | collection of field |
 | legend   | form legend         |
 | label    | input label         |
 | input/   | form input          |
@@ -132,16 +139,20 @@
 
 ## 10. Image & Image map
 
-| name  | description       |
-| ----- | ----------------- |
-| img/  | image             |
-| map   | image map         |
-| area/ | area of image map |
-|       |                   |
+| name       | description                                     |
+| ---------- | ----------------------------------------------- |
+| img/       | image                                           |
+| map        | image map                                       |
+| area/      | area of image map                               |
+| canvas     | used to draw graphics, of the fly via scripting |
+| figcaption | caption for a figure element                    |
+| picture    | self-contained content                          |
+| svg        | container for SVG graphics                      |
+|            |                                                 |
 
 &nbsp;
 
-## 11. Image & Image map
+## 11. Special symbols
 
 | values | symbol | description        |
 | ------ | ------ | ------------------ |
