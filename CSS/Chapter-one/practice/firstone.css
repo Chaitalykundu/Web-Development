@@ -1,0 +1,26 @@
+/* one and four */
+
+.red{
+    background-color: red;
+    color: white;
+}
+
+/* two */
+#head{
+    color: red;
+}
+
+/* three */
+.one{
+    background-color: black;
+    color: white;
+}
+
+/* four */
+.green{
+    text-align: center;
+}
+
+.blue{
+    font-size: 2cm;
+}

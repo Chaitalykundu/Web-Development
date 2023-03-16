@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form</title>
+  </head>
+  <body>
+    <div>
+      <h1>Details</h1>
+      <form action="form.php">
+        <input type="text" name="Name" placeholder="Enter your name" /> <br />
+        <input type="text" name="Email" placeholder="Enter your email" /> <br />
+        <label for="Deptid">
+          <input type="radio" name="Department" id="Deptid" value="CSE" />CSE
+          <br />
+          <input type="radio" name="Department" id="Deptid" value="IT" />IT
+          <br />
+          <input type="radio" name="Department" id="Deptid" value="ECE" />ECE
+          <br />
+          <input type="radio" name="Department" id="Deptid" value="EEE" />EEE
+          <br />
+          <input type="radio" name="Department" id="Deptid" value="MECH" />MECH
+          <br />
+        </label>
+
+        <label for="Sectionid">
+          <input type="radio" name="Section" id="Sectionid" value="Section A" />
+          Section A <br />
+          <input type="radio" name="Section" id="Sectionid" value="Section B" />
+          Section B <br />
+          <input type="radio" name="Section" id="Sectionid" value="Section C" />
+          Section C <br />
+          <input type="radio" name="Section" id="Sectionid" value="Section D" />
+          Section D<br />
+        </label>
+
+        <label for="canteenid">
+          <input
+            type="checkbox"
+            name="canteen"
+            id="canteenid"
+            value="Canteen1"
+          />
+          Canteen1 <br />
+          <input
+            type="checkbox"
+            name="canteen"
+            id="canteenid"
+            value="Canteen2"
+          />
+          Canteen2 <br />
+          <input
+            type="checkbox"
+            name="canteen"
+            id="canteenid"
+            value="Canteen3"
+          />
+          Canteen3 <br />
+        </label>
+
+        <textarea
+          name="Message"
+          placeholder="Enter your message"
+          id="Message"
+          rows="5"
+          cols="20"
+        ></textarea>
+        <br />
+      </form>
+    </div>
+  </body>
+</html>

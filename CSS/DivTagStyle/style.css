@@ -1,0 +1,173 @@
+/* CSS of Box 1 */
+.totalBox {
+    font-family: 'Noto Sans NKo', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    font-variant: small-caps;
+}
+
+
+.upper {
+    height: 100px;
+    width: 200px;
+    background-color: yellow;
+    /* font-weight: 600; */
+    font-feature-settings: "abvs";
+}
+
+.lower {
+    height: 100px;
+    width: 200px;
+    background-color: blue;
+    /* font-style: italic; */
+}
+
+.col1 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    float: left;
+}
+
+
+.col2 {
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+
+/* CSS for box 2 */
+.totalBox2 {
+    height: 300px;
+    width: 300px;
+}
+
+.upper2 {
+    height: 100px;
+    width: 300px;
+    background-color: aqua;
+}
+
+.middle2 {
+    height: 100px;
+    width: 300px;
+    background-color: beige;
+}
+
+.lower2 {
+    height: 100px;
+    width: 300px;
+    background-color: aquamarine;
+}
+
+.col11 {
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    float: left;
+}
+
+.col12 {
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    float: left;
+}
+
+.col13 {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    float: left;
+}
+
+.col31 {
+    height: 100px;
+    width: 150px;
+    background-color: chocolate;
+    float: left;
+}
+
+.col32 {
+    height: 100px;
+    width: 150px;
+    background-color: darkkhaki;
+    float: left;
+}
+
+/* CSS of Box 3 */
+
+.totalBox3 {
+    height: 400px;
+    width: 400px;
+    background-color: violet;
+}
+
+.upper3 {
+    height: 200px;
+    width: 400px;
+    background-color: indigo;
+}
+
+.lower3 {
+    height: 200px;
+    width: 400px;
+    background-color: blue;
+}
+
+
+.upper-left {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    float: left;
+}
+
+
+.upper-right1 {
+    height: 100px;
+    width: 200px;
+    background-color: yellow;
+    float: left;
+}
+
+
+.upper-right2 {
+    height: 100px;
+    width: 200px;
+    background-color: orange;
+    float: left;
+}
+
+
+.lower-left {
+    height: 200px;
+    width: 200px;
+    float: left;
+    background-color: azure;
+}
+
+.lower-left1 {
+    height: 100px;
+    width: 200px;
+    background-color: red;
+    float: left;
+}
+
+
+.lower-left2 {
+    height: 100px;
+    width: 200px;
+    background-color: rgb(112, 147, 23);
+    float: left;
+}
+
+.lower-right {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(189, 15, 90);
+    float: left;
+}
