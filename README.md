@@ -16,6 +16,10 @@ HOSTING - Where data is stored
 
 &nbsp;
 
+[<img src="https://github.com/Chaitalykundu/Web-Development/blob/master/assests/roadmap.PNG">](https://github.com/Chaitalykundu/Web-Development/blob/master/assests/roadmap.PNG)
+
+&nbsp;
+
 ## HTML
 
 - learn the basics of HTML
