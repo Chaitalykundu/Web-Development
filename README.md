@@ -15,7 +15,17 @@ HOSTING - Where data is stored
 ```
 
 &nbsp;
-Front-end Roadmap
+
+## Front-end Roadmap:
+
+### Beginner track
+
+    HTML5 > CSS > JavaScript > Web Fundamentals > Git > React > STate Management > Unit testing
+
+### Intermediate track
+
+    React Ecosystem > BOM & DOM > Typescript > NextJS > Advance html css js > Web security & performance > Design patterns
+
 [<img src="https://github.com/Chaitalykundu/Web-Development/blob/master/assests/roadmap.PNG">](https://github.com/Chaitalykundu/Web-Development/blob/master/assests/roadmap.PNG)
 
 &nbsp;
