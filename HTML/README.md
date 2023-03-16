@@ -244,7 +244,7 @@ OnKeydown,   OnKeyup,   OnKeypress
 ## 20. Mouse Events :
 
 ```
-Onclick,        OnObclick,
+Onclick,        OnDbclick,
 OnMouseout,     OnMouseover,
 OnMousedown,    OnMouseup,
 OnMousemove
