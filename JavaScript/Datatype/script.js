@@ -1,11 +1,7 @@
 console.log("\t\t\t\t\t\t\t\t\t Primitive Datatype");
 
-console.log("\t\t\t\t\t\t\t\t\t String");
 
-// String
-var Name = "Chaitaly";
-console.log("My name is " + Name);
-console.log("Datatype of Name is",(typeof Name));
+// Number
 
 console.log("\t\t\t\t\t\t\t\t\t Number");
 
@@ -13,18 +9,45 @@ var age = 21;
 console.log("My age is", age);
 console.log("Datatype of age is",(typeof age));
 
-console.log("\t\t\t\t\t\t\t\t\t Boolean");
-
-let istrue = true;
-console.log("My details are", istrue);
-console.log("Datatype of console is",(typeof istrue));
-
+// Null
 console.log("\t\t\t\t\t\t\t\t\t Null");
 
 let nullvar = null;
 console.log("My details are", nullvar);
 console.log("Datatype of nullvar is",(typeof nullvar));
 
+// Boolean
+console.log("\t\t\t\t\t\t\t\t\t Boolean");
+
+let istrue = true;
+console.log("My details are", istrue);
+console.log("Datatype of istrue is",(typeof istrue));
+
+//  BigInt
+console.log("\t\t\t\t\t\t\t\t\t BigInt");
+
+let value = BigInt(573) + BigInt(7);
+console.log("Value is", value);
+console.log("Datatype of value is",(typeof value));
+
+// String
+
+console.log("\t\t\t\t\t\t\t\t\t String");
+
+var Name = "Chaitaly";
+console.log("My name is " + Name);
+console.log("Datatype of Name is",(typeof Name));
+
+// Symbol
+
+console.log("\t\t\t\t\t\t\t\t\t Symbol");
+
+var sym = Symbol("I am a symbol")
+console.log(sym);
+console.log("Datatype of sym is",(typeof sym));
+
+
+// Undefined
 console.log("\t\t\t\t\t\t\t\t\t Undefined");
 
 let undefvar ;
@@ -33,16 +56,19 @@ console.log("Datatype of undefvar is",(typeof undefvar));
 
 
 
+// non-primitives or reference datatypes
 
-console.log("\t\t\t\t\t\t\t\t\t Reference Data types");
+console.log("\t\t\t\t\t\t\t\t non-primitives or Reference Data types");
 
 
+// Array
 console.log("\t\t\t\t\t\t\t\t\t Array");
 
 let arr =  [21, 'Moni', false, '\n'];
 console.log("Array elements are", arr);
 console.log("Datatype of arr is",(typeof arr));
 
+// Object
 
 console.log("\t\t\t\t\t\t\t\t\t Object");
 
@@ -54,6 +80,7 @@ let StudentsMarks =  {
 console.log("Array elements are", StudentsMarks);
 console.log("Datatype of StudentsMarks is",(typeof StudentsMarks));
 
+// Function
 console.log("\t\t\t\t\t\t\t\t\t Function");
 
 function findname() {
@@ -62,6 +89,8 @@ function findname() {
 
 console.log("Datatype of findname is",(typeof findname));
 
+
+// Date
 console.log("\t\t\t\t\t\t\t\t\t Date");
 
 let date = new Date();
