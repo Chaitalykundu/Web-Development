@@ -74,11 +74,15 @@ console.log("\t\t\t\t\t\t\t\t\t Object");
 
 let StudentsMarks =  {
     Chaitaly : 89,
-    Monisha : 78,
+    "Monisha" : 78,
     'Ankita kundu' : 87  // If we want to give space we have to use '' or " "
 }
 console.log("Array elements are", StudentsMarks);
+console.log(StudentsMarks["Chaitaly"])
 console.log("Datatype of StudentsMarks is",(typeof StudentsMarks));
+console.log("Datatype of StudentsMarks['Chaitaly'] is",(typeof StudentsMarks['Chaitaly']));
+console.log(StudentsMarks["Moni"]) // It will show undefined as it is not present in object
+
 
 // Function
 console.log("\t\t\t\t\t\t\t\t\t Function");
