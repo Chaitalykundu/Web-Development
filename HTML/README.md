@@ -1,20 +1,21 @@
 ## Fundamentals
 
-- !DOCTYPE
-- Block & Inline elements
-
-* tags & attributes
-* Head & title
-* imports (script, style ....)
-* heading
-* tables
-* anchors & navigation
-* list (order & unorder)
-* forms & input types
-* events basics
-* images
-* Semantic HTML
-* Local & session storage
+| Topics                        | Status |
+| ----------------------------- | ------ |
+| !DOCTYPE                      | Done   |
+| Block & Inline elements       | Done   |
+| tags & attributes             | Done   |
+| Head & title                  | Done   |
+| imports (script, style . ...) | Done   |
+| heading                       | Done   |
+| tables                        | Done   |
+| anchors & navigation          | Done   |
+| list (order & unorder)        | Done   |
+| forms & input types           | Done   |
+| events basics                 | Done   |
+| images                        | Done   |
+| Semantic HTML                 | Done   |
+| Local & session storage       | Done   |
 
 &nbsp;
 
