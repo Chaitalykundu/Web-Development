@@ -24,3 +24,11 @@ _ Non-primitive
   B = BigInt
   U = undefined
   ```
+
+&nbsp;
+
+## non-primitives or reference datatypes
+
+- If the value is string then, We can access the value of object using [] or .
+
+* If the value is number then, We can access the value of object using []
