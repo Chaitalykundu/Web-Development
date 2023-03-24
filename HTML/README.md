@@ -9,13 +9,13 @@
 | imports (script, style . ...) | Done   |
 | heading                       | Done   |
 | tables                        | Done   |
-| anchors & navigation          | Done   |
+| anchors & navigation          |        |
 | list (order & unorder)        | Done   |
 | forms & input types           | Done   |
-| events basics                 | Done   |
+| events basics                 |        |
 | images                        | Done   |
-| Semantic HTML                 | Done   |
-| Local & session storage       | Done   |
+| Semantic HTML                 |        |
+| Local & session storage       |        |
 
 &nbsp;
 
