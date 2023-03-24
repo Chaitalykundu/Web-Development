@@ -13,12 +13,12 @@ else
 
 var age = 13;
 
-switch(age){
+switch(true){
     case age>=10 && age<=20: 
-        console.log(true);
+        console.log("Age is btw 10 & 20");
         break;
     default:
-        console.log(false);
+        console.log("Out of bound");
         break;
 }
 

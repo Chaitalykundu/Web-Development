@@ -50,3 +50,31 @@
 ```
     condition ? exp1 : exp2
 ```
+
+&nbsp;
+
+## Switch case
+
+- Syntax :
+
+```
+switch(variable){
+    case a:
+        exp1;
+        break;
+    case b:
+        exp2;
+        break;
+        .
+        .
+        .
+    case n:
+        exp n;
+        break;
+    default:
+        default exp;
+        break;
+}
+
+
+```
