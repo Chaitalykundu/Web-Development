@@ -22,13 +22,19 @@
 ## Advanced
 
 - Meta tags
-
-* SEO
-* Responsive images
-*
-* Multimedia
+- SEO
+- Responsive images
+- Multimedia
   - Audio
   * Video
-* SVG animation
-* Web components
-* IndexedDB
+- SVG animation
+- Web components
+- IndexedDB
+
+* iFrames
+* Canvas
+* WebGL
+* Workers
+  - web worker
+  - Service worker
+  * shared worker

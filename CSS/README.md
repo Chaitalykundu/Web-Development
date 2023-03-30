@@ -1,3 +1,56 @@
+Exercise practice : [harshitvashisth](https://www.youtube.com/watch?v=luAkR9VaLcw&list=PLwgFb6VsUj_mtXvKDupqdWB2JBiek8YPB)
+
+&nbsp;
+
+## Fundamentals
+
+| Topics                      | Status |
+| --------------------------- | ------ |
+| Selectors - Basic           |        |
+| Selectors - Combinational   |        |
+| Psuedo - selectors          |        |
+| Psuedo - elements           |        |
+| Specificity                 | DONE   |
+| Ingeritance                 |        |
+| Box model                   | DONE   |
+| Fonts & Typography          |        |
+| Colors                      |        |
+| Positioning                 |        |
+| Units (absolute + relative) |        |
+| Overflow                    |        |
+| Float                       |        |
+| Display & Flex              |        |
+
+&nbsp;
+
+&nbsp;
+
+## Advanced
+
+| Topics                   | Status |
+| ------------------------ | ------ |
+| Shadows                  |        |
+| Gradients                |        |
+| Background images        |        |
+| Masking & blending       |        |
+| CSS function             |        |
+| Media Queries            |        |
+| Transforms               |        |
+| Transitions              |        |
+| Animations               |        |
+| Flex advanced            |        |
+| CSS Grids                |        |
+| CSS sprites              |        |
+| CSS variables & counters |        |
+| Container queries        |        |
+| Subgrid                  |        |
+| BEM standards            |        |
+| Responsive web design    |        |
+
+&nbsp;
+
+&nbsp;
+
 1. CSS-reference
    👉 https://lnkd.in/dFSdSYQ3
 
