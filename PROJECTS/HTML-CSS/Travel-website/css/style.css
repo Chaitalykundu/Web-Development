@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.header {
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)),
+    url(../assets/night-sky.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.navbar {
+  /* border: 3px solid white; */
+  height: 60px;
+  padding: 15px;
+}
+
+h1,
+a {
+  color: white;
+}
+
+h1 {
+  float: left;
+}
+
+.nav-list {
+  text-align: right;
+}
+
+.nav-items {
+  display: inline-block;
+  padding: 5px;
+  list-style: none;
+}

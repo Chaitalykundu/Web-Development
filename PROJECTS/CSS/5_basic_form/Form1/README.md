@@ -1,0 +1,8 @@
+box-sizing
+Padding (to add inner spacing)
+Margin (to add a margin around the input field)
+Border
+Box shadow
+Border radius
+Width
+Font

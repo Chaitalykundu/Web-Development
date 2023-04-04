@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+form {
+  text-align: center;
+  margin-top: 200px;
+}
+.text-type,
+.submit {
+  width: 30%;
+  font-size: 24px;
+  padding: 10px;
+  margin: 10px 0;
+  border: 2px solid #eee;
+  border-radius: 10px;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+}
+
+.submit {
+  background-color: rgb(116, 116, 248);
+  cursor: pointer;
+}

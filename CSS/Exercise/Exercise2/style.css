@@ -1,0 +1,15 @@
+body {
+  width: 1000px;
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+  background-color: grey;
+  padding: 5px;
+}
+
+section {
+  border: 2px solid black;
+  padding: 5px;
+  margin-top: 20px;
+}

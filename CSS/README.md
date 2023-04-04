@@ -10,9 +10,9 @@ Exercise practice : [harshitvashisth](https://www.youtube.com/watch?v=luAkR9VaLc
 | Selectors - Combinational   |        |
 | Psuedo - selectors          |        |
 | Psuedo - elements           |        |
-| Specificity                 | DONE   |
+| Specificity                 |        |
 | Ingeritance                 |        |
-| Box model                   | DONE   |
+| Box model                   |        |
 | Fonts & Typography          |        |
 | Colors                      |        |
 | Positioning                 |        |
