@@ -25,3 +25,10 @@ console.log(htmlconcate);
 let str = "My name is Chaitaly.";
 fullstr = str.concat(" I'm a Student");
 console.log(fullstr);
+
+
+// Template Literals
+
+let n = `Chaitaly`;
+let a = `This is ${n}`;
+console.log(a)
