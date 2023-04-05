@@ -16,7 +16,7 @@ HOSTING - Where data is stored
 
 &nbsp;
 
-## Front-end Roadmap:
+# Front-end Roadmap:
 
 ### Beginner track
 
@@ -40,3 +40,18 @@ HOSTING - Where data is stored
 - learn the basics of CSS
 - Style pages from previous steps
 - build a page with grid and flex box
+
+&nbsp;
+
+# Status
+
+| Topic            | Status |
+| ---------------- | ------ |
+| HTML             |        |
+| CSS              |        |
+| JavaScript       |        |
+| Web Fundamentals |        |
+| Git              |        |
+| React            |        |
+| State Management |        |
+| Unit testing     |        |
