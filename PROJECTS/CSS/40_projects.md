@@ -1,6 +1,7 @@
 1. Create a basic website layout using css grids.
 
 2. Design a responsive navigation bar with drop-down menus
+
 3. Build a photo gallery with a grid of images and hover effects
 4. Create a responsive pricing table
 5. Make a basic form with custom styles.

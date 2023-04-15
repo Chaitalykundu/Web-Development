@@ -21,18 +21,27 @@
 
 ## Advanced
 
+| Topic    | Name          | Status |
+| -------- | ------------- | ------ |
+| Graphics | Canvas        |        |
+| Graphics | svg           |        |
+| Graphics | SVG animation |        |
+| HTML API | geolocation   |        |
+| HTML API | web storage   |        |
+| HTML API | drag and drop |        |
+| HTML API | web worker    |        |
+
+&nbsp;
+
 - Meta tags
 - SEO
 - Responsive images
-- Multimedia
-  - Audio
-  * Video
-- SVG animation
+
 - Web components
 - IndexedDB
 
 * iFrames
-* Canvas
+
 * WebGL
 * Workers
   - web worker

@@ -12,21 +12,21 @@
 
 ## 2. Comments
 
-    > <!-- Comment text -->
+     <!-- Comment text -->
 
 &nbsp;
 
 ## 3. Page Information (inside head)
 
-| name   | description     |
-| ------ | --------------- |
-| base   | base URL        |
-| meta   | meta data       |
-| title  | title           |
-| link   | relevant source |
-| style  | style resource  |
-| script | script resource |
-|        |                 |
+| name   | description                                          |
+| ------ | ---------------------------------------------------- |
+| base   | base URL                                             |
+| meta   | meta data                                            |
+| title  | Set title of the document shown on the browser's tab |
+| link   | relevant source                                      |
+| style  | style resource                                       |
+| script | script resource                                      |
+|        |                                                      |
 
 &nbsp;
 
@@ -124,16 +124,17 @@
 | name     | description  |
 | -------- | ------------ |
 | table    | table        |
-| caption  | caption      |
 | thead    | table header |
 | tbody    | table body   |
-| tfoot    | table footer |
-| colgroup | column group |
-| col/     | column       |
 | tr       | table row    |
 | th       | header cell  |
 | td       | table cell   |
-|          |              |
+| caption  | caption      |
+| tfoot    | table footer |
+| colgroup | column group |
+| col/     | column       |
+
+| | |
 
 &nbsp;
 
@@ -151,6 +152,33 @@
 |            |                                                 |
 
 &nbsp;
+
+## 11. Multimedia tags and attributes
+
+### tags
+
+| name   | description |
+| ------ | ----------- |
+| audio  |
+| video  |             |
+| source |             |
+| embed  |             |
+| track  |             |
+|        |             |
+
+### attributes
+
+- id
+
+* class
+* style
+* src
+* alt
+* height & weight
+* forms attributes
+* events attributes
+
+  &nbsp;
 
 ## 11. Special symbols
 
@@ -181,7 +209,28 @@
 
 &nbsp;
 
-## 13. Empty Element
+## 13. Semantic tag
+
+| Name           | Description                                                                                 |
+| -------------- | ------------------------------------------------------------------------------------------- |
+| `<article>`    | Defines independent, self-contained content                                                 |
+| `<aside>`      | Defines content aside from the page content                                                 |
+| `<details>`    | Defines additional details that the user can view or hide                                   |
+| `<figcaption>` | Defines a caption for a `<figure>` element                                                  |
+| `<figure>`     | Specifies self-contained content, like illustrations, diagrams, photos, code listings, etc. |
+| `<footer>`     | Defines a footer for a document or section                                                  |
+| `<header>`     | Specifies a header for a document or section                                                |
+| `<main>`       | Specifies the main content of a document                                                    |
+| `<mark>`       | Defines marked/highlighted text                                                             |
+| `<nav>`        | Defines navigation links                                                                    |
+| `<section>`    | Defines a section in a document                                                             |
+| `<summary>`    | Defines a visible heading for a `<details>` element                                         |
+| `<time>`       | Defines a date or time                                                                      |
+|                |                                                                                             |
+
+&nbsp;
+
+## 14. Empty Element
 
 ```
 area, base, br, col, hr,
@@ -190,7 +239,7 @@ img, input, link, meta, param
 
 &nbsp;
 
-## 14. Core Attributes :
+## 15. Core Attributes :
 
 ```
 class - style
@@ -201,20 +250,20 @@ id - title
 
 &nbsp;
 
-## 15. Language Attributes :
+## 16. Language Attributes :
 
 > Language Attributes may not be used in **_base, br, frame, frameset, hr, iframe, param_** or **_script_** elements.
 
 &nbsp;
 
-## 16. Keyboard Attributes :
+## 17. Keyboard Attributes :
 
 ```
 accesskey,
 tabindex
 ```
 
-## 17. Window Events :
+## 18. Window Events :
 
 ```
 OnLoad,
@@ -223,7 +272,7 @@ OnUnload
 
 &nbsp;
 
-## 18. Form Events :
+## 19. Form Events :
 
 ```
 OnBlur,             OnReset,
@@ -233,7 +282,7 @@ OnSelect,           OnSubmit
 
 &nbsp;
 
-## 19. Form Events :
+## 20. Form Events :
 
 ```
 OnKeydown,   OnKeyup,   OnKeypress
@@ -241,7 +290,7 @@ OnKeydown,   OnKeyup,   OnKeypress
 
 &nbsp;
 
-## 20. Mouse Events :
+## 21. Mouse Events :
 
 ```
 Onclick,        OnDbclick,

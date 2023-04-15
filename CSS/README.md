@@ -2,7 +2,7 @@ Exercise practice : [harshitvashisth](https://www.youtube.com/watch?v=luAkR9VaLc
 
 &nbsp;
 
-## Fundamentals
+# Fundamentals
 
 | Topics                      | Status |
 | --------------------------- | ------ |
@@ -10,13 +10,25 @@ Exercise practice : [harshitvashisth](https://www.youtube.com/watch?v=luAkR9VaLc
 | Selectors - Combinational   |        |
 | Psuedo - selectors          |        |
 | Psuedo - elements           |        |
+| Colors                      |        |
+| Background                  |        |
+| Fonts                       |        |
+| Icons                       |        |
+| Margin                      |        |
+| Padding                     |        |
+| Border                      |        |
+| Links                       |        |
+| Z-Index                     |        |
+| Positioning                 |        |
+| Pseudo-Class                |        |
+| Values & Units              |        |
+| Units (absolute + relative) |        |
 | Specificity                 |        |
+| !important                  |        |
+| Math function               |        |
 | Ingeritance                 |        |
 | Box model                   |        |
-| Fonts & Typography          |        |
-| Colors                      |        |
-| Positioning                 |        |
-| Units (absolute + relative) |        |
+| Typography                  |        |
 | Overflow                    |        |
 | Float                       |        |
 | Display & Flex              |        |
@@ -25,7 +37,7 @@ Exercise practice : [harshitvashisth](https://www.youtube.com/watch?v=luAkR9VaLc
 
 &nbsp;
 
-## Advanced
+# Advanced
 
 | Topics                   | Status |
 | ------------------------ | ------ |
@@ -46,7 +58,48 @@ Exercise practice : [harshitvashisth](https://www.youtube.com/watch?v=luAkR9VaLc
 | Subgrid                  |        |
 | BEM standards            |        |
 | Responsive web design    |        |
+| User Interface           |        |
+|                          |        |
 
+- **_Typography_**: Learn how to style text using CSS, including font styles, sizes, and weights, as well as text alignment, line-height, and spacing.
+
+&nbsp;
+
+&nbsp;
+
+# Processors
+
+- Any one of this
+
+| Topics   | Status |
+| -------- | ------ |
+| SASS     |        |
+| SCSS     |        |
+| LESS     |        |
+| PostCSS  |        |
+| Stylus   |        |
+| Stylecow |        |
+
+&nbsp;
+
+&nbsp;
+
+# FrameWorks
+
+- Any one of this
+
+| Topics      | Status |
+| ----------- | ------ |
+| Tailwind    |        |
+| BootStrap   |        |
+| Materialize |        |
+| Semantic UI |        |
+| Bulma       |        |
+| Foundation  |        |
+
+&nbsp;
+
+&nbsp;
 &nbsp;
 
 &nbsp;

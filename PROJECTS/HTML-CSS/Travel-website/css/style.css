@@ -40,5 +40,5 @@ h1 {
 .nav-items {
   display: inline-block;
   padding: 5px;
-  list-style: none;
+  /* list-style: none; */
 }
