@@ -52,3 +52,5 @@ Advanced
 | Dates & Intl           |        |
 | Typed Arrays           |        |
 | ES Next features       |        |
+
+LinkedIn - [Notes by Abhishek Srivastava](https://www.linkedin.com/posts/abhi18cs_javascript-notes-activity-7052920991458467840-N5Sf?utm_source=share&utm_medium=member_desktop)
