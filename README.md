@@ -18,19 +18,20 @@ HOSTING - Where data is stored
 
 # Full-stack dev Roadmap:
 
-- Basics of HTML, CSS< & JS
-
-* Choosing a framework
-* Version Control
-* Choose a language for backend
-* Head to database
-* Devops CI/CD
+- Basics of HTML, CSS & JS
+- Choosing a framework
+- Version Control
+- Choose a language for backend
+- Head to database
+- Devops CI/CD
 
 &nbsp;
 
-# Front-end Roadmap: [learn to become a modern front-end developer](https://www.linkedin.com/posts/himanshumalviya1512_frontend-developer-activity-7031102330196344832-jfVh?utm_source=share&utm_medium=member_desktop)
+&nbsp;
 
-### Beginner track
+# Front-end Roadmap: [roadmap](https://roadmap.sh/frontend)
+
+### Beginner track : [Beginner Roadmap](https://roadmap.sh/frontend?r=frontend-beginner)
 
     HTML5 > CSS > JavaScript > Web Fundamentals > Git > React > State Management > Unit testing
 
@@ -42,16 +43,9 @@ HOSTING - Where data is stored
 
 &nbsp;
 
-## HTML
+## Topic details
 
-- learn the basics of HTML
-- Make few pages as an exercise
-
-## CSS
-
-- learn the basics of CSS
-- Style pages from previous steps
-- build a page with grid and flex box
+[learn to become a modern front-end developer](https://www.linkedin.com/posts/himanshumalviya1512_frontend-developer-activity-7031102330196344832-jfVh?utm_source=share&utm_medium=member_desktop)
 
 &nbsp;
 
@@ -66,8 +60,8 @@ HOSTING - Where data is stored
 | Git              | Day 47 - 48 |        |
 | React            | Day 49 - 60 |        |
 | Package Manager  |             |        |
-| State Management | Day 1 - 20  |        |
-| Unit testing     | Day 1 - 20  |        |
+| State Management |             |        |
+| Unit testing     |             |        |
 
 &nbsp;
 
@@ -98,9 +92,8 @@ HOSTING - Where data is stored
 # Sites to deploy website
 
 - Netlify
-
-* Vercel
-* Firebase
-* Github pages
-* Heroku
-* Render
+- Vercel
+- Firebase
+- Github pages
+- Heroku
+- Render
