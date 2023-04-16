@@ -1,21 +1,21 @@
 ## Fundamentals
 
-| Topics                        | Status |
-| ----------------------------- | ------ |
-| !DOCTYPE                      | Done   |
-| Block & Inline elements       | Done   |
-| tags & attributes             | Done   |
-| Head & title                  | Done   |
-| imports (script, style . ...) | Done   |
-| heading                       | Done   |
-| tables                        | Done   |
-| anchors & navigation          | Done   |
-| list (order & unorder)        | Done   |
-| forms & input types           | Done   |
-| events basics                 |        |
-| images                        | Done   |
-| Semantic HTML                 | Done   |
-| Local & session storage       |        |
+| Topics                        | Status | Rev 1 |
+| ----------------------------- | ------ | ----- |
+| !DOCTYPE                      | Done   | Done  |
+| Block & Inline elements       | Done   |       |
+| tags & attributes             | Done   | Done  |
+| Head & title                  | Done   | Done  |
+| imports (script, style . ...) | Done   |       |
+| heading                       | Done   | Done  |
+| tables                        | Done   |       |
+| anchors & navigation          | Done   |       |
+| list (order & unorder)        | Done   |       |
+| forms & input types           | Done   |       |
+| events basics                 |        |       |
+| images                        | Done   |       |
+| Semantic HTML                 | Done   |       |
+| Local & session storage       |        |       |
 
 &nbsp;
 
