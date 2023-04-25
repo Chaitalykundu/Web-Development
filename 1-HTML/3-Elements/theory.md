@@ -4,7 +4,7 @@
 
 * The HTML element is everything from the start tag to the end tag
 
-* `<tagname> Content</tagname>`
+* `<tagname> Content </tagname>`
 
 &nbsp;
 

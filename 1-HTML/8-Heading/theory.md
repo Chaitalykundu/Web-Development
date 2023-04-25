@@ -6,6 +6,10 @@
 
 * `<h6>` defines the least important heading.
 
+* Heading elements (h1....h6) should be used for headings only. They should not be used just to make text bold or big.
+
+* HTML headings can also be used with nested elements.
+
 &nbsp;
 
 &nbsp;
@@ -26,4 +30,8 @@ Users often skim a page by its headings. It is important to use headings to show
 
 - Each HTML heading has a default size. However, you can specify the size for any heading with the style attribute, using the CSS font-size property:
 
-* Example : `<h1 style="font-size:60px;">Heading 1</h1>`
+* Example :
+
+```html
+<h1 style="font-size:60px;">Heading 1</h1>
+```

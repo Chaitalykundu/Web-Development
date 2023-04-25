@@ -32,19 +32,19 @@
 
 # html
 
-- The `<html>` element is the root element of an HTML page
+- The `<html>` element is the root element of a webpage
 
 &nbsp;
 
 # head
 
-- The `<head>` element contains meta information about the HTML page
+- The `<head>` element contains meta information about the webpage
 
 &nbsp;
 
 # title
 
-- The `<title>` element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
+- The `<title>` element specifies a title for the webpage (which is shown in the browser's title bar or in the page's tab)
 
 &nbsp;
 

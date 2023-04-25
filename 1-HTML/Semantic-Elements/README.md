@@ -97,3 +97,35 @@
 - The `<aside>` element defines some content aside from the content it is placed in (like a sidebar).
 
 * The `<aside>` content should be indirectly related to the surrounding content.
+
+&nbsp;
+
+# HTML `<figure>` Element
+
+- The `<figure>` element represents self-contained content and will allow you to associate an image with a caption.
+
+* Example :
+
+```
+<figure>
+        <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+
+</figure>
+```
+
+&nbsp;
+
+# HTML `<figcaption>` Element
+
+- A figure caption `<figcaption>` element is used to add a caption to describe the image contained within the figure element.
+
+* `<figcaption>` element is used bellow the `<img>` tag
+
+- Example:
+
+```
+<figure>
+  <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+  <figcaption>Cats love lasagna.</figcaption>
+</figure>
+```

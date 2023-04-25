@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  background: url(./assets/background.jpg) no-repeat;
+  width: 100%;
+  /* background-repeat: no-repeat; */
+}
+
+form {
+  float: left;
+}

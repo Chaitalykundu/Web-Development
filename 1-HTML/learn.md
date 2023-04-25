@@ -16,14 +16,14 @@
 
 &nbsp;
 
-## 3. Page Information (inside head)
+## 3. Page Information (inside head) / Meta information
 
 | name   | description                                          |
 | ------ | ---------------------------------------------------- |
-| base   | base URL                                             |
+| base   | base URL (Does not support HTML5)                    |
 | meta   | meta data                                            |
 | title  | Set title of the document shown on the browser's tab |
-| link   | relevant source                                      |
+| link   | import relevant source                               |
 | style  | style resource                                       |
 | script | script resource                                      |
 |        |                                                      |
@@ -103,19 +103,21 @@
 
 ## 8. Forms
 
-| name     | description         |
-| -------- | ------------------- |
-| from     | form                |
-| fieldset | collection of field |
-| legend   | form legend         |
-| label    | input label         |
-| input/   | form input          |
-| select   | drop-down box       |
-| optgroup | group of options    |
-| option   | drop-down option    |
-| textarea | large-text input    |
-| button   | button              |
-|          |                     |
+| name     | description                                                |
+| -------- | ---------------------------------------------------------- |
+| from     | form                                                       |
+| fieldset | collection of field                                        |
+| legend   | form legend                                                |
+| label    | input label                                                |
+| input/   | form input                                                 |
+| select   | drop-down box                                              |
+| optgroup | group of options                                           |
+| option   | drop-down option                                           |
+| textarea | large-text input                                           |
+| button   | button                                                     |
+| datalist | Specifies a list of pre-defined options for input controls |
+| output   | Defines the result of a calculation                        |
+|          |                                                            |
 
 &nbsp;
 
@@ -133,8 +135,7 @@
 | tfoot    | table footer |
 | colgroup | column group |
 | col/     | column       |
-
-| | |
+|          |              |
 
 &nbsp;
 
@@ -169,14 +170,13 @@
 ### attributes
 
 - id
-
-* class
-* style
-* src
-* alt
-* height & weight
-* forms attributes
-* events attributes
+- class
+- style
+- src
+- alt
+- height & weight
+- forms attributes
+- events attributes
 
   &nbsp;
 

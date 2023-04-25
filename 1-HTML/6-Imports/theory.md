@@ -1,0 +1,25 @@
+## import HTML file
+
+- In order to load an HTML file, add a `<link>` tag with an `import` in the `rel` attribute and an `href` that contains a path to the HTML file.
+
+```html
+<link rel="import" href="component.html" /> // 1.
+```
+
+&nbsp;
+
+## import CSS file
+
+- `link` in html allows for easy embedding of stylesheets and JavaScripts needed in multiple documents.
+
+```html
+<link rel="stylesheet" href="css/style.css" />
+```
+
+&nbsp;
+
+## import JS file
+
+```html
+<script src="js/script.js"></script>
+```
