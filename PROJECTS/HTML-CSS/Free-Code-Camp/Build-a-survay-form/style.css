@@ -5,12 +5,20 @@
 }
 
 body {
-  text-align: center;
+  /* text-align: center; */
   background: url(./assets/background.jpg) no-repeat;
-  width: 100%;
-  /* background-repeat: no-repeat; */
+  width: 650px;
+  margin: auto;
+  background-size: cover;
+  color: aliceblue;
 }
 
-form {
-  float: left;
+#title,
+#description {
+  text-align: center;
+}
+
+#survey-form {
+  margin-top: 20px;
+  margin: 20px auto;
 }

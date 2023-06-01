@@ -51,40 +51,44 @@ HOSTING - Where data is stored
 
 # Front-end Development Status
 
-| Topic            | Duration    | Status |
-| ---------------- | ----------- | ------ |
-| HTML             | Day 1 - 7   |        |
-| CSS              | Day 8 - 20  |        |
-| JavaScript       | Day 21 - 35 |        |
-| Web Fundamentals | Day 36 - 46 |        |
-| Git              | Day 47 - 48 |        |
-| React            | Day 49 - 60 |        |
-| Package Manager  |             |        |
-| State Management |             |        |
-| Unit testing     |             |        |
+| Topic             | Duration         | Start date | End Date   | Status | Validator                                                  |
+| ----------------- | ---------------- | ---------- | ---------- | ------ | ---------------------------------------------------------- |
+| HTML              | Day 1 - 7        |            |            | Done   | [HTML code validator](https://validator.w3.org/)           |
+| CSS               | Day 8 - 20 (13)  | 05-05-2023 | 16-05-2023 |        | [CSS code validator](https://jigsaw.w3.org/css-validator/) |
+| JavaScript        | Day 21 - 35 (15) |            |            |        |
+| Git               | Day 36 - 37      |            |            |        |
+| Web Fundamentals  | Day 38 - 48      |            |            |        |
+| Framework (React) | Day 49 - 60      |            |            |        |
+| Package Manager   |                  |            |            |        |
+| State Management  |                  |            |            |        |
+| Unit testing      |                  |            |            |        |
+| site generator    |                  |            |            |        |
+|                   |                  |            |            |        |
 
 &nbsp;
 
 # Full-stack Development Status
 
-| Topic            | Duration    | Status |
-| ---------------- | ----------- | ------ |
-| HTML             | Day 1 - 7   |        |
-| CSS              | Day 8 - 20  |        |
-| JavaScript       | Day 21 - 35 |        |
-| Web Fundamentals | Day 36 - 46 |        |
-| Git              | Day 47 - 48 |        |
-| React            | Day 49 - 60 |        |
-| State Management |             |        |
-| Unit testing     |             |        |
-| Bootstrap        | 67-80       |        |
-| Python           | 81-110      |        |
-| Django or nodejs | 111 - 140   |        |
-| MySQL            | 141 - 160   |        |
-| Rest API         | 161 - 172   |        |
-| AWS              | 173 - 185   |        |
-| Recapitulate     | 186 - 200   |        |
+| Topic                        | Duration    |     | Status |
+| ---------------------------- | ----------- | --- | ------ |
+| HTML                         | Day 1 - 7   | 7   | Done   |
+| CSS                          | Day 8 - 20  | 19  | Done   |
+| JavaScript                   | Day 21 - 35 | 15  |        |
+| Web Fundamentals             | Day 36 - 45 |     |        |
+| Responsive Web design        |             | 2   |
+| Git                          | Day 47 - 48 |     |        |
+| React                        | Day 49 - 60 |     |        |
+| State Management             |             |     |        |
+| Unit testing                 |             |     |        |
+| Bootstrap or Tailwind CSS    | 67-80       |     |        |
+| Python or Advance javascript | 81-110      |     |
+| Django or nodejs             | 111 - 140   |     |        |
+| MySQL                        | 141 - 160   |     |        |
+| Rest API or JSON API         | 161 - 172   |     |        |
+| AWS                          | 173 - 185   |     |        |
+| Recapitulate                 | 186 - 200   |     |        |
 
+|
 &nbsp;
 
 &nbsp;
@@ -97,3 +101,28 @@ HOSTING - Where data is stored
 - Github pages
 - Heroku
 - Render
+
+&nbsp;
+
+&nbsp;
+
+# What tools do the professionals use?
+
+- A computer.
+
+- A text editor, to write code in.
+
+  - **_text editor_** (e.g. Visual Studio Code, Notepad++, Sublime Text, GNU Emacs, or VIM), or
+  - **_hybrid editor_** (e.g. Dreamweaver or WebStorm).
+
+- Web browsers, to test code in. (Firefox, Chrome, Safari, and Microsoft Edge).
+
+- A graphics editor, like GIMP, Figma, Paint.NET, Photoshop, Sketch or XD, to make images or graphics for your web pages.
+
+- A version control system, (Git) , GitHub or GitLab hosting service.
+
+- An FTP program, used on older web hosting accounts to manage files on servers (Git is increasingly replacing FTP for this purpose). There are loads of (S)FTP programs available including Cyberduck, Fetch and FileZilla.
+
+- An automation system, like Webpack, Grunt, or Gulp to automatically perform repetitive tasks, such as minifying code and running tests.
+
+- Libraries, frameworks, etc...

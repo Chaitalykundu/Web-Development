@@ -1,28 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
 body {
   font-family: sans-serif;
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+  text-align: center;
+  padding: 20px;
 }
 
-.menu {
-  width: 300px;
-  max-width: 500px;
+.container {
+  font-family: sans-serif;
   background-color: burlywood;
+  width: 80%;
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
+  max-width: 500px;
+}
+
+.established {
+  font-style: italic;
+  /* margin-bottom: 10px; */
+}
+
+.heading {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
+}
+
+.flavor,
+.price,
+.dessert {
+  list-style: none;
+  font-size: 15px;
+  margin-top: 5px;
+}
+
+.flavor,
+.dessert {
+  padding-left: 20px;
+  float: left;
+  text-align: left;
+}
+
+.price {
+  text-align: right;
+  padding-right: 20px;
+  /* width: 75%; */
+}
+
+h2 {
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+hr {
+  margin-top: 20px;
 }
 
 h1,
 h2 {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: Impact, serif;
 }
 
-h1,
-h2,
+footer {
+  font-size: 14px;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: brown;
+}
+
+/* a:visited {
+  color: red;
+} */
+
 p {
-  text-align: center;
+  margin: 10px;
 }
 
+/* If we use p tag instead of li
 .flavor,
 .dessert {
   text-align: left;
@@ -36,8 +106,4 @@ p {
 
 .item p {
   display: inline-block;
-}
-
-.established {
-  font-style: italic;
-}
+} */
