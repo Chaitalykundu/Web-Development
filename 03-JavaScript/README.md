@@ -50,10 +50,6 @@ JS Date Get Methods
 JS Date Set Methods
 JS Math
 JS Random
-JS Booleans
-JS Comparisons
-JS If Else
-JS Switch
 JS Loop For
 JS Loop For In
 JS Loop For Of
@@ -62,7 +58,6 @@ JS Break
 JS Iterables
 JS Sets
 JS Maps
-JS Type Conversion
 JS RegExp
 JS Precedence
 JS Errors
@@ -99,19 +94,30 @@ JS Reserved Words
 | 10    |                                      | var                                             |
 | 11    |                                      | let                                             |
 | 12    |                                      | const                                           |
-| 8     | Scope                                |
-| 13    | Hoisting                             |
-| 9     | DataTypes                            | Primitives                                      |
-| 10    |                                      | non-primitive                                   |
-|       | Operators                            | Arithmetic Operators                            |
-|       |                                      | Assignment Operators                            |
-|       |                                      | Logical Operators                               |
-|       |                                      | Comparison Operators                            |
-|       |                                      | Bitwise Operators                               |
-|       |                                      | Ternary Operators                               |
-|       |                                      | Type Operators                                  |
-|       |                                      | Precedence                                      |
-| 11    | Type casting                         |                                                 |
+| 13    | Scope                                |
+| 14    | Hoisting                             |
+| 15    | DataTypes                            | Primitives                                      |
+| 16    |                                      | non-primitive                                   |
+| 17    | Operators                            | Arithmetic Operators                            |
+| 18    |                                      | Assignment Operators                            |
+| 19    |                                      | Logical Operators                               |
+| 20    |                                      | Comparison Operators                            |
+| 21    |                                      | Bitwise Operators                               |
+| 22    |                                      | Ternary Operators                               |
+| 23    |                                      | Type Operators                                  |
+|       |                                      | BigInt operator                                 |
+|       |                                      | String operator                                 |
+|       |                                      | comma operator                                  |
+| 37    |                                      | Unary operator                                  |
+| 24    |                                      | Precedence                                      |
+| 25    | Type casting                         | Theory                                          |
+| 26    |                                      | others to numbers                               |
+| 27    |                                      | others to string                                |
+| 28    |                                      | others to boolean                               |
+| 29    |                                      | undefined with others                           |
+| 30    | Control flow (Conditional statement) | if else                                         |
+| 31    |                                      | switch                                          |
+| 32    |                                      | ternary                                         |
 | 12    | Data Structures                      | Indexed collections                             |
 | 13    |                                      | keyed collections                               |
 | 14    | Equality comparison                  | Equality algorithms                             |
@@ -123,22 +129,9 @@ JS Reserved Words
 | 20    |                                      | for-of                                          |
 | 21    |                                      | break                                           |
 | 22    |                                      | continue                                        |
-| 23    | Control flow (Conditional statement) | if else                                         |
-| 24    |                                      | switch                                          |
 | 25    | Exception handling                   | try, catch, finally                             |
 | 26    |                                      | throw statement                                 |
 | 27    |                                      | Utilizing error objects                         |
-| 28    | Expressions & operators              | Assignment operator                             |
-| 29    |                                      | comparison operator                             |
-| 30    |                                      | arithmetic operator                             |
-| 31    |                                      | bitwise operator                                |
-| 32    |                                      | logical operator                                |
-| 33    |                                      | BigInt operator                                 |
-| 34    |                                      | String operator                                 |
-| 35    |                                      | Conditional operator                            |
-| 36    |                                      | comma operator                                  |
-| 37    |                                      | Unary operator                                  |
-| 38    |                                      | relational operator                             |
 | 39    | Functions                            | function parameters                             |
 | 40    |                                      | arrow functions                                 |
 | 41    |                                      | IIFEs                                           |
