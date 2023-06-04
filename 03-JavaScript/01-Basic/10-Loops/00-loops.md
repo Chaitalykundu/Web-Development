@@ -1,5 +1,7 @@
 Loops can execute a block of code a number of times.
 
+&nbsp;
+
 ## Loops in js
 
 - for loop

@@ -6,11 +6,19 @@ The JavaScript `for loop` is similar to the Java and C for loop.
 
 &nbsp;
 
+# Flow Chart
+
+<img src="../assets/for_loop.jpg">
+
+&nbsp;
+
+&nbsp;
+
 # Syntax
 
 ```js
 for (initialization; condition; increment) {
-    code to be executed;
+  code to be executed;
 }
 ```
 

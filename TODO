@@ -6,7 +6,15 @@
     ✔ previous revision @started(23-06-01 15:47) @done(23-06-01 15:48) @lasted(1m36s)
 
 2-6-2023:
-
+  Loops:
+    ✔ description @done(23-06-02 15:16)
+    ✔ for loop @done(23-06-02 15:15)
+    ✔ for in loop @done(23-06-02 15:15)
+    ✔ for of loop @done(23-06-02 15:15)
+    ✔ while loop @done(23-06-02 15:15)
+    ✔ do while loop @done(23-06-02 15:15)
+  Project:
+    - login page @started(23-06-02 15:16)
 3-6-2023:
 4-6-2023:
 5-6-2023:

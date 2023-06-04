@@ -118,17 +118,17 @@ JS Reserved Words
 | 30    | Control flow (Conditional statement) | if else                                         |
 | 31    |                                      | switch                                          |
 | 32    |                                      | ternary                                         |
+| 16    | loops & iterations                   | for                                             |
+| 19    |                                      | for-in                                          |
+| 20    |                                      | for-of                                          |
+| 17    |                                      | while                                           |
+| 18    |                                      | do-while                                        |
+| 21    |                                      | break                                           |
+| 22    |                                      | continue                                        |
 | 12    | Data Structures                      | Indexed collections                             |
 | 13    |                                      | keyed collections                               |
 | 14    | Equality comparison                  | Equality algorithms                             |
 | 15    |                                      | Value comparison operators (==, ===, object.is) |
-| 16    | loops & iterations                   | for                                             |
-| 17    |                                      | while                                           |
-| 18    |                                      | do-while                                        |
-| 19    |                                      | for-in                                          |
-| 20    |                                      | for-of                                          |
-| 21    |                                      | break                                           |
-| 22    |                                      | continue                                        |
 | 25    | Exception handling                   | try, catch, finally                             |
 | 26    |                                      | throw statement                                 |
 | 27    |                                      | Utilizing error objects                         |
