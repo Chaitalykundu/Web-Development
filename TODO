@@ -14,11 +14,19 @@
     ✔ while loop @done(23-06-02 15:15)
     ✔ do while loop @done(23-06-02 15:15)
   Project:
-    - login page @started(23-06-02 15:16)
+    ✔ login page @started(23-06-02 15:16) @done(23-06-04 12:10) @lasted(1d20h54m9s)
 3-6-2023:
+  
 4-6-2023:
+
 5-6-2023:
+  ✔ iterable @started(23-06-05 11:06) @done(23-06-05 11:26) @lasted(20m20s)
+  ✔ strings @started(23-06-05 11:26) @done(23-06-05 12:23) @lasted(57m49s)
+  ✔ string methods @started(23-06-05 12:23) @done(23-06-05 14:10) @lasted(1h47m3s)
+
 6-6-2023:
+  ✔ string search @done(23-06-07 10:35)
+  - templates
 7-6-2023:
 8-6-2023:
 9-6-2023:

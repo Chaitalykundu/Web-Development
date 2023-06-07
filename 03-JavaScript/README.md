@@ -125,6 +125,12 @@ JS Reserved Words
 | 18    |                                      | do-while                                        |
 | 21    |                                      | break                                           |
 | 22    |                                      | continue                                        |
+|       | Iterables                            | Iterates over a string                          |
+|       |                                      | Iterates over an array                          |
+|       |                                      | Iterates over a set                             |
+|       |                                      | Iterates over a map                             |
+|       | Set                                  |
+|       | Map                                  |
 | 12    | Data Structures                      | Indexed collections                             |
 | 13    |                                      | keyed collections                               |
 | 14    | Equality comparison                  | Equality algorithms                             |

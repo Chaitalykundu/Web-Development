@@ -43,7 +43,7 @@ The value of the key is person[x]
 
 # For In Over Arrays
 
-The JavaScript for in statement can also loop over the properties of an Array:
+The JavaScript `for in` statement can also loop over the properties of an Array:
 
 ## Syntax
 
