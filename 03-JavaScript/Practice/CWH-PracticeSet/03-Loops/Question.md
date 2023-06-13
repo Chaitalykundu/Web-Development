@@ -6,7 +6,3 @@
 2. Write a program in Q1 using for in loop
 
 3. Write a program to print "try again" until the user enters the correct number
-
-## Function
-
-4. Write a function to find mean of 5 numbers

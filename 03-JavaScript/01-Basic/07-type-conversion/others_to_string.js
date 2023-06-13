@@ -1,10 +1,13 @@
-console.log("\t\t\t\t\t\t  Type Conversion")
-console.log("\t\t\t\t\t\t  Others to String")
-
 // Number to string
 
 console.log("\t\t\t\t\t\t  Number to String")
 
+// adding empty string
+let n = 20;
+console.log(n+"", typeof (n+""));
+
+
+// using STring()
 let num=34;
 numConvo = String(num);
 console.log(num, num.length , (typeof num));

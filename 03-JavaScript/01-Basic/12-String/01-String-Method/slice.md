@@ -38,6 +38,16 @@ string.slice(start);
 
 &nbsp;
 
+# Return Value
+
+| Type     | Description                       |
+| -------- | --------------------------------- |
+| A string | The extracted part of the string. |
+
+&nbsp;
+
+&nbsp;
+
 # Example
 
 ```js
@@ -52,16 +62,6 @@ console.log(fname.slice(5)); //aly
 // Only the last character
 console.log(fname.slice(-1)); //y
 ```
-
-&nbsp;
-
-&nbsp;
-
-# Return Value
-
-| Type     | Description                       |
-| -------- | --------------------------------- |
-| A string | The extracted part of the string. |
 
 &nbsp;
 

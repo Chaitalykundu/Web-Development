@@ -37,6 +37,16 @@ string.replace(searchValue, newValue);
 
 &nbsp;
 
+# Return Value
+
+| Type     | Description                                                  |
+| -------- | ------------------------------------------------------------ |
+| A string | A new string where the specified value(s) has been replaced. |
+
+&nbsp;
+
+&nbsp;
+
 # Example
 
 ```js
@@ -49,16 +59,6 @@ console.log(fruit); // banana
 let text = "Mr Blue has a blue house and a blue car";
 let result = text.replace(/blue/g, "red");
 ```
-
-&nbsp;
-
-&nbsp;
-
-# Return Value
-
-| Type     | Description                                                  |
-| -------- | ------------------------------------------------------------ |
-| A string | A new string where the specified value(s) has been replaced. |
 
 &nbsp;
 

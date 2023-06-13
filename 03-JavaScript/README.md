@@ -9,32 +9,35 @@ YouTube :
 
 ## Fundamentals
 
-| SL No | Topics                      | Status |
-| ----- | --------------------------- | ------ |
-| 1     | Introduction                | Done   |
-| 2     | Variables (var, let, const) | Done   |
-| 3     | Scopes                      |        |
-| 4     | Hoisting                    |
-| 5     | Datatype                    |        |
-| 6     | Operators                   |        |
-| 4     | Closures                    |        |
-| 5     | Execution context           |        |
-| 8     | Type Conversions            |        |
-| 9     | Arrays + methods            |        |
-| 10    | Objects + methods           |        |
-| 11    | Functions + Arrow functions |        |
-| 12    | Try Catch & Error handling  |        |
-| 13    | Strict mode                 |        |
-| 14    | Timeout & Interval          |        |
-| 15    | Classes                     |        |
+| SL No | Topics                               | Status |
+| ----- | ------------------------------------ | ------ |
+| 1     | Introduction                         | Done   |
+| 2     | Variables (var, let, const)          | Done   |
+| 3     | Scopes                               |        |
+| 4     | Hoisting                             |
+| 5     | Datatype                             |        |
+| 6     | Operators                            |        |
+| 7     | Type Casting / Conversions           |        |
+| 8     | Control flow (Conditional statement) |
+| 9     | Type Coercion                        |
+| 10    | loops & iterations                   |
+| 11    | Iterables                            |
+| 12    | Functions + Arrow functions          |        |
+| 13    | String                               |
+| 14    | Arrays + methods                     |        |
+| 10    | Objects + methods                    |        |
+| 4     | Closures                             |        |
+| 5     | Execution context                    |        |
+| 12    | Try Catch & Error handling           |        |
+| 13    | Strict mode                          |        |
+| 14    | Timeout & Interval                   |        |
+| 15    | Classes                              |
+|       | DOM manipilation                     |
 
 JS Functions
 JS Objects
 JS Events
 JS Strings
-JS String Methods
-JS String Search
-JS String Templates
 JS Numbers
 JS BigInt
 JS Number Methods
@@ -50,12 +53,6 @@ JS Date Get Methods
 JS Date Set Methods
 JS Math
 JS Random
-JS Loop For
-JS Loop For In
-JS Loop For Of
-JS Loop While
-JS Break
-JS Iterables
 JS Sets
 JS Maps
 JS RegExp
@@ -84,7 +81,7 @@ JS Reserved Words
 | ----- | ------------------------------------ | ----------------------------------------------- | ------ |
 | 1     | Introduction                         | What is javascript                              | Done   |
 | 2     |                                      | Versions of js                                  |
-| 3     |                                      | How to add js                                   | Done   |
+| 3     |                                      | How to add js                                   |
 | 4     |                                      | output                                          |
 | 5     |                                      | Statements                                      |
 | 6     |                                      | Keywords                                        |
@@ -129,6 +126,10 @@ JS Reserved Words
 |       |                                      | Iterates over an array                          |
 |       |                                      | Iterates over a set                             |
 |       |                                      | Iterates over a map                             |
+|       | String                               | Declaration                                     |
+|       |                                      | String methods                                  |
+|       |                                      | Search methods                                  |
+|       |                                      | Template literals                               |
 |       | Set                                  |
 |       | Map                                  |
 | 12    | Data Structures                      | Indexed collections                             |

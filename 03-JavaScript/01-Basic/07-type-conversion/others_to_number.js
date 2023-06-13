@@ -1,18 +1,26 @@
-console.log("\t\t\t\t\t\t  Type Conversion");
-console.log("\t\t\t\t\t\t  Others to Number");
-
 //  String to Number
 console.log("\t\t\t\t\t\t  String to Number");
 
+
+// Using + sign
+let s = "abc"
+console.log(+s, typeof(+s));
+
+
+// using Number
 let str = "Chaitaly";
 strconvo = Number(str);
 console.log(str, typeof str);
 console.log(strconvo, typeof strconvo);
 
+
+
 let stri = "2021.05";
 striconvo = Number(stri);
 console.log(stri, typeof stri);
 console.log(striconvo, typeof striconvo);
+
+
 
 
 //  Boolean to Number

@@ -18,22 +18,22 @@ string.length;
 
 &nbsp;
 
+# Return Value
+
+| Type     | Description               |
+| -------- | ------------------------- |
+| A number | The length of the string. |
+
+&nbsp;
+
+&nbsp;
+
 # Example
 
 ```js
 let fname = "Chaitaly";
 console.log(fname.length); //8
 ```
-
-&nbsp;
-
-&nbsp;
-
-# Return Value
-
-| Type     | Description               |
-| -------- | ------------------------- |
-| A number | The length of the string. |
 
 &nbsp;
 

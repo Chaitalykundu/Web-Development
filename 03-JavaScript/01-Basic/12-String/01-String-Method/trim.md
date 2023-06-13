@@ -30,6 +30,16 @@ NONE
 
 &nbsp;
 
+# Return Value
+
+| Type     | Description                                      |
+| -------- | ------------------------------------------------ |
+| A string | A string with removed whitespace from both ends. |
+
+&nbsp;
+
+&nbsp;
+
 # Example
 
 ```js
@@ -43,16 +53,6 @@ console.log(firstname.trim(), lastName); //Chaitaly Kundu
 let text = "       Hello World!        ";
 let result = text.replace(/^\s+|\s+$/gm, "");
 ```
-
-&nbsp;
-
-&nbsp;
-
-# Return Value
-
-| Type     | Description                                      |
-| -------- | ------------------------------------------------ |
-| A string | A string with removed whitespace from both ends. |
 
 &nbsp;
 

@@ -28,24 +28,22 @@ string.charAt(index);
 
 &nbsp;
 
-# Example
-
-```js
-let text1 = "HELLO WORLD";
-console.log(text1.charAt(4)); // O
-```
-
-&nbsp;
-
-&nbsp;
-
 # Return Value
 
 | Type     | Description                                                                           |
 | -------- | ------------------------------------------------------------------------------------- |
 | A string | The character at the specified index. Empty string ("") if the index is out of range. |
 
-|
+&nbsp;
+
+&nbsp;
+
+# Example
+
+```js
+let text1 = "HELLO WORLD";
+console.log(text1.charAt(4)); // O
+```
 
 &nbsp;
 

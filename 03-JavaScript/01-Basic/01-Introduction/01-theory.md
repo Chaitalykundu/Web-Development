@@ -6,11 +6,11 @@ Programming is a way to talk to computers.
 
 # ECMAScript
 
-ES stands for ECMAScript.
+`ES` stands for **ECMAScript**.
 
-ECMA defines specifications of scripting language.
+`ECMA` defines specifications of scripting language.
 
-ECMAScript (/ˈɛkməskrɪpt/; ES) is a specification or standard that tells how scripting language should be.
+`ECMAScript` (/ˈɛkməskrɪpt/; ES) is a specification or standard that tells how scripting language should be.
 
 The **ECMAScript** specification is a blueprint for creating a scripting language.
 **JavaScript** is an implementation of that blueprint.
@@ -63,6 +63,8 @@ JavaScript is not a compiled language, but it is a translated language. The Java
 
 * **_Platform Independent_** : Javascript will run in the same way in all systems with any operating system.
 
+* **_Backward compatible_**
+
 &nbsp;
 
 &nbsp;
@@ -72,6 +74,9 @@ JavaScript is not a compiled language, but it is a translated language. The Java
 JavaScript is used to create interactive websites. It is mainly used for:
 
 - modifying an HTML page dynamically.
+- changing the HTML contents or attributes
+- changing CSS style
+- hiding elements or showing the hidden html elements
 - validating user input
 - create cookies
 - Displaying date and time,

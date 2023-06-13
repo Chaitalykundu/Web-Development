@@ -17,6 +17,15 @@ console.log(result); // "32"
 
 &nbsp;
 
+add a empty string with number
+
+```js
+let n = 20;
+console.log(n + "", typeof (n + "")); // 20 string
+```
+
+&nbsp;
+
 &nbsp;
 
 # 2. boolean to String

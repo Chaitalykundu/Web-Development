@@ -2,9 +2,9 @@ JavaScript was invented by **Brendan Eich** in 1995, and became an ECMA standard
 
 &nbsp;
 
-# different names of javascript
+# Different names of javascript
 
-Mocha > livescript > javascript
+> Mocha > livescript > javascript
 
 &nbsp;
 
@@ -14,11 +14,13 @@ ECMAScript versions have been abbreviated to ES1, ES2, ES3, ES5, and ES6.
 
 Since 2016, versions are named by year (ECMAScript 2016, 2017, 2018, 2019, 2020).
 
-&nbsp;
+ES6 is also known as **_Modern JavaScript_**
 
 &nbsp;
 
-# version of JavaScript:
+&nbsp;
+
+# Versions of JavaScript:
 
 - The Original JavaScript ES1 ES2 ES3 (1997-1999)
 - The First Main Revision ES5 (2009)

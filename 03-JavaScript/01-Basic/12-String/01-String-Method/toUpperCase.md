@@ -26,22 +26,22 @@ NONE
 
 &nbsp;
 
+# Return Value
+
+| Type     | Description                        |
+| -------- | ---------------------------------- |
+| A string | The string converted to uppercase. |
+
+&nbsp;
+
+&nbsp;
+
 # Example
 
 ```js
 let fname = "Chaitaly";
 console.log(fname.toUpperCase()); //CHAITALY
 ```
-
-&nbsp;
-
-&nbsp;
-
-# Return Value
-
-| Type     | Description                        |
-| -------- | ---------------------------------- |
-| A string | The string converted to uppercase. |
 
 &nbsp;
 

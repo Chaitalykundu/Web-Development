@@ -28,22 +28,22 @@ string.at(index);
 
 &nbsp;
 
+# Return Value
+
+| Type     | Description                                                                    |
+| -------- | ------------------------------------------------------------------------------ |
+| A string | A single character. The character in the given position (index) in the string. |
+
+&nbsp;
+
+&nbsp;
+
 # Example
 
 ```js
 let text = "Chaitaly";
 console.log(text.at(4)); // t
 ```
-
-&nbsp;
-
-&nbsp;
-
-# Return Value
-
-| Type     | Description                                                                    |
-| -------- | ------------------------------------------------------------------------------ |
-| A string | A single character. The character in the given position (index) in the string. |
 
 &nbsp;
 

@@ -55,7 +55,7 @@ HOSTING - Where data is stored
 | ----------------- | ---------------- | ---------- | ---------- | ------ | ---------------------------------------------------------- |
 | HTML              | Day 1 - 7        |            |            | Done   | [HTML code validator](https://validator.w3.org/)           |
 | CSS               | Day 8 - 20 (13)  | 05-05-2023 | 16-05-2023 |        | [CSS code validator](https://jigsaw.w3.org/css-validator/) |
-| JavaScript        | Day 21 - 35 (15) |            |            |        |
+| JavaScript        | Day 21 - 35 (15) | 01-06-2023 | 15-06-2023 |        |
 | Git               | Day 36 - 37      |            |            |        |
 | Web Fundamentals  | Day 38 - 48      |            |            |        |
 | Framework (React) | Day 49 - 60      |            |            |        |

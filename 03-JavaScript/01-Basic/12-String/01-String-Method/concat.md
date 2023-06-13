@@ -32,6 +32,16 @@ string.concat(string1, string2, ..., stringX)
 
 &nbsp;
 
+# Return Value
+
+| Type     | Description                                   |
+| -------- | --------------------------------------------- |
+| A string | A new string containing the combined strings. |
+
+&nbsp;
+
+&nbsp;
+
 # Example
 
 ```js
@@ -40,16 +50,6 @@ const greeting = "Good Morning";
 
 console.log(greeting.concat(fname)); // Good Morning Chaitaly
 ```
-
-&nbsp;
-
-&nbsp;
-
-# Return Value
-
-| Type     | Description                                   |
-| -------- | --------------------------------------------- |
-| A string | A new string containing the combined strings. |
 
 &nbsp;
 

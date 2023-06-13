@@ -9,16 +9,15 @@ Synonyms:
 
 &nbsp;
 
-# Back-Tics Syntax
+# Template Literal
 
 Template Literals use ` back-ticks (``) ` rather than the quotes ("") to define a string
 
-&nbsp;
-
-## Example
+## Example :
 
 ```js
-let text = `Hello World!`;
+let name = `Chaitaly`;
+let sentence = `You are a student`;
 ```
 
 &nbsp;
@@ -60,7 +59,9 @@ the lazy dog`;
 
 # Interpolation
 
-Template literals provide an easy way to interpolate variables and expressions into strings. The method is called string interpolation.
+Template literals provide an easy way to interpolate variables and expressions into strings. The method is called **string interpolation**.
+
+&nbsp;
 
 &nbsp;
 
@@ -68,6 +69,16 @@ Template literals provide an easy way to interpolate variables and expressions i
 
 ```js
 ${...}
+```
+
+&nbsp;
+
+&nbsp;
+
+## Example :
+
+```js
+let a = `This is ${name}`;
 ```
 
 &nbsp;

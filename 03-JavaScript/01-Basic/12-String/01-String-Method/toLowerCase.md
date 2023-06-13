@@ -26,22 +26,22 @@ NONE
 
 &nbsp;
 
+# Return Value
+
+| Type     | Description                        |
+| -------- | ---------------------------------- |
+| A string | The string converted to lowercase. |
+
+&nbsp;
+
+&nbsp;
+
 # Example
 
 ```js
 let fname = "ChaItAly";
 console.log(fname.toLowerCase()); //
 ```
-
-&nbsp;
-
-&nbsp;
-
-# Return Value
-
-| Type     | Description                        |
-| -------- | ---------------------------------- |
-| A string | The string converted to lowercase. |
 
 &nbsp;
 
