@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Swapping of two numbers</title>
+
+    <script>
+        // using third variable
+
+        let a = prompt("Enter first number : "), b = prompt("Enter second number : ");
+
+        document.write("Before swapping : a = " + a + " and b = " + b)
+
+        var t = a;
+        a = b;
+        b = t;
+
+        document.write("<br>After swapping : a = " + a + " and b = " + b + "\n");
+
+
+
+        // without using third variable
+
+
+        let num1 = prompt("Enter first number : "), num2 = prompt("Enter second number : ");
+
+        document.write("<br><br>Before swapping : num1 = " + num1 + " and num2 = " + num2)
+
+        num1 = num1 + num2;
+        num2 = num1 - num2;
+        num1 = num1 - num2;
+
+        document.write("<br>After swapping : num1 = " + num1 + " and num2 = " + num2);
+
+
+
+
+        // using ^ operator
+
+
+
+        document.write("<br><br>Before swapping : num1 = " + num1 + " and num2 = " + num2)
+
+        num1 = num1 ^ num2;
+        num2 = num1 ^ num2;
+        num1 = num1 ^ num2;
+
+        document.write("<br>After swapping : num1 = " + num1 + " and num2 = " + num2);
+
+
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>

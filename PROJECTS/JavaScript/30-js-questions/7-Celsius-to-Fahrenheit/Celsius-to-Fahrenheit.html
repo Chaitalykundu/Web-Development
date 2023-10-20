@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Celsius to Fahrenheit</title>
+
+
+    <script>
+        function CtoF() {
+            var c = document.getElementById("data").value
+            var f = (c * 1.8) + 32
+
+            document.getElementById('res').innerText = `${c} celsius = ${f} fahrenheit`
+        }
+    </script>
+</head>
+
+<body>
+    <input type="number" step="any" id="data">
+    <button onclick="CtoF()">Convert</button>
+
+    <h3 id="res"></h3>
+</body>
+
+</html>

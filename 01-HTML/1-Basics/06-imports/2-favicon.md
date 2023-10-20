@@ -1,6 +1,6 @@
 # Chapter Summary
 
-- Use the HTML `<link>`element to insert a **favicon**
+- Use the HTML `<link>` element to insert a **favicon**
 
 &nbsp;
 

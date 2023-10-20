@@ -16,9 +16,9 @@
 
 - It is an instruction to the web browser about what version of HTML the page is written in.
 
-* This is not case sensitive
+- This is not case sensitive
 
-* The `<!DOCTYPE>` declaration represents the document type & helps browser to display page correctly.
+- The `<!DOCTYPE>` declaration represents the document type & helps browser to display page correctly.
 
 &nbsp;
 
@@ -46,9 +46,9 @@
 
 - The `<title>` element specifies a title for the webpage (which is shown in the browser's title bar or in the page's tab)
 
-* The page title is very important for search engine optimization (SEO). The text is used by search engine algorithms to decide the order when listing pages in search results.
+- The page title is very important for search engine optimization (SEO). The text is used by search engine algorithms to decide the order when listing pages in search results.
 
-* This title --
+- This title --
   - defines a title in the browser toolbar
   - provides a title for the page when it is added to favorites
   - displays a title for the page in search engine-results

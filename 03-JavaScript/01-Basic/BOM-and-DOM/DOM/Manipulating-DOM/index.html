@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manipulating DOM</title>
+</head>
+
+<body>
+    <div id="main" class="container">
+        <ul id="nav">
+            <li>Home</li>
+            <li>About</li>
+            <li>Services</li>
+            <li>More about us</li>
+            <li>Contact us</li>
+        </ul>
+    </div>
+
+    <script>
+        let mainContent = document.getElementById("main");
+        console.log(mainContent);
+        document.write(mainContent)
+
+        let navContent = document.getElementById("nav");
+        console.log(navContent);
+        document.write(navContent)
+
+
+        let containerContent = document.getElementsByClassName("container")
+        console.log(containerContent);
+        document.write(containerContent)
+    </script>
+</body>
+
+</html>

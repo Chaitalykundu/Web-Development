@@ -4,12 +4,6 @@ The loop will always be executed `at least once`, even if the condition is false
 
 &nbsp;
 
-# Flow Chart
-
-<img src="../assets/while_loop.jpg">
-
-&nbsp;
-
 &nbsp;
 
 # Syntax

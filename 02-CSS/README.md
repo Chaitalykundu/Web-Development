@@ -6,7 +6,7 @@ Exercise practice : [harshitvashisth](https://www.youtube.com/watch?v=luAkR9VaLc
 
 - 2 topic / day
 
-* Total - 26
+- Total - 26
 
 - Day 8 - 20 (13)
 

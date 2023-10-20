@@ -1,4 +1,6 @@
-The background property is a shorthand property for(in orderer):
+# Overview
+
+The background property is a shorthand property for (in order):
 
 - background-color
 - background-image
@@ -15,7 +17,7 @@ It does not matter if one of the values above are missing, e.g. `background:#ff0
 
 &nbsp;
 
-# Note:
+# Note
 
 1. If one of the properties in the shorthand declaration is the bg-size property, you must use a / (slash) to separate it from the bg-position property.
 

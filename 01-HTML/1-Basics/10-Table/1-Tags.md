@@ -2,11 +2,11 @@
 
 - HTML table tag is used to display data in tabular form (row \* column).
 
-* We can create a table to display data in tabular form, using `<table>` element, with the help of `<tr>` , `<td>`, and `<th>` elements.
+- We can create a table to display data in tabular form, using `<table>` element, with the help of `<tr>` , `<td>`, and `<th>` elements.
 
-* A table allows you to quickly and easily look up values that indicate some kind of connection between different types of data.
+- A table allows you to quickly and easily look up values that indicate some kind of connection between different types of data.
 
-* HTML tables are used to manage the layout of the page e.g. header section, navigation bar, body content, footer section etc. But it is recommended to use div tag over table to manage the layout of the page .
+- HTML tables are used to manage the layout of the page e.g. header section, navigation bar, body content, footer section etc. But it is recommended to use div tag over table to manage the layout of the page .
 
 &nbsp;
 
@@ -20,7 +20,7 @@
 
 - This tag is used to group the header content in a table
 
-* The `<thead>` tag should contain at least one row `<tr>` element inside it.
+- The `<thead>` tag should contain at least one row `<tr>` element inside it.
 
 &nbsp;
 
@@ -43,7 +43,7 @@
 
 - tr stands for header cell.
 
-* It defines a header cell in a table.
+- It defines a header cell in a table.
 
 - By default, the text in `<th>` elements are bold and centered, but you can change that with CSS.
 
@@ -68,7 +68,7 @@
 
 - tbody stands for table body.
 
-* This tag is used to group the body content in a table.
+- This tag is used to group the body content in a table.
 
 &nbsp;
 
@@ -91,9 +91,9 @@
 
 - tr stands for table row.
 
-* It defines a row in a table
+- It defines a row in a table
 
-* The `<tr>` tag can consist of one or more `<th>` head cells and `<td>` data cells to define a single row of HTML table.
+- The `<tr>` tag can consist of one or more `<th>` head cells and `<td>` data cells to define a single row of HTML table.
 
 &nbsp;
 
@@ -116,7 +116,7 @@
 
 - td stands for table data.
 
-* It is used to specify the cells of an HTML table which contain data of the table.
+- It is used to specify the cells of an HTML table which contain data of the table.
 
 - A table cell can contain all sorts of HTML elements: text, images, lists, links, other tables, etc.
 
@@ -141,9 +141,9 @@
 
 - This tag is used to group the footer content in a table
 
-* This tag is used to define the set of rows which represents footer of a HTML table.
+- This tag is used to define the set of rows which represents footer of a HTML table.
 
-* The `<tfoot>` tag must contain one or more `<tr>` element.
+- The `<tfoot>` tag must contain one or more `<tr>` element.
 
 &nbsp;
 
@@ -166,9 +166,9 @@
 
 - It defines a table caption
 
-* HTML `<caption>` tag is used to add a caption or title of a HTML table.
-* It should be used inside the `<table>` element and just after the `<table>`start tag.
-* A table may contain only one `<caption>`element.
+- HTML `<caption>` tag is used to add a caption or title of a HTML table.
+- It should be used inside the `<table>` element and just after the `<table>`start tag.
+- A table may contain only one `<caption>`element.
 
 &nbsp;
 
@@ -191,7 +191,7 @@
 
 - It specifies a group of one or more columns in a table for formatting.
 
-* It is used as a parent container of one or more `<col>` elements to apply different properties in an HTML table.
+- It is used as a parent container of one or more `<col>` elements to apply different properties in an HTML table.
 
 &nbsp;
 

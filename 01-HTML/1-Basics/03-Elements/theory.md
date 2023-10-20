@@ -2,9 +2,9 @@
 
 - The combination of opening tag, closing tag and contents is called elements
 
-* The HTML element is everything from the start tag to the end tag
+- The HTML element is everything from the start tag to the end tag
 
-* `<tagname> Content </tagname>`
+- `<tagname> Content </tagname>`
 
 &nbsp;
 
@@ -14,7 +14,7 @@
 
 - Every HTML element has a default display value, depending on what type of element it is.
 
-* There are two display values: **_block_** and **_inline_**.
+- There are two display values: **_block_** and **_inline_**.
 
 &nbsp;
 
@@ -26,9 +26,9 @@
 
 - Two commonly used block elements are: `<p>` and `<div>`.
 
-* Here are the block-level elements in HTML:
+- Here are the block-level elements in HTML:
 
-```
+```md
 <address>
 <article>
 <aside>
@@ -68,9 +68,9 @@
 
 - An inline element only takes up as much width as necessary.
 
-* Here are the inline elements in HTML:
+- Here are the inline elements in HTML:
 
-```
+```md
 <a>
 <abbr>
 <acronym>
@@ -113,4 +113,4 @@
 
 - HTML elements can be nested inside one another, which means an element can contain other elements.
 
-* This allows to create complex structure on a a web page
+- This allows to create complex structure on a a web page

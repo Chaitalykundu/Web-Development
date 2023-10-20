@@ -18,7 +18,7 @@
 
 - HTML links are hyperlinks.
 
-* Anchor tag `<a></a>` is used to define the links in HTML
+- Anchor tag `<a></a>` is used to define the links in HTML
 
 &nbsp;
 
@@ -34,9 +34,9 @@
 
 - The HTML `<a>` tag defines a hyperlink that links one page to another page.
 
-* It can create hyperlink to other web page as well as files, location, or any URL.
+- It can create hyperlink to other web page as well as files, location, or any URL.
 
-* The "href" attribute is the most important attribute of the HTML <`a>` tag which indicates the link's destination.
+- The "href" attribute is the most important attribute of the HTML <`a>` tag which indicates the link's destination.
 
 &nbsp;
 
@@ -54,7 +54,7 @@
 
 - To use an image as a link, just put the `<img>` tag inside the `<a>` tag:
 
-* Syntax :
+## Example
 
 ```html
 <a href="default.asp">
@@ -68,7 +68,7 @@
 
 - Use `mailto:` inside the `href` attribute to create a link that opens the user's email program (to let them send a new email):
 
-* Example
+## Example
 
 ```html
 <a href="mailto:someone@example.com">Send email</a>
@@ -82,7 +82,7 @@
 
 - JavaScript allows you to specify what happens at certain events, such as a click of a button:
 
-- Example
+## Example
 
 ```html
 <button onclick="document.location='default.asp'">HTML Tutorial</button>

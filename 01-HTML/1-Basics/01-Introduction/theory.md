@@ -1,16 +1,18 @@
+# Introduction
+
 - HTML stands for **Hyper Text Markup Language**.
 
-* HTML provides a way of displaying web pages with text and images or multimedia content. It describes the structure of web pages.
+- HTML provides a way of displaying web pages with text and images or multimedia content. It describes the structure of web pages.
 
-* Hypertext means that the document containing links that connect web pages to one another, either within a single website or between websites.
+- Hypertext means that the document containing links that connect web pages to one another, either within a single website or between websites.
 
-* HTML is not a programming language but a markup language.
+- HTML is not a programming language but a markup language.
 
-* A Markup Language is a way that computers speak to each other to control how text is processed and presented. To do this HTML uses two things: tags and attributes.
+- A Markup Language is a way that computers speak to each other to control how text is processed and presented. To do this HTML uses two things: tags and attributes.
 
-* The latest version is known as HTML5.
-* HTML is used to define the layout of a webpage
-* index.html is the entry point of all webpage
+- The latest version is known as HTML5.
+- HTML is used to define the layout of a webpage
+- index.html is the entry point of all webpage
 
 &nbsp;
 
@@ -61,7 +63,7 @@ There are **_two_** types of pages.
 
 # Difference between HTML4 and HTML5
 
-<img alt="html4-vs-html5"  src="https://github.com/Chaitalykundu/Web-Development/blob/master/HTML/assets/html4-vs-html5.png">
+<img alt="html4-vs-html5"  src="../../assets/html4-vs-html5.png">
 
 &nbsp;
 

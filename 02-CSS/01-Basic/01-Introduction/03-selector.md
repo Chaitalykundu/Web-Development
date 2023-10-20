@@ -1,6 +1,8 @@
+# Selector
+
 - Selector indicates the HTML element you want to style.
 
-* It could be any tag like `<h1>`, `<p>` etc.
+- It could be any tag like `<h1>`, `<p>` etc.
 
 - CSS selectors are used to select the content you want to style.
 
@@ -20,7 +22,7 @@ We can divide CSS selectors into five categories:
 - **Pseudo-class selectors** (select elements based on a certain state)
 - **Pseudo-elements selectors** (select and style a part of an element)
 
-* **Attribute selectors** (select elements based on an attribute or attribute value)
+- **Attribute selectors** (select elements based on an attribute or attribute value)
 
 &nbsp;
 

@@ -1,4 +1,4 @@
-# 1. why do we use html5?
+# 1. Why do we use html5?
 
 ```md
 HTML5 enables to create more interactive websites by embedding audio, video and graphics on the webpage.
@@ -18,14 +18,14 @@ Users often skim a page by its headings. It is important to use headings to show
 
 &nbsp;
 
-## 3. Difference between HTML `<br>` and `<br/>`
+# 3. Difference between HTML `<br>` and `<br/>`
 
 ```md
-In the original versions of HTML (up to HTML4), only `<br />` is correct.
+In the original versions of HTML (up to HTML4), only `<br/>` is correct.
 
-In XHTML (which is based on XML), only `<br />` is correct.
+In XHTML (which is based on XML), only `<br/>` is correct.
 
-In HTML5, both are allowed although `<br />` is preferred.
+In HTML5, both are allowed although `<br/>` is preferred.
 ```
 
 &nbsp;
@@ -58,7 +58,7 @@ The <div> tag is generally used by web developers to group HTML elements togethe
 
 - In HTML `<hr>` tag need not to be closed whereas `<hr>` tag must be properly closed in XHTML.
 
-  &nbsp;
+&nbsp;
 
 # 8. Difference between HTML **div** tag and **span** tag
 
@@ -124,3 +124,204 @@ Aspect ratio of an image is the ratio of its height and width.
 
 If we set one of height or width, the another will be set automatically & aspect ratio will be maintained.
 ```
+
+&nbsp;
+
+# 15. How to specify the starting number for list item?
+
+Using `start` attribute we can specify the starting number for list item.
+
+```html
+<ol start="15">
+  <li>item 1</li>
+  <li>item 2</li>
+  <li>item 3</li>
+</ol>
+```
+
+&nbsp;
+
+# 16. How to specify the types of files user can upload?
+
+Using `accept` attribute we can specify the types of files user can upload.
+
+```html
+<input type="file" accept=".jpg , .png">
+```
+
+&nbsp;
+
+# 17. Are the HTML tags and elements the same thing?
+
+```md
+No. 
+```
+
+&nbsp;
+
+# 18. What attributes are used to set the dimension of an image?
+
+```md
+height and width
+```
+
+&nbsp;
+
+# 19. What is HTML form validation ? 
+
+HTML form validation is a process of examiningthe HTML form page’s contents to avoid errored-out data being sent to the server. This process is a significant step in developing HTML-based web applications, as it can easily improve the quality of the web page or the web application. There are two ways to perform the HTML form Validation, and they are by Using HTML5 built-in functionality and by Using JavaScript.
+
+&nbsp;
+
+# 20. What is the usage of a novalidate attribute for the form tag that is introduced in HTML5? 
+Its value is a boolean type that indicateswhether or not the data being submitted by the form will be validated beforehand. By making this false, forms can be submitted without validation which helps users to resume later also.
+
+```html
+<form action = "" method = "get"novalidate> 
+  Name:<br>
+  <input type="name" name="sname"><br> 
+  Doubt:<br>
+  <input type="number" name="doubt"><br> 
+  <input type="submit" value="Submit"> 
+</form>
+```
+
+&nbsp;
+
+# 21. What are the different new form element types in HTML 5?
+
+Following is a list of 10 frequently used new elements in HTML 5
+
+- Color
+- Date
+- Datetime-local
+- Email
+- Time
+- Url
+- Number
+- Search
+- Range
+- Telephone
+
+
+&nbsp;
+
+# 22. What is the use of the required attribute in HTML5?
+
+```md
+It forces a user to fill in text on the textfield or text area before submitting the form. It is used for form validation.
+```
+
+&nbsp;
+
+# 23. What is a button tag?
+
+```md
+The button tag is used in HTML 5. It is used to create a clickable button within the HTML form on the web page. It is generally used to create a "submit" or "reset" button. Let's see the code to display the button.
+```
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+# Emmet
+
+1.
+
+```html
+table>tr>td
+```
+
+```html
+  <table>
+    <tr>
+        <td></td>
+
+    </tr>
+  </table>
+```
+
+&nbsp;
+
+2.
+
+```html
+  ul>li*3
+```
+
+```html
+  <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+  </ul>
+```
+
+&nbsp;
+3.
+
+```html
+h1+h2+p+btn
+```
+
+```html
+<h1></h1>
+<h2></h2>
+<p></p>
+<button></button>
+```
+
+
+&nbsp;
+
+4.
+
+```html
+(table>tr>td)*2
+```
+
+```html
+<table>
+    <tr>
+        <td></td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td></td>
+    </tr>
+</table>
+```
+
+&nbsp;
+
+5.
+
+```html
+table>tr>td^^ul>li
+```
+
+```html
+<table>
+    <tr>
+        <td></td>
+    </tr>
+</table>
+<ul>
+    <li></li>
+</ul>
+```
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;

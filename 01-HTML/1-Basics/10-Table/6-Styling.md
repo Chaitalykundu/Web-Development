@@ -2,13 +2,15 @@
 
 - If you add a background color on every other table row, you will get a nice zebra stripes effect.
 
-* To style every other table row element, use the :nth-child(even) selector like this:
+- To style every other table row element, use the :nth-child(even) selector like this:
 
 ```css
 tr:nth-child(even) {
   background-color: #d6eeee;
 }
 ```
+
+&nbsp;
 
 - Note: If you use (odd) instead of (even), the styling will occur on row 1,3,5 etc. instead of 2,4,6 etc.
 
@@ -42,7 +44,7 @@ th:nth-child(even) {
 
 - If you use a transparent color you will get an overlapping effect.
 
-* Use an `rgba()` color to specify the transparency of the color:
+- Use an `rgba()` color to specify the transparency of the color:
 
 ```css
 tr:nth-child(even) {
@@ -63,7 +65,7 @@ td:nth-child(even) {
 
 - If you specify borders only at the bottom of each table row, you will have a table with horizontal dividers.
 
-* Add the `border-bottom` property to all `tr` elements to get horizontal dividers:
+- Add the `border-bottom` property to all `tr` elements to get horizontal dividers:
 
 ```css
 tr {

@@ -2,11 +2,13 @@
 
 - Tags are like keywords, which defines that how browser will format and display the content.
 
-* Every tag in HTML perform different tasks.
+- Every tag in HTML perform different tasks.
 
-* HTML Tags are always written in lowercase letters. Though HTML is Not Case Sensitive. `<p>` and `<P>` are same
+- HTML Tags are always written in lowercase letters. Though HTML is Not Case Sensitive. `<p>` and `<P>` are same
 
 - They are usually enclosed in angle brackets `<` & `>`
+
+- Tags with an opening and closing can have any number of tags within themselves
 
 &nbsp;
 
@@ -16,8 +18,8 @@
 
 There are two types of tags in HTML
 
-1.  Container tag
-2.  Empty Tag
+1. Container tag
+2. Empty Tag
 
 &nbsp;
 
@@ -27,9 +29,9 @@ There are two types of tags in HTML
 
 - Example : `<u>` and `</u>` will **underline** text.
 
-* You must include the slash ( / ) in the closing tag in order for the pair to work.
+- You must include the slash ( / ) in the closing tag in order for the pair to work.
 
-* This is also called Paired tag
+- This is also called Paired tag
 
 &nbsp;
 
@@ -37,7 +39,7 @@ There are two types of tags in HTML
 
 - An HTML tag is called an empty tag when the tag only has an opening tag and does not have a closing tag or a companion tag.
 
-* list of empty tag
+- list of empty tag
   |tag|
   |-|
   | `<hr>`|
@@ -47,7 +49,7 @@ There are two types of tags in HTML
   |`<link>`|
   |`<meta>`|
   |`<source>`|
-* This is also called unpaired tag
+- This is also called unpaired tag
 
 &nbsp;
 

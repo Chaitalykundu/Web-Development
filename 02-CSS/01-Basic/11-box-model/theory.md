@@ -1,8 +1,6 @@
-All HTML elements can be considered as boxes.
-
-&nbsp;
-
 # Definition and Usage
+
+`Box model` describes the layout of the elements. The HTML elements are considered as boxes.
 
 The CSS **box model** is essentially a box that wraps around every HTML element.
 
@@ -24,7 +22,7 @@ When you set the `height` and `width` properties of an element with CSS, you jus
 
 &nbsp;
 
-<img src="../assets/box-model.png">
+<img src="../../assets/box-model.png">
 
 &nbsp;
 

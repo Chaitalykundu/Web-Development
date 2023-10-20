@@ -8,7 +8,7 @@ Once the expression becomes false, the loop terminates.
 
 # Flow Chart
 
-<img src="../assets/while_loop.jpg">
+<img src="../../assets/while_loop.jpg">
 
 &nbsp;
 

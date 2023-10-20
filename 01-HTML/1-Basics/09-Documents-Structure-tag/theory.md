@@ -1,4 +1,4 @@
-## 4. Document Structure
+# Document Structure
 
 | name       | description     |
 | ---------- | --------------- |
@@ -14,15 +14,15 @@
 
 # `<p>.......</p>` tag
 
-- HTML `<p> `tag is used to define a paragraph in a webpage.
+- HTML `<p>` tag is used to define a paragraph in a webpage.
 
-* It is a **container tag** and **block element**
+- It is a **container tag** and **block element**
 
-* `</p>` is optional as a paragraph automatically ends when a new paragraph starts. A browser itself add an empty line before and after a paragraph.
+- `</p>` is optional as a paragraph automatically ends when a new paragraph starts. A browser itself add an empty line before and after a paragraph.
 
-* Number of lines of a paragraph depends on the size of web browser window
+- Number of lines of a paragraph depends on the size of web browser window
 
-* Example :
+- Example :
 
 ```html
 <p>This is paragraph</p>
@@ -41,7 +41,7 @@
 
 - The `<br>` tag in HTML document is used to create a line break in a text.
 
-* It is an **empty tag** and **inline element**
+- It is an **empty tag** and **inline element**
 
 &nbsp;
 
@@ -51,7 +51,7 @@
 
 - The `<hr>` tag in HTML document is used to create a thematic break in a text.
 
-* It is an **empty tag** and **block element**
+- It is an **empty tag** and **block element**
 
 &nbsp;
 
@@ -61,7 +61,7 @@
 
 - `<div>` tag defines a division or a section in a html document
 
-* The HTML `<div>` tag is used to group the large section of HTML elements together.
+- The HTML `<div>` tag is used to group the large section of HTML elements together.
 
 - This is a container tag and block element
 
@@ -75,11 +75,11 @@
 
 - HTML `<span>` tag is used as a generic container of inline elements. It is used for styling purpose to the grouped inline elements (using class and id attribute or inline style).
 
-* This is a container tag and inline element
+- This is a container tag and inline element
 
-* The `<span>` tag does not have any default meaning or rendering.
+- The `<span>` tag does not have any default meaning or rendering.
 
-* The <span> tag can be useful for the following task:
+- The <span> tag can be useful for the following task:
 
   - To change the language of a part of the text.
   - To change the color, font, background of a part of text using CSS

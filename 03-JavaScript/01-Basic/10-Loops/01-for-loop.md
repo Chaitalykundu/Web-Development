@@ -8,7 +8,7 @@ The JavaScript `for loop` is similar to the Java and C for loop.
 
 # Flow Chart
 
-<img src="../assets/for_loop.jpg">
+<img src="../../assets/for_loop.jpg">
 
 &nbsp;
 

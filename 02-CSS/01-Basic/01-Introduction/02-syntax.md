@@ -1,3 +1,5 @@
+# Syntax
+
 - A CSS rule set contains a **selector** and a **declaration block** .
 
 ```css
@@ -36,7 +38,7 @@ It could be any tag like `<h1>`, `<p>` etc.
 
 &nbsp;
 
-## Example,
+## Example
 
 ```css
 p {

@@ -2,9 +2,9 @@
 
 - The HTML `<form>` tag used to create an HTML form for user input.
 
-* It provides various interactive controls for submitting information to web server such as text field, text area, password field, etc.
+- It provides various interactive controls for submitting information to web server such as text field, text area, password field, etc.
 
-* The `<form>` element does not itself create a form but it is container to contain all required form elements, such as `<input>`, `<label>`, etc.
+- The `<form>` element does not itself create a form but it is container to contain all required form elements, such as `<input>`, `<label>`, etc.
 
 &nbsp;
 
@@ -53,6 +53,22 @@ form {
 &nbsp;
 
 # Attributes
+
+When the form is submitted, the page gets reloaded, and we know that the form gets submitted. But actually, the form input data is not being submitted to the server. To get the form to send the input data to the server, we need to set 2 attributes in the form:
+
+- action attribute
+
+- method attribute
+
+&nbsp;
+
+Example :
+
+```html
+<form action="/index.html" method="post">…. </form>
+```
+
+&nbsp;
 
 <table>
     <thead>
@@ -149,13 +165,13 @@ form {
             <td rowspan="4">Specifies where to display the response that is received after submitting the form</td>
         </tr>
         <tr>
-            <td> _self </td>
+<td>_self </td>
         </tr>
         <tr>
             <td> _parent</td>
         </tr>
         <tr>
-            <td> _top</td>
+<td>_top</td>
         </tr>
     </tbody>
 </table>

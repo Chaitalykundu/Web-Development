@@ -1,9 +1,11 @@
+# Types of inserting CSS
+
 - There are three ways of inserting a style sheet:
   - External CSS
   - Internal CSS
   - Inline CSS
 
-Precedence of styling - Inline > Internal > External
+Precedence of styling - ***Inline > Internal > External***
 
 &nbsp;
 
@@ -12,6 +14,8 @@ Precedence of styling - Inline > Internal > External
 # Inline CSS
 
 Inline CSS is used to apply CSS on a single line or element.
+
+An inline style is used to apply an unique style to a single element.
 
 &nbsp;
 

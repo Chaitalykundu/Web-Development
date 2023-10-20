@@ -1,6 +1,7 @@
 # Chapter Summary
 
 - Use the HTML `<img>` element to define an image
+
 - Use the HTML `src` attribute to define the `URL` of the image
 - Use the HTML `alt` attribute to define an `alternate text` for an image, if it cannot be displayed
 - Use the HTML `width` and `height` attributes or the CSS width and height properties to define the size of the image
@@ -14,9 +15,9 @@
 
 - HTML `<img>` tag is used to display image on the web page.
 
-* Images are not technically inserted into a web page; they are linked to web pages.
+- Images are not technically inserted into a web page; they are linked to web pages.
 
-* HTML img tag is an empty tag that contains attributes only.
+- HTML `<img>` tag is an empty tag that contains attributes only.
 
 &nbsp;
 
@@ -37,8 +38,8 @@
 &nbsp;
 
 - The `<img>` tag has two required attributes:
-  - src - Specifies the path to the image
-  - alt - Specifies an alternate text for the image
+  - `src` - Specifies the path to the image
+  - `alt` - Specifies an alternate text for the image
 
 &nbsp;
 

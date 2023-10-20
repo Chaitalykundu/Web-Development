@@ -44,7 +44,7 @@ address {
 
 # Specifications
 
-|                   |           |
+| Specifications    | Type      |
 | ----------------- | --------- |
 | Display / Element | Block     |
 | Tag               | Container |

@@ -2,6 +2,8 @@ The JavaScript `for of` statement loops through the values of an iterable object
 
 &nbsp;
 
+&nbsp;
+
 # Syntax :
 
 ```js
@@ -16,6 +18,8 @@ for (variable of iterable) {
 
 &nbsp;
 
+&nbsp;
+
 # Example : Looping over a Array
 
 ```js
@@ -26,6 +30,8 @@ for (let x of cars) {
   text += x;
 }
 ```
+
+&nbsp;
 
 &nbsp;
 

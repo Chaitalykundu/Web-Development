@@ -8,6 +8,12 @@ Link tag is used to import any external file
 
 &nbsp;
 
+- rel = relationship
+- href = hypertext reference
+- src = source
+
+&nbsp;
+
 &nbsp;
 
 ## import HTML file
@@ -17,7 +23,7 @@ Link tag is used to import any external file
 &nbsp;
 
 ```html
-<link rel="import" href="component.html" /> // 1.
+<link rel="import" href="component.html" />
 ```
 
 &nbsp;

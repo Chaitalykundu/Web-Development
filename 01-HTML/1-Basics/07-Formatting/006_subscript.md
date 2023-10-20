@@ -39,7 +39,7 @@ sub {
 
 # Specifications
 
-|                   |           |
+| Specifications    | Type      |
 | ----------------- | --------- |
 | Display / Element | Inline    |
 | Tag               | Container |

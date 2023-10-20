@@ -2,9 +2,15 @@
 
 - CSS stands for Cascading Style Sheets.
 
-* It is a style sheet language which is used to describe the look and formatting of a document written in markup language.
+- It is a style sheet language which is used to describe the look and formatting of a document written in markup language.
 
-* It can also be used with any kind of XML documents including plain XML, SVG and XUL.
+- It can also be used with any kind of XML documents including plain XML, SVG and XUL.
+
+- CSS describes how HTML elements are to be presented on screen
+
+- CSS can control the layout of multiple web pages all at once
+
+- Includes adding visuals like color, fonts, layouts,etc.
 
 &nbsp;
 

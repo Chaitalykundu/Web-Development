@@ -1,3 +1,5 @@
+# Comments
+
 - CSS comments are generally written to explain your code. It is very helpful for the users who reads your code so that they can easily understand the code.
 
 - Comments are ignored by browsers.
