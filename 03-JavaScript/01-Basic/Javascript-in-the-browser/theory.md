@@ -1,3 +1,5 @@
+# Overview
+
 HTML = Skeleton
 
 CSS = Styling
@@ -10,7 +12,7 @@ JavaScript = Logic
 
 JavaScript is not understandable by computer but the only browser understands JavaScript. So, we need a program to convert our JavaScript program into computer-understandable language.
 
-Browser has an embedded engine called **JavaScript engine** or the **JavaScript Runtime**
+Browser has an embedded engine called **JavaScript engine** or the **JavaScript Runtime** for this.
 
 &nbsp;
 
@@ -47,9 +49,11 @@ A `JavaScript engine` is a computer program that executes JavaScript code and co
 
 Every browser has same developer tools which makes a developer's life so easier.
 
-- Elements : All HTML elements
-- Console : All the errors and logs
-- Network : All network requests
+|Tools|Contains|
+|-|-|
+|Elements| All HTML elements|
+|Console| All the errors and logs|
+|Network| All network requests|
 
 &nbsp;
 
