@@ -1,0 +1,13 @@
+.video1 {
+  height: 50px;
+  width: 40px;
+}
+
+.iframe1 {
+  display: inline;
+}
+
+.iframe2 {
+  display: inline;
+  float: right;
+}

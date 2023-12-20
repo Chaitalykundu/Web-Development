@@ -28,3 +28,5 @@ console.warn("This is a warning");      // Warning
 console.timeEnd('Code took ')       //Timer end
 
 console.error("This is an error")       // Error
+
+

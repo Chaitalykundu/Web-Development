@@ -1,3 +1,5 @@
+# strings
+
 JavaScript `strings` are for storing and manipulating text.
 
 A JavaScript string is **zero or more characters** written inside single or double quotes.
@@ -6,10 +8,10 @@ A JavaScript string is **zero or more characters** written inside single or doub
 
 ## Example
 
-```
-let carName1 = "Volvo XC60";  // Double quotes
-let carName2 = 'Volvo XC60';  // Single quotes
-let carName3 = `Volvo XC60`;  // backticks
+```js
+let carName1 = "Volvo XC60"; // Double quotes
+let carName2 = "Volvo XC60"; // Single quotes
+let carName3 = `Volvo XC60`; // backticks
 ```
 
 &nbsp;

@@ -61,3 +61,7 @@ if(age>=18)
     console.log("You can drive");
 else
     console.log("You can't drive");
+
+
+// Using ternary
+console.log(age>=18?"You can drive": "You can't drive")

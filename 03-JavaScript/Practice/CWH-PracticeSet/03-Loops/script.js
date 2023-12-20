@@ -1,5 +1,5 @@
 // 1. Write a program to print the marks of a student in an object using for loop. 
-//   obj = { Harry : 98, Rohan: 70, Aakash: 7}
+//   marks = { Harry : 98, Rohan: 70, Aakash: 7}
 
 let marks = { Harry : 98, Rohan: 70, Aakash: 7};
 
@@ -24,12 +24,3 @@ while(i!=target)
 {
     i = prompt("Try again");
 }
-
-
-// 4. Write a function to find mean of 5 numbers
-
-for(let i=1;i<=5;i++){
-    prompt("Enter number : ");
-    sum += i;
-}
-mean = sum/5;
