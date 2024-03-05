@@ -28,7 +28,7 @@ When you set the `height` and `width` properties of an element with CSS, you jus
 
 &nbsp;
 
-# Explanation of the different parts:
+# Explanation of the different parts
 
 - <u>Content</u> - The content of the box, where text and images appear
 - <u>Padding </u> - Clears an area around the content. The padding is transparent

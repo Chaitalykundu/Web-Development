@@ -10,7 +10,7 @@ The text between the `<video>` and `</video>` tags will only be displayed in bro
 
 &nbsp;
 
-# Syntax :
+# Syntax 1:
 
 ```html
 <video src="" attributes></video>
@@ -22,6 +22,31 @@ The text between the `<video>` and `</video>` tags will only be displayed in bro
 
 ```html
 <video src="../assets/aaaa.mp4" width="555px" controls></video>
+```
+
+&nbsp;
+
+&nbsp;
+
+# Syntax 2:
+
+```html
+<video attributes>
+  <source src="" type="video/mp4" height="50px" />
+  no content
+</video>
+```
+
+&nbsp;
+
+# Example :
+
+```html
+<video controls muted preload="">
+  <source src="assets/aaaa.mp4" type="video/mp4" height="50px" />
+  <source src="assets/abc.mp4" type="video/mp4" />
+  no content
+</video>
 ```
 
 &nbsp;

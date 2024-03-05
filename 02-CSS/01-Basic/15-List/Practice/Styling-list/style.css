@@ -1,0 +1,42 @@
+/* VERTICAL NAVBAR */
+.nav-vertically ul {
+  list-style-type: none;
+  display: block;
+}
+
+.nav-vertically ul li {
+  padding: 10px;
+}
+
+/* HORIZONTAL NAVBAR left side aligned */
+
+.nav-horizontally-left ul li {
+  display: inline-block; /* or display:inline-flex; */
+  padding: 50px;
+}
+
+/*  alternative 
+
+li {
+  float: left;
+  display: block;
+  padding: 50px;
+} */
+
+/* HORIZONTAL NAVBAR right side aligned */
+
+.nav-horizontally-right ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: end;
+}
+
+.nav-horizontally-right ul li {
+  padding: 50px;
+}
+
+/* li {
+  float: left;
+  display: block;
+  padding: 50px;
+} */

@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  display: inline-block;
+  margin: 50px;
+}
+
+/* alternative  */
+
+/* li {
+  float: left;
+  display: block;
+  padding: 50px;
+} */

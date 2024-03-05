@@ -1,0 +1,33 @@
+.nav1 ul li {
+  list-style-type: disc;
+}
+
+.nav2 ul li {
+  list-style-type: circle;
+}
+
+.nav3 ul li {
+  list-style-type: decimal;
+}
+
+.nav4 ul li {
+  list-style-type: armenian;
+}
+.nav5 ul li {
+  list-style-type: decimal-leading-zero;
+}
+
+.nav6 ul li {
+  list-style-type: lower-alpha;
+}
+
+.nav7 ul li {
+  list-style-type: devanagari; /* marathi lang*/
+}
+
+.nav8 ul li {
+  list-style-type: "\1F44D";
+}
+
+/* list-style-type: devanagari;
+list-style-type: "\1F44D"; */

@@ -1,0 +1,12 @@
+:root {
+  --color: rgb(241, 30, 189);
+  --secColor: red;
+}
+
+.paragraph1 {
+  background-color: var(--color);
+}
+
+.paragraph2 {
+  color: var(--secColor);
+}

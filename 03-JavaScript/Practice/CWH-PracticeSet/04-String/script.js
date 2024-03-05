@@ -8,7 +8,7 @@ console.log("har\"".length) // 4
 // 2. Explore the includes, startWith & endWith function of a string
 let text2 = "Hello world, Welcome to the Universe";
 
-// include
+// includes
 console.log("includes",text2.includes("world")); // true
 
 

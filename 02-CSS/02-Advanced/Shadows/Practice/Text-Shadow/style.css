@@ -1,0 +1,34 @@
+.text1 {
+  text-shadow: 2px 2px;
+}
+
+.text2 {
+  text-shadow: 2px 2px red;
+}
+
+.text3 {
+  text-shadow: 2px 2px 5px rgb(218, 54, 227);
+}
+
+.text4 {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.text5 {
+  text-shadow: 0 0 3px #ff0000;
+}
+
+.text6 {
+  text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+}
+
+.text7 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+.text8 {
+  color: coral;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}

@@ -1,53 +1,47 @@
-1-6-2023:    
-  Control flow (Conditional statement):
-    ✔ Description @started(23-06-01 10:33) @done(23-06-01 10:39) @lasted(6m34s)
-    ✔ if else @started(23-06-01 10:39) @done(23-06-01 10:44) @lasted(5m44s)
-    ✔ switch @started(23-06-01 15:28) @done(23-06-01 15:29) @lasted(1m)
-    ✔ previous revision @started(23-06-01 15:47) @done(23-06-01 15:48) @lasted(1m36s)
+# Plan 
+30 video - 10 days
 
-2-6-2023:
-  Loops:
-    ✔ description @done(23-06-02 15:16)
-    ✔ for loop @done(23-06-02 15:15)
-    ✔ for in loop @done(23-06-02 15:15)
-    ✔ for of loop @done(23-06-02 15:15)
-    ✔ while loop @done(23-06-02 15:15)
-    ✔ do while loop @done(23-06-02 15:15)
-  Project:
-    ✔ login page @started(23-06-02 15:16) @done(23-06-04 12:10) @lasted(1d20h54m9s)
-3-6-2023:
-  
-4-6-2023:
 
-5-6-2023:
-  ✔ iterable @started(23-06-05 11:06) @done(23-06-05 11:26) @lasted(20m20s)
-  ✔ strings @started(23-06-05 11:26) @done(23-06-05 12:23) @lasted(57m49s)
-  ✔ string methods @started(23-06-05 12:23) @done(23-06-05 14:10) @lasted(1h47m3s)
+01-01-2024:    
+  ✔ Specificity & cascade @done(24-02-02 16:32)
+  ✔ Sizing units @done(24-02-02 16:32)
+  ✔ display property @started(24-02-02 16:38) @done(24-02-07 23:35) @lasted(5d6h57m33s)
 
-6-6-2023:
-  ✔ string search @done(23-06-07 10:35)
-  ✔ template literals @done(23-06-07 11:08)
+02-02-2024: 
+  ✔ Shadow and outlines @started(24-02-07 23:35) @done(24-02-09 17:58) @lasted(1d18h23m2s)
+  ✔ Styling lists @started(24-02-09 17:58) @done(24-02-12 16:02) @lasted(2d22h4m23s)
+  ✔ overflow property @started(24-02-12 16:02) @done(24-02-13 13:23) @lasted(21h21m17s)
 
-7-6-2023:
-  ✔ Function @done(23-06-11 21:39)
-8-6-2023:
-9-6-2023:
-  
-12-06-2023:
-  ✔ Array @done(23-06-12 11:13)
-  ✔ Array Methods @started(23-06-12 11:13) @done(23-06-12 14:36) @lasted(3h23m28s)
+03-02-2024:
+  - Position property
+  ✔ Project : design the card @started(24-02-13 13:23) @done(24-02-13 13:53) @lasted(30m14s)
 
-13-06-2023:
-  ✔ Array iteration @started(23-06-13 11:28) @done(23-06-18 00:23) @lasted(4d12h55m26s)
-  ✔ guess the number game @done(23-06-13 14:24)
+04-02-2024:
+  - CSS variables @started(24-02-16 12:32)
+  - media query @started(24-02-22 12:34)
+  - float and clear
 
-  
-03-07-23:
-  ✔ 2 js questions @done(23-07-04 10:50)
-  - Javascript in the browser @started(23-06-18 00:23)
-  - The script tag
-  
-21-07-23:
-  - DOM
-  - Basics of API
-  - HTML revision
+05-02-2024:
+  ✔ Project : Multi color website @done(24-02-22 16:33)
+  - more on css selector
+
+06-02-2024:
+  - Project : Design the layout
+  - Flexbox
+
+07-02-2024:
+  - Grid
+  - Project : navbar using flexbox
+
+08-02-2024:
+  - Transforms
+  - Project : Design the grids
+
+09-02-2024:
+  - Transition property
+  - Animation
+  - Project : bonus animation
+
+10-02-2024:
+  - Object-fit and object-cover
+  - filters

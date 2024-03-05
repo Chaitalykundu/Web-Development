@@ -57,4 +57,4 @@ There are two types of tags in HTML
 
 - We can also classify tags in terms of their utility
 
-- Refer [learn](../learn.md)
+- Refer [learn](../../learn.md)

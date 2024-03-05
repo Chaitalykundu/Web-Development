@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* height & width will not be applicable for display: inline */
+.box {
+  border: 3px solid black;
+  display: inline;
+  width: 200px;
+  height: 100px;
+}
+
+.container {
+  border: 3px solid red;
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+}
+
+/* If we do "display: none" then then content and spaced will be removed. But if we do "visibility: hidden" then the content will be hidden but the space will be there  */
+.box2 {
+  /* display: none; */
+  visibility: hidden;
+  border: 3px solid green;
+  width: 200px;
+  height: 100px;
+}
+
+.span_box {
+  border: 3px solid yellow;
+  display: block;
+  width: 200px;
+  height: 100px;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  border: 3px solid green;
+  width: 200px;
+  height: 100px;
+}
+
+.inline-flex {
+  display: inline-flex;
+  justify-content: center;
+  margin: 20px 0 0 20px;
+  border: 3px solid green;
+  width: 200px;
+  height: 100px;
+}

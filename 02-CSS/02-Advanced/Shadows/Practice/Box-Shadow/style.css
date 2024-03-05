@@ -1,0 +1,36 @@
+.text1 {
+  box-shadow: 10px 15px;
+}
+
+.text2 {
+  box-shadow: 10px 12px #558abb;
+}
+
+.text3 {
+  box-shadow: 5px 10px 5px rgb(218, 54, 227);
+}
+
+.text4 {
+  box-shadow: #fc0 5px 10px;
+}
+
+.text5 {
+  box-shadow: 2px 2px 2px 10px green;
+}
+
+.text6 {
+  box-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+}
+
+.text7 {
+  box-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+.text8 {
+  color: coral;
+  box-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.text9 {
+  box-shadow: inset 50px 20px rgb(33, 222, 146);
+}

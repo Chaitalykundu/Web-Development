@@ -16,7 +16,7 @@ HOSTING - Where data is stored
 
 &nbsp;
 
-# Full-stack dev Roadmap:
+# Full-stack dev Roadmap
 
 - Basics of HTML, CSS & JS
 - Choosing a framework
@@ -39,7 +39,7 @@ HOSTING - Where data is stored
 
     React Ecosystem > BOM & DOM > Typescript > NextJS > Advance html css js > Web security & performance > Design patterns
 
-[<img src="https://github.com/Chaitalykundu/Web-Development/blob/master/assests/roadmap.PNG">](https://github.com/Chaitalykundu/Web-Development/blob/master/assests/roadmap.PNG)
+<img src="./assests/roadmap.PNG">
 
 &nbsp;
 

@@ -125,6 +125,32 @@ Exercise practice : [harshitvashisth](https://www.youtube.com/watch?v=luAkR9VaLc
 
 &nbsp;
 
+# Keypoints
+
+1. Insert responsive **Retina-friendly** images
+
+2. Learn how to structure CSS correctly
+
+3. Design a 100% responsive page
+
+4. Understand how media queries work
+
+5. Use CSS Flexbox to layout your components
+
+6. Style your text with typography properties
+
+7. Add visual feedback with CSS Transitions
+
+8. Bring your page to life with CSS Animations
+
+9. Make use of Google fonts
+
+10. Include & style FOnt Awesome icons
+
+&nbsp;
+
+&nbsp;
+
 LinkedIn post -
 
 1. [CSS in 45 mins](https://www.linkedin.com/posts/mohammed-wajid-69639a254_complete-css-guide-for-beginners-activity-7044502476858826752-994j?utm_source=share&utm_medium=member_desktop)

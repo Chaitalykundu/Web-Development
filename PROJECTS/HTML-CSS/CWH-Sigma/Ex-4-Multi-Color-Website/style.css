@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --primary-color: rgb(126, 126, 242);
+  --secondary-color: rgb(194, 194, 254);
+  --text-color: white;
+}
+
+body {
+  background-color: var(--secondary-color);
+}
+
+ul {
+  background-color: var(--primary-color);
+}
+
+ul li {
+  display: inline-block;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  color: var(--text-color);
+}
+
+ul li a {
+  color: rgb(238, 202, 177);
+  text-decoration: none;
+}

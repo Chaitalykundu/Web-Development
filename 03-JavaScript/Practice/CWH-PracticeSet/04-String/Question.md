@@ -1,6 +1,6 @@
 # String related questions
 
-1. WHat will the following print in JS?
+1. What will the following print in JS?
 
    > console.log("har\"".length)
 
