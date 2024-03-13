@@ -19,11 +19,11 @@
 04-02-2024:
   - CSS variables @started(24-02-16 12:32)
   - media query @started(24-02-22 12:34)
-  - float and clear
+  ✔ float and clear @done(24-03-12 14:14)
 
 05-02-2024:
   ✔ Project : Multi color website @done(24-02-22 16:33)
-  - more on css selector
+  ✔ more on css selector @done(24-03-12 14:14)
 
 06-02-2024:
   - Project : Design the layout
@@ -45,3 +45,13 @@
 10-02-2024:
   - Object-fit and object-cover
   - filters
+
+
+12-03-2024:
+  - Project : A set of color marker (Free code camp) @started(24-03-12 15:59)
+
+13-03-2024:
+  - HTML revision
+  - JS Introduction, Variables, Scopes, Hoisting, Datatype
+  - mock interview HTML
+

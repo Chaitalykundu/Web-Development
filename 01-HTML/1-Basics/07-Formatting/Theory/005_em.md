@@ -2,13 +2,13 @@
 
 - The `<em>` tag is used to define emphasized text for the search engines.
 
-* The content inside em tag is typically displayed in **_italic_**.
+- The content inside em tag is typically displayed in **_italic_**.
 
-* This is a **container tag and inline element**
+- This is a **container tag and inline element**
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```html
 <p>Content<em>text</em>Content</p>
@@ -16,7 +16,7 @@
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <p>This text contains <em>emphasized</em> text.</p>
@@ -51,12 +51,12 @@ em {
 
 &nbsp;
 
-# Global attribute:
+# Global attribute
 
 > The `<em>` tag supports the Global attributes in HTML.
 
 &nbsp;
 
-# Event attribute:
+# Event attribute
 
 > The `<em>` tag supports the Event attributes in HTML.

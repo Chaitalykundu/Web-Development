@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  height: 70px;
+  background-color: rgb(243, 123, 143);
+  text-align: center;
+}
+/* body {
+    width: 650px;
+    margin: auto;
+} */
+
+main {
+  width: 850px;
+  margin: auto;
+}
+section {
+  display: inline-block;
+  padding: 50px;
+  border: 1px solid black;
+}
+
+.section1 {
+  height: 100px;
+}
+.section1 {
+  height: 100px;
+}
+
+footer {
+  height: 60px;
+  width: 100%;
+  position: fixed;
+  background-color: rgb(230, 193, 72);
+  bottom: 0px;
+  text-align: center;
+}

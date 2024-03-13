@@ -5,6 +5,8 @@ YouTube :
 
 <br>
 
+javascript 54-84 of sigma course CWH
+
 &nbsp;
 
 &nbsp;
@@ -17,7 +19,7 @@ YouTube :
 | 2     | Variables (var, let, const)          | Done   |
 | 3     | Scopes                               |        |
 | 4     | Hoisting                             |
-| 5     | Datatype                             |        |
+| 5     | Datatype (NNBBSSU)                   |        |
 | 6     | Operators                            |        |
 | 7     | Type Casting / Conversions           |        |
 | 8     | Control flow (Conditional statement) |
@@ -35,6 +37,262 @@ YouTube :
 | 14    | Timeout & Interval                   |        |
 | 15    | Classes                              |
 |       | DOM manipilation                     |
+
+&nbsp;
+
+&nbsp;
+
+| SL No | Topics                               | SUb-Topics                                      | Status |
+| ----- | ------------------------------------ | ----------------------------------------------- | ------ |
+| 1     | Introduction                         | What is javascript                              | Done   |
+| 2     |                                      | Versions of js                                  |        |
+| 3     |                                      | How to add js                                   |        |
+| 4     |                                      | output                                          |        |
+| 5     |                                      | Statements                                      |        |
+| 6     |                                      | Keywords                                        |        |
+| 7     |                                      | Syntax                                          |        |
+| 8     |                                      | Comments                                        |        |
+|       |                                      |                                                 |        |
+| 9     | Variables                            | declaration                                     |        |
+| 10    |                                      | var                                             |        |
+| 11    |                                      | let                                             |        |
+| 12    |                                      | const                                           |        |
+|       |                                      |                                                 |        |
+| 13    | Scope                                |                                                 |        |
+| 14    | Hoisting                             |                                                 |        |
+| 15    | DataTypes                            | Primitives (NNBBSSU)                            |        |
+| 16    |                                      | non-primitive                                   |        |
+|       |                                      |                                                 |        |
+| 17    | Operators                            | Arithmetic Operators                            |        |
+| 18    |                                      | Assignment Operators                            |        |
+| 19    |                                      | Logical Operators                               |        |
+| 20    |                                      | Comparison Operators                            |        |
+| 21    |                                      | Bitwise Operators                               |        |
+| 22    |                                      | Ternary Operators                               |        |
+| 23    |                                      | Type Operators                                  |        |
+| 24    |                                      | BigInt operator                                 |        |
+| 25    |                                      | String operator                                 |        |
+| 27    |                                      | comma operator                                  |        |
+| 28    |                                      | Unary operator                                  |        |
+| 29    |                                      | Precedence                                      |        |
+|       |                                      |                                                 |        |
+| 30    | Type casting                         | Theory                                          |        |
+| 31    |                                      | others to numbers                               |        |
+| 32    |                                      | others to string                                |        |
+| 33    |                                      | others to boolean                               |        |
+| 34    |                                      | undefined with others                           |        |
+|       |                                      |                                                 |        |
+| 35    | Control flow (Conditional statement) | if                                              |        |
+| 36    |                                      | else                                            |        |
+| 37    |                                      | else if                                         |        |
+| 38    |                                      | switch                                          |        |
+| 39    |                                      | case                                            |        |
+| 40    |                                      | default                                         |        |
+| 41    |                                      | ternary                                         |        |
+|       |                                      |                                                 |        |
+| 42    | loops & iterations                   | for                                             |        |
+| 43    |                                      | for-in                                          |        |
+| 44    |                                      | for-of                                          |        |
+| 45    |                                      | while                                           |        |
+| 46    |                                      | do-while                                        |        |
+| 47    |                                      | for await...of                                  |        |
+| 48    |                                      | break                                           |        |
+| 49    |                                      | continue                                        |        |
+|       |                                      |                                                 |        |
+| 50    | Iterables                            | Iterates over a string                          |        |
+| 51    |                                      | Iterates over an array                          |        |
+| 52    |                                      | Iterates over a set                             |        |
+| 53    |                                      | Iterates over a map                             |        |
+|       |                                      |                                                 |        |
+| 54    | String                               | Declaration                                     |        |
+| 55    |                                      | String methods                                  |        |
+| 56    |                                      | Search methods                                  |        |
+| 57    |                                      | Template literals                               |        |
+| 58    | Set                                  |                                                 |
+|       | Map                                  |                                                 |
+|       | Data Structures                      | Indexed collections                             |        |
+|       |                                      | keyed collections                               |        |
+|       | Equality comparison                  | Equality algorithms                             |        |
+|       |                                      | Value comparison operators (==, ===, object.is) |        |
+|       | Exception handling                   | try, catch, finally                             |        |
+|       |                                      | throw statement                                 |        |
+|       |                                      | Utilizing error objects                         |        |
+|       | Functions                            | Default parameters                              |        |
+|       |                                      | Rest parameters                                 |
+|       |                                      | arrow functions                                 |
+|       |                                      | IIFEs                                           |
+|       |                                      | Scope & function stack                          |
+|       |                                      | arguments object                                |
+|       |                                      | Method definitions                              |
+|       |                                      | Build-in functions                              |        |
+|       |                                      | getter                                          |
+|       |                                      | setter                                          |
+|       |                                      |                                                 |
+|       | Asynchronous js                      | working with APIs                               |
+|       |                                      | Callback Functions                              |
+|       |                                      | Promises                                        |
+|       |                                      | async/await Syntax                              |
+|       |                                      | Fetch API                                       |
+|       |                                      | XMLHttpRequest                                  |
+|       | Classes & modules                    | learn to use chrome                             |
+|       |                                      | Dev tool                                        |
+
+&nbsp;
+
+&nbsp;
+
+# Advanced
+
+| Topics                 | Status |
+| ---------------------- | ------ |
+| "this" keyword         |        |
+| Template strings       |        |
+| De-structuring         |        |
+| Rest & Spread          |        |
+| Callbacks              |        |
+| Promises               |        |
+| Async Await            |        |
+| Prototypes             |        |
+| Modules                |        |
+| Sets & Weaksets        |        |
+| Maps & Weakmaps        |        |
+| Regular expressions    |        |
+| Symbols                |        |
+| Proxy & Reflect        |        |
+| Iterators + Generators |        |
+| Dates & Intl           |        |
+| Typed Arrays           |        |
+| ES Next features       |        |
+
+LinkedIn - [Notes by Abhishek Srivastava](https://www.linkedin.com/posts/abhi18cs_javascript-notes-activity-7052920991458467840-N5Sf?utm_source=share&utm_medium=member_desktop)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+4.Expressions
+Primary expressions
+• this
+• Literals
+• []
+• {}
+• function
+• class
+• function*
+• async function
+• async function*
+• /ab+c/i
+• `string`
+• ( )
+
+Left-hand-side expressions
+• Property accessors
+• ?.
+• new
+• new .target
+• import.meta
+• super
+• import()
+
+9.Objects and Arrays
+• Object Literal: { key: value }
+• Array Literal: [element1, element2, ...]
+• Object Methods and Properties
+• Array Methods: push(), pop(), shift(), unshift(),
+splice(), slice(), forEach(), map(), filter()
+
+10.Classes and Prototypes
+• Class Declaration
+• Constructor Functions
+• Prototypal Inheritance
+• extends keyword
+• super keyword
+• Private class features
+• Public class fields
+• static
+• Static initialization blocks
+
+ADVANCED CONCEPTS
+
+12.Closures
+• Lexical Scope
+• Function Scope
+• Closure Use Cases
+
+13.Asynchronous JavaScript
+• Callback Functions
+• Promises
+• async/await Syntax
+• Fetch API
+• XMLHttpRequest
+
+14.Modules
+• import and export Statements (ES6 Modules)
+• CommonJS Modules (require, module.exports)
+
+15.Event Handling
+• Event Listeners
+• Event Object
+• Bubbling and Capturing
+
+16.DOM Manipulation
+• Selecting DOM Elements
+• Modifying Element Properties
+• Creating and Appending Elements
+
+17.Regular Expressions
+• Pattern Matching
+• RegExp Methods: test(), exec(), match(), replace()
+
+18.Browser APIs
+• localStorage and sessionStorage
+• navigator Object
+• Geolocation API
+• Canvas API
+
+19.Web APIs
+• setTimeout(), setInterval()
+• XMLHttpRequest
+• Fetch API
+• WebSockets
+
+20.Functional Programming
+• Higher-Order Functions
+• map(), reduce(), filter()
+• Pure Functions and Immutability
+
+21.Promises and Asynchronous Patterns
+• Promise Chaining
+• Error Handling with Promises
+• Async/Await
+
+22.ES6+ Features
+• Template Literals
+• Destructuring Assignment
+• Rest and Spread Operators
+• Arrow Functions
+• Classes and Inheritance
+• Default Parameters
+• let, const Block Scoping
+
+23.Browser Object Model (BOM)
+• window Object
+• history Object
+• location Object
+• navigator Object
+
+24.Node.js Specific Concepts
+• require()
+• Node.js Modules (module.exports)
+• File System Module (fs)
+• npm (Node Package Manager)
+
+25.Testing Frameworks
+• Jasmine
+• Mocha
+• Jest
 
 JS Functions
 JS Objects
@@ -74,109 +332,3 @@ JS Best Practices
 JS Mistakes
 JS Performance
 JS Reserved Words
-
-&nbsp;
-
-&nbsp;
-
-| SL No | Topics                               | SUb-Topics                                      | Status |
-| ----- | ------------------------------------ | ----------------------------------------------- | ------ |
-| 1     | Introduction                         | What is javascript                              | Done   |
-| 2     |                                      | Versions of js                                  |
-| 3     |                                      | How to add js                                   |
-| 4     |                                      | output                                          |
-| 5     |                                      | Statements                                      |
-| 6     |                                      | Keywords                                        |
-| 7     |                                      | Syntax                                          |
-| 8     |                                      | Comments                                        |
-| 9     | Variables                            | declaration                                     |
-| 10    |                                      | var                                             |
-| 11    |                                      | let                                             |
-| 12    |                                      | const                                           |
-| 13    | Scope                                |
-| 14    | Hoisting                             |
-| 15    | DataTypes                            | Primitives                                      |
-| 16    |                                      | non-primitive                                   |
-| 17    | Operators                            | Arithmetic Operators                            |
-| 18    |                                      | Assignment Operators                            |
-| 19    |                                      | Logical Operators                               |
-| 20    |                                      | Comparison Operators                            |
-| 21    |                                      | Bitwise Operators                               |
-| 22    |                                      | Ternary Operators                               |
-| 23    |                                      | Type Operators                                  |
-|       |                                      | BigInt operator                                 |
-|       |                                      | String operator                                 |
-|       |                                      | comma operator                                  |
-| 37    |                                      | Unary operator                                  |
-| 24    |                                      | Precedence                                      |
-| 25    | Type casting                         | Theory                                          |
-| 26    |                                      | others to numbers                               |
-| 27    |                                      | others to string                                |
-| 28    |                                      | others to boolean                               |
-| 29    |                                      | undefined with others                           |
-| 30    | Control flow (Conditional statement) | if else                                         |
-| 31    |                                      | switch                                          |
-| 32    |                                      | ternary                                         |
-| 16    | loops & iterations                   | for                                             |
-| 19    |                                      | for-in                                          |
-| 20    |                                      | for-of                                          |
-| 17    |                                      | while                                           |
-| 18    |                                      | do-while                                        |
-| 21    |                                      | break                                           |
-| 22    |                                      | continue                                        |
-|       | Iterables                            | Iterates over a string                          |
-|       |                                      | Iterates over an array                          |
-|       |                                      | Iterates over a set                             |
-|       |                                      | Iterates over a map                             |
-|       | String                               | Declaration                                     |
-|       |                                      | String methods                                  |
-|       |                                      | Search methods                                  |
-|       |                                      | Template literals                               |
-|       | Set                                  |
-|       | Map                                  |
-| 12    | Data Structures                      | Indexed collections                             |
-| 13    |                                      | keyed collections                               |
-| 14    | Equality comparison                  | Equality algorithms                             |
-| 15    |                                      | Value comparison operators (==, ===, object.is) |
-| 25    | Exception handling                   | try, catch, finally                             |
-| 26    |                                      | throw statement                                 |
-| 27    |                                      | Utilizing error objects                         |
-| 39    | Functions                            | function parameters                             |
-| 40    |                                      | arrow functions                                 |
-| 41    |                                      | IIFEs                                           |
-| 42    |                                      | Scope & function stack                          |
-| 43    |                                      | arguments object                                |
-| 44    |                                      | Build-in functions                              |
-| 45    | Strict mode                          | Using this keyword                              |
-| 46    | Asynchronous js                      | working with APIs                               |
-| 47    | Classes & modules                    | learn to use chrome                             |
-| 48    |                                      | Dev tool                                        |
-
-&nbsp;
-
-&nbsp;
-
-# Advanced
-
-| Topics                 | Status |
-| ---------------------- | ------ |
-| "this" keyword         |        |
-| Template strings       |        |
-| De-structuring         |        |
-| Rest & Spread          |        |
-| Callbacks              |        |
-| Promises               |        |
-| Async Await            |        |
-| Prototypes             |        |
-| Modules                |        |
-| Sets & Weaksets        |        |
-| Maps & Weakmaps        |        |
-| Regular expressions    |        |
-| Symbols                |        |
-| Proxy & Reflect        |        |
-| Iterators + Generators |        |
-| Dates & Intl           |        |
-| Typed Arrays           |        |
-| ES Next features       |        |
-
-LinkedIn - [Notes by Abhishek Srivastava](https://www.linkedin.com/posts/abhi18cs_javascript-notes-activity-7052920991458467840-N5Sf?utm_source=share&utm_medium=member_desktop)

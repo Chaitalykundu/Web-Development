@@ -28,7 +28,7 @@ The `clear` property applies to floating and non-floating elements.
 
 ```css
 selector {
-  clear: none|left| right| both| inherit;
+  clear: none |left | right| both| inherit;
 }
 ```
 

@@ -6,7 +6,7 @@ YouTube : [Web Development - WsCube Tech](https://www.youtube.com/watch?v=HVjjoM
 
 ## Five layers of software
 
-```
+```md
 UI - How data is presented
 API - How data is fetched
 DATABASE - How data is stored

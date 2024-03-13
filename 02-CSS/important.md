@@ -126,3 +126,52 @@ div.card {
 &nbsp;
 
 &nbsp;
+
+# If we want image in left and all other contents in right we have to use `float:left` in image
+
+```css
+img {
+  float: left;
+}
+```
+
+&nbsp;
+
+&nbsp;
+
+# If we want that there should not be anything in left or right or both side, then we have to use `clear:left`or `clear:right` or`clear:both`
+
+```css
+clear: left;
+/* or */
+clear: right;
+/* or */
+clear: both;
+```
+
+&nbsp;
+
+&nbsp;
+
+# Create a footer
+
+```css
+height: 60px;
+width: 100%;
+position: fixed;
+background-color: rgb(230, 193, 72);
+bottom: 0px;
+```
+
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+&nbsp;

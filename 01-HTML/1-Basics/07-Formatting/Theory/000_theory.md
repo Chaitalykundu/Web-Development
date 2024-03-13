@@ -2,15 +2,15 @@
 
 - HTML Formatting is a process of formatting text for better look and feel.
 
-* HTML provides us ability to format text without using CSS.
+- HTML provides us ability to format text without using CSS.
 
-* There are many formatting tags in HTML. These tags are used to make text **_bold, italicized, or underlined_** and .
+- There are many formatting tags in HTML. These tags are used to make text **_bold, italicized, or underlined_** and so on.
 
-* There are almost 14 options available that how text appears in HTML and XHTML.
+- There are almost _**14**_ options available that how text appears in HTML and XHTML.
 
 &nbsp;
 
-- In HTML the formatting tags are divided into two categories:
+- In HTML the formatting tags are divided into `two` categories:
 
   - **_Physical tag_**: These tags are used to provide the visual appearance to the text.
 

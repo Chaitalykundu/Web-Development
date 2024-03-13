@@ -1,6 +1,8 @@
 # Tags
 
-- Tags are like keywords, which defines that how browser will format and display the content.
+- Tags are like keywords, which defines that how browser will format and display the contents.
+
+- Tags have pre-defined meaning to the browsers.
 
 - Every tag in HTML perform different tasks.
 
@@ -8,7 +10,7 @@
 
 - They are usually enclosed in angle brackets `<` & `>`
 
-- Tags with an opening and closing can have any number of tags within themselves
+- Tags with an opening and closing can have any number of tags within themselves. Means nested tags are also supported.
 
 &nbsp;
 
@@ -49,7 +51,8 @@ There are two types of tags in HTML
   |`<link>`|
   |`<meta>`|
   |`<source>`|
-- This is also called unpaired tag
+
+- These are also called unpaired tag
 
 &nbsp;
 

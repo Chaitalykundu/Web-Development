@@ -1,0 +1,18 @@
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+img {
+  width: 450px;
+  float: left; /*  here image will be in left and other contents will be in right side */
+}
+
+.cards {
+  border: 2px solid rgb(201, 21, 21);
+  display: flow-root;
+}
+
+.section2 {
+  clear: both;
+}

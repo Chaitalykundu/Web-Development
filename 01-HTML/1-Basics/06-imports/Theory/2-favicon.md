@@ -1,12 +1,10 @@
 # Chapter Summary
 
-- Use the HTML `<link>` element to insert a **favicon**
+- We use HTML `<link>` element to insert a **favicon**
 
 &nbsp;
 
 &nbsp;
-
-# Details
 
 # Favicon
 
@@ -28,7 +26,7 @@
 
 &nbsp;
 
-# Example :
+## Example :
 
 ```html
 <head>

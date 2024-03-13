@@ -10,8 +10,6 @@ Exercise practice : [harshitvashisth](https://www.youtube.com/watch?v=luAkR9VaLc
 
 - Day 8 - 20 (13)
 
-- 05-05-2023 to 16-05-2023
-
 &nbsp;
 
 # Fundamentals
@@ -20,38 +18,38 @@ Exercise practice : [harshitvashisth](https://www.youtube.com/watch?v=luAkR9VaLc
 | ----- | --------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1     | introduction                | Done   |                                                                                                                                                              |
 | 2.1   | Selectors - Basic           | Done   | [linkedin](https://www.linkedin.com/posts/sajidcurious_css-selector-cheatsheet-activity-7052966153236713473-ErYF?utm_source=share&utm_medium=member_desktop) |
-| 2.2   | Selectors - Combinator      | Done   |
-| 2.3   | Selectors - Pseudo-classes  |        |
-| 2.4   | Selectors - Pseudo-elements |        |
-| 3     | Colors                      | Done   |
-| 4     | Background                  | Done   |
-| 5     | Fonts                       | Done   |
-| 6     | Icons                       | Done   |
-| 7     | Margin                      | Done   |
-| 8     | Padding                     | Done   |
-| 9     | Border                      | Done   |
-| 10    | height & width              | Done   |
-| 11    | Box model                   | Done   |
-| 12    | Outline                     |        |
-| 13    | Text                        |        |
-| 14    | Links                       | Done   |
-| 15    | list                        |
-| 16    | Tables                      |
-| 17    | Forms                       |
-| 18    | Display                     |        |
-| 19    | Positioning                 |        |
-| 20    | Z-Index                     |        |
-| 21    | Overflow                    |        |
-| 22    | Float                       |        |
-| 23    | Align                       |
-| 24    | Navigation bar              |
-| 25    | Image sprites               |
-| 26    | Specificity                 |        |
-| 27    | !important                  |        |
-| 28    | Math function               |        |
-| 21    | Inheritance                 |        |
-| 23    | Typography                  |        |
-| 27    | Flex                        |        |
+| 2.2   | Selectors - Combinator      | Done   |                                                                                                                                                              |
+| 2.3   | Selectors - Pseudo-classes  |        |                                                                                                                                                              |
+| 2.4   | Selectors - Pseudo-elements |        |                                                                                                                                                              |
+| 3     | Colors                      | Done   |                                                                                                                                                              |
+| 4     | Background                  | Done   |                                                                                                                                                              |
+| 5     | Fonts                       | Done   |                                                                                                                                                              |
+| 6     | Icons                       | Done   |                                                                                                                                                              |
+| 7     | Margin                      | Done   |                                                                                                                                                              |
+| 8     | Padding                     | Done   |                                                                                                                                                              |
+| 9     | Border                      | Done   |                                                                                                                                                              |
+| 10    | height & width              | Done   |                                                                                                                                                              |
+| 11    | Box model                   | Done   |                                                                                                                                                              |
+| 12    | Outline                     | Done   |                                                                                                                                                              |
+| 13    | Text                        | Done   |                                                                                                                                                              |
+| 14    | Links                       | Done   |                                                                                                                                                              |
+| 15    | list                        |        |
+| 16    | Tables                      |        |
+| 17    | Forms                       |        |
+| 18    | Display                     |        |                                                                                                                                                              |
+| 19    | Positioning                 |        |                                                                                                                                                              |
+| 20    | Z-Index                     |        |                                                                                                                                                              |
+| 21    | Overflow                    |        |                                                                                                                                                              |
+| 22    | Float                       |        |                                                                                                                                                              |
+| 23    | Align                       |        |
+| 24    | Navigation bar              |        |
+| 25    | Image sprites               |        |
+| 26    | Specificity                 |        |                                                                                                                                                              |
+| 27    | !important                  |        |                                                                                                                                                              |
+| 28    | Math function               |        |                                                                                                                                                              |
+| 21    | Inheritance                 |        |                                                                                                                                                              |
+| 23    | Typography                  |        |                                                                                                                                                              |
+| 27    | Flex                        |        |                                                                                                                                                              |
 
 &nbsp;
 
@@ -164,31 +162,31 @@ LinkedIn post -
 &nbsp;
 
 1. CSS-reference
-   👉 https://lnkd.in/dFSdSYQ3
+   👉 <https://lnkd.in/dFSdSYQ3>
 
 2. Magic-of-css
-   👉 https://lnkd.in/di_qBGxz
+   👉 <https://lnkd.in/di_qBGxz>
 
 3. CSS-architecture
-   👉 https://lnkd.in/dZPVHS3M
+   👉 <https://lnkd.in/dZPVHS3M>
 
 4. CSS-style-guide
-   👉 https://lnkd.in/dMC_HS4s
+   👉 <https://lnkd.in/dMC_HS4s>
 
 5. Flex-cheatsheet
-   👉 https://lnkd.in/dQytDtqX
+   👉 <https://lnkd.in/dQytDtqX>
 
 6. Flexbox30
-   👉 https://lnkd.in/dxC_brHE
+   👉 <https://lnkd.in/dxC_brHE>
 
 7. Awesome-css-grid
-   👉 https://lnkd.in/dzam7nVH
+   👉 <https://lnkd.in/dzam7nVH>
 
 8. You-need-to-know-css
-   👉 https://lnkd.in/db_frCRA
+   👉 <https://lnkd.in/db_frCRA>
 
 9. CSS-protips
-   👉 https://lnkd.in/dvj4wVgg
+   👉 <https://lnkd.in/dvj4wVgg>
 
 10. 30-seconds-of-css
-    👉 https://lnkd.in/dmq_ZDtg
+    👉 <https://lnkd.in/dmq_ZDtg>
