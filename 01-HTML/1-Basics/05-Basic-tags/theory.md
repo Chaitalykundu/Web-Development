@@ -23,6 +23,7 @@
     </body>
 </html>
 ```
+
 # !DOCTYPE
 
 - It is an instruction to the web browser about what version of HTML the page is written in.
@@ -68,4 +69,4 @@
 
 # body
 
-- The `<body>` element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+- The `<body>` contains the content of HTML document including text, images, links, forms, tables and other elements that will be displayed in the browser window.

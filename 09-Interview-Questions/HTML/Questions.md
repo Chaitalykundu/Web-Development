@@ -1,3 +1,52 @@
+# 1. What does HTML stands for, What is HTML and what is its purpose?
+
+```md
+HTML stands for Hypertext Markup Language. 
+
+It provides a way of displaying the web-pages with texts, images and other multimedia contents. It describes the structure of web pages.
+```
+
+### Purpose 
+
+```md
+HTML is used to create Web pages and tells the browser how to display them.
+
+It designs the basic layout and formatting of Web pages. 
+
+It provides a standard set of tags and attributes that web browsers interpret to display text, images, multimedia, forms and other elements on webpages.
+```
+
+&nbsp;
+
+&nbsp;
+
+# 2. Describe the basic structure of HTML document
+
+The basic structure of HTML consists of `<!DOCTYPE html>`, `<html>`, `<head>` and `<body>` tags.
+
+```html
+<!DOCTYPE html>
+<html >
+  <head>
+  </head>
+
+  <body>
+  </body>
+</html>
+```
+
+- ***!DOCTYPE html***: This specifies the document type and version of HTML. It helps the browser to interprete and display the page correctly.
+
+- ***html*** : This is the root element of a webpage, which contains all other webpages.
+
+- ***head*** : It contains meta information of the webpage like title, character encoding, links to external stylesheets and scripts and other metadata.
+
+- ***body*** : It contains the content of HTML document including text, images, links, forms, tables and other elements that will be displayed in the browser window.
+
+&nbsp;
+
+&nbsp;
+
 # 1. Why do we use html5?
 
 ```md
@@ -169,7 +218,7 @@ height and width
 
 # 19. What is HTML form validation ? 
 
-HTML form validation is a process of examiningthe HTML form page’s contents to avoid errored-out data being sent to the server. This process is a significant step in developing HTML-based web applications, as it can easily improve the quality of the web page or the web application. There are two ways to perform the HTML form Validation, and they are by Using HTML5 built-in functionality and by Using JavaScript.
+HTML form validation is a process of examining the HTML form page’s contents to avoid errored-out data being sent to the server. This process is a significant step in developing HTML-based web applications, as it can easily improve the quality of the web page or the web application. There are two ways to perform the HTML form Validation, and they are by Using HTML5 built-in functionality and by Using JavaScript.
 
 &nbsp;
 
@@ -224,104 +273,4 @@ The button tag is used in HTML 5. It is used to create a clickable button within
 
 &nbsp;
 
-&nbsp;
-# Emmet
-
-1.
-
-```html
-table>tr>td
-```
-
-```html
-  <table>
-    <tr>
-        <td></td>
-
-    </tr>
-  </table>
-```
-
-&nbsp;
-
-2.
-
-```html
-  ul>li*3
-```
-
-```html
-  <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-  </ul>
-```
-
-&nbsp;
-3.
-
-```html
-h1+h2+p+btn
-```
-
-```html
-<h1></h1>
-<h2></h2>
-<p></p>
-<button></button>
-```
-
-
-&nbsp;
-
-4.
-
-```html
-(table>tr>td)*2
-```
-
-```html
-<table>
-    <tr>
-        <td></td>
-    </tr>
-</table>
-<table>
-    <tr>
-        <td></td>
-    </tr>
-</table>
-```
-
-&nbsp;
-
-5.
-
-```html
-table>tr>td^^ul>li
-```
-
-```html
-<table>
-    <tr>
-        <td></td>
-    </tr>
-</table>
-<ul>
-    <li></li>
-</ul>
-```
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 &nbsp;
