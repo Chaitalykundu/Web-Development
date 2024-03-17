@@ -4,6 +4,21 @@ YouTube : [Web Development - WsCube Tech](https://www.youtube.com/watch?v=HVjjoM
 
 &nbsp;
 
+# Web Development classification
+
+- Web Development
+
+  - Front-end development
+
+    - HTML : Markup language
+    - CSS : Cascading Stylesheet
+    - JavaScript : Programming language
+
+  - Backend development
+  - Full stack development
+
+&nbsp;
+
 ## Five layers of software
 
 ```md
@@ -55,15 +70,15 @@ HOSTING - Where data is stored
 | ----------------- | ---------------- | ---------- | ---------- | ------ | ---------------------------------------------------------- |
 | HTML              | Day 1 - 7        |            |            | Done   | [HTML code validator](https://validator.w3.org/)           |
 | CSS               | Day 8 - 20 (13)  | 05-05-2023 | 16-05-2023 |        | [CSS code validator](https://jigsaw.w3.org/css-validator/) |
-| JavaScript        | Day 21 - 35 (15) | 01-06-2023 | 15-06-2023 |        |
-| Git               | Day 36 - 37      |            |            |        |
-| Web Fundamentals  | Day 38 - 48      |            |            |        |
-| Framework (React) | Day 49 - 60      |            |            |        |
-| Package Manager   |                  |            |            |        |
-| State Management  |                  |            |            |        |
-| Unit testing      |                  |            |            |        |
-| site generator    |                  |            |            |        |
-|                   |                  |            |            |        |
+| JavaScript        | Day 21 - 35 (10) | 17-03-2024 | 27-03-2024 |        |                                                            |
+| Git               | Day 36 - 37      |            |            |        |                                                            |
+| Web Fundamentals  | Day 38 - 48      |            |            |        |                                                            |
+| Framework (React) | Day 49 - 60      |            |            |        |                                                            |
+| Package Manager   |                  |            |            |        |                                                            |
+| State Management  |                  |            |            |        |                                                            |
+| Unit testing      |                  |            |            |        |                                                            |
+| site generator    |                  |            |            |        |                                                            |
+|                   |                  |            |            |        |                                                            |
 
 &nbsp;
 
@@ -75,20 +90,19 @@ HOSTING - Where data is stored
 | CSS                          | Day 8 - 20  | 19  | Done   |
 | JavaScript                   | Day 21 - 35 | 15  |        |
 | Web Fundamentals             | Day 36 - 45 |     |        |
-| Responsive Web design        |             | 2   |
+| Responsive Web design        |             | 2   |        |
 | Git                          | Day 47 - 48 |     |        |
 | React                        | Day 49 - 60 |     |        |
 | State Management             |             |     |        |
 | Unit testing                 |             |     |        |
 | Bootstrap or Tailwind CSS    | 67-80       |     |        |
-| Python or Advance javascript | 81-110      |     |
+| Python or Advance javascript | 81-110      |     |        |
 | Django or nodejs             | 111 - 140   |     |        |
 | MySQL                        | 141 - 160   |     |        |
 | Rest API or JSON API         | 161 - 172   |     |        |
 | AWS                          | 173 - 185   |     |        |
 | Recapitulate                 | 186 - 200   |     |        |
 
-|
 &nbsp;
 
 &nbsp;

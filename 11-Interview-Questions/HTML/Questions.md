@@ -273,4 +273,8 @@ The button tag is used in HTML 5. It is used to create a clickable button within
 
 &nbsp;
 
+# Difference btw HTML & CSS
+
+HTML is the skeleton of a structure
+
 &nbsp;

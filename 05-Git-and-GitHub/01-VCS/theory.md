@@ -52,6 +52,12 @@ A separate branch is created for every contributor who made the changes and the 
 
 &nbsp;
 
+# Different VCS
+
+- Git
+- Subversion (SVN)
+- Mercurial
+
 &nbsp;
 
 &nbsp;

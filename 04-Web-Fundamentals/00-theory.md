@@ -34,7 +34,7 @@ The World Wide Web is based on several different technologies:
 * Hypertext Markup Language (HTML)
 * Hypertext Transfer Protocol (HTTP)
 
-A **Web browser** is used to access web pages. Web browsers can be defined as programs which display text, data, pictures, animation and video on the Internet. 
+A **Web browser** is used to access web pages. Web browsers can be defined as programs which display text, data, pictures, animation and video on the Internet.
 
 Hyperlinked resources on the World Wide Web can be accessed using software interfaces provided by Web browsers.
 
@@ -57,13 +57,13 @@ Initially, Web browsers were used only for surfing the Web but now they have bec
 
 &nbsp;
 
-## Components of the Web: 
+## Components of the Web
 
 There are 3 components of the web:
 
-* **Uniform Resource Locator (URL)** : serves as a system for resources on the web. 
+* **Uniform Resource Locator (URL)** : serves as a system for resources on the web.
 
-* **HyperText Transfer Protocol (HTTP)** : specifies communication of browser and server. 
+* **HyperText Transfer Protocol (HTTP)** : specifies communication of browser and server.
 
 * **Hyper Text Markup Language (HTML)** : defines the structure, organization and content of a webpage.
 
