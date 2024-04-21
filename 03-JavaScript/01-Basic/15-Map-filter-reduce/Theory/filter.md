@@ -1,22 +1,12 @@
 # Description
 
-`map()` creates a new array from calling a function for every array element.
+The `filter()` method creates a new array filled with elements that pass a test provided by a function.
 
-`map()` does not execute the function for empty elements.
+The `filter()` method does not execute the function for empty elements.
 
-`map()` does not change the original array.
+The `filter()` method does not change the original array.
 
 **_`map`, `filter`, `reduce` are higher order array method._**
-
-&nbsp;
-
-&nbsp;
-
-# Difference btw map and forEach
-
-When we need to create new array we use map
-
-And when we need to do any operation we use forEach
 
 &nbsp;
 
@@ -25,14 +15,7 @@ And when we need to do any operation we use forEach
 # Syntax
 
 ```js
-array.map(function(currentValue, index, arr), thisValue)
-```
-
-```js
-arr.map((value)=>{
-    return value;
-})
-
+array.filter(function(currentValue, index, arr), thisValue)
 ```
 
 &nbsp;
@@ -64,7 +47,8 @@ arr.map((value)=>{
 
 | Type     | Description                                       |
 | -------- | ------------------------------------------------- |
-| An array | The results of a function for each array element. |
+| An array | An array of elements that pass the test.
+||An empty array if no elements pass the test. |
 
 &nbsp;
 
@@ -72,24 +56,14 @@ arr.map((value)=>{
 
 # Examples
 
-Return a new array with the square root of all element values:
+Return a new array with the age >=18
 
 ```js
-const numbers = [4, 9, 16, 25];
-const newArr = numbers.map(Math.sqrt)
-```
+const ages = [32, 33, 16, 40];
+const result = ages.filter(checkAdult);
 
-&nbsp;
-
-Multiply all the values in an array with 10:
-
-```js
-
-const numbers = [65, 44, 12, 4];
-const newArr = numbers.map(myFunction)
-
-function myFunction(num) {
-  return num * 10;
+function checkAdult(age) {
+  return age >= 18;
 }
 ```
 
@@ -99,7 +73,7 @@ function myFunction(num) {
 
 # Browser Support
 
-`map()` is an ECMAScript5 (ES5) feature.
+`filter()` is an ECMAScript5 (ES5) feature.
 
 ES5 (JavaScript 2009) fully supported in all modern browsers since July 2013
 

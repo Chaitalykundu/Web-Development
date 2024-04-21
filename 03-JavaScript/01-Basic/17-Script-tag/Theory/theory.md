@@ -9,9 +9,7 @@ The script tag can be used to insert external and internal scripts.
 ## Internal javascript code
 
 ```js
-<script>
-    alert("Hello")
-</script>
+<script>alert("Hello")</script>
 ```
 
 &nbsp;
@@ -24,7 +22,7 @@ The script tag can be used to insert external and internal scripts.
 
 &nbsp;
 
-The benefit of separate javascript file is that the browser can download it and store it in its cache.
+The benefit of separate javascript file is that the browser can download it and store it in its cache. It also makes the code readable.
 
 &nbsp;
 
@@ -34,61 +32,42 @@ The benefit of separate javascript file is that the browser can download it and 
 
 &nbsp;
 
+
+&nbsp;
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;
 
 &nbsp;
 
+&nbsp;
 
+&nbsp;
 
 &nbsp;
 
 &nbsp;
 
+&nbsp;
 
+&nbsp;
 
 &nbsp;
 
 &nbsp;
 
+&nbsp;
 
+&nbsp;
 
 &nbsp;
 
 &nbsp;
 
-
-
 &nbsp;
-
-&nbsp;
-
-
-
-&nbsp;
-
-&nbsp;
-
-
-
-&nbsp;
-
-&nbsp;
-
-
-
-&nbsp;
-
-&nbsp;
-
-
-
-&nbsp;
-
-&nbsp;
-
-
 
 &nbsp;
 

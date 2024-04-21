@@ -87,13 +87,24 @@ Syntax : `document.write("Hello world)`
 
 &nbsp;
 
-&nbsp;
+# 5. What is Node?
+
+Node is a CPP programming language where we can add js functionalities.
 
 &nbsp;
 
 &nbsp;
 
+# 6. Is JS a Client-Side or Server-Side Language?
+
+Client-side
+
 &nbsp;
+
+&nbsp;
+
+# 7. Why do we avoid to use var?
+
 
 &nbsp;
 

@@ -6,6 +6,8 @@ DOM = Document Object Model
 
 &nbsp;
 
+DOM is a JS representation of HTML page.
+
 When a web page is loaded, the browser creates a Document Object Model of the page.
 
 The HTML DOM model is constructed as a tree of Objects:
@@ -17,7 +19,6 @@ The HTML DOM model is constructed as a tree of Objects:
 &nbsp;
 
 &nbsp;
-
 
 With the object model, JavaScript gets all the power it needs to create dynamic HTML:
 
@@ -71,4 +72,3 @@ In other words: The HTML DOM is a standard for how to **get**, **change**, **add
 &nbsp;
 
 &nbsp;
-

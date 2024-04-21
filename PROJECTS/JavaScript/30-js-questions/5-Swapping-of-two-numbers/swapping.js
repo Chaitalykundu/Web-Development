@@ -30,8 +30,6 @@ console.log("After swapping : num1 = " + num1 + " and num2 = " + num2);
 
 // using ^ operator
 
-
-
 console.log("\nBefore swapping : num1 = " + num1 + " and num2 = " + num2)
 
 num1 = num1 ^ num2;

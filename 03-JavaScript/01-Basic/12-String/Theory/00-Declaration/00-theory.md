@@ -4,6 +4,9 @@ JavaScript `strings` are for storing and manipulating text.
 
 A JavaScript string is **zero or more characters** written inside single or double quotes.
 
+
+JavaScript Strings are **immutable**
+
 &nbsp;
 
 ## Example

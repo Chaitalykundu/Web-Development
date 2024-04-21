@@ -8,9 +8,9 @@ JavaScript = Logic
 
 &nbsp;
 
-&nbsp;
-
 JavaScript is not understandable by computer but the only browser understands JavaScript. So, we need a program to convert our JavaScript program into computer-understandable language.
+
+JS can be used in the HTML to make the webpage interactive.
 
 Browser has an embedded engine called **JavaScript engine** or the **JavaScript Runtime** for this.
 
@@ -24,15 +24,13 @@ A `JavaScript engine` is a computer program that executes JavaScript code and co
 
 &nbsp;
 
-&nbsp;
-
 <img src="../../assets/javascript-in-browser.webp">
 
 &nbsp;
 
 &nbsp;
 
-# List of JavaScript Engines:
+# List of JavaScript Engines
 
 | Browser                  | Name of Javascript Engine |
 | ------------------------ | ------------------------- |
@@ -49,11 +47,12 @@ A `JavaScript engine` is a computer program that executes JavaScript code and co
 
 Every browser has same developer tools which makes a developer's life so easier.
 
-|Tools|Contains|
-|-|-|
-|Elements| All HTML elements|
-|Console| All the errors and logs|
-|Network| All network requests|
+| Tools      | Contains                                               |
+| ---------- | ------------------------------------------------------ |
+| Elements   | All HTML elements                                      |
+| Console    | All the errors and logs                                |
+| Network    | All network requests                                   |
+| Lighthouse | It tells what improvements can be done in this website |
 
 &nbsp;
 
@@ -74,4 +73,3 @@ Every browser has same developer tools which makes a developer's life so easier.
 &nbsp;
 
 &nbsp;
-
