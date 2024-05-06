@@ -6,34 +6,25 @@ The document object represents your web page.
 
 Whole document is a javascript object.
 
-If you want to access any element in an HTML page, you always start with accessing the document object.
+If you want to access any element in an HTML page, you always start with accessing the document object. (i.g : document.)
 
 &nbsp;
 
 &nbsp;
-
-`HTML` is used to structure the web pages and `Javascript` is used to add behavior to our web pages.
-
-When an HTML file is loaded into the browser, the javascript can not understand the HTML document directly. So, a corresponding document is created(DOM).
-
-DOM is basically the representation of the same HTML document but in a different format with the use of objects.
 
 DOM provides several methods to find & manipulate the behavior of the HTML element:
 
-&nbsp;
-
-&nbsp;
-
 # Finding HTML Elements
 
-| Method                                | Description                   |
-| ------------------------------------- | ----------------------------- |
-| document.getElementById(id)           | Find an element by element id |
-| document.getElementsByTagName(name)   | Find elements by tag name     |
-| document.getElementsByClassName(name) | Find elements by class name   |
-| document.getElementsByName(name)| Find elements by name |
-|querySelector()| This method is used to return the first element that matches a specified CSS selector(s) in the document|
-|querySelectorAll()| This method is used to return a collection of an element’s child elements that match a specified CSS selector(s), as a static NodeList object|
+| Methods                               | Description                                                                                                                                   |
+| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| document.getElementById(id)           | Find an element by element id                                                                                                                 |
+| document.getElementsByTagName(name)   | Find elements by tag name                                                                                                                     |
+| document.getElementsByClassName(name) | Find elements by class name                                                                                                                   |
+| document.getElementsByName(name)      | Find elements by name                                                                                                                         |
+| querySelector()                       | This method is used to return the first element that matches a specified CSS selector(s) in the document                                      |
+| querySelectorAll()                    | This method is used to return a collection of an element’s child elements that match a specified CSS selector(s), as a static NodeList object |
+|                                       |                                                                                                                                               |
 
 &nbsp;
 
@@ -68,6 +59,7 @@ DOM provides several methods to find & manipulate the behavior of the HTML eleme
 | document.appendChild(element)   | Add an HTML element               |
 | document.replaceChild(new, old) | Replace an HTML element           |
 | document.write(text)            | Write into the HTML output stream |
+|                                 |                                   |
 
 &nbsp;
 

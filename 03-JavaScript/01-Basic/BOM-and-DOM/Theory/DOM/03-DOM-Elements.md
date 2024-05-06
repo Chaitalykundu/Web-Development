@@ -1,6 +1,6 @@
-# DOM Elements
+# Overview
 
-This page teaches you how to find and access HTML elements in an HTML page.
+* how to find and access HTML elements in an HTML page.
 
 &nbsp;
 
@@ -28,12 +28,12 @@ The easiest way to find an HTML element in the DOM, is by using the `element id`
 This example finds the element with `id="intro"`:
 
 ```js
-const element = document.getElementById("intro");
+const result = document.getElementById("intro");
 ```
 
 &nbsp;
 
-If the element is found, the method will return the element as an object (in element).
+If the element is found, the method will return the element as an object (in result).
 
 If the element is not found, element will contain **null**.
 

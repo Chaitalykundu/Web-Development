@@ -1,8 +1,8 @@
 let user = prompt("Enter S, W or G")
-let computerIP = Math.floor(Math.random()*2)
+let computerIP = Math.floor(Math.random()*2)  // it will print 0 or 1 or 2
 document.write(computerIP,"\n")
 
-let computer = ["S","W","G"][computerIP]
+let computer = ["S","W","G"][computerIP] // it will replace 0,1,2 to S,W,G
 
 
 const match = (user, computer)=>{
