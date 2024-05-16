@@ -2,7 +2,7 @@
 
 | Topic               | Status |
 | ------------------- | ------ |
-| VCS                 ||
+| VCS                 |        |
 | Git and Github      |        |
 | clone               |        |
 | pull and fetch      |        |
@@ -23,7 +23,6 @@
 |                     |        |
 
 &nbsp;
-
 
 1. https://www.linkedin.com/posts/amit-kumar-mehta-7904092b8_git-and-github-ugcPost-7193200716524457985-b4CO?utm_source=share&utm_medium=member_desktop
 

@@ -1,6 +1,5 @@
 Source : [30+ javascript questions](https://www.youtube.com/watch?v=hQ9_27otvCo)
 
-
 | SL no | Question                                                       | Status | Note                                                                            |
 | ----- | -------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------- |
 | 1     | Print hello world                                              | Done   |
@@ -35,3 +34,13 @@ Source : [30+ javascript questions](https://www.youtube.com/watch?v=hQ9_27otvCo)
 |       | replace characters of string                                   |
 |       | reverse a string using for loop                                |
 |       | sort words in alphabetical order                               |
+
+&nbsp;
+
+&nbsp;
+
+# Formula
+
+Area of rectangle = length \* width
+
+Area of circle = 3.14 * radius * radius
