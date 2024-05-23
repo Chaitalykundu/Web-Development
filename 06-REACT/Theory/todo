@@ -1,0 +1,40 @@
+Quick Start:
+    ✔ How to create and nest components @done(24-05-23 21:35)
+    ✔ How to add markup and styles @done(24-05-24 01:38)
+    - How to display data
+    - How to render conditions and lists
+    - How to respond to events and update the screen
+    - How to share data between components
+
+
+
+
+Describing the UI:
+    ✔ How to write your first React component @done(24-05-23 22:21)
+        ✔ What a component is @done(24-05-23 22:21)
+        ✔ What role components play in a React application @done(24-05-23 22:21)
+        ✔ How to write your first React component @done(24-05-23 22:21)
+
+    ✔ When and how to create multi-component files / Importing and Exporting Components @done(24-05-23 23:39)
+        ✔ What a root component file is @done(24-05-23 23:39)
+        ✔ How to import and export a component @done(24-05-23 23:39)
+        ✔ When to use default and named imports and exports @done(24-05-23 23:39)
+        ✔ How to import and export multiple components from one file @done(24-05-23 23:39)
+        ✔ How to split components into multiple files @done(24-05-23 23:39)
+
+    ✔ How to add markup to JavaScript with JSX @done(24-05-24 01:14)
+        ✔ Why React mixes markup with rendering logic @done(24-05-24 01:14)
+        ✔ How JSX is different from HTML @done(24-05-24 01:14)
+        ✔ How to display information with JSX @done(24-05-24 01:14)
+
+    - How to use curly braces with JSX to access JavaScript functionality from your components
+        - How to pass strings with quotes
+        - How to reference a JavaScript variable inside JSX with curly braces
+        - How to call a JavaScript function inside JSX with curly braces
+        - How to use a JavaScript object inside JSX with curly braces
+        
+    - How to configure components with props
+    - How to conditionally render components
+    - How to render multiple components at a time
+    - How to avoid confusing bugs by keeping components pure
+    - Why understanding your UI as trees is useful

@@ -1,31 +1,37 @@
-import "./App.css";
+import './App.css';
 
-let name = "Chaitaly";
+function Button() {
+  return (
+    <button>I am button</button>
+  );
+}
+
+const name = 'Chaitaly';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>My first App</h1>
-        <nav>
-          <li>Home</li>
-          <li>About</li>
-          <li>Contact Us</li>
-        </nav>
-      </header>
-      <main>
-        <div className="container"> 
-        <h2>Hello {name}</h2>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam hic sed
-            dolorum illo assumenda consequatur alias vero tempore debitis
-            deserunt eveniet, quis iusto ipsa ullam nesciunt obcaecati expedita
-            quibusdam. Qui perspiciatis non voluptatibus unde maiores totam
-            quaerat dolorem cupiditate?
-          </p>
-        </div>
-      </main>
+    <>
+    <div className='app'>
+      <h1>Hello World</h1>
+      <Button />
+
+    <h1>Hedy Lamarr's Todos</h1>
+    <img
+      src="https://i.imgur.com/yXOvdOSs.jpg"
+      alt="Hedy Lamarr"
+      className="photo"
+    />
+    <ul>
+        <li>Invent new traffic lights</li>
+        <li>Rehearse a movie scene</li>
+        <li>Improve the spectrum technology</li>
+    </ul>
     </div>
+
+    <div className="todo">
+      <h1>{name}'s ToDo List</h1>
+    </div>
+    </>
   );
 }
 

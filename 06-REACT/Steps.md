@@ -19,12 +19,15 @@
 ## Create a react app
 
 This command will first create a different folder inside main one and then install the packages in sub folder
+
 > npx create-react-app project_name
 
 &nbsp;
 
-This command will install the packages in main forder
+This command will install the packages in main folder
+
 > npx create-react-app .
+
 &nbsp;
 
 ## Go go project

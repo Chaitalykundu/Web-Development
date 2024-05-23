@@ -28,9 +28,17 @@ Node JS is used to use JavaScript without browser.
 &nbsp;
 
 &nbsp;
+
+# React is a library or framework?
+
+Library 
+
 &nbsp;
 
 &nbsp;
+
+# Difference bbtw library and framework
+
 &nbsp;
 
 &nbsp;
