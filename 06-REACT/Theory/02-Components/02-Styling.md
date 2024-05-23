@@ -1,6 +1,6 @@
 # Overview
 
-- Adding styles 
+- Adding styles
 
 &nbsp;
 
@@ -8,7 +8,7 @@
 
 &nbsp;
 
-# Adding styles 
+# Adding styles
 
 In React, we specify a CSS class with `className`. It works the same way as the HTML class attribute:
 

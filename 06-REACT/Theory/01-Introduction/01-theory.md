@@ -1,9 +1,8 @@
-- How to create and nest components
-- How to add markup and styles
-- How to display data
-- How to render conditions and lists
-- How to respond to events and update the screen
-- How to share data between components
+# Overview
+
+- Introduction
+- Features
+- Some important topics to learn in ReactJS
 
 &nbsp;
 
@@ -41,7 +40,7 @@ It is fast, flexible and it also has a strong community sitting online to help y
 
 # Some important topics to learn in ReactJS
 
-- Component Architecture (already discussed).
+- Component Architecture
 
 - State: Basically ‘state’ holds synchronous variables. If you change the value of a state variable then the change is reflected immediately in all the places that particular variable is used.
 

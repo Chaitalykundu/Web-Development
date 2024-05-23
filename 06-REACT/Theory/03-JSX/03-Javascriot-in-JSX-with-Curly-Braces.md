@@ -1,6 +1,6 @@
 # Overview
 
-- Where to use curly braces 
+- Where to use curly braces
 - Passing strings with quotes
 
 &nbsp;
@@ -17,13 +17,13 @@ Sometimes you will want to add a little JavaScript logic or reference a dynamic 
 
 &nbsp;
 
-# Where to use curly braces 
+# Where to use curly braces
 
 You can only use curly braces in two ways inside JSX:
 
-* ***As text directly inside a JSX tag***: `<h1>{name}'s To Do List</h1>` works, `but <{tag}>Gregorio Y. Zara's To Do List</{tag}>` will not.
+- **_As text directly inside a JSX tag_**: `<h1>{name}'s To Do List</h1>` works, `but <{tag}>Gregorio Y. Zara's To Do List</{tag}>` will not.
 
-* ***As attributes immediately following the = sign***: `src={avatar}` will read the avatar variable, but `src="{avatar}"` will pass the string `"{avatar}"`.
+- **_As attributes immediately following the = sign_**: `src={avatar}` will read the avatar variable, but `src="{avatar}"` will pass the string `"{avatar}"`.
 
 &nbsp;
 
@@ -43,7 +43,6 @@ export default function App() {
     />
   );
 }
-
 ```
 
 Here, `"https://i.imgur.com/7vQD0fPs.jpg"` and `"Gregorio Y. Zara"` are being passed as strings.
@@ -54,14 +53,10 @@ But what if you want to dynamically specify the src or alt text? You could use a
 
 ```js
 export default function App() {
-  const avatar = 'https://i.imgur.com/7vQD0fPs.jpg';
-  const description = 'Gregorio Y. Zara';
+  const avatar = "https://i.imgur.com/7vQD0fPs.jpg";
+  const description = "Gregorio Y. Zara";
   return (
-    <img
-      className="avatar"
-      src={avatar}
-      alt={description}
-    />
+    <img className="avatar" src={avatar} alt={description} />
   );
 }
 ```
@@ -70,7 +65,7 @@ export default function App() {
 
 &nbsp;
 
-# Using curly braces: A window into the JavaScript world 
+# Using curly braces: A window into the JavaScript world
 
 &nbsp;
 
@@ -78,12 +73,9 @@ export default function App() {
 
 &nbsp;
 
-
-
-
 &nbsp;
 
-
+&nbsp;
 
 &nbsp;
 
@@ -91,7 +83,11 @@ export default function App() {
 
 &nbsp;
 
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -99,24 +95,8 @@ export default function App() {
 
 &nbsp;
 
-
-
 &nbsp;
 
 &nbsp;
 
 &nbsp;
-
-
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-
-
-&nbsp;
-
-

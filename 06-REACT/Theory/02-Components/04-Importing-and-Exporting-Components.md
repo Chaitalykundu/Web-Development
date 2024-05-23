@@ -5,7 +5,6 @@
 - Default vs named exports
 - Ways of importing and exporting default and named component
 
-
 &nbsp;
 
 &nbsp;
@@ -101,7 +100,7 @@ export default function App() {
 
 &nbsp;
 
-# Exporting and importing multiple components from the same file 
+# Exporting and importing multiple components from the same file
 
 If you want to show just one `Button` instead of a Multiple button, You can export the `Button` component, too. But App.js already has a default export, and you can’t have two default exports. You could create a new file with a default export, or you could add a named export for Button. A file can only have one default export, but it can have numerous named exports!
 

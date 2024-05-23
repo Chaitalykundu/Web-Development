@@ -1,7 +1,7 @@
 # Overview
 
 - What is component
-- Syntax / Defining a component 
+- Syntax / Defining a component
 - Example
 - Types of components
 - Naming Rule
@@ -64,7 +64,7 @@ With `function App() { }` you define a JavaScript function with the name `App`.
 
 The component returns an `<div></div>` tag. `<div></div>` is written like HTML, but it is actually JavaScript under the hood! This syntax is called **_JSX_**, and it lets you embed markup inside JavaScript.
 
-### TIP:
+### TIP
 
 The `return` statement must be wrapped in a pair of parentheses. Without parentheses, any code on the lines after return will be ignored!
 
