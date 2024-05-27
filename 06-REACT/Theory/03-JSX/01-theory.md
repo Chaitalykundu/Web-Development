@@ -1,6 +1,7 @@
 # Overview
 
 - What is JSX
+- Difference Between JSX and React
 - What is Fragment
 
 &nbsp;
@@ -35,14 +36,27 @@ JSX and React are two separate things. JSX is a `syntax extension`, while React 
 
 &nbsp;
 
+# Advantages of using JSX in React JS
+
+- JSX helps us keep our code simpler and elegant when writing large pieces of code.
+
+- According to the React docs, most people find it helpful as a visual aid when working with UI inside the JavaScript code.
+
+- JSX also allows React to show more useful error and warning messages.
+
+- If one is familiar with HTML, it is quite easy to use JSX when building React application
+
+- Faster than normal JavaScript as it performs optimizations while translating to regular JavaScript.
+
+&nbsp;
+
+&nbsp;
+
 # What is Fragment
 
-JSX can return only one element. If we want to return multiple elements then we can use `<>` and `</>`. This empty tag is called a _**Fragment**_.
+JSX can return only one element. If we want to return multiple elements then we can use `<>` and `</>`. This _empty tag_ is called a _**Fragment**_.
 
 Fragments let you group things without leaving any trace in the browser HTML tree.
-
-&nbsp;
-&nbsp;
 
 &nbsp;
 

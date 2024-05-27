@@ -1,8 +1,24 @@
 # Overview
 
+- 8 Ways to Style React Components
 - Adding styles
 
 &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# 8 Ways to Style React Components
+
+- Inline CSS
+- Normal CSS
+- CSS in JS
+- Styled Components
+- CSS module
+- Sass & SCSS
+- Less
+- Stylable
 
 &nbsp;
 
@@ -23,9 +39,6 @@ import './css_filename';
   border-radius: 50%;
 }
 ```
-
-&nbsp;
-&nbsp;
 
 &nbsp;
 &nbsp;

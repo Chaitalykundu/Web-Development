@@ -14,7 +14,13 @@
 
 # Nesting
 
-Components are regular JavaScript functions, so you can keep multiple components in the same file.
+Components are regular JavaScript functions, so you can keep multiple components in the same file. If any component is used inside another component then it is called nesting.
+
+&nbsp;
+
+<u>***Parent component***</u>: The component in which we nest another component is called parent component.
+
+<u>***Child component***</u>: The component which is  nested in parent component is called child component.
 
 &nbsp;
 

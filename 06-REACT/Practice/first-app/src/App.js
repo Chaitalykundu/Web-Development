@@ -1,37 +1,51 @@
-import './App.css';
+import "./App.css";
+import Embedding from "./components/embeddinJSX";
+import UserProfile from "./components/userProfileCard";
+import Props from "./components/Props/Props";
+import Product from "./components/Props/Products/Product";
+import Clock from "./components/Props/Clock"
+import DefaultProps from "./components/Props/DefaultProps/DefaultProps";
+// import ExtractingComponents from './components/ExtractingComponents'
 
 function Button() {
-  return (
-    <button>I am button</button>
-  );
+  return <button>I am button</button>;
 }
-
-const name = 'Chaitaly';
 
 function App() {
   return (
     <>
-    <div className='app'>
-      <h1>Hello World</h1>
-      <Button />
+      <div className="app">
+        <h1>Hello World</h1>
 
-    <h1>Hedy Lamarr's Todos</h1>
-    <img
-      src="https://i.imgur.com/yXOvdOSs.jpg"
-      alt="Hedy Lamarr"
-      className="photo"
-    />
-    <ul>
-        <li>Invent new traffic lights</li>
-        <li>Rehearse a movie scene</li>
-        <li>Improve the spectrum technology</li>
-    </ul>
-    </div>
+        {/* Button added */}
+        <Button />
+      </div>
 
-    <div className="todo">
-      <h1>{name}'s ToDo List</h1>
-    </div>
+
+      {/* embedding JSX */}
+      <Embedding />
+
+      {/* User Profile Card */}
+      <UserProfile />
+
+      {/* props */}
+      <Props />
+
+      {/* Extracting components */}
+      {/* <ExtractingComponents author ={{ avatarUrl : "asdfgh", name : "asdfgh"}}/> */}
+
+
+      {/* Rendering Product */}
+      <Product />
+      
+      {/* Rendering Clock */}
+      Clock <Clock />
+
+{/* Rendering Default props */}
+<DefaultProps/>
+
     </>
+
   );
 }
 

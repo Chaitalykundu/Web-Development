@@ -34,6 +34,13 @@ Describing the UI:
         - How to use a JavaScript object inside JSX with curly braces
         
     - How to configure components with props
+        - How to pass props to a component
+        - How to read props from a component
+        - How to specify default values for props
+        - How to pass some JSX to a component
+        - How props change over time
+
+
     - How to conditionally render components
     - How to render multiple components at a time
     - How to avoid confusing bugs by keeping components pure
