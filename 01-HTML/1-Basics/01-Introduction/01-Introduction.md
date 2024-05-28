@@ -2,7 +2,9 @@
 
 - HTML stands for **Hyper Text Markup Language**.
 
-- HTML provides a way of displaying web pages with text and images or multimedia content. It describes the structure of web pages.
+- HTML provides a way of displaying web pages with text and images or multimedia content.
+
+- HTML is used to define the `layout` or the `structure` of a webpage.
 
 - Hypertext is a way of connecting texts or images or web pages to another one, either within a single website or between websites.
 
@@ -10,11 +12,9 @@
 
 - A Markup Language is a way to structure and format the content of a webpage. To do this HTML uses two things: `tags` and `attributes`.
 
-- The latest version is known as HTML5.
+- The latest version of HTML is known as HTML5.
 
-- HTML is used to define the `layout` of a webpage.
-
-- index.html is the entry point of all webpage.
+- `index.html` is the entry point of all webpage.
 
 &nbsp;
 
@@ -37,12 +37,12 @@ There are **_two_** types of pages.
 
 &nbsp;
 
-# N.B:
+# N.B
 
-- HTML documents are saved with .html or .htm file extensions.
+- HTML documents are saved with `.html` or `.htm` file extensions.
 
-- ***HTML tags are enclosed in angled brackets*** (< >) to define the structure and content of web pages. They can also contain attributes or additional information about the tag.
+- **_HTML tags are enclosed in angled brackets_** (< >) to define the structure and content of web pages. They can also contain attributes or additional information about the tag.
 
-- ***HTML elements are the building blocks of a web page***. These are defined by a start tag, content, and end tag, with common examples being paragraph `<p>` tags and more complex elements like images and videos via `<img>` and `<video>` tags.
+- **_HTML elements are the building blocks of a web page_**. These are defined by a start tag, content, and end tag.
 
-- ***HTML attributes are extra bits of information*** that you can add to HTML elements to modify behavior or provide additional information.
+- **_HTML attributes are extra bits of information_** that you can add to HTML elements to modify behavior or provide additional information.

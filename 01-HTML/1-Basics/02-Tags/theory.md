@@ -1,24 +1,24 @@
 # Tags
 
-- Tags are like keywords, which defines that how browser will format and display the contents.
+- Tags are like keywords, which define how browsers will format and display the contents.
 
-- Tags have pre-defined meaning to the browsers.
+- Tags have pre-defined meanings to the browsers.
 
-- Every tag in HTML perform different tasks.
+- Every tag in HTML performs different tasks.
 
 - HTML Tags are always written in lowercase letters. Though HTML is Not Case Sensitive. `<p>` and `<P>` are same
 
 - They are usually enclosed in angle brackets `<` & `>`
 
-- Tags with an opening and closing can have any number of tags within themselves. Means nested tags are also supported.
+- Tags with an opening and closing can have any number of tags within themselves. This means nested tags are also supported.
 
 &nbsp;
 
 &nbsp;
 
-# Types of tag
+# Types of tags
 
-There are two types of tags in HTML
+There are **two** types of tags in HTML
 
 1. Container tag
 2. Empty Tag
@@ -31,9 +31,9 @@ There are two types of tags in HTML
 
 - Example : `<u>` and `</u>` will **underline** text.
 
-- You must include the slash ( / ) in the closing tag in order for the pair to work.
+- You must include the slash ( / ) in the closing tag in order to the pair to work.
 
-- This is also called Paired tag
+- This is also called **Paired tag**
 
 &nbsp;
 
@@ -44,15 +44,16 @@ There are two types of tags in HTML
 - list of empty tag
   |tag|
   |-|
-  | `<hr>`|
-  | `<br>`|
-  | `<img>`|
-  |`<input>`|
-  |`<link>`|
-  |`<meta>`|
-  |`<source>`|
+  |`<hr/>`|
+  |`<br/>`|
+  |`<img/>`|
+  |`<input/>`|
+  |`<link/>`|
+  |`<meta/>`|
+  |`<source/>`|
+  |`<area/>`|
 
-- These are also called unpaired tag
+- These are also called **unpaired tag**
 
 &nbsp;
 
@@ -60,4 +61,4 @@ There are two types of tags in HTML
 
 - We can also classify tags in terms of their utility
 
-- Refer [learn](../../learn.md)
+<!-- - Refer [learn](../../learn.md) -->
