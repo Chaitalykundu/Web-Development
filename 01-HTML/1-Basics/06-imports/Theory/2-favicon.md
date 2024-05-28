@@ -1,6 +1,6 @@
-# Chapter Summary
+# Overview
 
-- We use HTML `<link>` element to insert a **favicon**
+- We use HTML `<link>` tag to insert a **favicon**
 
 &nbsp;
 
@@ -8,9 +8,11 @@
 
 # Favicon
 
-- A favicon is **a small image** displayed next to the page title in the browser tab.
+- A favicon is a **small image** displayed next to the page title in the browser tab.
 
-* A favicon is a small image, so it should be a simple image with **high contrast**.
+- A favicon is a small image, so it should be a simple image with **high contrast**.
+
+&nbsp;
 
 &nbsp;
 
@@ -18,20 +20,22 @@
 
 - To add a favicon to your website, either save your favicon image to the root directory of your web server, or create a folder in the root directory called images, and save your favicon image in this folder.
 
-* A common name for a favicon image is **_"favicon.ico"_**.
+- A common name for a favicon image is **_"favicon.ico"_**.
 
-* Next, add a `<link>` element to your "index.html" file, after the `<title>` element, like this:
-
-&nbsp;
+- Next, add a `<link>` element to your "index.html" file, after the `<title>` element
 
 &nbsp;
 
-## Example :
+&nbsp;
+
+## Example
 
 ```html
 <head>
   <title>My Page Title</title>
+
   <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
+  
 </head>
 ```
 

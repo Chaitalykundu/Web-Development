@@ -10,15 +10,15 @@
 
 ```html
 <img src="img_girl.jpg" width="500px" height="600px" alt="girl-image" />
-
-here src, width, height and alt are attributes
 ```
 
-&nbsp;
+here src, width, height and alt are attributes
 
 &nbsp;
 
-## Summary
+&nbsp;
+
+# Summary
 
 - The `href` attribute of `<a>` specifies the URL of the page the link goes to
 

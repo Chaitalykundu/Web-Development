@@ -30,9 +30,23 @@
 
 &nbsp;
 
+# Attribute
+
+1. What is attribute
+
 &nbsp;
 
 &nbsp;
+
+# Imports
+
+1. Which tag do we use to import any file
+2. What is the use of link tag
+3. What is the syntax for importing html file
+4. What is the syntax for importing  css file
+5. What is the syntax for importing js file
+6. What is the syntax for importing a favicon
+7. What is noscript
 
 &nbsp;
 

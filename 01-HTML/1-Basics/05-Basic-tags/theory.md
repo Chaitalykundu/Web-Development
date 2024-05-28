@@ -24,15 +24,20 @@
 </html>
 ```
 
+&nbsp;
+
+
 # !DOCTYPE
 
 - It is an instruction to the web browser about what version of HTML the page is written in.
 
 - This is not case sensitive
 
-- The `<!DOCTYPE>` declaration represents the document type & helps browser to display page correctly.
+- The `<!DOCTYPE>` declaration represents the **document type** & helps browser to display page correctly.
+
 
 &nbsp;
+
 
 # HTML5
 
@@ -42,15 +47,18 @@
 
 &nbsp;
 
+
+
 # html
 
-- The `<html>` element is the root element of a webpage
+- The `<html>` element is the **root element** of a webpage
 
 &nbsp;
 
+
 # head
 
-- The `<head>` element contains meta information about the webpage
+- The `<head>` element contains **meta information** about the webpage
 
 &nbsp;
 

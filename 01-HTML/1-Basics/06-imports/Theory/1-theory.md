@@ -8,9 +8,20 @@
 
 &nbsp;
 
-Link tag is used to import any external file.
+&nbsp;
+
+
+# `link` tag
+
+- `link` tag defines the relationship between a document and an external resource
+
+- `link` tag is used to **import** any external file.
+
+- `<link>` tag can also be used to insert a **favicon**
 
 &nbsp;
+
+# Attributes of link tag
 
 - rel = relationship
 - href = hypertext reference
@@ -20,7 +31,7 @@ Link tag is used to import any external file.
 
 &nbsp;
 
-## import HTML file
+# import HTML file
 
 - In order to load an HTML file, add a `<link>` tag with an `import` in the `rel` attribute and an `href` that contains a path to the HTML file.
 
@@ -32,7 +43,7 @@ Link tag is used to import any external file.
 
 &nbsp;
 
-## import CSS file
+# import CSS file
 
 - `link` in html allows for easy embedding of stylesheets and JavaScripts needed in multiple documents.
 
@@ -42,7 +53,7 @@ Link tag is used to import any external file.
 
 &nbsp;
 
-## import JS file
+# import JS file
 
 ```html
 <script src="js/script.js"></script>
