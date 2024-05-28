@@ -56,9 +56,23 @@
 
 &nbsp;
 
+# Heading
+
+1. What is Heading tag
+2. How many headings are there in HTML
+3. Why Are Headings  Important
+4. How can we change the heading size
+
+
 &nbsp;
 
 &nbsp;
+
+# Documents Structure tag
+
+1. Which tags are known as document structure tag
+2. What is `<p>..</p>` tag
+3. What iof I add Space inside HTML Paragraph
 
 &nbsp;
 
