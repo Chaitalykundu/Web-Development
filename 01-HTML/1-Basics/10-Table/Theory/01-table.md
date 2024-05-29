@@ -70,48 +70,6 @@
 
 
 
-# `<colgroup></colgroup>` tag
-
-- It specifies a group of one or more columns in a table for formatting.
-
-- It is used as a parent container of one or more `<col>` elements to apply different properties in an HTML table.
-
-&nbsp;
-
-# Specifications
-
-|                   |             |
-| ----------------- | ----------- |
-| Tag               | Container   |
-| Display / Element | None        |
-| Usage             | HTML Tables |
-|                   |             |
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-# `<col>` tag
-
-- HTML `<col>` tag is used to specify common column properties for each column within `<colgroup>` element in an HTML table.
-
-- The `<col>` tag is useful when it requires to apply common style rules for each column cell rather than applying individually.
-
-&nbsp;
-
-# Specifications
-
-|                   |             |
-| ----------------- | ----------- |
-| Display / Element | None        |
-| Tag               | Empty tag   |
-| Usage             | HTML Tables |
-|                   |             |
-
-&nbsp;
-
 &nbsp;
 
 &nbsp;

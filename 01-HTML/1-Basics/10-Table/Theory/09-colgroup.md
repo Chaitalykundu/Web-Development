@@ -1,6 +1,7 @@
 # Overview
 
-- Introduction
+- colgroup
+- col
 - Syntax
 - Example
 - Default CSS Settings
@@ -15,7 +16,7 @@
 
 &nbsp;
 
-# Summary
+# `colgroup` Summary
 
 | Specifications          | Description / Type                                 |
 | ----------------------- | -------------------------------------------------- |
@@ -40,6 +41,12 @@
 - The span attribute specifies how many columns that get the style.
 
 - The style attribute specifies the style to give the columns.
+
+&nbsp;
+
+&nbsp;
+
+# Example
 
 ```html
 <table>
