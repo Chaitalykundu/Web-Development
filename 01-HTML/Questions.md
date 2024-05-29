@@ -52,16 +52,18 @@
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
 # Heading
 
 1. What is Heading tag
 2. How many headings are there in HTML
 3. Why Are Headings Important
 4. How can we change the heading size
+
+&nbsp;
+
+&nbsp;
+
+# Formatting
 
 &nbsp;
 
@@ -85,6 +87,14 @@
 &nbsp;
 
 &nbsp;
+
+# Table
+
+1. What is table tag
+2. What is thead tag
+3. What are the specifications of `<thead/>` tag
+3. What is th tag
+
 
 &nbsp;
 

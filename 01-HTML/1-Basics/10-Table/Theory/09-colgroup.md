@@ -1,14 +1,45 @@
+# Overview
+
+- Introduction
+- Syntax
+- Example
+- Default CSS Settings
+- Specifications
+- Tag-specific attribute
+- Global attribute
+- Event attribute
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Summary
+
+| Specifications          | Description / Type                                 |
+| ----------------------- | -------------------------------------------------- |
+| `<colgroup></colgroup>` | used as a container for the column specifications. |
+| Tag                     | Container                                          |
+| Display / Element       | None                                               |
+| Usage                   | HTML Tables                                        |
+|                         |                                                    |
+
+&nbsp;
+
+&nbsp;
+
 # col & colgroup
 
 - If you want to style the specific columns of a table, use the `<colgroup>` and `<col>` elements.
 
-* The `<colgroup>` element should be used as a container for the column specifications.
+- The `<colgroup>` element should be used as a container for the column specifications.
 
-* Each group is specified with a `<col>` element.
+- Each group is specified with a `<col>` element.
 
-* The span attribute specifies how many columns that get the style.
+- The span attribute specifies how many columns that get the style.
 
-* The style attribute specifies the style to give the columns.
+- The style attribute specifies the style to give the columns.
 
 ```html
 <table>
