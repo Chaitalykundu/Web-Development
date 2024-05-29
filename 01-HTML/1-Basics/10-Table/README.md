@@ -1,4 +1,4 @@
-- HTML tags for table
+# HTML tags for table
 
   | name     | description                                                               |
   | -------- | ------------------------------------------------------------------------- |
@@ -15,13 +15,15 @@
 
 &nbsp;
 
-- Table attributes
+&nbsp;
+
+# Table attributes
 
   | attributes for `table` | attributes for `tr` | attributes for `th` or `td` | attributes for `caption` |
   | ---------------------- | ------------------- | --------------------------- | ------------------------ |
   | bgcolor                | bgcolor             | bgcolor                     | align                    |
   | align                  | align               | rowspan                     |                          |
-  | border                 |                     | Colspan                     |                          |
+  | border                 |                     | colspan                     |                          |
   | cellpadding            |                     |                             |                          |
   | cellspacing            |                     |                             |                          |
   | height                 |                     |                             |                          |

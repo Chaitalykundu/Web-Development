@@ -37,10 +37,9 @@
 
 - The `<div>` tag is generally used by web developers to group HTML elements together and apply CSS styles to many elements at once.
 
-
 - The `<div>` tag is easily styled by using the class or id attribute.
 
-- Any sort of content can be put inside the `<div>` tag! 
+- Any sort of content can be put inside the `<div>` tag!
 
 - By default, browsers always place a line break before and after the `<div>` element.
 
@@ -76,7 +75,6 @@ div {
 ```
 
 &nbsp;
-
 
 # Specifications
 
