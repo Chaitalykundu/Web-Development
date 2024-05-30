@@ -2,9 +2,9 @@
 
 - The `tt` tag was used in HTML 4 to define teletype text.
 
-* This is not Supported in HTML5.
+- This is not Supported in HTML5.
 
-* What to Use Instead --
+- What to Use Instead --
 
 ```md
 1.  the <kbd> element (for keyboard input),
@@ -17,7 +17,7 @@
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```html
 <tt>text</tt>
@@ -25,7 +25,7 @@
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <p><tt>This is teletype paragraph</tt></p>

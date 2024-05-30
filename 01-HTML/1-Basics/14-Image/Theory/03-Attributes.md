@@ -1,14 +1,33 @@
+# Overview
+
+- The src Attribute
+- The alt Attribute
+- Image Size - Width and Height
+- Animated Images
+- Image as a Link
+- Image Floating
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # The src Attribute
 
-- The required `src` attribute specifies the **_path (URL) to the image_**.
+The required `src` attribute specifies the **_path (URL) of the image_**.
 
 &nbsp;
 
-- Note: When a web page loads, it is the browser, at that moment, that gets the image from a web server and inserts it into the page. Therefore, make sure that the image actually stays in the same spot in relation to the web page, otherwise your visitors will get a broken link icon. The broken link icon and the alt text are shown if the browser cannot find the image.
+## Note
+
+When a web page loads, the browser gets the image from a web server and inserts it into the page. Therefore, make sure that the image actually stays in the same spot in relation to the web page, otherwise your visitors will get a broken link icon.
+
+The broken link icon and the alt text are shown if the browser cannot find the image.
 
 &nbsp;
 
-# Example :
+## Example
 
 ```html
 <img src="img_chania.jpg" alt="Flowers in Chania" />
@@ -26,7 +45,7 @@
 
 &nbsp;
 
-# Example
+## Example
 
 ```html
 <img src="img_chania.jpg" alt="Flowers in Chania" />
@@ -82,6 +101,8 @@ Alternatively, you can use the `width` and `height` attributes:
 
 - To use an image as a link, put the `<img>` tag inside the `<a>` tag:
 
+&nbsp;
+
 ## Example
 
 ```html
@@ -98,12 +119,20 @@ Alternatively, you can use the `width` and `height` attributes:
 
 - Use the CSS `float` property to let the image float to the right or to the left of a text:
 
-```html
-<img src="smiley.gif" alt="Smiley face" style="float:right;" />
+&nbsp;
+
+## Example
 
 The image will float to the right of the text.
 
-<img src="smiley.gif" alt="Smiley face" style="float:left;" />
+```html
+<img src="smiley.gif" alt="Smiley face" style="float:right;" />
+```
+
+&nbsp;
 
 The image will float to the left of the text.
+
+```html
+<img src="smiley.gif" alt="Smiley face" style="float:left;" />
 ```

@@ -1,0 +1,10 @@
+30-05-2024:
+    ✘ Phrase tag @started(24-05-30 11:36) @cancelled(24-05-30 12:00) @wasted(24m44s)
+    ✔ File paths / URLs @done(24-05-30 11:36)
+    - anchors & navigation
+    - images @started(24-05-30 12:01)
+    - list (ordered, unordered, description list)
+    - forms & input types 
+    - Semantic HTML 
+    - events basics
+    - Local & session storage

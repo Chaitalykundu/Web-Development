@@ -4,27 +4,27 @@ YouTube : [Web Development - WsCube Tech](https://www.youtube.com/watch?v=HVjjoM
 
 ## Fundamentals
 
-| SL No | Topics                                          | Status | Rev 1 | Rev 2 | Rev 3 (13-03-2024) | Rev 4 (28-05-2024) |
-| ----- | ----------------------------------------------- | ------ | ----- | ----- | ------------------ | ------------------ |
-| 2     | Tags                                            | Done   | Done  | Done  | Done               |                    |
-| 3     | Block & Inline elements                         | Done   | Done  | Done  | Done               |                    |
-| 4     | Attributes                                      | Done   | Done  | Done  | Done               |                    |
-| 1     | Introduction                                    | Done   | Done  | Done  | Done               |                    |
-| 5     | Basic tags                                      | Done   | Done  | Done  | Done               |                    |
-| 6     | imports (html, style, script, favicon)          | Done   | Done  | Done  | Done               |                    |
-| 7    | heading                                         | Done   | Done  | Done  |                    |                    |
-| 8    | Formatting                                      | Done   | Done  |       |                    |                    |
-| 9     | Document structured tags (p, br, hr, div, span) | Done   | Done  |       |                    |                    |
-| 10    | tables                                          | Done   | Done  |       |                    |                    |
-| 11    | Phrase tags                                     |        |       |       |                    |                    |
-| 12    | File paths / URLs                               |        |       |       |                    |                    |
-| 13    | anchors & navigation                            | Done   |       |       |                    |                    |
-| 14    | images                                          | Done   |       |       |                    |                    |
-| 15    | list (ordered, unordered, description list)     | Done   |       |       |                    |                    |
-| 16    | forms & input types                             | Done   |       |       |                    |                    |
-| 17    | Semantic HTML                                   | Done   |       |       |                    |                    |
-| 18    | events basics                                   |        |       |       |                    |                    |
-| 19    | Local & session storage                         |        |       |       |                    |                    |
+| SL No | Topics                                          | Status | Rev 1 | Rev 2 | Rev 3 (13-03-2024) | Rev 4 (28 - 30 May 2024) |
+| ----- | ----------------------------------------------- | ------ | ----- | ----- | ------------------ | ------------------------ |
+| 2     | Tags                                            | Done   | Done  | Done  | Done               | Done                     |
+| 3     | Block & Inline elements                         | Done   | Done  | Done  | Done               | Done                     |
+| 4     | Attributes                                      | Done   | Done  | Done  | Done               | Done                     |
+| 1     | Introduction                                    | Done   | Done  | Done  | Done               | Done                     |
+| 5     | Basic tags                                      | Done   | Done  | Done  | Done               | Done                     |
+| 6     | imports (html, style, script, favicon)          | Done   | Done  | Done  | Done               | Done                     |
+| 7     | heading                                         | Done   | Done  | Done  |                    | Done                     |
+| 8     | Formatting                                      | Done   | Done  |       |                    |                          |
+| 9     | Document structured tags (p, br, hr, div, span) | Done   | Done  |       |                    | Done                     |
+| 10    | tables                                          | Done   | Done  |       |                    |                          |
+| 11    | Phrase tags                                     |        |       |       |                    |                          |
+| 12    | File paths / URLs                               |        |       |       |                    | Done                     |
+| 13    | anchors & navigation                            | Done   |       |       |                    |                          |
+| 14    | images                                          | Done   |       |       |                    |                          |
+| 15    | list (ordered, unordered, description list)     | Done   |       |       |                    |                          |
+| 16    | forms & input types                             | Done   |       |       |                    |                          |
+| 17    | Semantic HTML                                   | Done   |       |       |                    |                          |
+| 18    | events basics                                   |        |       |       |                    |                          |
+| 19    | Local & session storage                         |        |       |       |                    |                          |
 
 &nbsp;
 

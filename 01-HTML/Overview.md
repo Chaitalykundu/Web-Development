@@ -134,7 +134,7 @@
 | caption  | caption      |
 | tfoot    | table footer |
 | colgroup | column group |
-| col/     | column       |
+| col      | column       |
 |          |              |
 
 &nbsp;

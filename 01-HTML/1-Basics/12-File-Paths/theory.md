@@ -4,7 +4,7 @@
 
 - A file path describes the location of a file in a web site's folder structure.
 
-* File paths are used when linking to external files, like:
+- File paths are used when linking to external files, like:
 
   - Web pages
   - Images
@@ -18,7 +18,7 @@
 
 # Types of File Paths
 
-There are two types of File Paths
+There are **two** types of File Paths
 
 - Absolute File Paths
 - Relative File Paths
@@ -27,9 +27,11 @@ There are two types of File Paths
 
 # Absolute File Paths
 
-- An absolute file path is the full address of a file.
+- An absolute file path specify the **complete location** of a file in a system, starting from the root directory.
 
-* Example :
+&nbsp;
+
+## Example
 
 ```html
 <img src="https://www.w3schools.com/images/picture.jpg" alt="Mountain" />
@@ -41,11 +43,13 @@ There are two types of File Paths
 
 # Relative File Paths
 
-- A relative file path points to a file relative to the current page.
+- A relative file path refers to the location of a file relative to the current web page’s location.
 
-- In the following example, the file path points to a file in the images folder located at the root of the current web.
+&nbsp;
 
-- Example
+## Example
+
+In the following example, the file path points to a file in the `images` folder located at the root of the current web.
 
 ```html
 <img src="/images/picture.jpg" alt="Mountain" />

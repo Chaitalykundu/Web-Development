@@ -93,16 +93,23 @@
 1. What is table tag
 2. What is thead tag
 3. What are the specifications of `<thead/>` tag
-3. What is th tag
-
-
-&nbsp;
+4. What is th tag
 
 &nbsp;
 
 &nbsp;
 
 &nbsp;
+
+&nbsp;
+
+# File Path
+
+1. What is the full form of URL
+2. What is file path
+3. How many types of file paths are there?
+4. What is Absolute file path and Relative file path?
+
 
 &nbsp;
 

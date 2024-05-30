@@ -1,6 +1,14 @@
 # Overview
 
 - Introduction
+- Activities in table
+- Syntax
+- Example
+- Default CSS Settings
+- Specifications
+- Tag-specific attribute
+- Global attribute
+- Event attribute
 
 &nbsp;
 
@@ -10,9 +18,13 @@
 
 # Summary
 
-| Tag   | Description                                          |
-| ----- | ---------------------------------------------------- |
-| table | used to display data in tabular form (row \* column) |
+| Tag               | Description                                          |
+| ----------------- | ---------------------------------------------------- |
+| table             | used to display data in tabular form (row \* column) |
+| Tag               | Container                                            |
+| Display / Element | block                                                |
+| Usage             | Table header                                         |
+|                   |                                                      |
 
 &nbsp;
 
@@ -28,6 +40,8 @@
 
 - HTML tables are used to manage the layout of the page e.g. header section, navigation bar, body content, footer section etc. But it is recommended to use div tag over table to manage the layout of the page .
 
+- An HTML table consists of one `<table>` element and one or more `<tr>`, `<th>`, and `<td>` elements.
+
 &nbsp;
 
 &nbsp;
@@ -38,6 +52,95 @@
 2. Merge rows
 3. Merge columns
 4. Change color of nth child
+
+&nbsp;
+
+&nbsp;
+
+# Syntax
+
+```html
+<table>
+  <caption></caption>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+  <tfoot></tfoot>
+</table>
+```
+
+&nbsp;
+
+&nbsp;
+
+# Example
+
+```html
+<table>
+  <caption>
+    Table
+  </caption>
+  <thead>
+    <tr>
+      <th>Month</th>
+      <th>Savings</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+  <tfoot></tfoot>
+</table>
+```
+
+&nbsp;
+
+&nbsp;
+
+# Default CSS Settings
+
+```css
+table {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
+  border-color: gray;
+}
+```
+
+&nbsp;
+
+&nbsp;
+
+# Specifications
+
+|                   |              |
+| ----------------- | ------------ |
+| Tag               | Container    |
+| Display / Element | block        |
+| Usage             | Table header |
+|                   |              |
+
+&nbsp;
+
+# Tag-specific attribute
+
+> HTML `<table>` tag does not contain any specific attribute.
+
+&nbsp;
+
+# Global attribute
+
+> The `<table>` tag supports the Global attributes in HTML.
+
+&nbsp;
+
+# Event attribute
+
+> The `<table>` tag supports the Event attributes in HTML.
+
 &nbsp;
 
 &nbsp;
@@ -54,34 +157,6 @@
 
 &nbsp;
 
-
-
 &nbsp;
 
 &nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-## Fixed column width using `<td>` tag in a table
-
-In an HTML table, the dimensions of the rows and columns in a table are automatically adjusted by the browser so that the contents fit in the row. However, there can be a situation where the width of the columns needs to be fixed or equal-sized. So there are various techniques to fix the width of the column.
-
-**`<td>` tag width attribute:** The `<td>` tag width attribute is used to fix the width of a particular column. With this, we can assign a numeric value to this attribute or in terms of percentage.
-
-## Fixed column width using `<col>` tag in a table
-
-`<col>` tag: The `<col>` tag in a table is used to fix the width of a particular column. With this, we can assign a numeric value to this attribute or in terms of percentage.

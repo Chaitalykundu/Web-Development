@@ -2,13 +2,13 @@
 
 - The `<big>` tag was used in HTML 4 to define bigger text.
 
-* This tag is no longer supported by HTML5, so we can use CSS to increase the font size.
+- This tag is no longer supported by HTML5, so we can use CSS to increase the font size.
 
-* This is a **container tag and inline element**
+- This is a **container tag and inline element**
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```html
 <big>Content </big>
@@ -16,7 +16,7 @@
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <p>This is some <big> bigger text.</big></p>
@@ -41,12 +41,12 @@
 
 &nbsp;
 
-# Global attribute:
+# Global attribute
 
 > The `<big>` tag supports the Global attributes in HTML.
 
 &nbsp;
 
-# Event attribute:
+# Event attribute
 
 > The `<big>` tag supports the Event attributes in HTML.
