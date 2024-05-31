@@ -120,11 +120,69 @@
 2. Which tag is used to insert any link
 3. What is anchor tag
 4. Which attribute is most important in anchor tag? If this tag is not there then what will happen
-5. How to use Image as a Link
-6. How to Link to an Email Address
-7. How to use Button as a Link
-8. 
+5. What is the specification of img tag
+6. How to use Image as a Link
+7. How to Link to an Email Address
+8. How to use Button as a Link
+9. How to create bookmark
+10. How can we open a link in a new tab
 
+&nbsp;
+
+&nbsp;
+
+# Image
+
+1. Which tags are used for images
+2. What is img tag
+3. Which attributes are required for img tag
+4. What is the specification of img tag
+5. What is the src Attribute
+6. What is the alt Attribute
+7. How to use image float to the left of any text
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Forms
+
+1. Why do we use HTML Form
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 &nbsp;
 
 &nbsp;

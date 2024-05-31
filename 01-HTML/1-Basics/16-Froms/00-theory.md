@@ -22,7 +22,7 @@
 
 &nbsp;
 
-# Why use HTML Form
+# Why do we use HTML Form
 
 HTML forms are required if you want to collect some datas from the site visitor.
 

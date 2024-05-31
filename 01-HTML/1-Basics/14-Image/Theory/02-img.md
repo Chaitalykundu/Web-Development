@@ -34,7 +34,6 @@
 
 # Introduction
 
-
 - HTML `<img>` tag is used to display image on the web page.
 
 - Images are not technically inserted into a web page; they are linked to web pages.
@@ -42,7 +41,6 @@
 - HTML `<img>` tag is an **empty tag** that contains attributes only.
 
 - `src` and `alt` are two required attributes in `<img>` tag
-
 
 &nbsp;
 

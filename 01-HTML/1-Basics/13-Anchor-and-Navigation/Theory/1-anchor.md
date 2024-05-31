@@ -8,6 +8,7 @@
 - Link to an Email Address
 - Button as a Link
 - Default CSS Settings
+- Specification
 - Global Attributes
 - Event Attributes
 
@@ -154,6 +155,19 @@ a:visited:active {
   color: (internal value);
 }
 ```
+
+&nbsp;
+
+&nbsp;
+
+# Specification
+
+|                   |           |
+| ----------------- | --------- |
+| Tag               | Container |
+| Display / Element | Inline    |
+| Usage             | Link      |
+|                   |           |
 
 &nbsp;
 

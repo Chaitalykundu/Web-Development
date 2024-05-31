@@ -41,7 +41,7 @@ The broken link icon and the alt text are shown if the browser cannot find the i
 
 - The required `alt` attribute provides an alternate text for an image, if the user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
 
-* The value of the `alt` attribute should describe the image.
+- The value of the `alt` attribute should describe the image.
 
 &nbsp;
 
@@ -152,10 +152,10 @@ The image will float to the left of the text.
 | height         | pixels                     | Specifies the height of an image                                                                                         |
 | width          | pixels                     | Specifies the width of an image                                                                                          |
 | crossorigin    | anonymous                  | Allow images from third-party sites that allow cross-origin access to be used with canvas                                |
-|                | use-credentials            |
+|                | use-credentials            |                                                                                                                          |
 | ismap          | ismap                      | Specifies an image as a server-side image map                                                                            |
 | loading        | eager                      | Specifies whether a browser should load an image immediately or to defer loading of images until some conditions are met |
-|                | lazy                       |
+|                | lazy                       |                                                                                                                          |
 | longdesc       | URL                        | Specifies a URL to a detailed description of an image                                                                    |
 | referrerpolicy | no-referrer                | Specifies which referrer information to use when fetching an image                                                       |
 |                | no-referrer-when-downgrade |                                                                                                                          |
