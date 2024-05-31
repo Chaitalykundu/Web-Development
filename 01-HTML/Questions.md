@@ -110,10 +110,20 @@
 3. How many types of file paths are there?
 4. What is Absolute file path and Relative file path?
 
-
 &nbsp;
 
 &nbsp;
+
+# Anchor & navigation
+
+1. What is link
+2. Which tag is used to insert any link
+3. What is anchor tag
+4. Which attribute is most important in anchor tag? If this tag is not there then what will happen
+5. How to use Image as a Link
+6. How to Link to an Email Address
+7. How to use Button as a Link
+8. 
 
 &nbsp;
 

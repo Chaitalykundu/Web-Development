@@ -1,12 +1,32 @@
+# Overview
+
+- Introduction
+- Syntax
+- Example
+- Default CSS Settings
+- Specifications
+- Tag-specific attribute
+- Common Image Formats
+- Global attribute
+- Event attribute
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 - An HTML `form` is a section of a document which contains controls such as text fields, password fields, checkboxes, radio buttons, submit button, menus etc.
+
+&nbsp;
 
 &nbsp;
 
 # Why use HTML Form
 
-- HTML forms are required if you want to collect some data from the site visitor.
+HTML forms are required if you want to collect some datas from the site visitor.
 
-- For example: If a user want to purchase some items on internet, he/she must fill the form such as shipping address and credit/debit card details so that item can be sent to the given address.
+For example: If a user want to purchase some items on internet, he/she must fill the form such as shipping address and credit/debit card details so that item can be sent to the given address.
 
 &nbsp;
 

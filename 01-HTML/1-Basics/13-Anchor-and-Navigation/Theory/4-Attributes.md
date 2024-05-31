@@ -1,3 +1,35 @@
+# Anchor tag attribute
+
+HTML `Attributes` can provide additional information about the HTML elements on your page and control their behavior
+
+&nbsp;
+
+&nbsp;
+
+# Syntax
+
+```html
+<tag_name attribute_name="value_value">ContentEnclosed</tag_name>
+```
+
+&nbsp;
+
+&nbsp;
+
+## Some points to remember
+
+- Attributes always come in name/value pairs like this: `attribute_name="value"`.
+
+- Attributes are always added to the start tag of an HTML element.
+
+- Attribute values should always be enclosed in quotes.Double style quotes (“ ”) are the most common, but single style quotes (‘ ’) are also allowed.
+
+- In some rare situations, like when the attribute value itself contains quotes, it is necessary to use single quotes: `name='John "ShotGun"Nelson'and vice-versa`.
+
+&nbsp;
+
+&nbsp;
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -5,19 +37,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-
+    <title>Attribute</title>
     <style>
-        table,
         th,
-
         td {
             border: 2px solid black;
             border-collapse: collapse;
         }
     </style>
-</head>
 
+</head>
 <body>
     <table>
         <thead>
@@ -44,38 +73,9 @@
                 <td>Specifies the text language of linked source</td>
             </tr>
             <tr>
-                <td>type</td>
-                <td>media_type</td>
-                <td>It specifies the media type of document</td>
-            </tr>
-            <tr>
-                <td rowspan="5">target</td>
-                <td>_blank</td>
-                <td>Opens the linked document in a new tab</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>_parent</td>
-                <td>Opens the linked document in parent frame</td>
-            </tr>
-            <tr>
-                <td>_top</td>
-                <td>Opens the linked document in the full body of window</td>
-            </tr>
-            <tr>
-                <td>framename</td>
-                <td>Opens the linked document in a named frame</td>
-            </tr>
-            <tr>
-                <td>_self</td>
-                <td>Opens the linked document in same frame as it was clicked</td>
-            </tr>
-
-            <tr>
                 <td rowspan="7">referrerpolicy</td>
                 <td>no-referrer</td>
                 <td rowspan="7">Specifies which referrer information to send with the link</td>
-
             </tr>
             <tr>
                 <td>no-referrer-when-downgrade </td>
@@ -100,7 +100,6 @@
                 <td>alternate</td>
                 <td rowspan="13">Specifies the relationship between the current document and the linked document</td>
             </tr>
-
             <tr>
                 <td>author</td>
             </tr>
@@ -137,22 +136,23 @@
             <tr>
                 <td>tag </td>
             </tr>
-
             <tr>
                 <td rowspan="4">target</td>
                 <td>_blank</td>
-                <td rowspan="4">_top Specifies where to open the linked document</td>
+                <td>_top Specifies where to open the linked document</td>
             </tr>
             <tr>
                 <td>_parent</td>
+                <td>Opens the linked document in parent frame</td>
             </tr>
             <tr>
                 <td>_self</td>
+                <td>Opens the linked document in same frame as it was clicked</td>
             </tr>
             <tr>
                 <td>_top</td>
+                <td>Opens the linked document in the full body of window</td>
             </tr>
-
             <tr>
                 <td>type</td>
                 <td>media_type</td>
@@ -161,5 +161,7 @@
         </tbody>
     </table>
 </body>
-
 </html>
+
+&nbsp;
+&nbsp;

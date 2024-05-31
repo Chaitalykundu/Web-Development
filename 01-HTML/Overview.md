@@ -1,4 +1,4 @@
-## 1. document outline
+# 1. document outline
 
 | name       | description         |
 | ---------- | ------------------- |
@@ -10,13 +10,17 @@
 
 &nbsp;
 
-## 2. Comments
+&nbsp;
+
+# 2. Comments
 
      <!-- Comment text -->
 
 &nbsp;
 
-## 3. Page Information (inside head) / Meta information
+&nbsp;
+
+# 3. Page Information (inside head) / Meta information
 
 | name   | description                                          |
 | ------ | ---------------------------------------------------- |
@@ -30,7 +34,9 @@
 
 &nbsp;
 
-## 4. Document Structure
+&nbsp;
+
+# 4. Document Structure
 
 | name   | description     |
 | ------ | --------------- |
@@ -44,7 +50,9 @@
 
 &nbsp;
 
-## 5. Text Markup
+&nbsp;
+
+# 5. Text Markup
 
 | name       | description                                       |
 | ---------- | ------------------------------------------------- |
@@ -75,7 +83,9 @@
 
 &nbsp;
 
-## 6. Links
+&nbsp;
+
+# 6. Links
 
 | name               | description    |
 | ------------------ | -------------- |
@@ -85,9 +95,13 @@
 | a name = "#name"   | Link to author |
 |                    |                |
 
+- To open a link in different ta, we use `_target` attribute
+
 &nbsp;
 
-## 7. Lists
+&nbsp;
+
+# 7. Lists
 
 | name | description      |
 | ---- | ---------------- |
@@ -101,7 +115,9 @@
 
 &nbsp;
 
-## 8. Forms
+&nbsp;
+
+# 8. Forms
 
 | name     | description                                                |
 | -------- | ---------------------------------------------------------- |
@@ -121,7 +137,9 @@
 
 &nbsp;
 
-## 9. Tables
+&nbsp;
+
+# 9. Tables
 
 | name     | description  |
 | -------- | ------------ |
@@ -139,7 +157,9 @@
 
 &nbsp;
 
-## 10. Image & Image map
+&nbsp;
+
+# 10. Image & Image map
 
 | name       | description                                     |
 | ---------- | ----------------------------------------------- |
@@ -154,9 +174,11 @@
 
 &nbsp;
 
-## 11. Multimedia tags and attributes
+&nbsp;
 
-### tags
+# 11. Multimedia tags and attributes
+
+## tags
 
 | name   | description |
 | ------ | ----------- |
@@ -167,7 +189,9 @@
 | track  |             |
 |        |             |
 
-### attributes
+&nbsp;
+
+## attributes
 
 - id
 - class
@@ -178,9 +202,11 @@
 - forms attributes
 - events attributes
 
-  &nbsp;
+&nbsp;
 
-## 11. Special symbols
+&nbsp;
+
+# 11. Special symbols
 
 | values | symbol | description        |
 | ------ | ------ | ------------------ |
@@ -199,7 +225,9 @@
 
 &nbsp;
 
-## 12. Object
+&nbsp;
+
+# 12. Object
 
 | name   | description |
 | ------ | ----------- |
@@ -239,7 +267,9 @@ img, input, link, meta, param
 
 &nbsp;
 
-## 15. Core Attributes :
+&nbsp;
+
+# 15. Core Attributes
 
 ```
 class - style
@@ -250,20 +280,28 @@ id - title
 
 &nbsp;
 
-## 16. Language Attributes :
+&nbsp;
+
+# 16. Language Attributes
 
 > Language Attributes may not be used in **_base, br, frame, frameset, hr, iframe, param_** or **_script_** elements.
 
 &nbsp;
 
-## 17. Keyboard Attributes :
+&nbsp;
+
+# 17. Keyboard Attributes
 
 ```
 accesskey,
 tabindex
 ```
 
-## 18. Window Events :
+&nbsp;
+
+&nbsp;
+
+# 18. Window Events
 
 ```
 OnLoad,
@@ -272,9 +310,11 @@ OnUnload
 
 &nbsp;
 
-## 19. Form Events :
+&nbsp;
 
-```
+# 19. Form Events
+
+```md
 OnBlur,             OnReset,
 OnChange,           OnFocus,
 OnSelect,           OnSubmit
@@ -282,17 +322,21 @@ OnSelect,           OnSubmit
 
 &nbsp;
 
-## 20. Form Events :
+&nbsp;
 
-```
+# 20. Form Events
+
+```md
 OnKeydown,   OnKeyup,   OnKeypress
 ```
 
 &nbsp;
 
-## 21. Mouse Events :
+&nbsp;
 
-```
+# 21. Mouse Events
+
+```md
 Onclick,        OnDbclick,
 OnMouseout,     OnMouseover,
 OnMousedown,    OnMouseup,

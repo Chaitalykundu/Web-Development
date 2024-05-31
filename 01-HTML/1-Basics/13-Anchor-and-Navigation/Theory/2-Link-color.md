@@ -1,8 +1,27 @@
-An HTML link is displayed in a different color depending on whether it has been visited, is unvisited, or is active.
+# Overview
+
+- HTML Link Colors
+- Default color
+- Change link color
+  - Unvisited link
+  - Visited link
+  - Hovered link
+  - Active link
+- Link Buttons
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 # HTML Link Colors
 
+An HTML link is displayed in a different color depending on whether it has been visited, is unvisited, or is active.
+
 &nbsp;
+
+# Default color
 
 By default, links will appear as follows in all browsers:
 
@@ -10,11 +29,13 @@ By default, links will appear as follows in all browsers:
 - A **visited** link is **_underlined_** and **_purple_**
 - An **active** link is **_underlined_** and **_red_**
 
-You can change the link state colors, by using CSS:
-
 &nbsp;
 
 &nbsp;
+
+# Change link color
+
+You can change the link state colors, by using CSS
 
 ## Unvisited link
 

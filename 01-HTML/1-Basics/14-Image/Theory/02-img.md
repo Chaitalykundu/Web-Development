@@ -34,11 +34,15 @@
 
 # Introduction
 
+
 - HTML `<img>` tag is used to display image on the web page.
 
 - Images are not technically inserted into a web page; they are linked to web pages.
 
-- HTML `<img>` tag is an empty tag that contains attributes only.
+- HTML `<img>` tag is an **empty tag** that contains attributes only.
+
+- `src` and `alt` are two required attributes in `<img>` tag
+
 
 &nbsp;
 
@@ -78,12 +82,12 @@ img {
 
 # Specifications
 
-|                   |              |
-| ----------------- | ------------ |
-| Tag               | Empty        |
-| Display / Element | Inline-block |
-| Usage             | Image        |
-|                   |              |
+|                   |        |
+| ----------------- | ------ |
+| Tag               | Empty  |
+| Display / Element | Inline |
+| Usage             | Image  |
+|                   |        |
 
 &nbsp;
 
@@ -111,7 +115,7 @@ img {
 | sizes          | sizes                      | Specifies image sizes for different page layouts                                                                         |
 | srcset         | URL-list                   | Specifies a list of image files to use in different situations                                                           |
 | usemap         | #mapname                   | Specifies an image as a client-side image map                                                                            |
-|                |                            |
+|                |                            |                                                                                                                          |
 
 &nbsp;
 

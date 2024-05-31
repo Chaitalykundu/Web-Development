@@ -1,10 +1,19 @@
 30-05-2024:
     ✘ Phrase tag @started(24-05-30 11:36) @cancelled(24-05-30 12:00) @wasted(24m44s)
     ✔ File paths / URLs @done(24-05-30 11:36)
-    - anchors & navigation
-    - images @started(24-05-30 12:01)
+    ✔ images @started(24-05-30 12:01) @done(24-05-31 11:01) @lasted(23h46s)
+31-05-2024:
+    ✔ anchors & navigation @started(24-05-31 11:01) @done(24-05-31 12:45) @lasted(1h44m48s)
     - list (ordered, unordered, description list)
-    - forms & input types 
+    ✘ forms & input types @started(24-05-31 12:47) @cancelled(24-05-31 12:50) @wasted(3m32s)
     - Semantic HTML 
     - events basics
     - Local & session storage
+
+
+Implement each topic in portfolio:
+    - implement bookmark / navigation
+    - implement list
+    - implement table
+    - implement form
+    - implement anchor tag

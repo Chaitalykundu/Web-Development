@@ -1,8 +1,16 @@
+# Overview
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Chapter Summary
 
-- Use the id attribute (id="value") to define bookmarks in a page
+- Use the `id` attribute (id="value") to define bookmarks in a page
 
-- Use the href attribute (href="#value") to link to the bookmark
+- Use the `href` attribute (href="#value") to link to the bookmark
 
 &nbsp;
 
@@ -14,13 +22,15 @@ HTML links can be used to create bookmarks, so that readers can jump to specific
 
 &nbsp;
 
+&nbsp;
+
 # Create a Bookmark in HTML
 
 - To create a bookmark - first create the bookmark, then add a link to it.
 
-* When the link is clicked, the page will scroll down or up to the location with the bookmark.
+- When the link is clicked, the page will scroll down or up to the location with the bookmark.
 
-* Bookmarks can be useful if a web page is very long.
+- Bookmarks can be useful if a web page is very long.
 
 &nbsp;
 
@@ -31,6 +41,8 @@ HTML links can be used to create bookmarks, so that readers can jump to specific
 ```html
 <h2 id="C4">Chapter 4</h2>
 ```
+
+&nbsp;
 
 2. Then, add a link to the bookmark ("Jump to Chapter 4"), from within the same page:
 

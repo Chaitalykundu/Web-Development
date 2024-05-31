@@ -136,3 +136,33 @@ The image will float to the left of the text.
 ```html
 <img src="smiley.gif" alt="Smiley face" style="float:left;" />
 ```
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Attributes
+
+| Attribute      | Value                      | Description                                                                                                              |
+| -------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| src            | URL                        | Specifies the path to the image                                                                                          |
+| alt            | text                       | Specifies an alternate text for the image                                                                                |
+| height         | pixels                     | Specifies the height of an image                                                                                         |
+| width          | pixels                     | Specifies the width of an image                                                                                          |
+| crossorigin    | anonymous                  | Allow images from third-party sites that allow cross-origin access to be used with canvas                                |
+|                | use-credentials            |
+| ismap          | ismap                      | Specifies an image as a server-side image map                                                                            |
+| loading        | eager                      | Specifies whether a browser should load an image immediately or to defer loading of images until some conditions are met |
+|                | lazy                       |
+| longdesc       | URL                        | Specifies a URL to a detailed description of an image                                                                    |
+| referrerpolicy | no-referrer                | Specifies which referrer information to use when fetching an image                                                       |
+|                | no-referrer-when-downgrade |                                                                                                                          |
+|                | origin                     |                                                                                                                          |
+|                | origin-when-cross-origin   |                                                                                                                          |
+|                | unsafe-url                 |                                                                                                                          |
+| sizes          | sizes                      | Specifies image sizes for different page layouts                                                                         |
+| srcset         | URL-list                   | Specifies a list of image files to use in different situations                                                           |
+| usemap         | #mapname                   | Specifies an image as a client-side image map                                                                            |
+|                |                            |                                                                                                                          |
