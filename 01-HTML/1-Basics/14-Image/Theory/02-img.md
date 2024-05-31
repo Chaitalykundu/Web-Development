@@ -4,11 +4,11 @@
 - Syntax
 - Example
 - Default CSS Settings
+- Specifications
 - Tag-specific attribute
 - Common Image Formats
-- HTML Image Tags
-
-
+- Global attribute
+- Event attribute
 
 &nbsp;
 
@@ -72,21 +72,46 @@ img {
 }
 ```
 
-
 &nbsp;
 
 &nbsp;
 
+# Specifications
+
+|                   |              |
+| ----------------- | ------------ |
+| Tag               | Empty        |
+| Display / Element | Inline-block |
+| Usage             | Image        |
+|                   |              |
+
+&nbsp;
+
+&nbsp;
 
 # Tag-specific attribute
 
-The `<img>` tag has **two** required attributes:
-
-| Attribute | Value | Description                               |
-| --------- | ----- | ----------------------------------------- |
-| src       | URL   | Specifies the path to the image           |
-| alt       | text  | Specifies an alternate text for the image |
-|           |       |
+| Attribute      | Value                      | Description                                                                                                              |
+| -------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| src            | URL                        | Specifies the path to the image                                                                                          |
+| alt            | text                       | Specifies an alternate text for the image                                                                                |
+| height         | pixels                     | Specifies the height of an image                                                                                         |
+| width          | pixels                     | Specifies the width of an image                                                                                          |
+| crossorigin    | anonymous                  | Allow images from third-party sites that allow cross-origin access to be used with canvas                                |
+|                | use-credentials            |
+| ismap          | ismap                      | Specifies an image as a server-side image map                                                                            |
+| loading        | eager                      | Specifies whether a browser should load an image immediately or to defer loading of images until some conditions are met |
+|                | lazy                       |
+| longdesc       | URL                        | Specifies a URL to a detailed description of an image                                                                    |
+| referrerpolicy | no-referrer                | Specifies which referrer information to use when fetching an image                                                       |
+|                | no-referrer-when-downgrade |                                                                                                                          |
+|                | origin                     |                                                                                                                          |
+|                | origin-when-cross-origin   |                                                                                                                          |
+|                | unsafe-url                 |                                                                                                                          |
+| sizes          | sizes                      | Specifies image sizes for different page layouts                                                                         |
+| srcset         | URL-list                   | Specifies a list of image files to use in different situations                                                           |
+| usemap         | #mapname                   | Specifies an image as a client-side image map                                                                            |
+|                |                            |
 
 &nbsp;
 
@@ -107,5 +132,17 @@ Here are the most common image file types :
 |              |                                       |
 
 &nbsp;
+
+&nbsp;
+
+# Global attribute
+
+The `<img>` tag also supports the Global Attributes in HTML.
+
+&nbsp;
+
+# Event attribute
+
+The `<img>` tag also supports the Event Attributes in HTML.
 
 &nbsp;
