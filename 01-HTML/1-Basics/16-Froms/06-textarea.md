@@ -1,12 +1,45 @@
+# Overview
+
+- Introduction
+- Use of textarea
+- Syntax
+- Example
+- Default CSS Settings
+- Specifications
+- Global attribute
+- Event attribute
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Summary
+
+| Tag / Attribute / Property | Description                            |
+| -------------------------- | -------------------------------------- |
+| `<textarea>` tag           | define a multi-line text input control |
+| Tag                        | Container                              |
+| Display / Element          | Inline                                 |
+| Usage                      | User input                             |
+|                            |                                        |
+
+&nbsp;
+
+&nbsp;
+
+# `<textarea>..</textarea>` tag
+
 - The HTML `<textarea>` tag is used to define a multi-line text input control.
 
-* It can hold unlimited number of characters and the texts are displayed in a fixed-width font (usually courier).
+- It can hold unlimited number of characters and the texts are displayed in a fixed-width font (usually courier).
 
-* The size of the HTML textarea is defined by `<cols>` and `<rows>` attribute, or it can also be defined through CSS height and width properties.
+- The size of the HTML textarea is defined by `<cols>` and `<rows>` attribute, or it can also be defined through CSS height and width properties.
 
-* The `name` attribute is needed to reference the form data after the form is submitted (if you omit the name attribute, no data from the text area will be submitted).
+- The `name` attribute is needed to reference the form data after the form is submitted (if you omit the name attribute, no data from the text area will be submitted).
 
-* The `id` attribute is needed to associate the textarea with a label.
+- The `id` attribute is needed to associate the textarea with a label.
 
 &nbsp;
 
@@ -15,6 +48,16 @@
 # Use
 
 The `<textarea>` element is often used in a form, to collect user inputs like comments or reviews.
+
+&nbsp;
+
+&nbsp;
+
+# Syntax
+
+```html
+<textarea rows="no_of_rows" cols="no_of_columns">Texts</textarea>
+```
 
 &nbsp;
 
@@ -64,13 +107,13 @@ None
 
 # Global Attributes
 
-- The `<textarea>` tag also supports the Global Attributes in HTML.
+- The `<textarea>` tag supports the Global Attributes in HTML.
 
 &nbsp;
 
 # Event Attributes
 
-- The `<textarea>` tag also supports the Event Attributes in HTML.
+- The `<textarea>` tag supports the Event Attributes in HTML.
 
 &nbsp;
 

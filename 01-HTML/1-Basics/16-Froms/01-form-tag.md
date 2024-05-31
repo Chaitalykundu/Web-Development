@@ -1,4 +1,35 @@
-# HTML `<form>` element
+# Overview
+
+- Introduction
+- Syntax
+- List of form elements
+- Default CSS Settings
+- Specifications
+- Tag-specific attribute
+- Global attribute
+- Event attribute
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Summary
+
+| Tag / Attribute / Property | Description                                |
+| -------------------------- | ------------------------------------------ |
+| `<form>` tag               | used to create an HTML form for user input |
+| Tag                        | Container                                  |
+| Display / Element          | Block                                      |
+| Usage                      | Form                                       |
+|                            |                                            |
+
+&nbsp;
+
+&nbsp;
+
+# HTML `<form>` tag
 
 - The HTML `<form>` tag used to create an HTML form for user input.
 
@@ -10,14 +41,11 @@
 
 &nbsp;
 
-# Specifications
+# Syntax
 
-|                   |           |
-| ----------------- | --------- |
-| Display / Element |           |
-| Tag               | Container |
-| Usage             | Form      |
-|                   |           |
+```html
+<form>….</form>
+```
 
 &nbsp;
 
@@ -52,12 +80,26 @@ form {
 
 &nbsp;
 
-# Attributes
+# Specifications
 
-When the form is submitted, the page gets reloaded, and we know that the form gets submitted. But actually, the form input data is not being submitted to the server. To get the form to send the input data to the server, we need to set 2 attributes in the form:
+|                   |           |
+| ----------------- | --------- |
+| Tag               | Container |
+| Display / Element | Block     |
+| Usage             | Form      |
+|                   |           |
+
+&nbsp;
+
+&nbsp;
+
+# Tag specific attributes
+
+When the form is submitted, the page gets reloaded, and we know that the form gets submitted. But actually, the form input data is not being submitted to the server.
+
+To get the form to send the input data to the server, we need to set 2 attributes in the form:
 
 - action attribute
-
 - method attribute
 
 &nbsp;
@@ -65,7 +107,7 @@ When the form is submitted, the page gets reloaded, and we know that the form ge
 Example :
 
 ```html
-<form action="/index.html" method="post">…. </form>
+<form action="Backend_file" method="post">….</form>
 ```
 
 &nbsp;

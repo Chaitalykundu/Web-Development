@@ -1,6 +1,36 @@
-- The `<legend>` tag defines a caption for the `<fieldset>` element.
+# Overview
 
-- The `<legend>` element must be the first child of `<fieldset>` element.
+- Introduction
+- Syntax
+- Default CSS Settings
+- Specifications
+- Tag-specific attribute
+- Global attribute
+- Event attribute
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Summary
+
+| Tag / Attribute / Property | Description                                    |
+| -------------------------- | ---------------------------------------------- |
+| `<legend>` tag             | defines a caption for the `<fieldset>` element |
+| Tag                        | Container                                      |
+| Display                    | Block                                          |
+| Usage                      | textual                                        |
+|                            |                                                |
+
+&nbsp;
+
+&nbsp;
+
+The `<legend>` tag defines a caption for the `<fieldset>` element.
+
+The `<legend>` element must be the first child of `<fieldset>` element.
 
 &nbsp;
 
@@ -20,8 +50,8 @@
 
 |         |           |
 | ------- | --------- |
-| Display | Block     |
 | Tag     | Container |
+| Display | Block     |
 | Usage   | textual   |
 |         |           |
 

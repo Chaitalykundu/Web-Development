@@ -1,3 +1,36 @@
+# Overview
+
+- Introduction
+- Use of textarea
+- Syntax
+- Example
+- Default CSS Settings
+- Specifications
+- Global attribute
+- Event attribute
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Summary
+
+| Tag / Attribute / Property | Description                           |
+| -------------------------- | ------------------------------------- |
+| `<select>` tag             | used to create a **_drop-down list_** |
+| Tag                        | Container                             |
+| Display / Element          | inline                                |
+| Usage                      | Input                                 |
+|                            |                                       |
+
+&nbsp;
+
+&nbsp;
+
+# `<select></select>` tag
+
 - The `<select>` element is used to create a **_drop-down list_**.
 
 - The `<select>` element is most often used in a form, to collect user input.
@@ -6,8 +39,9 @@
 
 - The `id` attribute is needed to associate the drop-down list with a label.
 
-* The `<option>` tags inside the `<select>` element define the available options in the drop-down list.
-* The `<optgroup>` element can be used for grouping related options in a list.
+- The `<option>` tags inside the `<select>` element define the available options in the drop-down list.
+
+- The `<optgroup>` element can be used for grouping related options in a list.
 
 &nbsp;
 
@@ -25,12 +59,32 @@
 
 &nbsp;
 
+# Example
+
+```html
+<label for="cars">Choose a car:</label>
+<select name="cars" id="cars">
+  <optgroup label="Swedish Cars">
+    <option value="volvo">Volvo</option>
+    <option value="saab">Saab</option>
+  </optgroup>
+  <optgroup label="German Cars">
+    <option value="mercedes">Mercedes</option>
+    <option value="audi">Audi</option>
+  </optgroup>
+</select>
+```
+
+&nbsp;
+
+&nbsp;
+
 # Specifications
 
 |                   |           |
 | ----------------- | --------- |
-| Display / Element | inline    |
 | Tag               | Container |
+| Display / Element | inline    |
 | Usage             | Input     |
 |                   |           |
 
@@ -46,7 +100,7 @@ None
 
 &nbsp;
 
-# Tag-specific attributes:
+# Tag-specific attributes
 
 | Attribute | Value     | Description                                                                         |
 | --------- | --------- | ----------------------------------------------------------------------------------- |
@@ -57,6 +111,7 @@ None
 | name      | name      | It determines the name for the drop-down list.                                      |
 | required  | required  | If it specified, user must select that field before submitting the form.            |
 | size      | number    | It specifies the visible number of options in the list.                             |
+|           |           |                                                                                     |
 
 &nbsp;
 

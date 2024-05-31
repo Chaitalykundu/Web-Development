@@ -1,14 +1,9 @@
 # Overview
 
 - Introduction
+- Why do we use HTML Form
 - Syntax
-- Example
-- Default CSS Settings
-- Specifications
-- Tag-specific attribute
-- Common Image Formats
-- Global attribute
-- Event attribute
+- HTML Form Tags
 
 &nbsp;
 
@@ -16,7 +11,9 @@
 
 &nbsp;
 
-- An HTML `form` is a section of a document which contains controls such as text fields, password fields, checkboxes, radio buttons, submit button, menus etc.
+# Form
+
+An HTML `form` is a section of a document which contains controls such as text fields, password fields, checkboxes, radio buttons, submit button, menus etc.
 
 &nbsp;
 
@@ -48,7 +45,7 @@ For example: If a user want to purchase some items on internet, he/she must fill
 
 | Tag          | Description                                                   |
 | ------------ | ------------------------------------------------------------- |
-| `<form>`     | It defines an HTML form to enter inputs by the used side.     |
+| `<form>`     | It defines an HTML form to enter inputs by the user side.     |
 | `<fieldset>` | It groups the related element in a form.                      |
 | `<legend>`   | It defines a caption for a `<fieldset>` element.              |
 | `<input>`    | It defines an input control.                                  |
@@ -61,6 +58,7 @@ For example: If a user want to purchase some items on internet, he/she must fill
 | `<datalist>` | It specifies a list of pre-defined options for input control. |
 | `<keygen>`   | It defines a key-pair generator field for forms.              |
 | `<output>`   | It defines the result of a calculation.                       |
+|              |                                                               |
 
 &nbsp;
 

@@ -151,16 +151,71 @@
 
 # Forms
 
-1. Why do we use HTML Form
+1. What is form in a webpage
+2. Why do we use HTML Form
+3. What are the tags used for a form
 
 &nbsp;
 
-&nbsp;
+## Form tag
+
+1. What is form tag
+2. What are the form elements
+3. What is Specification of form tag
+4. What are the main attribute of form tag?
 
 &nbsp;
-&nbsp;
+
+## Fieldset
+
+1. What is fieldset
+2. What is Specification of fieldset tag
+3. What are the tag specific attributes of fieldset
+4. Which one is the first child of fieldset
 
 &nbsp;
+
+## legend
+
+1. What is legend tag
+2. What is Specification of legend tag
+3. What are the tag specific attributes of legend
+
+&nbsp;
+
+## input
+
+1. What is input tag
+2. What is Specification of input tag
+3. What are the Values of `type` attribute in input tag
+
+&nbsp;
+
+## label
+
+1. What is label tag
+2. Why do we use label tag
+3. How can we bind label & input tag together
+4. What is Specification of label tag
+5. What are the attributes do we use in label tag
+
+&nbsp;
+
+## textarea
+
+1. What is textarea tag
+2. Why do we use textarea tag
+3. What is Specification of textarea tag
+4. What are the attributes do we use in textarea tag
+
+&nbsp;
+
+## select
+
+1. What is select tag
+2. Why do we use select tag
+3. What is Specification of select tag
+4. What are the attributes do we use in select tag
 
 &nbsp;
 &nbsp;
