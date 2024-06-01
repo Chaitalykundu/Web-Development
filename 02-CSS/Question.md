@@ -1,3 +1,75 @@
+# Introduction
+
+1. What is CSS
+2. Why do we use CSS
+3. What is Selector
+4. What is Declaration Block
+5. What is Property and Value
+6. How many types of selectors are there in CSS
+7. What are the ways of inserting CSS
+8. What is Inline CSS
+9. What is Internal CSS
+10. What is External CSS
+11. What is comment
+12. What is Cascading
+13. Which one will get more preference between internal and external CSS
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # 1. What is cascade
 
 ```md
@@ -76,7 +148,7 @@ Scroll anchoring is a feature in the browser that prevents a viewable area that 
 
 &nbsp;
 
-# 7.  What is VH/VW (viewport height/ viewport width) in CSS?
+# 7. What is VH/VW (viewport height/ viewport width) in CSS?
 
 ```md
 It’s a CSS unit used to measure the height and width in percentage with respect to the viewport. It is used mainly in responsive design techniques. The measure VH is equal to 1/100 of the height of the viewport. If the height of the browser is 1000px, 1vh is equal to 10px. Similarly, if the width is 1000px, then 1 vw is equal to 10px.
@@ -86,25 +158,25 @@ It’s a CSS unit used to measure the height and width in percentage with respec
 
 &nbsp;
 
-# 8.  Difference between margin and padding?
+# 8. Difference between margin and padding?
 
-|Margin|Padding|
-|---|---|
-|The outer space of an element, i.e. margin, is the space outside the border.|The inner space of an element, i.e.padding is space inside the element’s border.|
-|It can be negative or any float number. | It does not allow negative values|
-|We can set the margin to auto. |We cannot set the padding to auto.|
-|Styling of an element such as background color does not affect the margin. | Padding is affected by the styling of an element, such as background color.|
-
-&nbsp;
+| Margin                                                                       | Padding                                                                          |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| The outer space of an element, i.e. margin, is the space outside the border. | The inner space of an element, i.e.padding is space inside the element’s border. |
+| It can be negative or any float number.                                      | It does not allow negative values                                                |
+| We can set the margin to auto.                                               | We cannot set the padding to auto.                                               |
+| Styling of an element such as background color does not affect the margin.   | Padding is affected by the styling of an element, such as background color.      |
 
 &nbsp;
 
-# What are the different Box Sizing Properties? 
+&nbsp;
+
+# What are the different Box Sizing Properties?
 
 The box-sizing CSS property sets how the total width and height of an element are calculated.
 
-* `Content-box`: The default width and height values applyto the element's content only. The padding and border are added to the outside of the box.
+- `Content-box`: The default width and height values applyto the element's content only. The padding and border are added to the outside of the box.
 
-* `Padding-box`: Width and height values apply to the element's content and its padding. The border is added to the outside of the box. Currently, only Firefox supports the padding-box value.
+- `Padding-box`: Width and height values apply to the element's content and its padding. The border is added to the outside of the box. Currently, only Firefox supports the padding-box value.
 
-* `Border-box`: Width and height values apply to the content,padding and border
+- `Border-box`: Width and height values apply to the content,padding and border

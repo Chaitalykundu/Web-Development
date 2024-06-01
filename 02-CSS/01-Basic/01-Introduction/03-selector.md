@@ -1,3 +1,30 @@
+# Overview
+
+- Selector
+- Types of selectors
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- Selector is the element of HTML which will be styled.
+
+- There are **five** types of CSS selectors :
+
+  - **Simple selectors**
+  - **Combinator selectors**
+  - **Pseudo-class selectors**
+  - **Pseudo-elements selectors**
+  - **Attribute selectors**
+
+&nbsp;
+
+&nbsp;
+
 # Selector
 
 - Selector indicates the HTML element you want to style.
@@ -14,7 +41,7 @@
 
 # Types of selectors
 
-We can divide CSS selectors into five categories:
+We can divide CSS selectors into **five** categories:
 
 - **Simple selectors** (select elements based on name, id, class)
 

@@ -1,3 +1,27 @@
+# Overview
+
+- Syntax
+- Selector
+- Declaration Block
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- Selector is the element of HTML which will be styled.
+
+- Declaration block consists of one or more Property and value
+
+- Property is a type of attribute of HTML
+
+&nbsp;
+
+&nbsp;
+
 # Syntax
 
 - A CSS rule set contains a **selector** and a **declaration block** .
@@ -16,7 +40,7 @@ Selector {
 
 Selector indicates the HTML element you want to style.
 
-It could be any tag like `<h1>`, `<p>` etc.
+It could be any tag like `<h1>`, `<p>`, or any class or id etc.
 
 &nbsp;
 

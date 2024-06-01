@@ -1,11 +1,45 @@
-# Types of inserting CSS
+# Overview
 
-- There are three ways of inserting a style sheet:
+- Ways of inserting CSS
+- Inline CSS
+- Internal CSS
+- External CSS
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- There are **three** ways of inserting a style sheet:
+
   - External CSS
   - Internal CSS
   - Inline CSS
 
-Precedence of styling - ***Inline > Internal > External***
+- Precedence of styling - **_Inline > Internal > External_**
+
+- Inline CSS is used to style single line or element
+
+- Internal CSS is used to apply CSS on a single document or page.
+
+- External CSS is used to apply CSS on multiple pages or all pages.
+
+&nbsp;
+
+&nbsp;
+
+# Ways of inserting CSS
+
+- There are **three** ways of inserting a style sheet:
+
+  - External CSS
+  - Internal CSS
+  - Inline CSS
+
+Precedence of styling - **_Inline > Internal > External_**
 
 &nbsp;
 
@@ -19,7 +53,7 @@ An inline style is used to apply an unique style to a single element.
 
 &nbsp;
 
-## Example:
+## Example
 
 ```html
 <p style="color:blue">Hello CSS</p>
@@ -39,7 +73,7 @@ It is written inside the _style_ tag within head section of html.
 
 &nbsp;
 
-## Example:
+## Example
 
 ```html
 <style>
@@ -59,11 +93,11 @@ External CSS is used to apply CSS on multiple pages or all pages.
 
 Here, we write all the CSS code in a css file.
 
-Its extension must be .css for example style.css.
+Its extension must be `.css` for example style.css.
 
 &nbsp;
 
-## Example:
+## Example
 
 ```css
 p {
