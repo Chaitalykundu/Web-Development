@@ -1,0 +1,27 @@
+/* Universal selector */
+*{
+    margin:0;
+}
+
+/* id selector */
+#paragraph1{
+    background-color: beige;
+}
+
+
+/* class selector */
+.paragraph{
+color: rgb(194, 16, 58);
+}
+
+
+/* element selector */
+p{
+    font-size: 10px;
+    margin: 5px;
+}
+
+/* group selector */
+h1,h2{
+margin: 10px;
+}

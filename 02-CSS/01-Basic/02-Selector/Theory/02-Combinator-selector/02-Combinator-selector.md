@@ -1,3 +1,35 @@
+# Overview
+
+- All CSS Combinator Selectors
+- Descendant Selector (space)
+- Child Selector (>)
+- adjacent sibling selector (+)
+- general sibling selector (~)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- A combinator explains the relationship between the selectors.
+
+- The descendant selector matches all elements that are descendants of a specified element.
+
+- The word **descendant** indicates nested anywhere in the DOM tree. It can be a direct child or deeper than five levels, but it will still be referred to as a descendant.
+
+- The child selector selects all elements that are the children of a specified element.
+
+- The adjacent sibling selector is used to select an element that is directly after another specific element.
+
+- Sibling elements must have the same parent element, and "**adjacent**" means "**immediately following**".
+
+&nbsp;
+
+&nbsp;
+
 # All CSS Combinator Selectors
 
 | Name                          | Syntax            | Example | Example description                                                                |
@@ -6,6 +38,7 @@
 | child selector (>)            | element>element   | div > p | Selects all `<p>` elements where the parent is a `<div>` element                   |
 | adjacent sibling selector (+) | element+element   | div + p | Selects the first `<p>` element that are placed immediately after `<div>` elements |
 | general sibling selector (~)  | element1~element2 | p ~ ul  | Selects every `<ul>` element that are preceded by a `<p>` element                  |
+|                               |                   |         |                                                                                    |
 
 &nbsp;
 
@@ -17,7 +50,7 @@ A combinator explains the relationship between the selectors.
 
 - A CSS selector can contain more than one simple selector. Between the simple selectors, we can include a combinator.
 
-- There are four different combinators in CSS:
+- There are **four** different combinator in CSS:
   - descendant selector (space)
   - child selector (>)
   - adjacent sibling selector (+)
@@ -43,7 +76,7 @@ div p {
 
 &nbsp;
 
-<img src="../assets/descendant.png">
+<img src="../../../assets/descendant.png">
 
 &nbsp;
 
@@ -69,7 +102,7 @@ div > p {
 
 &nbsp;
 
-<img src="../assets/child.png">
+<img src="../../../assets/child.png">
 
 &nbsp;
 
@@ -93,7 +126,7 @@ p + p {
 
 &nbsp;
 
-<img src="../assets/adjacent.png">
+<img src="../../../assets/adjacent.png">
 
 &nbsp;
 
@@ -119,7 +152,7 @@ h1 ~ p {
 
 &nbsp;
 
-<img src="../assets/general-sibling.png">
+<img src="../../../assets/general-sibling.png">
 
 &nbsp;
 

@@ -18,13 +18,47 @@
 
 &nbsp;
 
-&nbsp;
+# Selector
+
+1. What is selector
+2. How many types of selectors are there in css
 
 &nbsp;
 
-&nbsp;
+## Simple Selector
+
+1. Which selectors are Simple Selectors
+2. What is id Selector
+3. What is class Selector
+4. What is universal Selector
+5. What is element Selector
+6. What is grouping Selector
+7. Can we style multiple element together
 
 &nbsp;
+
+## Combinator Selector
+
+1. What is combinator
+2. How many combinator are there in css selector
+3. What is descendant selector
+4. What is child selector
+5. What is adjacent sibling selector
+6. What is general sibling selector
+
+&nbsp;
+
+## Pseudo-Class Selector
+
+1. What is Pseudo-Class selector
+2. Name some Pseudo-Class selector
+
+&nbsp;
+
+## Pseudo-elements Selector
+
+1. What is Pseudo-elements selector
+2. Name Pseudo-Elements selector
 
 &nbsp;
 

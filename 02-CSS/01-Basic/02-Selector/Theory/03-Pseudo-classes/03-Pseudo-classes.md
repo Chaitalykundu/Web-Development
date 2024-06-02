@@ -1,4 +1,29 @@
-# What are Pseudo-classes?
+# Overview
+
+- What are Pseudo-classes
+- All CSS Pseudo Classes
+- Anchor Pseudo-classes
+- Pseudo-classes and HTML Classes
+- Simple Tooltip Hover
+- The `:first-child` Pseudo-class
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- A pseudo-class is used to define a **special state** of an element i.e hovers, visited, unvisited, focused
+
+- `a:hover` MUST come after `a:link` and `a:visited` in the CSS definition in order to be effective! `a:active` MUST come after `a:hover` in the CSS definition in order to be effective!
+
+&nbsp;
+
+&nbsp;
+
+# What are Pseudo-classes
 
 A pseudo-class is used to define a **special state** of an element.
 
@@ -88,7 +113,11 @@ a:active {
 }
 ```
 
-**_Note_**: `a:hover `MUST come after `a:link` and `a:visited` in the CSS definition in order to be effective! `a:active` MUST come after `a:hover` in the CSS definition in order to be effective!
+&nbsp;
+
+## Note
+
+`a:hover` MUST come after `a:link` and `a:visited` in the CSS definition in order to be effective! `a:active` MUST come after `a:hover` in the CSS definition in order to be effective!
 
 &nbsp;
 
@@ -141,7 +170,7 @@ div:hover p {
 
 &nbsp;
 
-# CSS - The :first-child Pseudo-class
+# The `:first-child` Pseudo-class
 
 ## Match the first `<p>` element
 

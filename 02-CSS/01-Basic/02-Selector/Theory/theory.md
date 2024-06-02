@@ -1,6 +1,34 @@
+# Overview
+
+- Selector
+- Types of selectors
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
 - Selector indicates the HTML element you want to style.
 
-* It could be any tag like `<h1>`, `<p>` etc.
+- There are **Five** types of selectors in css.
+  - Simple selectors
+  - Combinator selectors
+  - Pseudo-class selectors
+  - Pseudo-elements selectors
+  - Attribute selectors
+
+&nbsp;
+
+&nbsp;
+
+# Selector
+
+- Selector indicates the HTML element you want to style.
+
+- It could be any tag like `<h1>`, `<p>` etc.
 
 - CSS selectors are used to select the content you want to style.
 
@@ -19,3 +47,4 @@
 | Pseudo-class selectors    | select elements based on a certain state                      |
 | Pseudo-elements selectors | select and style a part of an element                         |
 | Attribute selectors       | select elements based on an attribute or attribute value      |
+|                           |                                                               |

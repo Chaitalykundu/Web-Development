@@ -1,3 +1,25 @@
+# Overview
+
+- All CSS Pseudo Elements
+- What is Pseudo-Element
+- Syntax
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- A CSS pseudo-element selector is used to style specified parts of an element. Example
+  - Style the first letter, or line, of an element
+  - Insert content before, or after the content of an element
+
+&nbsp;
+
+&nbsp;
+
 # All CSS Pseudo Elements
 
 | Selector       | Example         | Example description                                          |
@@ -13,7 +35,7 @@
 
 &nbsp;
 
-# What are Pseudo-Elements?
+# What is Pseudo-Element
 
 A CSS pseudo-element selector is used to style specified parts of an element.
 
@@ -21,7 +43,7 @@ For example, it can be used to:
 
 - Style the first letter, or line, of an element
 
-* Insert content before, or after the content of an element
+- Insert content before, or after the content of an element
 
 &nbsp;
 

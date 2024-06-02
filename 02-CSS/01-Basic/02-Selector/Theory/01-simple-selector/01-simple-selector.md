@@ -1,3 +1,34 @@
+# Overview
+
+- All CSS Simple Selectors
+- id Selector
+- class Selector
+- Universal Selector
+- element Selector
+- Grouping Selector
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `id selector` uses the `id` attribute of an HTML element to select a specific element.
+
+- The class selector selects HTML elements with a specific `class` attribute.
+
+- The universal selector (\*) selects all HTML elements on the page.
+
+- The element selector selects HTML elements based on the element name.
+
+- The grouping selector selects all the HTML elements with the same style definitions.
+
+&nbsp;
+
+&nbsp;
+
 # All CSS Simple Selectors
 
 | Selector Name          | Syntax             | Example    | Example description                            |
@@ -11,17 +42,26 @@
 
 &nbsp;
 
+Precedence id > class
+&nbsp;
+
 &nbsp;
 
 # The CSS id Selector
 
-- The id selector uses the id attribute of an HTML element to select a specific element.
+- The `id selector` uses the `id` attribute of an HTML element to select a specific element.
 
 - The id of an element is **unique within a page**, so the id selector is used to select one unique element!
 
 - To select an element with a specific id, write a **hash** (#) character, followed by the id of the element.
 
-* **Note**: An id name cannot start with a number!
+&nbsp;
+
+## Note
+
+An id name cannot start with a number!
+
+&nbsp;
 
 ## Example
 
@@ -38,7 +78,7 @@
 
 # The CSS class Selector
 
-- The class selector selects HTML elements with a specific class attribute.
+- The class selector selects HTML elements with a specific `class` attribute.
 
 - To select elements with a specific class, write a **period** (.) character, followed by the class name.
 

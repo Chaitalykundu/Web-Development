@@ -1,0 +1,25 @@
+/* descendant selector */
+.container p{
+    color: rgb(211, 97, 52);
+}
+
+
+
+/* child selector */
+.container2 > p{
+    color: rgb(69, 65, 181);
+}
+
+
+
+/* Adjacent Sibling Selector */
+p+p{
+    font-size: small;
+}
+
+
+
+/* General Sibling Selector */
+h2 ~ p{
+    background-color: yellow;
+}

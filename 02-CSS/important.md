@@ -1,3 +1,15 @@
+# Tips
+
+- If we want to change any css of checked radio buttons, checkboxes and options we should use `:checked` selector
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Clean default CSS
 
 ```css

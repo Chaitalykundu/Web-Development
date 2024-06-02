@@ -1,0 +1,42 @@
+* {
+  background-color: black;
+  color: white;
+}
+
+a:link {
+  color: blueviolet;
+}
+
+a:visited {
+  color: brown;
+}
+
+a:hover {
+  color: rgb(72, 238, 102);
+}
+
+a:active {
+  color: bisque;
+}
+
+/* checked */
+option:checked {
+  color: blue;
+  background-color: yellow;
+}
+
+input:checked {
+  background-color: rgb(203, 131, 23);
+}
+
+/* disabled */
+input:disabled {
+  background-color: rgb(165, 161, 161);
+}
+
+/* empty */
+p:empty {
+  width: 100px;
+  height: 20px;
+  background-color: #ff0000;
+}
