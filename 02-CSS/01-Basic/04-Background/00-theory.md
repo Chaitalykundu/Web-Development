@@ -1,4 +1,4 @@
-# Overview
+# Introduction
 
 The CSS **background** properties are used to add **_background effects_** for elements.
 

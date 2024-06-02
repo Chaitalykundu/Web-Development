@@ -64,9 +64,26 @@
 
 &nbsp;
 
+# Color
+
+1. Why do we use Color property
+2. Which formats do we use for color
+3. What is RGB value
+4. What is RGBA value
+5. What is opacity
+6. What is HEX value
+7. What is HSL value
+8. What is Hue
+9. What is Saturation
+10. What is Lightness
+11. What is HSLA value
+
 &nbsp;
 
 &nbsp;
+
+# Background
+
 
 &nbsp;
 
