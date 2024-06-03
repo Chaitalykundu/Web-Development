@@ -1,0 +1,20 @@
+.container {
+  background-color: rgb(228, 216, 201);
+  background-image: url("./assets/random-photo.jpg");
+  /* background-position:center top; */
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+
+  float: left;
+}
+
+p{
+  background-image: url("./assets/random-photo.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment:scroll;
+}
+
+h1 {
+  text-align: center;
+}

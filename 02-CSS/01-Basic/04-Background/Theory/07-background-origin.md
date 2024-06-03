@@ -13,9 +13,9 @@
 
 # Chapter Summary
 
--
--
--
+- The `background-origin` property specifies the origin position (the background positioning area) of a background image.
+
+- `background-origin` property has no effect if `background-attachment` is "**fixed**".
 
 &nbsp;
 
@@ -24,6 +24,10 @@
 | Property          | Description                                             | Default value |
 | ----------------- | ------------------------------------------------------- | ------------- |
 | background-origin | Specifies where the background image(s) is/are position | padding-box   |
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -55,21 +59,21 @@ selector {
 
 # Example
 
-Set two background images for a `<div>` element. Let the "paper.gif" background image starts from the upper left corner of the padding edge, and let the "img_tree.gif" background image starts from the upper left corner of the content:
-
 ```css
-#example1 {
+.container {
+  background-image: url("./assets/random-photo.jpg");
   border: 10px dashed black;
   padding: 25px;
-  background: url(img_tree.gif), url(paper.gif);
   background-repeat: no-repeat;
-  background-origin: content-box, padding-box;
+  background-origin: content-box;
 }
 ```
 
 &nbsp;
 
 &nbsp;
+
+# Specification
 
 |                    |                                                                       |
 | ------------------ | --------------------------------------------------------------------- |

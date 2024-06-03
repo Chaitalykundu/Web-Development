@@ -95,7 +95,13 @@
 9. What is the default value of background-position
 10. How to center a background image
 11. What is background-size
-12. What is background-color
+12. In how many ways we can use with background-size property
+13. What is background-repeat
+14. What is background-origin
+14. When does background-origin not work
+15. What is background-clip
+16. What is background-repeat
+17. What is background-repeat
 
 &nbsp;
 

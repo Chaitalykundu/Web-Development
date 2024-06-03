@@ -1,6 +1,32 @@
+# Overview
+
+- Definition and Usage
+- Syntax
+- Example
+- Specification
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `background-clip` property defines how far the background (**color or image**) should extend within an element.
+
+- The image will be repeated if the actual image size is small and `background-repeat` is not set
+
+&nbsp;
+
+&nbsp;
+
 | Property        | Description                                   | Default value |
 | --------------- | --------------------------------------------- | ------------- |
 | background-clip | Specifies the painting area of the background | border-box    |
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -40,6 +66,8 @@ div {
 &nbsp;
 
 &nbsp;
+
+# Specification
 
 |                    |                                                                       |
 | ------------------ | --------------------------------------------------------------------- |

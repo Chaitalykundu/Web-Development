@@ -10,7 +10,6 @@
 
 &nbsp;
 
-&nbsp;
 
 # Chapter Summary
 

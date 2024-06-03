@@ -1,0 +1,12 @@
+.container{
+  border: 10px dotted black;
+  background-image: url("./assets/random-photo.jpg");
+  padding: 15px;
+  background-color: lightblue;
+  background-clip: content-box;
+  background-repeat: repeat-x;
+}
+
+h1 {
+  text-align: center;
+}

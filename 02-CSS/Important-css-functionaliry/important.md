@@ -8,6 +8,8 @@
 
 - If we want to change any css of checked radio buttons, checkboxes and options we should use `:checked` selector
 
+- `background-origin` property has no effect if `background-attachment` is "**fixed**".
+
 &nbsp;
 
 &nbsp;

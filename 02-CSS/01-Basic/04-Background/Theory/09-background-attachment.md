@@ -1,7 +1,29 @@
+# Overview
+
+- Definition and Usage
+- Syntax
+- Example
+- Specification
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `background-attachment` property sets whether a background image **scrolls** with the rest of the page, or is fixed.
+
+&nbsp;
+
+&nbsp;
+
 | Property              | Description                                                                   | Default value |
 | --------------------- | ----------------------------------------------------------------------------- | ------------- |
 | background-attachment | Sets whether a background image is fixed or scrolls with the rest of the page | scroll        |
-|                       |                                                                               |
+|                       |                                                                               |               |
+
+&nbsp;
 
 &nbsp;
 
@@ -42,6 +64,8 @@ body {
 &nbsp;
 
 &nbsp;
+
+# Specification
 
 |                    |                                           |
 | ------------------ | ----------------------------------------- |

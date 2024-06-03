@@ -5,6 +5,7 @@
 - Example
 - Specification
 - Property Values
+- Shorthand Syntax
 
 &nbsp;
 
@@ -14,10 +15,6 @@
 
 - The `background-repeat` property sets if/how a background image will be repeated.
 
--
-
--
-
 &nbsp;
 
 &nbsp;
@@ -25,6 +22,10 @@
 | Property          | Description                                  | Default value: |
 | ----------------- | -------------------------------------------- | -------------- |
 | background-repeat | Sets how a background image will be repeated | repeat         |
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -96,6 +97,10 @@ body {
 | inherit   | Inherits this property from its parent element.                                                                                                                                                  |
 
 &nbsp;
+
+&nbsp;
+
+# Shorthand Syntax
 
 - The one-value syntax is a shorthand for the full two-value syntax:
 
