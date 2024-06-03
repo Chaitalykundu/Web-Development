@@ -1,3 +1,9 @@
+[w3school how to](https://www.w3schools.com/howto/howto_css_image_text_blocks.asp)
+
+&nbsp;
+
+&nbsp;
+
 # Tips
 
 - If we want to change any css of checked radio buttons, checkboxes and options we should use `:checked` selector
@@ -10,12 +16,24 @@
 
 &nbsp;
 
+1. Clean default CSS
+2. To fit a photo in middle
+3. Center a background image
+4. Center an image or text
+5. Center any text
+
+&nbsp;
+
+&nbsp;
+
 # Clean default CSS
 
 ```css
-margin: 0;
-padding: 0;
-box-sizing: border-box;
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 ```
 
 &nbsp;
@@ -25,10 +43,66 @@ box-sizing: border-box;
 # To fit a photo in middle
 
 ```css
-width: 80%;
-margin-left: auto;
-margin-right: auto;
-max-width: 500px;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+```
+
+Note that it cannot be centered if the width is set to 100% (full-width).
+
+&nbsp;
+
+&nbsp;
+
+# Center a background image
+
+```css
+body {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+```
+
+&nbsp;
+
+&nbsp;
+
+# Center an image
+
+```css
+img {
+  position: absolute;
+  top: 50vh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
+}
+```
+
+&nbsp;
+
+&nbsp;
+
+# Center any text
+
+```css
+.paragraph {
+  .paragraph {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+
+    position: absolute;
+    top: 50vh;
+    left: 50vw;
+
+    transform: translate(-50%, -50%);
+    overflow: auto;
+  }
+}
 ```
 
 &nbsp;
@@ -101,7 +175,7 @@ For `li` item we need to use float property. If p is used instead of li then `di
 
 &nbsp;
 
-# The following example shows a white text with black shadow:
+# The following example shows a white text with black shadow
 
 h1 {
 color: white;
@@ -112,7 +186,7 @@ text-shadow: 2px 2px 4px #000000;
 
 &nbsp;
 
-# We can also use the `box-shadow` property to create a any paper-like cards:
+# We can also use the `box-shadow` property to create a any paper-like cards
 
 ```css
 div.card {

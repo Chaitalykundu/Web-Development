@@ -1,6 +1,35 @@
+# Overview
+
+- Definition and Usage
+- Tip
+- Syntax
+- Example
+- Specification
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `background-size` property specifies the size of the background images.
+
+- There are **four** different syntaxes we can use with this property
+
+- In **two-value syntax**, the first value: **width** of the image, and the second value: **height**
+
+&nbsp;
+
+&nbsp;
+
 | Property        | Description                                 | Default value |
 | --------------- | ------------------------------------------- | ------------- |
 | background-size | Specifies the size of the background images | auto          |
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -71,6 +100,8 @@ Specify the size of a `background-image` in pixels:
 &nbsp;
 
 &nbsp;
+
+# Specification
 
 |                    |                                                                       |
 | ------------------ | --------------------------------------------------------------------- |

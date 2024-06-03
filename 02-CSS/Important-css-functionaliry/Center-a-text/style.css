@@ -1,0 +1,12 @@
+.paragraph {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  
+  position: absolute;
+  top: 50vh;
+  left: 50vw;
+
+  transform: translate(-50%, -50%);
+  overflow: auto;
+}

@@ -1,3 +1,27 @@
+# Overview
+
+- Definition and Usage
+- Syntax
+- Example
+- Specification
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `background-repeat` property sets if/how a background image will be repeated.
+
+-
+
+-
+
+&nbsp;
+
+&nbsp;
+
 | Property          | Description                                  | Default value: |
 | ----------------- | -------------------------------------------- | -------------- |
 | background-repeat | Sets how a background image will be repeated | repeat         |
@@ -41,6 +65,8 @@ body {
 &nbsp;
 
 &nbsp;
+
+# Specification
 
 |                    |                                                                       |
 | ------------------ | --------------------------------------------------------------------- |

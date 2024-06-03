@@ -1,6 +1,29 @@
+# Overview
+
+- Definition and Usage
+- Tip
+- Syntax
+- Example
+- Specification
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `background-position` property sets the starting position of a background image.
+
+&nbsp;
+
+&nbsp;
+
 | Property            | Description                                      | Default value     |
 | ------------------- | ------------------------------------------------ | ----------------- |
 | background-position | Sets the starting position of a background image | top-left or 0% 0% |
+
+&nbsp;
 
 &nbsp;
 
@@ -49,6 +72,8 @@ body {
 
 &nbsp;
 
+# Specification
+
 |                    |                                          |
 | ------------------ | ---------------------------------------- |
 | Default value:     | 0% 0%                                    |
@@ -63,7 +88,7 @@ body {
 
 # Property Values
 
-## 1-value syntax:
+## 1-value syntax
 
 The value may be:
 
@@ -74,7 +99,7 @@ The value may be:
 
 &nbsp;
 
-## 2-value syntax:
+## 2-value syntax
 
 | Value         | Description                                                                                                                                                                                                                                                |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

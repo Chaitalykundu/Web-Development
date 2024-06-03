@@ -1,8 +1,30 @@
+# Overview
+
+- Introduction
+- Background Properties
+- Note
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The CSS **background** properties are used to add **_background effects_** for elements.
+
+&nbsp;
+
+&nbsp;
+
 # Introduction
 
 The CSS **background** properties are used to add **_background effects_** for elements.
 
 &nbsp;
+
+# Background Properties
 
 CSS background properties are:
 
@@ -16,6 +38,8 @@ CSS background properties are:
 - background-clip
 - background-attachment
 - background-break
+
+&nbsp;
 
 &nbsp;
 

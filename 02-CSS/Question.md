@@ -84,6 +84,18 @@
 
 # Background
 
+1. Why do we use background property
+2. Which properties are used as background properties
+3. `background` is the shorthand of which properties
+4. How to separate background-position and background-size
+5. If we want to use multiple background-image then what should we change in the syntax
+6. What is background-color
+7. What is background-image
+8. What is background-position
+9. What is the default value of background-position
+10. How to center a background image
+11. What is background-size
+12. What is background-color
 
 &nbsp;
 

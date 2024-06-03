@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(228, 216, 201);
+  background-image: url("../assets/random-photo.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+/* If we use  background-size: 100% 100%; then it will take the full image and re-adjust the height & width of the image in full screen */
+  /* background-size: 100% 100%; */
+
+/* If we use  background-size: cover; then it can cut the image for the re-adjustment of the height & width of the image in full screen */
+  /* background-size: cover; */
+}
+
+h1 {
+  text-align: center;
+}

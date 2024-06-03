@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(228, 216, 201);
+  background-image: url("./assets/random-photo.jpg");
+  background-position:center;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+}
+
+h1 {
+  text-align: center;
+}

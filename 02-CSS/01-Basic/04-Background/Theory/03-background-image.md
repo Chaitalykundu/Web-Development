@@ -1,6 +1,33 @@
+# Overview
+
+- Definition and Usage
+- Tip
+- Syntax
+- Example
+- Specification
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `background-image` property sets one or more background images for an element.
+
+- By default, a background-image is placed at the **_top-left corner_** of an element, and **_repeated both vertically and horizontally_**.
+
+&nbsp;
+
+&nbsp;
+
 | Property         | Description                              | Default value |
 | ---------------- | ---------------------------------------- | ------------- |
 | background-image | Sets the background image for an element | None          |
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -59,6 +86,8 @@ body {
 &nbsp;
 
 &nbsp;
+
+# Specification
 
 |                    |                                                                       |
 | ------------------ | --------------------------------------------------------------------- |
