@@ -1,0 +1,32 @@
+.para1 {
+  height: 50px;
+  border: 10px dotted red;
+  border-top: 1px solid black;
+  writing-mode: vertical-lr;
+}
+
+
+.para2{
+  border: solid black;
+}
+
+.container{
+  border: 5px dashed purple;
+}
+
+table, th, td{
+  border: 3px solid rgb(232, 6, 6);
+}
+.table{
+  margin:30px;
+  /* width: 500px; */
+  /* height: 200px; */
+  border-collapse: collapse;
+}
+
+
+
+
+/* td{
+  border: 5px solid rgb(11, 201, 175);
+} */

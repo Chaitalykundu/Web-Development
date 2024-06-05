@@ -1,6 +1,32 @@
-| Property     | Description                                       | Default value |
+# Overview
+
+- Definition and Usage
+- Note
+- Constituent properties
+- Syntax
+- Example
+- Formal Definition
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `border-style` property specifies what kind of border to display.
+
+- There are **four** different syntaxes you can use with this property
+
+&nbsp;
+
+&nbsp;
+
+| Property | Description | Default value |
 | ------------ | ------------------------------------------------- | ------------- |
-| border-style | property specifies what kind of border to display | none          |
+| border-style | property specifies what kind of border to display | none |
+
+&nbsp;
 
 &nbsp;
 
@@ -14,6 +40,8 @@ The `border-style` property specifies what kind of border to display.
 
 # Note
 
+It is a **required** property
+
 None of the other border properties will have any effect unless the `border-style` property is set.
 
 &nbsp;
@@ -24,10 +52,10 @@ None of the other border properties will have any effect unless the `border-styl
 
 `border-style` property is a shorthand for the following CSS properties:
 
-- border-top-style: none
-- border-right-style: none
-- border-bottom-style: none
-- border-left-style: none
+- border-top-style: none;
+- border-right-style: none;
+- border-bottom-style: none;
+- border-left-style: none;
 
 &nbsp;
 
@@ -96,7 +124,7 @@ There are **four** different syntaxes you can use with this property:
 
 &nbsp;
 
-# Formal definition
+# Formal Definition
 
 |                    |                                          |
 | ------------------ | ---------------------------------------- |

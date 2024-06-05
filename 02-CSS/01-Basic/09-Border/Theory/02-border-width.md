@@ -1,6 +1,36 @@
+# Overview
+
+- Definition and Usage
+- Note
+- Constituent properties
+- Syntax
+- Example
+- Formal Definition
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `border-width` property is used to set the **border's width**.
+
+- The `border-width` is always used with `border-style` to set the border first. Otherwise it will not work.
+
+- We can also define border property without defining `border-width` property. It will take default value at that time
+
+- There are **five** different syntaxes you can use with this property
+
+&nbsp;
+
+&nbsp;
+
 | Property     | Description                             | Default value |
 | ------------ | --------------------------------------- | ------------- |
 | border-width | specifies the width of the four borders | medium        |
+
+&nbsp;
 
 &nbsp;
 
@@ -12,7 +42,9 @@ The `border-width` property is used to set the **border's width**.
 
 It is set in **pixels**.
 
-You can also use the one of the three pre-defined values, **thin**, **medium** or **thick** to set the width of the border.
+We can also use the one of the three pre-defined values, **thin**, **medium** or **thick** to set the width of the border.
+
+&nbsp;
 
 &nbsp;
 
@@ -119,7 +151,30 @@ There are **five** different syntaxes you can use with this property:
 
 &nbsp;
 
-# Formal definition
+# Example
+
+```css
+.para1 {
+  border: 10px dotted red;
+  border-top: 1px solid black;
+}
+```
+
+&nbsp;
+
+In the following example `border-width` is not define. It will take default value at that time
+
+```css
+.para2 {
+  border: solid black;
+}
+```
+
+&nbsp;
+
+&nbsp;
+
+# Formal Definition
 
 |                    |                                                   |
 | ------------------ | ------------------------------------------------- |
@@ -143,3 +198,4 @@ There are **five** different syntaxes you can use with this property:
 | length  | specifies the length of the border              |
 | initial | Sets this property to its default value.        |
 | inherit | Inherits this property from its parent element. |
+|         |                                                 |

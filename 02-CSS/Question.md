@@ -146,7 +146,7 @@
 
 1. What is margin property
 2. margin is the shorthand property for which properties
-3. In how many ways can we specify the margin property
+3. In how many ways we can define the margin property
 4. Is negative value allow in margin property
 5. How can we center any element horizontally
 6. What is Margin Collapse
@@ -154,7 +154,6 @@
 &nbsp;
 
 &nbsp;
-
 
 # Padding
 
@@ -168,6 +167,25 @@
 &nbsp;
 
 &nbsp;
+
+# Border
+
+1. What is border property
+2. Which properties are considered as border properties
+3. What is border-width property
+4. In how many ways we can define the border-width property
+5. Can we define border property without defining `border-width` property
+6. Which property is required for border property
+7. What is border-style property
+8. In how many ways we can define the border-style property
+9. Can we define border property without defining `border-style` property
+10. What is border-color property
+11. In how many ways we can define the border-style property
+12. What is border-radius property
+13. In how many ways we can define the border-radius property
+14. If we use The two-value syntax then it will be applied in which corners
+15. What is border-collapse property
+16. In which element border-collapse applies
 
 &nbsp;
 

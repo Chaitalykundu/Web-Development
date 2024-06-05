@@ -1,3 +1,24 @@
+# Overview
+
+- Definition and Usage
+- Constituent properties
+- Syntax
+- Example
+- Formal Definition
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `border-radius` property sets the rounded borders and provides the rounded corners around an element, tags, or div.
+
+&nbsp;
+
+&nbsp;
+
 | Property      | Description                       | Default value |
 | ------------- | --------------------------------- | ------------- |
 | border-radius | add rounded borders to an element | 0             |
@@ -114,3 +135,4 @@ There are **four** different syntaxes you can use with this property:
 | %       | Defines the shape of the corners in %           |
 | initial | Sets this property to its default value.        |
 | inherit | Inherits this property from its parent element. |
+|         |                                                 |

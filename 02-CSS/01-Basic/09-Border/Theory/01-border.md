@@ -1,3 +1,15 @@
+# Overview
+
+- border Shorthand Property
+- Syntax
+- Example
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # border Shorthand Property
 
 The border property is a shorthand property for:
@@ -8,7 +20,7 @@ The border property is a shorthand property for:
 
 &nbsp;
 
-this is also the shorthand property for:
+This is also the shorthand property for (each border-width, border-style, border-color):
 
 - border-top
 - border-right

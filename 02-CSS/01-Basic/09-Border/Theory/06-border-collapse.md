@@ -1,3 +1,26 @@
+# Overview
+
+- Definition and Usage
+- Constituent properties
+- Syntax
+- Example
+- Formal Definition
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `border-collapse` property sets whether table borders should collapse into a single border or be separated as in standard HTML.
+
+- It only applies in tables
+
+&nbsp;
+
+&nbsp;
+
 | Property        | Description                                                                     | Default value |
 | --------------- | ------------------------------------------------------------------------------- | ------------- |
 | border-collapse | sets whether table borders should collapse into a single border or be separated | separate      |
@@ -48,20 +71,51 @@ selector {
 # Example
 
 ```css
-#table1 {
-  border-collapse: separate;
+table,
+th,
+td {
+  border: 3px solid rgb(232, 6, 6);
 }
-
-#table2 {
+.table {
+  margin: 30px;
   border-collapse: collapse;
 }
 ```
 
 &nbsp;
 
+<table class="table" style="border: 3px solid rgb(232, 6, 6); border-collapse: collapse;" >
+        <thead>
+            <tr >
+                <th style="border: 3px solid rgb(232, 6, 6);" >row 1</th>
+                <th style="border: 3px solid rgb(232, 6, 6);" >row 2</th>
+                <th style="border: 3px solid rgb(232, 6, 6);" >row 3</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="border: 3px solid rgb(232, 6, 6);" >value 11</td>
+                <td style="border: 3px solid rgb(232, 6, 6);" >value 12</td>
+                <td style="border: 3px solid rgb(232, 6, 6);" >value 13</td>
+            </tr>
+            <tr>
+                <td style="border: 3px solid rgb(232, 6, 6);" >value 21</td>
+                <td style="border: 3px solid rgb(232, 6, 6);" >value 22</td>
+                <td style="border: 3px solid rgb(232, 6, 6);" >value 23</td>
+            </tr>
+            <tr>
+                <td style="border: 3px solid rgb(232, 6, 6);" >value 31</td>
+                <td style="border: 3px solid rgb(232, 6, 6);" >value 32</td>
+                <td style="border: 3px solid rgb(232, 6, 6);" >value 33</td>
+            </tr>
+        </tbody>
+    </table>
+
 &nbsp;
 
-# Formal definition
+&nbsp;
+
+# Formal Definition
 
 |                    |                                        |
 | ------------------ | -------------------------------------- |

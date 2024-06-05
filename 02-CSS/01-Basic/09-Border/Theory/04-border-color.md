@@ -1,6 +1,30 @@
+# Overview
+
+- Definition and Usage
+- Note
+- Constituent properties
+- Syntax
+- Example
+- Formal Definition
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `border-color` property is used to set the color of the four borders.
+
+&nbsp;
+
+&nbsp;
+
 | Property     | Description                  | Default value |
 | ------------ | ---------------------------- | ------------- |
 | border-color | set the color of the borders | currentcolor  |
+
+&nbsp;
 
 &nbsp;
 
@@ -24,10 +48,10 @@ If `border-color` is not set, it inherits the color of the element.
 
 `border-color` property is a shorthand for the following CSS properties:
 
-- border-bottom-color : currentcolor
-- border-left-color : currentcolor
-- border-right-color : currentcolor
-- border-top-color : currentcolor
+- border-bottom-color : currentcolor;
+- border-left-color : currentcolor;
+- border-right-color : currentcolor;
+- border-top-color : currentcolor;
 
 &nbsp;
 
@@ -101,7 +125,7 @@ There are **four** different syntaxes you can use with this property:
 
 &nbsp;
 
-# Formal definition
+# Formal Definition
 
 |                    |                                                    |
 | ------------------ | -------------------------------------------------- |
@@ -117,4 +141,4 @@ There are **four** different syntaxes you can use with this property:
 
 # Property Values
 
-See [Color](../03-Colors/00-theory.md) for values
+See [Color](../../03-Colors/00-theory.md) for values
