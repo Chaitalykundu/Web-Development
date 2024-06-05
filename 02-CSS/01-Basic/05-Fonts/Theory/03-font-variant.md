@@ -1,6 +1,33 @@
+# Overview
+
+- Definition and Usage
+- Syntax
+- Example
+- Specification
+- Property Values
+- Constituent properties
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `font-variant` property specifies whether or not a text should be displayed in a small-caps font.
+
+- In a _small-caps_ font, all lowercase letters are converted to uppercase letters. However, the converted uppercase letters appears in a smaller font size than the original uppercase letters in the text.
+
+&nbsp;
+
+&nbsp;
+
 | Property     | Description                | Default value |
 | ------------ | -------------------------- | ------------- |
 | font-variant | Specifies the font variant | normal        |
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -42,6 +69,8 @@ p.small {
 
 &nbsp;
 
+# Specification
+
 |                    |                                                                   |
 | ------------------ | ----------------------------------------------------------------- |
 | Inherited:         | yes                                                               |
@@ -63,6 +92,7 @@ p.small {
 | small-caps | The browser displays a small-caps font              |
 | initial    | Sets this property to its default value             |
 | inherit    | Inherits this property from its parent element      |
+|            |                                                     |
 
 &nbsp;
 

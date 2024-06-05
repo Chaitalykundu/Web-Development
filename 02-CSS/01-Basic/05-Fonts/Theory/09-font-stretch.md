@@ -1,12 +1,40 @@
+# Overview
+
+- Definition and Usage
+- Note
+- Syntax
+- Example
+- Specification
+- Property Values
+- Define the generic-family categories
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The CSS `font-stretch` property allows you to make text narrower (condensed) or wider (expanded).
+
+&nbsp;
+
+&nbsp;
+
 | Property     | Description                 | Default value |
 | ------------ | --------------------------- | ------------- |
 | font-stretch | make text narrower or wider | normal        |
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 # Definition and Usage
 
 The CSS `font-stretch` property allows you to make text narrower (condensed) or wider (expanded).
+
+&nbsp;
 
 &nbsp;
 
@@ -49,6 +77,8 @@ div {
 
 &nbsp;
 
+# Specification
+
 |                    |                                                                       |
 | ------------------ | --------------------------------------------------------------------- |
 | Inherited:         | yes                                                                   |
@@ -77,3 +107,4 @@ div {
 | ultra-expanded  | Makes the text as wide as it gets                                                 |
 | initial         | Sets this property to its default value.                                          |
 | inherit         | Inherits this property from its parent element.                                   |
+|                 |                                                                                   |

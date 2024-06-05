@@ -1,6 +1,33 @@
+# Overview
+
+- Definition and Usage
+- Types of font family names
+- Note
+- Syntax
+- Example
+- Specification
+- Property Values
+- Define the generic-family categories
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `font-family` property specifies the **font** for an element.
+
+&nbsp;
+
+&nbsp;
+
 | Property    | Description                        | Default value          |
 | ----------- | ---------------------------------- | ---------------------- |
 | font-family | Specifies the font for an element. | depends on the browser |
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -12,18 +39,27 @@ The font-family property can hold several font names as a "fallback" system. If 
 
 &nbsp;
 
+&nbsp;
+
 # Types of font family names
 
 There are **two** types of font family names:
+
+&nbsp;
 
 ## family-name
 
 - The name of a font-family, like "times", "courier", "arial", etc.
 
+&nbsp;
+
 ## generic-family
 
 - The name of a generic-family, like "serif", "sans-serif", "cursive", "fantasy", "monospace".
+
 - Start with the font you want, and always end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available.
+
+&nbsp;
 
 &nbsp;
 
@@ -33,7 +69,7 @@ There are **two** types of font family names:
 
 - If a font name contains white-space, it must be quoted. Single quotes must be used when using the "style" attribute in HTML.
 
-* It is a good practice to quote font family names that contain white space, digits, or punctuation characters other than hyphens. Ex:
+- It is a good practice to quote font family names that contain white space, digits, or punctuation characters other than hyphens. Ex:
   `font-family: "Goudy Bookletter 1911", sans-serif;
 `
 
@@ -67,6 +103,8 @@ p.a {
 
 &nbsp;
 
+# SPecification
+
 |                    |                                                                       |
 | ------------------ | --------------------------------------------------------------------- |
 | Inherited:         | yes                                                                   |
@@ -92,7 +130,7 @@ p.a {
 
 &nbsp;
 
-# define the generic-family categories.
+# Define the generic-family categories
 
 # serif
 

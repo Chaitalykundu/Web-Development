@@ -51,7 +51,7 @@ selector {
 
 # Example
 
-A background-image that will not scroll with the page (fixed):
+The following background-image will not scroll with the page (as background-attachment is set to fixed):
 
 ```css
 body {

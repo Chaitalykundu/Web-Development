@@ -1,12 +1,44 @@
+# Overview
+
+- Definition and Usage
+- Syntax
+- Example
+- Specification
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `font-size` property sets the size of a font.
+
+- The default size is 16px, which is equal to 1em.
+
+- The font-size can be **absolute** or **relative**.
+
+&nbsp;
+
+&nbsp;
+
 | Property  | Description               | Default value |
 | --------- | ------------------------- | ------------- |
 | font-size | Specifies the font size . | medium        |
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 # Definition and Usage
 
 The `font-size` property sets the size of a font.
+
+&nbsp;
+
+&nbsp;
 
 # NOTE
 
@@ -53,22 +85,24 @@ selector {
 Set different font weight for three paragraphs:
 
 ```css
-p.normal {
-  font-weight: normal;
+.para1 {
+  font-size: x-small;
 }
 
-p.thick {
-  font-weight: bold;
+.para2 {
+  font-size: 50px;
 }
 
-p.thicker {
-  font-weight: 900;
+.para3 {
+  font-size: xx-large;
 }
 ```
 
 &nbsp;
 
 &nbsp;
+
+# Specification
 
 |                    |                                                                       |
 | ------------------ | --------------------------------------------------------------------- |
@@ -87,10 +121,10 @@ p.thicker {
 
 | Value    | Description                                                       |
 | -------- | ----------------------------------------------------------------- |
-| medium   | Sets the font-size to a medium size.                              |
 | xx-small | Sets the font-size to an xx-small size                            |
 | x-small  | Sets the font-size to an extra small size                         |
 | small    | Sets the font-size to a small size                                |
+| medium   | Sets the font-size to a medium size.                              |
 | large    | Sets the font-size to a large size                                |
 | x-large  | Sets the font-size to an extra large size                         |
 | xx-large | Sets the font-size to an xx-large size                            |

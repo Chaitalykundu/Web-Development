@@ -1,3 +1,29 @@
+# Overview
+
+- Introduction
+- How To Add Icons
+- Bootstrap icons
+- Font Awesome icons
+- Google icons
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- Icons can be defined as the images or symbols used in any computer interface refer to an element.
+
+- It is a **graphical** representation of a file or program that helps the user to identify about the type of file quickly.
+
+- There are given some of the icon libraries such as **Bootstrap icons**, **Font Awesome icons**, and **Google icons**
+
+&nbsp;
+
+&nbsp;
+
+# Introduction
+
 Icons can easily be added to your HTML page, by using an icon library.
 
 Icons can be defined as the images or symbols used in any computer interface refer to an element.
@@ -6,9 +32,13 @@ It is a **graphical** representation of a file or program that helps the user to
 
 &nbsp;
 
+&nbsp;
+
 # How To Add Icons
 
 Using the icon library is the easiest way to add icons to our HTML page. It is possible to format the library icons by using CSS. We can customize the icons according to their color, shadow, size, etc.
+
+&nbsp;
 
 There are given some of the icon libraries such as **Bootstrap icons**, **Font Awesome icons**, and **Google icons** that can be used in CSS easily. There is no need to install or download the libraries mentioned above.
 

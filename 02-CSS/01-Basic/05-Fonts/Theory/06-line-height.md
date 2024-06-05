@@ -1,8 +1,33 @@
 # Overview
 
+- Definition and Usage
+- Note
+- Syntax
+- Example
+- Specification
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The CSS `line-height` property is used to define the **minimal height of line boxes within the element**.
+
+- **Negative** values are not allowed for line-height
+
+&nbsp;
+
+&nbsp;
+
 | Property    | Description                | Default value |
 | ----------- | -------------------------- | ------------- |
 | line-height | Specifies the line-height. | normal        |
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -47,7 +72,7 @@ div.a {
 
 div {
   line-height: 120%;
-  font-size: 10pt;
+  font-size: 10px;
 }
 ```
 

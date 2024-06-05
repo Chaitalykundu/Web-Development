@@ -1,12 +1,47 @@
+# Overview
+
+- Definition and Usage
+- Syntax
+- Margin: Shorthand Property
+- CSS Margin Values
+- The auto Value
+- Margin Collapse
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- CSS **Margin** property is used to define the space around elements.
+
+- The margin property is a shorthand property for the following individual **margin** properties:
+
+  - margin-top
+  - margin-right
+  - margin-bottom
+  - margin-left
+
+- You can set the margin property to **auto** to **horizontally center** the element within its container.
+
+- Negative values are allowed in margin property
+
+&nbsp;
+
+&nbsp;
+
 # CSS Margin Properties
 
-| Property       | Description                                                         | Default value |
-| -------------- | ------------------------------------------------------------------- | ------------- |
-| margin         | This property is used to set all the properties in one declaration. | 0             |
-| margin- left   | Sets the left margin of an element                                  | 0             |
-| margin- right  | Sets the right margin of an element                                 | 0             |
-| margin- top    | Sets the top margin of an element                                   | 0             |
-| margin- bottom | Sets the bottom margin of an element                                | 0             |
+| Property       | Description                                                                | Default value |
+| -------------- | -------------------------------------------------------------------------- | ------------- |
+| margin         | This property is used to set all the margin properties in one declaration. | 0             |
+| margin- top    | Sets the top margin of an element                                          | 0             |
+| margin- right  | Sets the right margin of an element                                        | 0             |
+| margin- bottom | Sets the bottom margin of an element                                       | 0             |
+| margin- left   | Sets the left margin of an element                                         | 0             |
+|                |                                                                            |               |
+
+&nbsp;
 
 &nbsp;
 
@@ -19,6 +54,10 @@ CSS **Margin** property is used to define the space around elements.
 It is completely **transparent** and doesn't have any background color. It clears an area around the element.
 
 Top, bottom, left and right margin can be changed independently using separate properties. You can also change all properties at once by using shorthand margin property.
+
+&nbsp;
+
+**_Tip: Negative values are allowed._**
 
 &nbsp;
 
@@ -45,7 +84,7 @@ The margin property is a shorthand property for the following individual **margi
 
 &nbsp;
 
-There are four types to specify the margin property. You can use one of them.
+There are four ways to specify the margin property. You can use one of them.
 
 - margin: 50px 100px 150px 200px;
 - margin: 50px 100px 150px;
@@ -99,16 +138,15 @@ There are four types to specify the margin property. You can use one of them.
 
 &nbsp;
 
-**_Tip: Negative values are allowed._**
 &nbsp;
 
 &nbsp;
 
-# The auto Value
+# The `auto` Value
 
 You can set the margin property to **auto** to **horizontally center** the element within its container.
 
-The element will then take up the specified width, and the remaining space will be split equally between the left and right margins.
+The element will then take up the **specified width**, and the remaining space will be split equally between the left and right margins.
 
 &nbsp;
 
@@ -118,7 +156,7 @@ The element will then take up the specified width, and the remaining space will 
 
 **Top** and **bottom** margins of elements are sometimes collapsed into a single margin that is equal to the largest of the two margins.
 
-This does not happen on left and right margins! Only top and bottom margins!
+This does not happen on left and right margins! But only top and bottom margins!
 
 &nbsp;
 

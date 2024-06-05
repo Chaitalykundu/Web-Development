@@ -1,3 +1,24 @@
+# Overview
+
+- Definition and Usage
+- Syntax
+- Example
+- Specification
+- Property Values
+- Common weight name mapping
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `font-weight` property sets how **thick** or **thin** characters in text should be displayed.
+
+&nbsp;
+
+&nbsp;
+
 | Property    | Description               | Default value |
 | ----------- | ------------------------- | ------------- |
 | font-weight | Specifies the font weight | normal        |
@@ -46,6 +67,8 @@ p.thicker {
 
 &nbsp;
 
+# Specification
+
 |                    |                                                                       |
 | ------------------ | --------------------------------------------------------------------- |
 | Inherited:         | yes                                                                   |
@@ -70,6 +93,7 @@ p.thicker {
 | 100, 200, 300, 400, 500, 600, 700, 800, 900 | Defines from thin to thick characters. 400 is the same as normal, and 700 is the same as bold |
 | initial                                     | Sets this property to its default value.                                                      |
 | inherit                                     | Inherits this property from its parent element.                                               |
+|                                             |                                                                                               |
 
 &nbsp;
 

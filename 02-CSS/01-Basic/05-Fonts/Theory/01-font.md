@@ -1,3 +1,34 @@
+# Overview
+
+- Introduction
+- Note
+- Syntax
+- Example
+- Specification
+- Property Values
+- System font values
+- Prefixed system font keywords
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `font-size` and `font-family` values are required. If one of the other values is missing, their default value are used.
+
+- The font property may be specified as either **_a single keyword_**, which will select a system font, or as **_a shorthand_** for various font-related properties.
+
+- `line-height` must immediately follow `font-size`, preceded by "/", like this: "16px/3"
+
+- `font-family` must be the last value specified.
+
+&nbsp;
+
+&nbsp;
+
+# Introduction
+
 The `font` property is a shorthand property for:
 
 - font-style
@@ -7,7 +38,11 @@ The `font` property is a shorthand property for:
 - line-height
 - font-family
 
-The `font-size` and `font-family` values are required. If one of the other values is missing, their default value are used.
+&nbsp;
+
+The `font-size` and `font-family` values are required. If one of the other values are missing, their default value are used.
+
+&nbsp;
 
 &nbsp;
 
@@ -21,13 +56,13 @@ The font property may be specified as either **_a single keyword_**, which will 
 
 &nbsp;
 
-## If font is specified as a system keyword,
+## If font is specified as a system keyword
 
 it must be one of: `caption`, `icon`, `menu`, `message-box`, `small-caption`, `status-bar`.
 
 &nbsp;
 
-## If font is specified as a shorthand for several font-related properties, then:
+## If font is specified as a shorthand for several font-related properties, then
 
 - it must include values for:
 
@@ -45,9 +80,13 @@ it must be one of: `caption`, `icon`, `menu`, `message-box`, `small-caption`, `s
 &nbsp;
 
 - `font-style`, `font-variant` and `font-weight` must precede font-size
+
 - `font-variant` may only specify the values defined in CSS 2.1, that is normal and small-caps
+
 - `font-stretch` may only be a single keyword value.
+
 - `line-height` must immediately follow `font-size`, preceded by "/", like this: "16px/3"
+
 - `font-family` must be the last value specified.
 
 &nbsp;
@@ -82,6 +121,8 @@ p.b {
 &nbsp;
 
 &nbsp;
+
+# Specification
 
 |                    |                                                                  |
 | ------------------ | ---------------------------------------------------------------- |

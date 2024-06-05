@@ -98,26 +98,72 @@
 12. In how many ways we can use with background-size property
 13. What is background-repeat
 14. What is background-origin
-14. When does background-origin not work
-15. What is background-clip
-16. What is background-repeat
-17. What is background-repeat
+15. When does background-origin not work
+16. What is background-clip
+17. What is background-attachment
 
 &nbsp;
 
 &nbsp;
 
-&nbsp;
+# Font
+
+1. What is font property
+2. Which properties are used as font properties
+3. `font` is the shorthand of which properties
+4. Which properties are required for font
+5. In which ways may font property be specified
+6. What is font-style
+7. What is font-variant
+8. What is font-weight
+9. What is font-size
+10. What is the default size of font-size
+11. In how many ways font-size can be expressed?
+12. What is line-height
+13. Is negative value allow in line-height
+14. What is font-family
+15. How many types of font family name in css
+16. What is color property
+17. What is font-stretch
 
 &nbsp;
 
 &nbsp;
 
-&nbsp;
+# Icon
+
+1. What is icon
+2. Name some icon libraries
+3. In which section can we add Bootstrap icons
+4. In which section can we add Font Awesome icons
+5. In which section can we add Google icons
 
 &nbsp;
 
 &nbsp;
+
+# Margin
+
+1. What is margin property
+2. margin is the shorthand property for which properties
+3. In how many ways can we specify the margin property
+4. Is negative value allow in margin property
+5. How can we center any element horizontally
+6. What is Margin Collapse
+
+&nbsp;
+
+&nbsp;
+
+
+# Padding
+
+1. What is padding property
+2. padding is the shorthand property for which properties
+3. In how many ways can we specify the padding property
+4. Is negative value allow in padding property
+5. How can we center any element horizontally
+6. What is Margin Collapse
 
 &nbsp;
 

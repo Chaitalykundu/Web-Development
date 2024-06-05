@@ -1,6 +1,32 @@
+# Overview
+
+- Definition and Usage
+- Syntax
+- Example
+- Specification
+- Property Values
+- System font values
+- Prefixed system font keywords
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `font-style` property specifies the font style for a text.
+
+&nbsp;
+
+&nbsp;
+
 | Property   | Description              | Default value |
 | ---------- | ------------------------ | ------------- |
 | font-style | Specifies the font style | normal        |
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -46,6 +72,8 @@ p.c {
 
 &nbsp;
 
+# Specification
+
 |                    |                                                                   |
 | ------------------ | ----------------------------------------------------------------- |
 | Inherited:         | yes                                                               |
@@ -68,6 +96,7 @@ p.c {
 | oblique | The browser displays an oblique font style      |
 | initial | Sets this property to its default value.        |
 | inherit | Inherits this property from its parent element. |
+|         |                                                 |
 
 &nbsp;
 

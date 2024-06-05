@@ -1,6 +1,30 @@
+# Overview
+
+- Definition and Usage
+- Syntax
+- Example
+- Specification
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `color` property specifies the color of text.- **Negative** values are not allowed for line-height
+
+&nbsp;
+
+&nbsp;
+
 | Property | Description                  | Default value |
 | -------- | ---------------------------- | ------------- |
 | color    | Specifies the color of text. |               |
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -37,6 +61,8 @@ body {
 &nbsp;
 
 &nbsp;
+
+# Specification
 
 |                    |                                                                       |
 | ------------------ | --------------------------------------------------------------------- |

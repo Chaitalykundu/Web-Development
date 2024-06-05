@@ -1,12 +1,47 @@
+# Overview
+
+- Definition and Usage
+- Note
+- Syntax
+- padding: Shorthand Property
+- CSS padding Values
+- Padding and Element Width
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- Padding is used to create **space around an element's content**, inside of any defined borders.
+
+- Padding creates extra space within an element, while margin creates extra space around an element.
+
+- The padding property is a shorthand property for the following individual **padding** properties:
+
+  - padding-top
+  - padding-right
+  - padding-bottom
+  - padding-left
+
+- Negative values are not allowed in padding property
+
+&nbsp;
+
+&nbsp;
+
 # CSS padding Properties
 
 | Property       | Description                                                                    | Default value |
 | -------------- | ------------------------------------------------------------------------------ | ------------- |
 | padding        | A shorthand property for setting all the padding properties in one declaration | 0             |
+| padding-top    | Sets the top padding of an element                                             | 0             |
+| padding-right  | Sets the right padding of an element                                           | 0             |
 | padding-bottom | Sets the bottom padding of an element                                          | 0             |
 | padding-left   | Sets the left padding of an element                                            | 0             |
-| padding-right  | Sets the right padding of an element                                           | 0             |
-| padding-top    | Sets the top padding of an element                                             | 0             |
+|                |                                                                                |               |
+
+&nbsp;
 
 &nbsp;
 
@@ -21,6 +56,8 @@ Padding is used to create **space around an element's content**, inside of any d
 # Note
 
 Padding creates extra space within an element, while margin creates extra space around an element.
+
+**_Negative values are not allowed._**
 
 &nbsp;
 
@@ -99,8 +136,6 @@ There are **four** types to specify the padding property. You can use one of the
 | inherit | specifies that the padding should be inherited from the parent element |
 
 &nbsp;
-
-**_Note: Negative values are not allowed._**
 
 &nbsp;
 
