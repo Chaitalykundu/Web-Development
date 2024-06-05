@@ -36,9 +36,8 @@
 ## Use
 
 ```css
-
 .selector {
-  `padding: .5px;`
+  padding: .5px;
 }
 ```
 

@@ -1,8 +1,32 @@
+# Overview
+
+- Definition and Usage
+- Note
+- Syntax
+- Formal Definition
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `min-width` property defines the **minimum width** of an element.
+
+- It does not allow **negative** values.
+
+&nbsp;
+
+&nbsp;
+
 # CSS height Properties
 
 | Property   | Description                           | Default value |
 | ---------- | ------------------------------------- | ------------- |
-| min-height | Sets the minimum height of an element | 0             |
+| min-width | Sets the minimum width of an element | 0             |
+
+&nbsp;
 
 &nbsp;
 
@@ -11,6 +35,8 @@
 # Definition and Usage
 
 The `min-width` property defines the **minimum width** of an element.
+
+&nbsp;
 
 &nbsp;
 
@@ -28,6 +54,10 @@ This prevents the value of the **width** property from becoming smaller than `mi
 
 &nbsp;
 
+It does not allow **negative** values.
+
+&nbsp;
+
 &nbsp;
 
 # Syntax
@@ -41,6 +71,8 @@ selector {
 &nbsp;
 
 &nbsp;
+
+# Formal Definition
 
 |                    |                                                                                 |
 | ------------------ | ------------------------------------------------------------------------------- |
@@ -62,6 +94,7 @@ selector {
 | %       | Defines the minimum width in percent of the containing block |
 | initial | Sets this property to its default value                      |
 | inherit | Inherits this property from its parent element.              |
+|         |                                                              |
 
 &nbsp;
 

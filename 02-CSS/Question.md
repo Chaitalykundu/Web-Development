@@ -191,11 +191,51 @@
 
 &nbsp;
 
-&nbsp;
+# Height & Width
+
+1. What is height
+2. What is width
+3. Height & width define which area
+4. How can we determine border area using Height & width
+5. In which element Height & width does not apply
 
 &nbsp;
 
+## min-height
+
+1. What is min-height
+2. Why do we use min-height
+3. When does min-height property not show any effect
+4. Does min-height allow negative values
+5. What if the content is smaller than the min-height
+
 &nbsp;
+
+## max-height
+
+1. What is max-height
+2. Why do we use max-height
+3. When does max-height property not show any effect
+4. Does min-height allow negative values
+5. What if the content is larger than the maximum height
+
+&nbsp;
+
+# min-width
+
+1. What is min-width
+2. Why do we use min-width
+3. When does min-width property not show any effect
+4. Does min-width allow negative values
+5. What if the content is smaller than the min-width
+
+# max-width
+
+1. What is max-width
+2. Why do we use max-width
+3. When does max-width property not show any effect
+4. Does max-width allow negative values
+5. What if the content is larger than the maximum width
 
 &nbsp;
 

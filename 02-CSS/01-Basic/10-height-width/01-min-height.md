@@ -1,8 +1,34 @@
+# Overview
+
+- Definition and Usage
+- Note
+- Syntax
+- Formal Definition
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `min-height` property defines the **_minimum height_** of an element.
+
+- If the content is larger than the minimum height, the `min-height` property has no effect.
+
+- It does not allow **negative** values.
+
+&nbsp;
+
+&nbsp;
+
 # CSS height Properties
 
 | Property   | Description                           | Default value |
 | ---------- | ------------------------------------- | ------------- |
 | min-height | Sets the minimum height of an element | 0             |
+
+&nbsp;
 
 &nbsp;
 
@@ -16,11 +42,11 @@ It sets the **lower bound** on the element's height.
 
 &nbsp;
 
+&nbsp;
+
 # Note
 
 If the content is smaller than the minimum height, the `min-height` will be applied.
-
-&nbsp;
 
 If the content is larger than the minimum height, the `min-height` property has no effect.
 
@@ -40,7 +66,7 @@ It does not allow **negative** values.
 
 ```css
 selector {
-  min-height: length |percentage| initial | inherit;
+  min-height: length| percentage| initial | inherit;
 }
 ```
 
@@ -55,6 +81,8 @@ selector {
   min-height: fit-content(20em);
 }
 ```
+
+&nbsp;
 
 ## Global values
 
@@ -71,6 +99,8 @@ selector {
 &nbsp;
 
 &nbsp;
+
+# Formal Definition
 
 |                    |                                                                                 |
 | ------------------ | ------------------------------------------------------------------------------- |

@@ -1,3 +1,27 @@
+# Overview
+
+- Definition and Usage
+- Note
+- Syntax
+- Formal Definition
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `max-height` property defines the **_maximum height_** of an element.
+
+- If the content is smaller than the maximum height, the `max-height` property has no effect.
+
+- It does not allow **negative** values.
+
+&nbsp;
+
+&nbsp;
+
 # CSS height Properties
 
 | Property   | Description                           | Default value |
@@ -11,6 +35,8 @@
 # Definition and Usage
 
 The `max-height` property defines the **_maximum height_** of an element.
+
+&nbsp;
 
 &nbsp;
 
@@ -28,6 +54,10 @@ If the content is larger than the maximum height, it will overflow. How the cont
 
 &nbsp;
 
+It does not allow **negative** values.
+
+&nbsp;
+
 &nbsp;
 
 # Syntax
@@ -41,6 +71,8 @@ selector {
 &nbsp;
 
 &nbsp;
+
+# Formal Definition
 
 |                    |                                                                                 |
 | ------------------ | ------------------------------------------------------------------------------- |
@@ -63,3 +95,4 @@ selector {
 | %       | Defines the maximum height in percent of the containing block |
 | initial | Sets this property to its default value                       |
 | inherit | Inherits this property from its parent element                |
+|         |                                                               |

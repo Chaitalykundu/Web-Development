@@ -1,7 +1,6 @@
 # Overview
 
 - Definition and Usage
-- Constituent properties
 - Syntax
 - Example
 - Formal Definition
@@ -24,6 +23,8 @@
 | Property        | Description                                                                     | Default value |
 | --------------- | ------------------------------------------------------------------------------- | ------------- |
 | border-collapse | sets whether table borders should collapse into a single border or be separated | separate      |
+
+&nbsp;
 
 &nbsp;
 

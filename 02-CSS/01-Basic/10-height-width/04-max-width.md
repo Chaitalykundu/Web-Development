@@ -1,3 +1,24 @@
+# Overview
+
+- Definition and Usage
+- Note
+- Syntax
+- Formal Definition
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `max-width` property defines the **maximum width** of an element.
+- It does not allow **negative** values.
+
+&nbsp;
+
+&nbsp;
+
 # CSS height Properties
 
 | Property  | Description                          | Default value |
@@ -8,9 +29,13 @@
 
 &nbsp;
 
+&nbsp;
+
 # Definition and Usage
 
 The `max-width` property defines the **maximum width** of an element.
+
+&nbsp;
 
 &nbsp;
 
@@ -28,6 +53,10 @@ This prevents the value of the width property from becoming larger than `max-wid
 
 &nbsp;
 
+It does not allow **negative** values.
+
+&nbsp;
+
 &nbsp;
 
 # Syntax
@@ -41,6 +70,8 @@ selector {
 &nbsp;
 
 &nbsp;
+
+# Formal Definition
 
 |                    |                                                                                 |
 | ------------------ | ------------------------------------------------------------------------------- |
@@ -63,3 +94,4 @@ selector {
 | %       | Defines the maximum width in percent of the containing block |
 | initial | Sets this property to its default value                      |
 | inherit | Inherits this property from its parent element               |
+|         |                                                              |
