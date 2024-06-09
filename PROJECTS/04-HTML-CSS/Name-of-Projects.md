@@ -2,19 +2,21 @@
 
 1. Tribute Page
 2. Survey form
-3. Parallax Website
-4. Landing page
-5. Restaurant Website
-6. An Event or Conference Webpage
-7. Music Store Page
-8. Photography Site
-9. Technical Documentation
-10. Portfolio page
-11. image slider
-12. email news letter
-13. static responsive website
-14. contact or log in page
-15. static e-commerce page
+3. Log-in page
+4. Contact form
+5. Parallax Website
+6. Landing page
+7. Restaurant Website
+8. An Event or Conference Webpage
+9. Music Store Page
+10. Photography Site
+11. Technical Documentation
+12. Portfolio page
+13. image slider
+14. email news letter
+15. static responsive website
+16. contact or log in page
+17. static e-commerce page
 
 <!-- # Projects
 

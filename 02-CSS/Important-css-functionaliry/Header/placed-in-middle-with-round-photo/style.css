@@ -1,0 +1,13 @@
+/* Place header in middle with round photo */
+
+
+.container{
+
+  text-align: center;
+}
+
+.image{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}

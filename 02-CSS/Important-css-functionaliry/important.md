@@ -21,8 +21,9 @@
 1. Clean default CSS
 2. To fit a photo in middle
 3. Center a background image
-4. Center an image or text
-5. Center any text
+4. Circular image
+5. Center an image or text
+6. Center any text
 
 &nbsp;
 
@@ -80,6 +81,22 @@ img {
   top: 50vh;
   left: 50vw;
   transform: translate(-50%, -50%);
+}
+```
+
+&nbsp;
+
+&nbsp;
+
+# Circular image
+
+height & width should be same
+
+```css
+.image {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
 }
 ```
 
