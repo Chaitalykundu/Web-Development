@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advance Form</title>
+</head>
+
+<body>
+    <form>
+        <h1>Form with most of the input element</h1>
+        <fieldset>
+            <legend>Basic Information</legend>
+
+
+            <!-- name -->
+            <label for="name">Name :</label>
+
+            <input type="text" id="name" name="name" placeholder="Enter your name" required maxlength="4">
+            <br> <br>
+
+
+
+           <!-- email -->
+            <label for="email">Email :</label>
+
+            <input type="email" id="email" name="mail" placeholder="Enter your email" readonly>
+            <br><br>
+
+            <!-- age -->
+            <label for="email">Age :</label>
+            <input type="number" name="age" value="" autofocus min="0" max="50">
+            <br><br>
+
+            <!-- gender -->
+            <label for="gen">Gender :</label>
+            
+            <input type="radio" id="gen" value="M" name="gender">Male
+            <input type="radio" id="gen" value="F" name="gender">Female
+            <input type="radio" id="gen" value="O" name="gender">Other
+            <br><br>
+
+            <!-- hobbies -->
+            <label for="hobby">Hobbies :</label>
+
+            <input type="checkbox" id="hobby" name="hobbies">Reading
+            <input type="checkbox" id="hobby" name="hobbies">Writing
+            <input type="checkbox" id="hobby" name="hobbies">Gardening
+            <br><br>
+
+
+            <!-- password -->
+            <label for="color" :</label>
+            
+            <input type="color" name="color">
+            <br> <br>
+
+
+            <!-- password -->
+            <label for="pass">Password :</label>
+        
+            <input type="password" id="pass" name="password" autofocus>
+            <br><br>
+
+
+            <!-- secret message -->
+            <input type="hidden" name="secretMessage">
+            <br><br>
+
+            <!-- image -->
+            <label for="img">Image :</label>
+
+            <input type="file" id="img" name="image">
+            <br><br>
+
+        </fieldset>
+
+        <fieldset>
+            <legend>Calender</legend>
+
+            Date:
+            <input type="date" name="setDate">
+            <br><br>
+
+            Time:
+            <input type="time" name="setTime">
+            <br><br>
+
+            Local Date Time:
+            <input type="datetime-local" name="setLocalDateTime">
+            <br><br>
+
+            Month:
+            <input type="month" name="setMonth">
+            <br><br>
+
+            Week:
+            <input type="week" name="setWeek">
+            <br><br>
+
+            Range:
+            <input type="Range" name="setRange">
+            <br><br>
+        </fieldset>
+
+        <br>
+        <input type="submit">
+    </form>
+</body>
+
+</html>

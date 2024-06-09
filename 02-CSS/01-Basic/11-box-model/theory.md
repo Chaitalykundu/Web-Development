@@ -1,3 +1,23 @@
+# Overview
+
+- Definition and Usage
+- Note
+- Syntax
+- Formal Definition
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- `Box model` describes the layout of the elements. The HTML elements are considered as boxes.
+
+&nbsp;
+
+&nbsp;
+
 # Definition and Usage
 
 `Box model` describes the layout of the elements. The HTML elements are considered as boxes.
@@ -22,7 +42,7 @@ When you set the `height` and `width` properties of an element with CSS, you jus
 
 &nbsp;
 
-<img src="../../assets/box-model.png">
+<img src="../assets/box-model.png">
 
 &nbsp;
 

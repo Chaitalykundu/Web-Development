@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Enquiry Form</title>
+    
+</head>
+
+<body>
+    <form>
+        <h1>Enquiry</h1>
+        <fieldset>
+            <legend>Details</legend>
+
+            <!-- name -->
+            <label for="name">Name :</label>
+            
+            <input type="text" id="name" name="name" placeholder="Enter your name"> <br><br>
+
+
+            <!-- address -->
+            <label for="address">Address :</label>
+            <textarea name="address" id="address" placeholder="Enter your address"></textarea> <br><br>
+
+
+            <!-- gender -->
+            <label for="gen">Gender :</label>
+            
+            <input type="radio" id="gen" value="M" name="gender">Male
+            <input type="radio" id="gen" value="F" name="gender">Female
+            <input type="radio" id="gen" value="O" name="gender">Other
+            <br><br>
+
+
+
+            <!-- country -->
+            <label for="country">Country :</label>
+
+            <select id="country">
+                <option>Select a Country</option>
+                <optgroup label="Asia">
+                    <option>India</option>
+                    <option>Bangladesh</option>
+                    <option>Pakistan</option>
+                </optgroup>
+                <option>USA</option>
+                <option>UK</option>
+            </select>
+
+            <br><br>
+
+
+            <!-- hobbies -->
+            <label for="hobby">Hobbies :</label>
+
+            <input type="checkbox" id="hobby" name="hobbies">Reading
+            <input type="checkbox" id="hobby" name="hobbies">Writing
+            <input type="checkbox" id="hobby" name="hobbies">Gardening
+            <br><br>
+
+
+            <!-- image -->
+            <label for="img">Image :</label>
+
+            <input type="file" id="img" name="image">
+            <br><br>
+
+
+            <!-- submit -->
+            <input type="submit" value="Send">
+
+            <!-- reset -->
+            <input type="reset" value="Reset">
+        </fieldset>
+    </form>
+</body>
+
+</html>
