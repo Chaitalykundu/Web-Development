@@ -241,6 +241,49 @@
 
 &nbsp;
 
+# Box model
+
+1. What is box model
+2. box model consists of which elements
+3. How to measure Total element height
+4. How to measure Total element width
+5. What are the different parts of box model
+6. What is content area
+7. What is padding area
+8. What is border field
+9. What is margin field
+10. What is Box sizing
+11. What are the property values of box-sizing
+12. What if we define box-sizing as border-box
+
+&nbsp;
+
+&nbsp;
+
+# !important
+
+1. Why do we use !important
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 &nbsp;
 
 # 1. What is cascade

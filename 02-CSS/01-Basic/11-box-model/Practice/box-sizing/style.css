@@ -1,0 +1,21 @@
+.without-box-sizing{
+    width: 150px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.border-box-content{
+    width: 150px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.content-box-content{
+    width: 150px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    box-sizing: content-box;
+}

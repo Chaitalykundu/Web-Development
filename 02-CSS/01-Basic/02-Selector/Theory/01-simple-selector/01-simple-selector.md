@@ -42,7 +42,7 @@
 
 &nbsp;
 
-Precedence id > class
+Precedence id > class > tag
 &nbsp;
 
 &nbsp;

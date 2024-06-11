@@ -2,9 +2,11 @@
 
 - Definition and Usage
 - Note
-- Syntax
-- Formal Definition
-- Property Values
+- Explanation of the different parts
+- Content area
+- padding area
+- border Field
+- Margin Field
 
 &nbsp;
 
@@ -13,6 +15,12 @@
 # Chapter Summary
 
 - `Box model` describes the layout of the elements. The HTML elements are considered as boxes.
+
+- **Total element height** = height + top padding + bottom padding + top border + bottom border + top margin + bottom margin
+
+- **Total element width** = width + left padding + right padding + left border + right border + left margin + right margin
+
+&nbsp;
 
 &nbsp;
 
@@ -24,7 +32,16 @@
 
 The CSS **box model** is essentially a box that wraps around every HTML element.
 
-It consists of: **margins**, **borders**, **padding**, and the actual **content**.
+&nbsp;
+
+It consists of
+
+- **margins**
+- **borders**
+- **padding**
+- the actual **content**
+
+&nbsp;
 
 &nbsp;
 
@@ -73,15 +90,9 @@ It is constrained by the information edge, and its proportions are dictated by t
 
 # Padding area
 
-This field requires the padding of the component. In essence, this area is the space around the subject area and inside the border-box. The height and the width of the padding box decide its proportions.
+This field requires the padding of the component.
 
-&nbsp;
-
-# Margin Field
-
-This segment consists of the area between **the boundary and the edge of the border**.
-
-The proportion of the margin region is equal to the margin-box width and height. It is better to separate the product from its neighbor nodes.
+In essence, this area is the space around the subject area and inside the border-box. The height and the width of the padding box decide its proportions.
 
 &nbsp;
 
@@ -90,3 +101,11 @@ The proportion of the margin region is equal to the margin-box width and height.
 It is a region between the **padding-box and the margin**.
 
 Its proportions are determined by the `width` and `height` of the boundary.
+
+&nbsp;
+
+# Margin Field
+
+This segment consists of the area between **the boundary and the edge of the border**.
+
+The proportion of the margin region is equal to the margin-box width and height. It is better to separate the product from its neighbor nodes.
