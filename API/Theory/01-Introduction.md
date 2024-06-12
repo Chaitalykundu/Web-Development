@@ -46,14 +46,14 @@ The application **sending the request** is called the **client**, and the applic
 
 &nbsp;
 
-<img src="./assets/api-flow.png">
+<img src="../assets/api-flow.png">
 
 &nbsp;
 
 There are **four** different ways that APIs can work depending on when and why they were created.
 
 - **_SOAP APIs_** (Simple Object Access Protocol)
-- **_RPC APIs_** (Remote Procedure Calls)
+- **_gRPC APIs_** (google Remote Procedure Calls)
 - **_Websocket APIs_**
 - **_REST APIs_** (Representational State Transfer)
 
@@ -63,7 +63,7 @@ There are **four** different ways that APIs can work depending on when and why t
 
 # Who works with APIs
 
-APIs are not just for developers. According to Postman's latest State of the API Report, almost half of the survey respondents identified as holding non-developer roles, such as management, solutions architects, business and data analysts, educators and researchers. All these roles benefit from the standardized data access provided by APIs.
+APIs are not just for **developers**. According to Postman's latest State of the API Report, almost half of the survey respondents identified as holding non-developer roles, such as **management, solutions architects, business and data analysts, educators and researchers**. All these roles benefit from the standardized data access provided by APIs.
 
 API use is not limited to the tech and IT industries. Survey responses in the same report show that while tech, business, IT, and banking sectors represent the bulk of API use, any industry can benefit from the convenience provided by APIs.
 
@@ -79,5 +79,3 @@ Ultimately, **everyone** benefits from APIs either directly or indirectly becaus
 &nbsp;
 
 &nbsp;
-
-

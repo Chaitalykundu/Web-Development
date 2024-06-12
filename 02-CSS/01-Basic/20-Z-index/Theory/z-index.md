@@ -1,3 +1,30 @@
+# Overview
+
+- Definition and Usage
+- Note
+- Syntax
+- Example
+- Specification
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `z-index` property specifies the stack order of an element (which element should be placed in front of, or behind, the others).
+
+- `z-index` only works on **positioned** elements (`position: absolute, position: relative, position: fixed, or position: sticky`) and **flex** items (elements that are direct children of `display:flex` elements).
+
+- `z-index` doesn't work on **static position**
+
+- Negative numbers are allowed.
+
+&nbsp;
+
+&nbsp;
+
 # Properties
 
 | Value   | Description                        | Default value |
@@ -20,7 +47,9 @@ An element with greater stack order is always in front of an element with a lowe
 
 # Note
 
-`z-index` only works on **positioned** elements (`position: absolute, position: relative, position: fixed, or position: sticky`) and **flex** items (elements that are direct children of `display:flex` elements).
+`z-index` only works on **positioned** elements (`position: absolute / relative / fixed / sticky`) and **flex** items (elements that are direct children of `display:flex` elements).
+
+`z-index` doesn't work on **static position**
 
 &nbsp;
 
@@ -82,6 +111,8 @@ img {
 &nbsp;
 
 &nbsp;
+
+# Specification
 
 |                    |                          |
 | ------------------ | ------------------------ |

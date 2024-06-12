@@ -57,7 +57,7 @@ Some architecture types are:
 
 APIs also vary in the scope of who can access them.
 
-- <u>**_Public APIs (aka Open APIs)_**</u> : Consumed by anyone who discovers the API
+- <u>**_Public APIs (Open APIs)_**</u> : Consumed by anyone who discovers the API
 
 - <u>**_Private APIs_**</u> : Consumed only within an organization and not made public
 
