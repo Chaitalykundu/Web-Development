@@ -1,3 +1,31 @@
+# Overview
+
+- Definition and Usage
+- Note
+- Explanation of the different parts
+- Content area
+- padding area
+- border Field
+- Margin Field
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- `Box model` describes the layout of the elements. The HTML elements are considered as boxes.
+
+- **Total element height** = height + top padding + bottom padding + top border + bottom border + top margin + bottom margin
+
+- **Total element width** = width + left padding + right padding + left border + right border + left margin + right margin
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Definition and Usage
 
 Links are used to **connect one page to other web pages**.
