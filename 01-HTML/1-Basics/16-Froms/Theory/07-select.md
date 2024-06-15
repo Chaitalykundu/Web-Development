@@ -1,11 +1,13 @@
 # Overview
 
-- Introduction
-- Use of textarea
+- Definition and Usage
+- Note
+- Tips
 - Syntax
 - Example
 - Default CSS Settings
 - Specifications
+- Tag-specific attributes
 - Global attribute
 - Event attribute
 
@@ -13,9 +15,7 @@
 
 &nbsp;
 
-&nbsp;
-
-# Summary
+# Chapter Summary
 
 | Tag / Attribute / Property | Description                           |
 | -------------------------- | ------------------------------------- |
@@ -29,7 +29,9 @@
 
 &nbsp;
 
-# `<select></select>` tag
+&nbsp;
+
+# Definition and Usage
 
 - The `<select>` element is used to create a **_drop-down list_**.
 
@@ -79,6 +81,14 @@
 
 &nbsp;
 
+# Default CSS Settings
+
+None
+
+&nbsp;
+
+&nbsp;
+
 # Specifications
 
 |                   |           |
@@ -87,14 +97,6 @@
 | Display / Element | inline    |
 | Usage             | Input     |
 |                   |           |
-
-&nbsp;
-
-&nbsp;
-
-# Default CSS Settings
-
-None
 
 &nbsp;
 
@@ -119,10 +121,10 @@ None
 
 # Global Attributes
 
-- The `<select>` tag also supports the Global Attributes in HTML.
+The `<select>` tag also supports the Global Attributes in HTML.
 
 &nbsp;
 
 # Event Attributes
 
-- The `<select>` tag also supports the Event Attributes in HTML.
+The `<select>` tag also supports the Event Attributes in HTML.

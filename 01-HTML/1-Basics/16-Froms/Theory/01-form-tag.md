@@ -1,6 +1,6 @@
 # Overview
 
-- Introduction
+- Definition and Usage
 - Syntax
 - List of form elements
 - Default CSS Settings
@@ -13,9 +13,7 @@
 
 &nbsp;
 
-&nbsp;
-
-# Summary
+# Chapter Summary
 
 | Tag / Attribute / Property | Description                                |
 | -------------------------- | ------------------------------------------ |
@@ -29,7 +27,9 @@
 
 &nbsp;
 
-# HTML `<form>` tag
+&nbsp;
+
+# Definition and Usage
 
 - The HTML `<form>` tag used to create an HTML form for user input.
 
@@ -104,13 +104,15 @@ To get the form to send the input data to the server, we need to set 2 attribute
 
 &nbsp;
 
-Example :
+## Example
 
 ```html
 <form action="Backend_file" method="post">….</form>
 ```
 
 &nbsp;
+
+## Other tags
 
 <table>
     <thead>
@@ -207,13 +209,13 @@ Example :
             <td rowspan="4">Specifies where to display the response that is received after submitting the form</td>
         </tr>
         <tr>
-<td>_self </td>
+            <td>_self </td>
         </tr>
         <tr>
             <td> _parent</td>
         </tr>
         <tr>
-<td>_top</td>
+    <td>_top</td>
         </tr>
     </tbody>
 </table>
@@ -224,10 +226,10 @@ Example :
 
 # Global Attributes
 
-- The `<form>` tag also supports the Global Attributes in HTML.
+The `<form>` tag supports the Global Attributes in HTML.
 
 &nbsp;
 
 # Event Attributes
 
-- The `<form>` tag also supports the Event Attributes in HTML.
+The `<form>` tag supports the Event Attributes in HTML.

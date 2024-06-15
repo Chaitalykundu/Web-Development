@@ -1,6 +1,6 @@
 # Overview
 
-- Introduction
+- Definition and Usage
 - Syntax
 - Default CSS Settings
 - Specifications
@@ -12,9 +12,7 @@
 
 &nbsp;
 
-&nbsp;
-
-# Summary
+# Chapter Summary
 
 | Tag / Attribute / Property | Description                                    |
 | -------------------------- | ---------------------------------------------- |
@@ -28,9 +26,13 @@
 
 &nbsp;
 
+&nbsp;
+
+# Definition and Usage
+
 The `<legend>` tag defines a caption for the `<fieldset>` element.
 
-The `<legend>` element must be the first child of `<fieldset>` element.
+The `<legend>` element must be the **first child** of `<fieldset>` element.
 
 &nbsp;
 
@@ -76,9 +78,10 @@ legend {
 
 # Tag-specific attribute
 
-| Attribute | Value                    | Description                                                         |
-| --------- | ------------------------ | ------------------------------------------------------------------- |
-| align     | top, bottom, left, right | It specifies the alignment of the caption. (Not Supported in HTML5) |
+| Attribute | Value                    | Description                                |
+| --------- | ------------------------ | ------------------------------------------ |
+| align     | top, bottom, left, right | It specifies the alignment of the caption. |
+|           |                          |                                            |
 
 &nbsp;
 

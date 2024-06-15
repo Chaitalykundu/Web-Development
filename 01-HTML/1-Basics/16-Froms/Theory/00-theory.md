@@ -9,11 +9,19 @@
 
 &nbsp;
 
+# Chapter Summary
+
+An HTML `form` is a section of a document which is used to collect user input and it contains controls such as text fields, password fields, checkboxes, radio buttons, submit button, menus etc.
+
+&nbsp;
+
+&nbsp;
+
 &nbsp;
 
 # Form
 
-An HTML `form` is a section of a document which contains controls such as text fields, password fields, checkboxes, radio buttons, submit button, menus etc.
+An HTML `form` is a section of a document which is used to collect user input and it contains controls such as text fields, password fields, checkboxes, radio buttons, submit button, menus etc.
 
 &nbsp;
 

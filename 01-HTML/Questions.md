@@ -197,7 +197,7 @@
 2. Why do we use label tag
 3. How can we bind label & input tag together
 4. What is Specification of label tag
-5. What are the attributes do we use in label tag
+5. What are the attributes we use in label tag
 
 &nbsp;
 
@@ -206,7 +206,7 @@
 1. What is textarea tag
 2. Why do we use textarea tag
 3. What is Specification of textarea tag
-4. What are the attributes do we use in textarea tag
+4. What are the attributes we use in textarea tag
 
 &nbsp;
 
@@ -215,7 +215,80 @@
 1. What is select tag
 2. Why do we use select tag
 3. What is Specification of select tag
-4. What are the attributes do we use in select tag
+4. What are the attributes we use in select tag
+5. What if we don't use name attribute in select tag
+6. Which tag is used to define the available options in the drop-down list.
+7. Which tag is used for grouping related options in a list.
+
+&nbsp;
+
+## option
+
+1. What is option tag
+2. Why do we use option tag
+3. What is Specification of option tag
+4. option tag can be used inside which tag
+5. What are the attributes we use in option tag
+6. Which tag is used for grouping related options in a list.
+
+&nbsp;
+
+## optgroup
+
+1. What is optgroup tag
+2. Why do we use optgroup tag
+3. What is Specification of optgroup tag
+4. What are the attributes we use in option tag
+
+&nbsp;
+
+## button
+
+1. What is button tag
+2. Why do we use button tag
+3. Can we use button tag outside the form
+4. What is Specification of button tag
+5. What are the attributes we use in button tag
+
+&nbsp;
+
+## datalist
+
+1. What is datalist tag
+2. Why do we use datalist tag
+3. Which attribute is required for datalist tag
+4. Which attributes should be same for datalist and input tag
+5. What is Specification of datalist tag
+6. Which tag is the child tag of datalist
+
+&nbsp;
+
+## keygen
+
+1. What is keygen tag
+2. Why do we use keygen tag
+3. What are the attributes we use in button tag
+
+&nbsp;
+
+## output
+
+1. What is output tag
+2. Why do we use output tag
+3. Which attribute is required for datalist tag
+4. Which attributes should be same for datalist and input tag
+5. What is Specification of datalist tag
+6. Which tag is the child tag of datalist
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 &nbsp;
@@ -223,9 +296,29 @@
 &nbsp;
 
 &nbsp;
+
 &nbsp;
 
 &nbsp;
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Semantic element
+
+1. What is semantic element
+2. Why are semantic elements important
+3. What is the difference btw div and section
 
 &nbsp;
 &nbsp;

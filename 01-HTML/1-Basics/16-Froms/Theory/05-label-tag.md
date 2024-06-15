@@ -1,6 +1,6 @@
 # Overview
 
-- Introduction
+- Definition and Usage
 - Tips and Notes
 - Syntax
 - Example
@@ -29,7 +29,7 @@
 
 &nbsp;
 
-# `<label></label>` tag
+# Definition and Usage
 
 The `<label>` tag defines a label for many form elements.
 

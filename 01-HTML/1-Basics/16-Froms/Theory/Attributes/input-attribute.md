@@ -1,171 +1,11 @@
-# Overview
-
-- Introduction
-- Syntax
-- Example
-- Default CSS Settings
-- Specifications
-- Values of `type` attribute in input tag
-- VS-code short-cut
-- Global attribute
-- Event attribute
-- Input attributes
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-# Summary
-
-| Tag / Attribute / Property | Description                                             |
-| -------------------------- | ------------------------------------------------------- |
-| `<input/>` tag             | specifies an input field where the user can enter data. |
-| Tag                        | Empty                                                   |
-| Display / Element          | Inline                                                  |
-| Usage                      | User input                                              |
-|                            |                                                         |
-
-&nbsp;
-
-&nbsp;
-
-# input tag
-
-The `<input>` tag specifies an input field where the user can enter data.
-
-The `<input>` element is the most important form element.
-
-The `<input>` element can be displayed in several ways, depending on the type attribute.
-
-&nbsp;
-
-&nbsp;
-
-# Tip
-
-- Always use the `<label>` tag to define labels for `<input type="text">`, `<input type="checkbox">`, `<input type="radio">`, `<input type="file">`, and `<input type="password">`.
-
-- use the label element with _each input tag_.
-
-&nbsp;
-
-&nbsp;
-
-# Syntax
-
-```html
-<input type="" name="" placeholder="" .. other_attributes />
-```
-
-&nbsp;
-
-&nbsp;
-
-# Example
-
-```html
-<form action="#">
-  First name:
-  <input type="text" name="FirstName" placeholder="enter firstname..." /><br />
-  Last name:
-  <input type="text" name="LastName" placeholder="enter lastname..." /><br />
-  <input type="submit" value="Submit" />
-</form>
-```
-
-&nbsp;
-
-&nbsp;
-
-# Default CSS Settings
-
-None
-
-&nbsp;
-
-&nbsp;
-
-# Specifications
-
-|                   |            |
-| ----------------- | ---------- |
-| Tag               | Empty      |
-| Display / Element | Inline     |
-| Usage             | User input |
-|                   |            |
-
-&nbsp;
-
-&nbsp;
-
-# Values of `type` attribute in input tag
-
-HTML provides different types of input that you can use for different kinds of entries. By default, the value of type is `text`, which specifies that we want single-line text input.
-
-**NOTE : `type` attribute is mandatory**
-
-&nbsp;
-
-Some more values for the type attribute are :
-
-- password
-- number
-- radio
-- checkbox
-- email
-- submit
-- date
-- range
-- URL
-- hidden
-- time
-
-&nbsp;
-
-The different input types are referred in [input_type-attributes.html](input_type-attributes.html) file
-
-For other attribute refer [w3school](https://www.w3schools.com/tags/tag_input.asp)
-
-&nbsp;
-
-&nbsp;
-
-# VS-code short-cut
-
-```md
-input:type_name
-```
-
-&nbsp;
-
-# Global Attributes
-
-The `<input>` tag also supports the Global Attributes in HTML.
-
-&nbsp;
-
-# Event Attributes
-
-The `<input>` tag also supports the Event Attributes in HTML.
-
-&nbsp;
-
-&nbsp;
-
 # Input attributes
-
-Refer the [input-attribute.html file](input-attribute.html)
-
-&nbsp;
 
 <table>
     <thead>
         <tr>
-            <th>Attribute </th>
-            <th>Value </th>
-            <th>Description</th>
+            <th> Attribute </th>
+            <th> Value </th>
+            <th> Description</th>
         </tr>
     </thead>
     <tbody>
@@ -213,8 +53,8 @@ Refer the [input-attribute.html file](input-attribute.html)
                 type="radio")</td>
         </tr>
         <tr>
-            <td>dirname </td>
-            <td>inputname.dir </td>
+            <td> dirname </td>
+            <td> inputname.dir </td>
             <td> Specifies that the text direction will be submitted</td>
         </tr>
         <tr>

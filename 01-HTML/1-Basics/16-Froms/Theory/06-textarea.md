@@ -1,6 +1,6 @@
 # Overview
 
-- Introduction
+- Definition and Usage
 - Use of textarea
 - Syntax
 - Example
@@ -29,7 +29,7 @@
 
 &nbsp;
 
-# `<textarea>..</textarea>` tag
+# Definition and Usage
 
 - The HTML `<textarea>` tag is used to define a multi-line text input control.
 
@@ -78,6 +78,17 @@ textarea tag example with rows and columns.
 # Default CSS Settings
 
 None
+
+&nbsp;
+
+&nbsp;
+
+# Specifications
+
+| Tag | Container |
+| Display / Element | Inline |
+| Usage | User input |
+| | |
 
 &nbsp;
 

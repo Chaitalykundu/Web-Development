@@ -1,0 +1,22 @@
+.link1:link{
+    color:brown;
+}
+
+
+.link1:hover {
+    color: rgb(46, 241, 21);
+    font-size: 20px;
+}
+
+
+.link2:visited {
+    color: rgb(245, 7, 185);
+  }
+
+.link2:hover {
+  color: rgb(241, 212, 21);
+}
+
+.link1:active, .link2:active{
+    background-color: blueviolet;
+}

@@ -26,9 +26,10 @@
 
 # New features of HTML5
 
-- Video and Audio Features
+- Multimedia Features : video, audio, track
 - Header and Footer (Semantic elements)
 - Input tag kinds have been expanded.
+- New form features: datalist, output, progress
 - Figure and figcaption
 - Placeholders
 - Preload Videos
@@ -42,3 +43,4 @@
 - Reverse Links
 - Images with a width of zero
 - Canvas in HTML5
+- APIs : Geolocation, web storage, web workers

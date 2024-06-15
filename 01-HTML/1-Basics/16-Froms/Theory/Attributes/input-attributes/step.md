@@ -39,4 +39,5 @@ The `step` attribute works with the following input types: number, range, date, 
 | Value  | Description                                                                   |
 | ------ | ----------------------------------------------------------------------------- |
 | number | Specifies the interval between legal numbers in the input field. Default is 1 |
-| any    |
+| any    |                                                                               |
+|        |                                                                               |

@@ -1,6 +1,6 @@
 # Overview
 
-- Introduction
+- Definition and Usage
 - Syntax
 - Default CSS Settings
 - Specifications
@@ -14,7 +14,7 @@
 
 &nbsp;
 
-# Summary
+# Chapter Summary
 
 | Tag / Attribute / Property | Description                                                                      |
 | -------------------------- | -------------------------------------------------------------------------------- |
@@ -28,13 +28,13 @@
 
 &nbsp;
 
-# `<fieldset></fieldset>` tag
+# Definition and Usage
 
 - HTML `<fieldset>` tag is used to group the logically related fields/labels contained within an HTML form.
 
 - The use of this tag is optional while creating an HTML form but using `<fieldset>`, it is easy to understand the purpose of grouped elements of form.
 
-- The `<legend>` tag is used with the `<fieldset>` element as a first child to define the caption for the grouped related fields.
+- The `<legend>` tag is used with the `<fieldset>` element as a first child to **define the caption** for the grouped related fields.
 
 &nbsp;
 

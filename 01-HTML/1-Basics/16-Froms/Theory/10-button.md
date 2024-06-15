@@ -1,10 +1,43 @@
+# Overview
+
+- Definition and Usage
+- Syntax
+- Example
+- Default CSS Settings
+- Specifications
+- Tag-specific attributes
+- Global attribute
+- Event attribute
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+| Tag / Attribute / Property | Description                                                         |
+| -------------------------- | ------------------------------------------------------------------- |
+| `<button>` tag             | used to create a clickable button within HTML form on your webpage. |
+| Tag                        | Container                                                           |
+| Display / Element          | inline                                                              |
+| Usage                      | Forms and Inputs                                                    |
+|                            |                                                                     |
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Definition and Usage
+
 - The `<button>` tag is used to create a clickable button within HTML form on your webpage.
 
 - You can put content like text or image within this tag.
 
-* You should always specify the `type` attribute for a `<button>` tag.
+- You should always specify the `type` attribute for a `<button>` tag.
 
-* HTML Button tag can be used inside and outside the form.
+- HTML Button tag can be used inside and outside the form.
   - If you use it inside the form, it works as the submit button. You can also use it as reset button.
   - If you use it outside the form, you can call JavaScript function on it.
 
@@ -26,8 +59,8 @@
 
 |                   |                  |
 | ----------------- | ---------------- |
-| Display / Element | inline           |
 | Tag               | Container        |
+| Display / Element | inline           |
 | Usage             | Forms and Inputs |
 |                   |                  |
 
@@ -43,7 +76,7 @@ None
 
 &nbsp;
 
-# Tag-specific attributes:
+# Tag-specific attributes
 
 | Attribute      | Value                                                              | Description                                                                                     |
 | -------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
@@ -58,6 +91,7 @@ None
 | name           | name                                                               | Specifies a name for the button                                                                 |
 | type           | button, reset, submit                                              | Specifies the type of button                                                                    |
 | value          | text                                                               | Specifies an initial value for the button                                                       |
+|                |                                                                    |
 
 &nbsp;
 
@@ -65,10 +99,10 @@ None
 
 # Global Attributes
 
-- The `<option>` tag also supports the Global Attributes in HTML.
+The `<button>` tag supports the Global Attributes in HTML.
 
 &nbsp;
 
 # Event Attributes
 
-- The `<option>` tag also supports the Event Attributes in HTML.
+The `<button>` tag supports the Event Attributes in HTML.
