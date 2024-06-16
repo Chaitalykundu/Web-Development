@@ -1,6 +1,40 @@
+# Overview
+
+- Styling Input Fields
+  - All input field
+  - Specific input field
+- Padded Inputs
+- Bordered Inputs
+- Colored Inputs
+- Focused Inputs
+- Input with icon/image
+- Animated Search Input
+- Styling Textareas
+- Styling Select Menus
+- Styling Input Buttons
+- Responsive Form
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- We use **input[type="type_value"]** as selector to style specific input field
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Styling Input Fields
 
-Use the `width` property to determine the width of the input field:
+## All input field
+
+To apply css in **all input** field, just use `input` as selector
+
+Use the `width` property to determine the **width** of the all `<input>` elements
 
 &nbsp;
 
@@ -10,13 +44,25 @@ input {
 }
 ```
 
-The example above applies to all `<input>` elements.
+&nbsp;
+
+## Specific input field
 
 If you only want to style a specific input type, you can use attribute selectors:
 
-- input[type=text] - will only select text fields
-- input[type=password] - will only select password fields
-- input[type=number] - will only select number fields
+- **input[type="text"]** - will only select text fields
+- **input[type="password"]** - will only select password fields
+- **input[type="number"]** - will only select number fields
+
+&nbsp;
+
+## Example
+
+```css
+input[type="password"] {
+  background-color: antiquewhite;
+}
+```
 
 &nbsp;
 
@@ -26,26 +72,9 @@ If you only want to style a specific input type, you can use attribute selectors
 
 Use the `padding` property to add space inside the text field.
 
-# Tip
+&nbsp;
 
 When you have many inputs after each other, you might also want to add some `margin`, to add more space outside of them
-
-&nbsp;
-
-## Example
-
-```css
-input[type="text"] {
-  width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  box-sizing: border-box;
-}
-```
-
-&nbsp;
-
-Note that we have set the `box-sizing` property to `border-box`. This makes sure that the padding and eventually borders are included in the total width and height of the elements.
 
 &nbsp;
 
@@ -122,7 +151,7 @@ Also notice that we add a large left padding to reserve the space of the icon
 ```css
 input[type="text"] {
   background-color: white;
-  background-image: url("searchicon.png");
+  background-image: url("https://picsum.photos/200");
   background-position: 10px 10px;
   background-repeat: no-repeat;
   padding-left: 40px;
@@ -212,9 +241,9 @@ input[type="reset"] {
   margin: 4px 2px;
   cursor: pointer;
 }
-
-/* Tip: use width: 100% for full-width buttons */
 ```
+
+**Tip: use width: 100% for full-width buttons**
 
 &nbsp;
 

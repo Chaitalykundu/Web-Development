@@ -268,6 +268,12 @@
 
 &nbsp;
 
+# Form
+
+1. Which selector do we use to style specific input field
+2. WHy do we use resize property
+
+
 &nbsp;
 
 &nbsp;
