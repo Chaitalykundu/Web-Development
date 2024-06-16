@@ -45,9 +45,9 @@ Typography is essentially the study of how letterforms interact on a surface, di
 
 # Typeface vs Font
 
-***Typeface*** : The design of a collection of characters
+**_Typeface_** : The design of a collection of characters
 
-***Font*** : A single instance or embodiment of a specific weight, width or style of a typeface.
+**_Font_** : A single instance or embodiment of a specific weight, width or style of a typeface.
 
 &nbsp;
 

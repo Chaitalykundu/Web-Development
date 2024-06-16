@@ -278,6 +278,12 @@
 
 &nbsp;
 
+# Typography
+
+1. What is typography
+2. Which CSS properties are included in typography
+
+
 &nbsp;
 
 &nbsp;
