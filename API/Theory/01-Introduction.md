@@ -16,7 +16,7 @@
 
 API stands for **Application Programming Interface**
 
-An Application Programming Interface (API) is a contract that allows code to talk to other code.
+An API is a contract that allows code to talk to other code.
 
 APIs are the building blocks of modern software because they allow for sharing of resources and services across applications, organizations, and devices.
 

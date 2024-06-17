@@ -5,7 +5,7 @@
 31-05-2024:
     ✔ anchors & navigation @started(24-05-31 11:01) @done(24-05-31 12:45) @lasted(1h44m48s)
     - list (ordered, unordered, description list)
-    ✘ forms & input types @started(24-05-31 12:47) @cancelled(24-05-31 12:50) @wasted(3m32s)
+    ✔ forms & input types @started(24-05-31 12:47) @done(24-06-17 01:13) @lasted(2w2d12h26m47s)
     - Semantic HTML 
     - events basics
     - Local & session storage
