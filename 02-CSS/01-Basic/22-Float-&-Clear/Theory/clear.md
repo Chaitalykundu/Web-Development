@@ -1,8 +1,31 @@
+# Overview
+
+- Definition and Usage
+- Note
+- Syntax
+- Example
+- Specification
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `clear` property specifies what should happen with the element that is next to a floating element.
+
+&nbsp;
+
+&nbsp;
+
 # Properties
 
 | Value | Description                                                                       | Default value |
 | ----- | --------------------------------------------------------------------------------- | ------------- |
 | clear | specifies what should happen with the element that is next to a floating element. | none          |
+
+&nbsp;
 
 &nbsp;
 
@@ -62,18 +85,16 @@ selector {
 # Example
 
 ```css
-div1 {
-  float: left;
-}
-
-div2 {
-  clear: left;
+.section2 {
+  clear: both;
 }
 ```
 
 &nbsp;
 
 &nbsp;
+
+# Specification
 
 |                    |                           |
 | ------------------ | ------------------------- |
@@ -96,6 +117,7 @@ div2 {
 | right   | The element is pushed below right floated elements               |
 | both    | The element is pushed below both left and right floated elements |
 | inherit | The element inherits the clear value from its parent             |
+|         |                                                                  |
 
 &nbsp;
 

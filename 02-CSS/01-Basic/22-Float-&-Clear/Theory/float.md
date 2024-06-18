@@ -1,8 +1,31 @@
+# Overview
+
+- Definition and Usage
+- How it works
+- Syntax
+- Example
+- Specification
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- The `float` property is used for positioning and formatting content e.g. let an image float left to the text in a container.
+
+&nbsp;
+
+&nbsp;
+
 # Properties
 
 | Value | Description                        | Default value |
 | ----- | ---------------------------------- | ------------- |
 | float | positioning and formatting content | none          |
+
+&nbsp;
 
 &nbsp;
 
@@ -69,18 +92,17 @@ selector {
 # Example
 
 ```css
-div.ex1 {
-  overflow: scroll;
-}
-
-div.ex2 {
-  overflow: hidden;
+img {
+  width: 450px;
+  float: left; /*  here image will be in left and other contents will be in right side */
 }
 ```
 
 &nbsp;
 
 &nbsp;
+
+# Specification
 
 |                    |                                                                  |
 | ------------------ | ---------------------------------------------------------------- |
@@ -102,6 +124,7 @@ div.ex2 {
 | right   | The element floats to the right of its container                                |
 | none    | The element does not float (will be displayed just where it occurs in the text) |
 | inherit | The element inherits the float value of its parent                              |
+|         |                                                                                 |
 
 &nbsp;
 

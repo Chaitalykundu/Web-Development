@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 500px;
+  margin: auto;
+  border: 2px solid box;
+  /* height: 50vh; */
+  position: absolute;
+  top: 50vh;
+  left: 50vw;
+
+  transform: translate(-50%, -50%);
+}
+
+.item {
+    /* border: 2px solid black; */
+    margin: 5px;
+    padding: 10px;
+}
+
+img{
+    height: 300px;
+}
+
+#card {
+  float: left;
+  width: 40%;
+}
+
+#text{
+    float: left;
+    width: 48%;
+}

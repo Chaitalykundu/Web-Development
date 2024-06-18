@@ -1,18 +1,82 @@
-/* * {
-  margin: 0;
-  padding: 0;
-} */
-
-img {
+/* img {
   width: 450px;
-  float: left; /*  here image will be in left and other contents will be in right side */
-}
+  float: left;  */
+/*  here image will be in left and other contents will be in right side */
+/* } */
 
-.cards {
+/* .cards {
   border: 2px solid rgb(201, 21, 21);
   display: flow-root;
 }
 
 .section2 {
   clear: both;
+} */
+
+* {
+  box-sizing: border-box;
 }
+
+
+.container {
+  border: 2px solid black;
+  width: 900px;
+  margin: auto;
+}
+
+/* section 1 */
+
+.item{
+  background-color: antiquewhite;
+  border: 2px solid black;
+  margin:5px;
+  padding: 10px;
+}
+
+
+#fruit{
+float: left;
+width: 32%;
+}
+
+
+#computer{
+  float: left;
+  width: 32%;
+}
+
+#stationary{
+float: left;
+width: 32%;
+}
+
+
+
+/* section 2 */
+.section2{
+  margin-top: 300px;
+}
+
+
+#image{
+  float: left;
+  width:32%;
+}
+
+#card-text{
+  float: left;
+  width:32%;
+}
+
+#card-text2{
+  float: left;
+  width:32%;
+}
+
+/* if we remove float from here this will overlap. To solve this problem we use clear property. */
+
+#card-text3{
+  clear: left;
+}  
+
+/* clear: left; means it will ignore the content which is float:left */
