@@ -221,7 +221,7 @@
 
 &nbsp;
 
-# min-width
+## min-width
 
 1. What is min-width
 2. Why do we use min-width
@@ -229,7 +229,7 @@
 4. Does min-width allow negative values
 5. What if the content is smaller than the min-width
 
-# max-width
+## max-width
 
 1. What is max-width
 2. Why do we use max-width
@@ -260,6 +260,16 @@
 
 &nbsp;
 
+# Align
+
+1. How to Center Align Text
+2. Which property is must to Center Align Text
+3. How to Center an Image
+
+&nbsp;
+
+&nbsp;
+
 # !important
 
 1. Why do we use !important
@@ -273,7 +283,6 @@
 1. Which selector do we use to style specific input field
 2. WHy do we use resize property
 
-
 &nbsp;
 
 &nbsp;
@@ -282,11 +291,6 @@
 
 1. What is typography
 2. Which CSS properties are included in typography
-
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 

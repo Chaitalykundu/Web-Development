@@ -1,6 +1,34 @@
+# Overview
+
+- Center Align Text
+- Center an Image
+- Left and Right Align - Using position
+
+- Example
+- Specification
+- Property Values
+
+&nbsp;
+
+&nbsp;
+
+# Chapter Summary
+
+- To just **center the text**  inside an element, use `text-align: center;`
+
+- To **horizontally center** a _block element_ (like `<div>`), use `margin: auto;`. and `width` have to set (not 100%)
+
+- To center an image, set **left and right margin to auto** and make it into a **_block element_**
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Center Align Text
 
-To just **center the text** inside an element, use `text-align: center;`
+To just **center the text**  inside an element, use `text-align: center;`
 
 &nbsp;
 
@@ -19,6 +47,8 @@ To just **center the text** inside an element, use `text-align: center;`
 # Center Align Elements
 
 To **horizontally center** a _block element_ (like `<div>`), use `margin: auto;`
+
+**Note : width should be mentioned**
 
 &nbsp;
 
