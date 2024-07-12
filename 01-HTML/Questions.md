@@ -6,6 +6,8 @@
 4. How many types of pages are there in website.
 5. What are the key features of HTML
 6. What are the difference between HTML & HTML5
+7. What are the 5 uses of HTML?
+
 
 &nbsp;
 
