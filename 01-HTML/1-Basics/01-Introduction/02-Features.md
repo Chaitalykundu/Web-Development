@@ -1,3 +1,15 @@
+# Overview
+
+- Key Features of HTML
+- 5 key uses of HTML
+- New features of HTML5
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Key Features of HTML
 
 - **_Simple :_** HTML is simple to build a webpage
@@ -19,6 +31,22 @@
 - **_Built-in accessibility :_** HTML has built-in accessibility features to ensure web content is accessible to all users, including support for screen readers, magnifiers, and text descriptions for images and media.
 
 - **_Semantic markup elements :_** HTML uses semantic markup elements to add meaning and structure to web content, with common examples of semantic tags being `<header>` and `<footer>`. This can also be useful for SEO, allowing search engines to understand web page structure better.
+
+&nbsp;
+
+&nbsp;
+
+# 5 key uses of HTML
+
+* Creating web page.
+
+* Integrating CSS and JavaScript
+
+* Accessing web content
+
+* Semantic markup
+
+* Cross-platform compatibility
 
 &nbsp;
 
