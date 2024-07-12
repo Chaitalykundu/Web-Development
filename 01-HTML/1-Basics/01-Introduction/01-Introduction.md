@@ -1,4 +1,18 @@
-# Introduction
+# Overview
+
+- HTML
+- Hypertext
+- Markup Language
+- Types of pages
+- Note
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# HTML
 
 - HTML stands for **Hyper Text Markup Language**.
 
@@ -6,15 +20,27 @@
 
 - HTML is used to define the `layout` or the `structure` of a webpage.
 
-- Hypertext is a way of connecting texts or images or web pages to another one, either within a single website or between websites.
-
 - HTML is not a programming language but a markup language.
 
-- A Markup Language is a way to structure and format the content of a webpage. To do this HTML uses two things: `tags` and `attributes`.
-
-- The latest version of HTML is known as HTML5.
+- The latest version of HTML is known as **HTML5**.
 
 - `index.html` is the entry point of all webpage.
+  
+&nbsp;
+
+&nbsp;
+
+# Hypertext 
+
+Hypertext is a way of connecting texts or images or web pages to another one, either within a single website or between websites.
+
+&nbsp;
+
+&nbsp;
+
+# Markup Language
+
+A Markup Language is a way to structure and format the content of a webpage. To do this HTML uses two things: `tags` and `attributes`.
 
 &nbsp;
 
@@ -37,7 +63,7 @@ There are **_two_** types of pages.
 
 &nbsp;
 
-# N.B
+# Note
 
 - HTML documents are saved with `.html` or `.htm` file extensions.
 
