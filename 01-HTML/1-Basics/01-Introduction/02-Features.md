@@ -39,13 +39,9 @@
 # 5 key uses of HTML
 
 * Creating web page.
-
 * Integrating CSS and JavaScript
-
 * Accessing web content
-
 * Semantic markup
-
 * Cross-platform compatibility
 
 &nbsp;
