@@ -335,6 +335,24 @@
 &nbsp;
 &nbsp;
 
-&nbsp;
+# Answer
+
+## 1. What is HTML
+
+```md
+HTML stands for Hypertext Markup language.
+
+It Provides a way of displaying the webpages with texts and images or multimedia contents.
+
+HTML is used to define the layout or the structure of a webpage.
+```
+
+&nbsp;    
 
 &nbsp;
+
+## 2. What is Hypertext
+
+```md
+Hypertext is a way of connecting txts or images or webpages to another one, either in a single website or between websites.
+```
