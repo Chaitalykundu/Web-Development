@@ -1,3 +1,18 @@
+# Overview
+
+- Programming
+- ECMAScript
+- JavaScript
+- Features of JavaScript
+- Application of JavaScript
+- What can we build using JavaScript
+  
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Programming
 
 Programming is a way to talk to computers.
@@ -19,7 +34,7 @@ It was created to ensure that different documents on javascript are talking abou
 
 &nbsp;
 
-# Javascript
+# JavaScript
 
 JavaScript is a lightweight, interpreted, event-based, client-side, object-oriented programming language.
 
