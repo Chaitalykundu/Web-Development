@@ -36,13 +36,13 @@ Write a program to find the remainder when one number is divided by another and 
 
 ### Task 6
 
-Use += operator to add a number to a variable and log the result to the console
+Use `+=` operator to add a number to a variable and log the result to the console
 
 &nbsp;
 
 ### Task 7
 
-Use -= operator to subtract a number to a variable and log the result to the console
+Use `-=` operator to subtract a number to a variable and log the result to the console
 
 &nbsp;
 
@@ -97,19 +97,5 @@ Write a program that uses `!` operator to negate a condition and log the result 
 ### Task 14
 
 Write a program that uses ternary operator to check if a number is positive or negative and log the result to the console
-
-&nbsp;
-
-&nbsp;
-&nbsp;
-
-&nbsp;
-&nbsp;
-
-&nbsp;
-&nbsp;
-
-&nbsp;
-&nbsp;
 
 &nbsp;
