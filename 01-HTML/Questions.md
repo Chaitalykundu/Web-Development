@@ -3,11 +3,14 @@
 1. What is HTML
 2. What is Hypertext
 3. What is markup language
-4. How many types of pages are there in website.
-5. What are the key features of HTML
-6. What are the difference between HTML & HTML5
+4. How many types of pages are there in website
+5. What is the purpose of a web browser 
+6. What are the key features of HTML
 7. What are the 5 uses of HTML?
-
+8. What are the new features of HTML5
+9. What are the difference between HTML & HTML5
+10. What are the advantages of HTML
+11. What are the disadvantages of HTML
 
 &nbsp;
 
@@ -25,7 +28,7 @@
 # Elements
 
 1. What is element
-2. How many types of elements are there
+2. How many types of elements are there in HTML
 3. What is Nesting in HTML
 
 &nbsp;
