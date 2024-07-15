@@ -1,7 +1,7 @@
 # Overview
 
 - Tags
--Types of tags
+- Types of tags
 
 &nbsp;
 
