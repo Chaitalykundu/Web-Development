@@ -1,3 +1,15 @@
+# Overview
+
+- Elements
+- Block and Inline Elements
+- Nesting
+  
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Elements
 
 - The combination of opening tag, closing tag and contents is called elements
@@ -26,7 +38,9 @@
 
 - Two commonly used block elements are: `<p>` and `<div>`.
 
-- Here are the block-level elements in HTML:
+&nbsp;
+
+Here are the block-level elements in HTML:
 
 ```md
 <address>
@@ -68,7 +82,9 @@
 
 - An inline element only takes up as much width as necessary.
 
-- Here are the inline elements in HTML:
+&nbsp;
+
+Here are the inline elements in HTML:
 
 ```md
 <a>
@@ -106,6 +122,8 @@
 <u>
 <var>
 ```
+
+&nbsp;
 
 &nbsp;
 
