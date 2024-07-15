@@ -3,6 +3,7 @@
 - Elements
 - Block and Inline Elements
 - Nesting
+- Comments in HTML
   
 &nbsp;
 
@@ -132,3 +133,16 @@ Here are the inline elements in HTML:
 - HTML elements can be nested inside one another, which means an element can contain other elements.
 
 - This allows to create complex structure on a a web page
+
+&nbsp;
+
+&nbsp;
+
+# Comments in HTML
+ 
+
+The comment tag `<!--  -->` is used to insert comments in the source code. 
+
+Comments are not displayed in the browsers.
+
+We can use comments to explain your code, which can help you when you edit the source code at a later date. This is especially useful if you have a lot of code.
