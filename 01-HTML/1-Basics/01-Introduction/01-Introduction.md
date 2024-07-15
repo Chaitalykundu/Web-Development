@@ -5,7 +5,8 @@
 - Markup Language
 - Types of pages
 - Note
-
+- HTML document in Browser
+  
 &nbsp;
 
 &nbsp;
@@ -72,3 +73,16 @@ There are **_two_** types of pages.
 - **_HTML elements are the building blocks of a web page_**. These are defined by a start tag, content, and end tag.
 
 - **_HTML attributes are extra bits of information_** that you can add to HTML elements to modify behavior or provide additional information.
+
+&nbsp;
+
+&nbsp;
+
+# HTML document in Browser
+
+The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to read HTML documents and display them correctly.
+
+A browser does not display the HTML tags but uses them to determine how to display the document.
+
+Open the file saved with the `.html` extension, and automatically it will open in the browser and all the content written inside the `<body>` tag will be displayed in the browser.
+
