@@ -12,11 +12,15 @@ Write a program to check if a person is eligible to vote and log the result to t
 
 &nbsp;
 
+&nbsp;
+
 # Activity 2 : Nested If-Else statements
 
 ### Task 3
 
 Write a program to find the largest of three numbers using nested if-else and log the result to the console
+
+&nbsp;
 
 &nbsp;
 
@@ -41,6 +45,8 @@ Write a program that uses a switch case to assign a grade (A, B, C, D, E, F) bas
 ### Task 6
 
 Write a program that uses a ternary operator to check if the number is even or odd and log the result to the console
+
+&nbsp;
 
 &nbsp;
 
