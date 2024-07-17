@@ -1,3 +1,15 @@
+# Overview
+
+- Description
+- Formatting Tags
+- HTML Logical Style Tags Attributes
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 - HTML Formatting is a process of formatting text for better look and feel.
@@ -20,6 +32,8 @@
 
 &nbsp;
 
+# Formatting Tags
+
 | SL No | name           | description                                       | formatting tag |
 | ----- | -------------- | ------------------------------------------------- | -------------- |
 | 1     | `<b>`          | bold                                              | physical tag   |
@@ -30,7 +44,7 @@
 | 6     | `<sub>`        | subscript - smaller text placed below normal text | physical tag   |
 | 7     | `<sup>`        | superscript - smaller text placed up normal text  | physical tag   |
 | 8     | `<address>`    | address                                           |                |
-| 9     | `<strike>`     | Strikeout                                         |                |
+| 9     | `<s>`     | Strikeout                                         |                |
 | 10    | `<q>`          | short quotation                                   | logical tag    |
 | 11    | `<blockquote>` | long quotation                                    | logical tag    |
 | 12    | `<abbr>`       | abbreviation or acronym                           | physical tag   |
@@ -64,3 +78,4 @@ The following table lists and describes all attributes used with the logical sty
 | `lang`    | indicates a language code for the content in a tag                           |
 | `style`   | indicates an inline style for the tag                                        |
 | `title`   | indicates the tag's title                                                    |
+|           |                                                                              |
