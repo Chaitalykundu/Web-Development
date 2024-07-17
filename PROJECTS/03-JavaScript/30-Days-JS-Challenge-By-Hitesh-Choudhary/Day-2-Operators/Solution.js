@@ -12,7 +12,6 @@ let num3 = parseInt(prompt("Enter 1st number "));
 let num4 = parseInt(prompt("Enter 2nd number "));
 res = num3 + num4;
 document.write("Addition is ", res);
-
 */
 
 // Task 2
@@ -27,8 +26,9 @@ console.log(num1 / num2);
 // Task 5
 console.log(num1 % num2);
 
-// Activity 2 : Assignment operators
 
+
+// Activity 2 : Assignment operators
 // Task 6
 console.log((num1 += 3));
 
@@ -36,6 +36,7 @@ console.log((num1 += 3));
 console.log((num1 -= 4));
 
 
+// Activity 3 : Comparison operators
 // Task 8
 if (num1 > num2) 
     console.log(num1, "is greater than", num2);
@@ -67,6 +68,7 @@ else
 
 
 
+// Activity 4 : Logical operators
 // Task 11
 
 let number = 12
@@ -98,6 +100,8 @@ else
 
 
 
+
+// Activity 5 : Ternary operator 
 // Task 14
 
 let res, check_number = -6
