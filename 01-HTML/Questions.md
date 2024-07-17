@@ -125,13 +125,14 @@
 1. What is link
 2. Which tag is used to insert any link
 3. What is anchor tag
-4. Which attribute is most important in anchor tag? If this tag is not there then what will happen
-5. What is the specification of img tag
-6. How to use Image as a Link
-7. How to Link to an Email Address
-8. How to use Button as a Link
-9. How to create bookmark
-10. How can we open a link in a new tab
+4. Can links be internal
+5. Which attribute is most important in anchor tag? If this tag is not there then what will happen
+6. What is the specification of img tag
+7. How to use Image as a Link
+8. How to Link to an Email Address
+9. How to use Button as a Link
+10. How to create bookmark
+11. How can we open a link in a new tab
 
 &nbsp;
 
@@ -145,8 +146,9 @@
 4. Which attributes are required for img tag
 5. What is the src Attribute
 6. What is the alt Attribute
-7. How to use image float to the left of any text
-8. Which attribute is/are used to set the dimensions of the image?
+7. When is alt attribute more useful
+8. How to use image float to the left of any text
+9. Which attribute is/are used to set the dimensions of the image?
 
 &nbsp;
 
@@ -342,6 +344,8 @@
 
 # Answer
 
+# Introduction
+
 ## 1. What is HTML
 
 ```md
@@ -394,6 +398,20 @@ There are two types of pages in website.
 &nbsp;
 
 &nbsp;
+
+# Image
+
+## 7. When is alt attribute more useful
+
+```md
+1 - Slow internet connection:
+
+When a user has a slow internet connection, images may take a longer time to load, or they may not load at all due to the connection's limitations. In such cases, the alt attribute provides an immediate text-based representation of the image's content, allowing the user to understand the context even before the image loads.
+
+2 - No image shown due to any reason:
+
+This includes situations where images fail to load for various reasons, not just slow internet connections. Images may not load due to broken links, browser settings, content filtering, or other issues. In such cases, the alt attribute acts as a fallback, ensuring that users still receive information about the image's content even if the image itself cannot be displayed. The alt attribute is an important accessibility feature that provides text alternatives to images, making web content more inclusive and usable for all users, regardless of their internet connection speed or other potential issues affecting image loading.
+```
 
 &nbsp;
 &nbsp;
