@@ -4,7 +4,7 @@
 2. What is Hypertext
 3. What is markup language
 4. How many types of pages are there in website
-5. What is the purpose of a web browser 
+5. What is the purpose of a web browser
 6. What are the key features of HTML
 7. What are the 5 uses of HTML?
 8. What are the new features of HTML5
@@ -30,6 +30,7 @@
 1. What is element
 2. How many types of elements are there in HTML
 3. What is Nesting in HTML
+4. What is Comments in HTML
 
 &nbsp;
 
@@ -140,11 +141,12 @@
 
 1. Which tags are used for images
 2. What is img tag
-3. Which attributes are required for img tag
-4. What is the specification of img tag
+3. What is the specification of img tag
+4. Which attributes are required for img tag
 5. What is the src Attribute
 6. What is the alt Attribute
 7. How to use image float to the left of any text
+8. Which attribute is/are used to set the dimensions of the image?
 
 &nbsp;
 
@@ -350,7 +352,7 @@ It Provides a way of displaying the webpages with texts and images or multimedia
 HTML is used to define the layout or the structure of a webpage.
 ```
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
@@ -360,7 +362,7 @@ HTML is used to define the layout or the structure of a webpage.
 Hypertext is a way of connecting texts or images or webpages to another one, either in a single website or between websites.
 ```
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
@@ -374,372 +376,373 @@ Hypertext is a way of connecting texts or images or webpages to another one, eit
 
 ```md
 There are two types of pages in website.
+
 1. Static page
 2. Dynamic page
 ```
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
+&nbsp;
 &nbsp;
-&nbsp;    
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
-&nbsp;    
+&nbsp;
 
 &nbsp;
 
-&nbsp;    
+&nbsp;
 
 &nbsp;
