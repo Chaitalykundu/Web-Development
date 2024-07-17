@@ -50,6 +50,8 @@
 
 - It can create hyperlink to other web page as well as files, location, or any URL.
 
+- Links can also be **internal**, which means that they will be linking the content within the same page. E.g., link to the top of the page or any link to any specific content on the page.
+
 - The `href` attribute is the most important attribute of the HTML `<a>` tag which indicates the link's destination.
 
 &nbsp;
