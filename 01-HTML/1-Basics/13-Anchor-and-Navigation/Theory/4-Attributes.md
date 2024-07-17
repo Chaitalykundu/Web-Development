@@ -1,3 +1,17 @@
+# Overview
+
+- Anchor tag attribute
+- Syntax
+- href Attribute
+- Example
+- Detailed Anchor tag attributes
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Anchor tag attribute
 
 HTML `Attributes` can provide additional information about the HTML elements on your page and control their behavior
@@ -9,30 +23,35 @@ HTML `Attributes` can provide additional information about the HTML elements on 
 # Syntax
 
 ```html
-<tag_name attribute_name="value_value">ContentEnclosed</tag_name>
+<a attribute_name="value">Content</a>
 ```
 
 &nbsp;
 
 &nbsp;
 
-## Some points to remember
+# href Attribute
 
-- Attributes always come in name/value pairs like this: `attribute_name="value"`.
+The most important attribute of the `<a>` element is the **_href_** attribute, which indicates the **link's destination**. In other words, the **_href_** attribute is used to **address the document to link to**.
 
-- Attributes are always added to the start tag of an HTML element.
+An anchor can point to any resource on the Web: an HTML page, an image, a sound file, a movie, etc. These all are known as **external links**.
 
-- Attribute values should always be enclosed in quotes.Double style quotes (“ ”) are the most common, but single style quotes (‘ ’) are also allowed.
+&nbsp;
 
-- In some rare situations, like when the attribute value itself contains quotes, it is necessary to use single quotes: `name='John "ShotGun"Nelson'and vice-versa`.
+# Example
+
+```html
+<a href="https://www.google.com">Visit Google</a>
+```
 
 &nbsp;
 
 &nbsp;
+
+# Detailed Anchor tag attributes
 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -45,7 +64,6 @@ HTML `Attributes` can provide additional information about the HTML elements on 
             border-collapse: collapse;
         }
     </style>
-
 </head>
 <body>
     <table>
