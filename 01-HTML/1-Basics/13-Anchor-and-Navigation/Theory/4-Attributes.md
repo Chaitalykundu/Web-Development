@@ -56,14 +56,6 @@ An anchor can point to any resource on the Web: an HTML page, an image, a sound 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Attribute</title>
-    <style>
-        th,
-        td {
-            border: 2px solid black;
-            border-collapse: collapse;
-        }
-    </style>
 </head>
 <body>
     <table>
