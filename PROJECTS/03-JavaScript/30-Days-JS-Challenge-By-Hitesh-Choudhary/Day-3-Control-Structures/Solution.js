@@ -46,7 +46,7 @@ else{
 }
 
 
-// Activity 2 : Switch Case
+// Activity 3 : Switch Case
 // Task 4
 
 let day = 2
