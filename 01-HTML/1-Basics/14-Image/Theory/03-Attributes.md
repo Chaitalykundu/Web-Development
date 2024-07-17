@@ -15,7 +15,11 @@
 
 # The src Attribute
 
-The required `src` attribute specifies the **_path (URL) of the image_**.
+- `src` stands for **source**.
+
+- The required `src` attribute specifies the **_path (URL) of the image_**.
+
+- The `src` tag can contain both relative and absolute paths, as well as internet image links.
 
 &nbsp;
 
@@ -38,6 +42,8 @@ The broken link icon and the alt text are shown if the browser cannot find the i
 &nbsp;
 
 # The alt Attribute
+
+- `alt` stands for **alternate text**
 
 - The required `alt` attribute provides an alternate text for an image, if the user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
 
@@ -79,7 +85,9 @@ Alternatively, you can use the `width` and `height` attributes:
 <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600" />
 ```
 
-- The `width` and `height` attributes always define the width and height of the image in `pixels`.
+- Value provided should be in numerical form
+
+- By default, the unit of the value is `pixels`.
 
 &nbsp;
 
