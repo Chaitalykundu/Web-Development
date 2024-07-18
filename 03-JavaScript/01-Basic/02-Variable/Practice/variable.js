@@ -30,3 +30,5 @@ console.timeEnd('Code took ')       //Timer end
 console.error("This is an error")       // Error
 
 
+// Showing values in tabel
+console.table([full_name,age,x,y,a,b,])
