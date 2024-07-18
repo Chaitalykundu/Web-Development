@@ -1,3 +1,119 @@
+# Questions
+
+# Introduction
+
+## Theory
+
+1. What is Programming
+2. What is ECMAScript
+3. What is JavaScript
+4. What are the features of JS
+5. What are the Application of JavaScript
+6. What can we build using JavaScript
+
+&nbsp;
+
+&nbsp;
+
+## Js Versions
+
+1. When and by whom was javascript invented
+2. What are the different names of javascript
+3. Which is the latest version of ECMAscript
+4. What can we use in code to treat all js code as newer version.
+
+&nbsp;
+
+&nbsp;
+
+# Datatype
+
+1. What is the difference between null and undefine
+2. Is null a independent type or object
+   &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+# Answer
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+# Datatype
+
+2. Is null an independent type or object
+
+```md
+null is an object type
+```
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 # 1. What are the Difference Between String `indexOf()` and String `search()`
 
 ```md
@@ -48,9 +164,11 @@ You can use the same code with different arguments, to produce different results
    The `splice()` method removed all the elements of the array and returned the removed element as an array
 
 3. Setting the length to zero :
+
    ```js
    a.length = 0;
    ```
+
 4. Using pop() method :
 
    ```js
@@ -104,7 +222,6 @@ Client-side
 &nbsp;
 
 # 7. Why do we avoid to use var?
-
 
 &nbsp;
 
