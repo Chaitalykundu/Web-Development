@@ -1,20 +1,55 @@
-# Function Parameters and Arguments
+# Overview
+
+- Parameters
+- Arguments
+- Syntax
+- Parameter Rules
+- Default Parameters
+- Default Parameter Values
+- Function Rest Parameter
+- The Arguments Object
+- Arguments are Passed by Value
+- Objects are Passed by Reference
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Parameters
+
+The variables that are defined when the function is declared are known as parameters
+
+Function parameters are the names listed in the function definition.
+
+&nbsp;
+
+# Arguments
+
+The values that are declared within a function when the function is called are known as an argument.
+
+Function arguments are the real values passed to (and received by) the function
+
+&nbsp;
 
 A JavaScript function does not perform any checking on parameter values (arguments).
 
 &nbsp;
 
-## Syntax :
+&nbsp;
+
+# Syntax
 
 ```js
 function functionName(parameter1, parameter2, parameter3) {
   // code to be executed
 }
+
+// Call the function
+
+functionName(argument1, argument2, argument3);
 ```
-
-Function parameters are the names listed in the function definition.
-
-Function arguments are the real values passed to (and received by) the function
 
 &nbsp;
 
