@@ -1,6 +1,23 @@
 # Overview
 
+- Datatypes
+- Types of datatypes
+- Primitive datatypes
+- Non-primitives or Object datatypes
+- Adding a number and a string
+- JavaScript Types are Dynamic
+- Empty Value
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Datatypes
+
 Datatypes are **types of data** which are stored in a variable.
+
 
 &nbsp;
 
@@ -40,9 +57,9 @@ U = undefined
 | number    | represents numeric values e.g. 100             |
 | null      | represents null i.e. no value at all           |
 | string    | represents sequence of characters e.g. "hello" |
-| symbol    |
+| symbol    |                                                |
 | Boolean   | represents boolean value either false or true  |
-| BigInt    |
+| BigInt    |                                                |
 | undefined | represents undefined value                     |
 
 &nbsp;
@@ -77,9 +94,9 @@ If the value is **number** then, We can access the value of object using **[]**
 
 &nbsp;
 
-## Note
+# Adding a number and a string
 
-When adding a number and a string, JavaScript will treat the number as a string.
+When adding a number and a string, JavaScript will treat **the number as a string**.
 
 JavaScript evaluates expressions from **left to right**. Different sequences can produce different results:
 
