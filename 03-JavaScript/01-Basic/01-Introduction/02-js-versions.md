@@ -1,3 +1,19 @@
+# Overview
+
+- Invention
+- Different names of javascript
+- Versions of JavaScript
+- Note
+- ECMAScript Editions
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Invention
+
 JavaScript was invented by **Brendan Eich** in 1995, and became an ECMA standard in 1997.
 
 &nbsp;
@@ -20,12 +36,20 @@ ES6 is also known as **_Modern JavaScript_**
 
 &nbsp;
 
-# Versions of JavaScript:
+# Versions of JavaScript
 
 - The Original JavaScript ES1 ES2 ES3 (1997-1999)
 - The First Main Revision ES5 (2009)
 - The Second Revision ES6 (2015)
 - Yearly Additions (2016, 2017, 2018, 2019, 2020)
+
+&nbsp;
+
+&nbsp;
+
+# Note
+
+We can use `use strict` to treat all js code as newer version.
 
 &nbsp;
 
