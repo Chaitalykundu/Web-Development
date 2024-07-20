@@ -1,75 +1,93 @@
-# Activity 1 : Function Declaration
+# Activity 1: Array Creation and Access
 
-### Task 1:
+### Task 1
 
-Create an Array of numbers from 1 to 5 and log the array to the console
+Create an array of numbers from 1 to 5 and log the array to the console.
 
 &nbsp;
 
 ### Task 2
 
-Access the first and last elements of the array and log them to the console
+Access the first and last elements of the array and log them to the console.
 
 &nbsp;
 
 &nbsp;
 
-# Activity 2 : Function Expression
+# Activity 2: Array Methods (Basic)
 
 ### Task 3
 
-Write a Function Expression to fine the maximum of two numbers and log the result to the console
+Use the push method to add a new number to the end of the array and log the updated array.
 
 &nbsp;
 
 ### Task 4
 
-Write a Function Expression to concatenate two strings and return the result
+Use the pop method to remove the last element from the array and log the updated array.
 
 &nbsp;
-
-&nbsp;
-
-# Activity 3 : Arrow Function
 
 ### Task 5
 
-Write a Arrow Function to calculate sum of two numbers and return the result
+Use the shift method to remove the first element from the array and log the updated array.
 
 &nbsp;
 
 ### Task 6
 
-Write a Arrow Function to check if a string contains a specific character and return a boolean value
+Use the unshift method to add a new number to the beginning of the array and log the updated array.
 
 &nbsp;
 
 &nbsp;
 
-# Activity 4 : Function parameters and default values
+# Activity 3: Array Methods (Intermediate)
 
 ### Task 7
 
-Write a function that takes two parameters and return their product. Provide a default value of the second parameter
+Use the map method to create a new array where each number is doubled and log the new array.
 
 &nbsp;
 
 ### Task 8
 
-Write a function that takes a person's name and age and return a greeting message. Provide a default value for the age
+Use the filter method to create a new array with only even numbers and log the new array.
 
 &nbsp;
-
-&nbsp;
-
-# Activity 5 : High-Order Functions
 
 ### Task 9
 
-Write a High-Order Function that takes a function and a number, and calls the function that many times
+Use the reduce method to calculate the sum of all numbers in the array and log the result.
 
 &nbsp;
 
+&nbsp;
+
+# Activity 4: Array Iteration
+
 ### Task 10
 
-Write a High-Order Function that takes two functions and a value, applies the first function to the value and then applies the second function to the result
+Use a for loop to iterate over the array and log each element to the console.
+
+&nbsp;
+
+### Task 11
+
+Use the forEach method to iterate over the array and log each element to the console.
+
+&nbsp;
+
+&nbsp;
+
+# Activity 5: Multi-dimensional Arrays
+
+### Task 12
+
+Create a two-dimensional array (matrix) and log the entire array to the console.
+
+&nbsp;
+
+### Task 13
+
+Access and log a specific element from the two-dimensional array.
