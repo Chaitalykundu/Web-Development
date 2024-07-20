@@ -15,7 +15,7 @@
 
 &nbsp;
 
-## Js Versions
+## JS Versions
 
 1. When and by whom was javascript invented
 2. What are the different names of javascript
@@ -26,25 +26,81 @@
 
 &nbsp;
 
+## How to add
+
+&nbsp;
+
+&nbsp;
+
+## Output
+
+&nbsp;
+
+&nbsp;
+
+## Statements
+
+&nbsp;
+
+&nbsp;
+
+## Keywords
+
+1. What is keyword
+2. Can we use keyword as variable name
+
+&nbsp;
+
+&nbsp;
+
+## Syntax
+
+1. How many types of values are there in JS? What are they called
+2. What are the syntax rules for Literals
+3. What is Variable
+4. Which keywords are used to declare variables
+5. What is Expression
+6. What is Evaluation
+7. What is Identifiers
+8. What are the rules for Identifiers
+
+&nbsp;
+
+&nbsp;
+
+## Comments
+
+1. Why do we use comments
+2. Which is the symbol of Single-line Comments
+3. Which is the symbol of Multi-line Comments
+
+&nbsp;
+
+&nbsp;
+
+# Variable
+
+1. What is Variable
+2. Which is the basic unit of storage in a program
+3. What is JS Identifiers
+4. What are the Naming rules of Identifiers
+5. In how many ways we can Declare a JavaScript Variable
+6. How to Declare a variable
+7. Is it possible to Declare & Initialize a variable together
+8. Can we declare Many Variables is one statement
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Datatype
 
 1. What is the difference between null and undefine
 2. Is null a independent type or object
-   &nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
@@ -98,6 +154,17 @@ null is an object type
 &nbsp;
 &nbsp;
 &nbsp;
+
+# Answer
+
+# Variable
+
+### 8. Can we declare Many Variables is one statement
+
+```md
+Yes. By using comma.
+```
+
 &nbsp;
 &nbsp;
 &nbsp;
