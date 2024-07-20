@@ -62,7 +62,7 @@ Write a function that takes a person's name and age and return a greeting messag
 
 &nbsp;
 
-# Activity 4 : High-Order Functions
+# Activity 5 : High-Order Functions
 
 ### Task 9
 
