@@ -1,3 +1,18 @@
+# Overview
+
+- JavaScript Display Possibilities
+- Using innerHTML
+- Using document.write()
+- Using window.alert()
+- Using console.log()
+- JavaScript Print
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # JavaScript Display Possibilities
 
 JavaScript can "display" data in different ways:
@@ -63,7 +78,13 @@ For testing purposes, it is convenient to use `document.write()`:
 </html>
 ```
 
+&nbsp;
+
+### Note
+
 The `document.write()` method should only be used for testing.
+
+Never call document.write after the document has finished loading. It will overwrite the whole document.
 
 &nbsp;
 
@@ -82,7 +103,6 @@ The `document.write()` method should only be used for testing.
 
     <script>
       alert(5 + 6);
-
       //  or window.alert(5 + 6);
     </script>
   </body>
@@ -132,7 +152,7 @@ The only exception is that you can call the `window.print()` method in the brows
 <!DOCTYPE html>
 <html>
   <body>
-    <button onclick="window.print()">Print this page</button>
+    <button onclick="window.print()">Print</button>
   </body>
 </html>
 ```
