@@ -1,0 +1,25 @@
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insert JS inside Body</title>
+
+</head>
+
+<body>
+    <p id='demo'>Content of p tag inside body</p>
+
+    <button onclick="scriptInBody()">Change</button>
+
+    <script>
+        function scriptInBody() {
+            const res = document.getElementById('demo');
+            res.innerHTML = "Content of script inserted into body";
+        }
+
+    </script>
+
+</body>
+
+</html>
