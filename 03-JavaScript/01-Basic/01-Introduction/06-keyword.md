@@ -1,12 +1,38 @@
+# Overview
+
+- JavaScript Keywords
+- Example
+- Some of the keywords
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # JavaScript Keywords
 
-JavaScript statements often start with a keyword to identify the JavaScript action to be performed.
+JavaScript keywords are the **reserved words** whose meanings are already pre-defined and are used to identify actions to be performed.
 
-Our Reserved Words Reference lists all JavaScript keywords.
+JavaScript statements often start with a keyword.
 
-Here is a list of some of the keywords you will learn about in this tutorial:
+Reserved words cannot be used as names for variables.
 
-JavaScript keywords are **reserved words**. Reserved words cannot be used as names for variables.
+# Example
+
+The `let` keyword tells the browser to create variables
+
+```js
+let x, y;
+x = 5 + 6;
+y = x * 10;
+```
+
+&nbsp;
+
+&nbsp;
+
+# Some of the keywords
 
 &nbsp;
 
@@ -21,4 +47,4 @@ JavaScript keywords are **reserved words**. Reserved words cannot be used as nam
 | function | Declares a function                                           |
 | return   | Exits a function                                              |
 | try      | Implements error handling to a block of statements            |
-|          |
+|          |                                                               |
