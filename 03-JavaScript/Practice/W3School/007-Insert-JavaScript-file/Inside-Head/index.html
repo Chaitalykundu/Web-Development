@@ -1,0 +1,21 @@
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insert JS inside Head</title>
+
+    <script>
+        function scriptInHead(){
+            const res = document.getElementById('demo');
+            res.innerHTML = "Content of script inserted into Head";
+        }
+
+    </script>
+</head>
+<body>
+    <p id='demo'>Content of p tag inside body</p>
+
+    <button onclick="scriptInHead()">Change</button>
+</body>
+</html>
