@@ -1,4 +1,20 @@
-# What are Variables?
+# Overview
+
+- What are Variables
+- JavaScript Identifiers
+- Naming rules
+- Ways to Declare a JavaScript Variable
+- Declaring a Variable
+- Initializing a variable
+- Declaring & Initializing together
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# What are Variables
 
 Variables are containers for storing data (storing data values).
 
