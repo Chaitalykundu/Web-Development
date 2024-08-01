@@ -2,7 +2,8 @@
 
 - Tags
 - Types of tags
-
+- Deprecated Tags
+  
 &nbsp;
 
 &nbsp;
@@ -73,3 +74,29 @@ There are **two** types of tags in HTML
 - We can also classify tags in terms of their utility
 
 <!-- - Refer [learn](../../learn.md) -->
+
+&nbsp;
+
+&nbsp;
+
+# Deprecated Tags
+
+The deprecated tags or attributes are those attributes which are replaced by some other attributes. The tag or attributes deprecated when the same attributes is achieved by some other way.
+
+They are considered outdated and may not be supported in modern browsers or future versions of HTML.
+
+### Example
+
+applet, basefont, center, dir, embed, font etc.
+
+&nbsp;
+
+&nbsp;
+
+# HTML Deprecated Attributes
+
+There are some attributes which are deprecated from HTML4.
+
+### Example
+
+hspace, align. alink, background, bgcolor etc.
