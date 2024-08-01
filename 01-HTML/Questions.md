@@ -1,3 +1,5 @@
+[GFG Questions](https://www.geeksforgeeks.org/html-examples/?ref=dhm)
+
 # Introduction
 
 1. What is HTML
@@ -11,6 +13,7 @@
 9. What are the difference between HTML & HTML5
 10. What are the advantages of HTML
 11. What are the disadvantages of HTML
+12. What are the differences between HTML & CSS
 
 &nbsp;
 
@@ -20,8 +23,8 @@
 
 1. What is tag in HTML
 2. How many types of tags are there
-
-&nbsp;
+3. What is Deprecated Tags
+   &nbsp;
 
 &nbsp;
 
