@@ -3,7 +3,8 @@
 - Tags
 - Types of tags
 - Deprecated Tags
-  
+- HTML Deprecated Attributes
+
 &nbsp;
 
 &nbsp;
@@ -85,6 +86,8 @@ The deprecated tags or attributes are those attributes which are replaced by som
 
 They are considered outdated and may not be supported in modern browsers or future versions of HTML.
 
+&nbsp;
+
 ### Example
 
 applet, basefont, center, dir, embed, font etc.
@@ -96,6 +99,8 @@ applet, basefont, center, dir, embed, font etc.
 # HTML Deprecated Attributes
 
 There are some attributes which are deprecated from HTML4.
+
+&nbsp;
 
 ### Example
 
