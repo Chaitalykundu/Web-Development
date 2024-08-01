@@ -6,3 +6,11 @@
   left: 50vw;
   transform: translate(-50%, -50%);
 }
+
+/* alternate (have to check)*/
+/* .image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+} */
