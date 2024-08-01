@@ -1,4 +1,22 @@
-The JavaScript syntax defines two types of values:
+# Overview
+
+- JavaScript Values
+- Note
+- JavaScript Literals
+- JavaScript Variables
+- JavaScript Operators
+- JavaScript Expressions
+- JavaScript Identifiers / Names
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# JavaScript Values
+
+The JavaScript syntax defines **two** types of values:
 
 - Fixed values
 - Variable values
@@ -9,11 +27,19 @@ Variable values are called Variables.
 
 &nbsp;
 
+# Note
+
+JavaScript is **Case Sensitive**
+
+**Hyphens** are not allowed in JavaScript. They are reserved for subtractions.
+
+&nbsp;
+
 &nbsp;
 
 # JavaScript Literals
 
-The two most important syntax rules for fixed values are:
+The two most important syntax rules for Literals are:
 
 1. Numbers are written with or without decimals:
 
@@ -23,6 +49,7 @@ The two most important syntax rules for fixed values are:
    ```
 
 2. Strings are text, written within double or single quotes:
+
    ```js
    "John Doe";
    `'John Doe';`;
@@ -34,7 +61,7 @@ The two most important syntax rules for fixed values are:
 
 # JavaScript Variables
 
-variables are used to store data values.
+Variables are used to store data values.
 
 JavaScript uses the keywords `var`, `let` and `const` to declare variables.
 
@@ -61,27 +88,49 @@ x = (5 + 6) * 10;
 
 &nbsp;
 
-# JavaScript Keywords
+# JavaScript Expressions
 
-JavaScript keywords are used to identify actions to be performed.
+An expression is a combination of values, variables, and operators, which computes to a value.
 
-The `let` keyword tells the browser to create variables:
+The computation is called an **evaluation**.
 
 ```js
-let x, y;
-x = 5 + 6;
-y = x \* 10;
+res = 5 * 10;
 ```
 
 &nbsp;
 
+The values can be of various types, such as numbers and strings.
+
 &nbsp;
 
-# JavaScript Comments
+&nbsp;
 
-Not all JavaScript statements are "executed".
+# JavaScript Identifiers / Names
 
-Code after double slashes // or between /\* and \*/ is treated as a comment.
+Identifiers are JavaScript names.
+
+Identifiers are used to name variables and keywords, and functions.
+
+&nbsp;
+
+## Rules for Identifiers
+
+- A JavaScript name must begin with:
+
+  - A letter (A-Z or a-z)
+  - A dollar sign ($)
+  - Or an underscore (\_)
+
+- Subsequent characters may be letters, digits, underscores, or dollar signs.
+
+&nbsp;
+
+## Note
+
+Numbers are not allowed as the first character in names.
+
+This way JavaScript can easily distinguish identifiers from numbers.
 
 &nbsp;
 &nbsp;
