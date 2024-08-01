@@ -1,3 +1,17 @@
+# Overview
+
+- Statements
+- JavaScript White Space
+- JavaScript Line Length and Line Breaks
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Statements
+
 A computer program is a list of "**instructions**" to be "**executed**" by a computer. In a programming language, these programming instructions are called **_statements_**.
 
 A JavaScript program is a list of programming statements.
@@ -35,13 +49,20 @@ JavaScript ignores multiple spaces. You can add white space to your script to ma
 
 The following lines are equivalent:
 
+```js
+let person = "Hege";
+let person="Hege";
+```
+
+A good practice is to put spaces around operators ( = + - * / )
+
 &nbsp;
 
 &nbsp;
 
 # JavaScript Line Length and Line Breaks
 
-If a JavaScript statement does not fit on one line, the best place to break it is after an operator:
+If a JavaScript statement does not fit on one line, the best place to break it is after an operator
 
 ## Example
 
