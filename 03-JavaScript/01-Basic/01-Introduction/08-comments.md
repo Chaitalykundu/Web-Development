@@ -1,3 +1,17 @@
+# Overview
+
+- JavaScript Comments
+- Single Line Comment
+- Multi-line Comments
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# JavaScript Comments
+
 JavaScript comments can be used to
 
 - explain JavaScript code, and to make it more readable.
@@ -7,9 +21,9 @@ JavaScript comments can be used to
 
 &nbsp;
 
-# Single Line Comments
+# Single Line Comment
 
-Single line comments start with `//`.
+Single line comment starts with `//`.
 
 &nbsp;
 
@@ -22,7 +36,7 @@ document.getElementById("myH").innerHTML = "My First Page";
 
 &nbsp;
 
-This example uses a single line comment at the end of each line to explain the code:
+Single line comment can be used used at the end of the line
 
 ```js
 let x = 5; // Declare x, give it the value of 5
@@ -33,9 +47,9 @@ let y = x + 2; // Declare y, give it the value of x + 2
 
 &nbsp;
 
-# Multi-line Comments
+# Multi-line Comment
 
-Multi-line comments start with /\* and end with \*/.
+Multi-line comment starts with /\* and end with \*/.
 
 &nbsp;
 
