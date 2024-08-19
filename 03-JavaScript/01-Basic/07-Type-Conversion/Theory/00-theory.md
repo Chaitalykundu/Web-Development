@@ -1,17 +1,34 @@
+# Overview
+
+- Definition
+- Types of Type Casting
+- Implicit Conversion
+- Explicit Conversion
+  
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Definition
 
-Type conversion (or typecasting) is a method or process that converts a data type into another data type in both ways manually and automatically
+**Type conversion** (or typecasting) is a method or process that converts a datatype into another datatype in both ways manually and automatically.
 
-Implicit conversion happens when the **compiler** (for compiled languages) or **runtime** (for script languages like JavaScript) automatically converts data types. The source code can also explicitly require a conversion to take place.
-
-&nbsp;
+**Implicit conversion** happens when the **compiler** (for compiled languages) or **runtime** (for script languages like JavaScript) automatically converts datatypes. The source code can also explicitly require a conversion to take place.
 
 &nbsp;
 
-JavaScript variables can be converted to a new variable and another data type in two ways:
+&nbsp;
 
-- Implicit Conversion : automatic type conversion
-- Explicit Conversion : using function
+# Types of Type Conversion / Casting
+
+JavaScript variables can be converted to a new variable and another datatype in two ways:
+
+- **Implicit Conversion** : automatic type conversion
+- **Explicit Conversion** : using function
+
+&nbsp;
 
 &nbsp;
 
@@ -22,8 +39,9 @@ There are various operator and functions in JavaScript which automatically conve
 ## Example
 
 ```js
-// numeric string used with + gives string type
 let result;
+
+// If we concat (`+`) string and numeric then it will conb=vert the number to string
 
 result = "3" + 2;
 console.log(result); // "32"
@@ -38,7 +56,11 @@ result = "3" + null;
 console.log(result); // "3null"
 ```
 
+&nbsp;
+
 > Note: When a number is added to a string, JavaScript converts the number to a string before concatenation.
+
+&nbsp;
 
 &nbsp;
 
@@ -51,14 +73,6 @@ In JavaScript, explicit type conversions are done using **built-in** functions.
 &nbsp;
 
 &nbsp;
-
-## Number Methods
-
-| Method       | Description                                         |
-| ------------ | --------------------------------------------------- |
-| Number()     | Returns a number, converted from its argument       |
-| parseFloat() | Parses a string and returns a floating point number |
-| parseInt()   | Parses a string and returns an integer              |
 
 &nbsp;
 
