@@ -98,6 +98,3 @@ We can use `use strict` to treat all js code as newer version.
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
