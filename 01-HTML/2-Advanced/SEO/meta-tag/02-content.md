@@ -1,3 +1,16 @@
+# Overview
+
+- Definition and Usage
+- Syntax
+- Example
+- Attribute Values
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Definition and Usage
 
 The `content` attribute gives the value associated with the `http-equiv` or `name` attribute.
@@ -16,19 +29,7 @@ The `content` attribute gives the value associated with the `http-equiv` or `nam
 
 &nbsp;
 
-# Attribute Values
-
-| Value | Description                         |
-| ----- | ----------------------------------- |
-| text  | The content of the meta information |
-
-&nbsp;
-
-&nbsp;
-
 # Example
-
-Describe metadata within an HTML document:
 
 ```html
 <head>
@@ -36,3 +37,14 @@ Describe metadata within an HTML document:
   <meta name="keywords" content="HTML,CSS,XML,JavaScript" />
 </head>
 ```
+
+&nbsp;
+
+&nbsp;
+
+# Attribute Values
+
+| Value | Description                         |
+| ----- | ----------------------------------- |
+| text  | The content of the meta information |
+|       |                                     |

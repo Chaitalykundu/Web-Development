@@ -20,6 +20,7 @@
   <dd>- black hot drink</dd>
   <dt>Milk</dt>
   <dd>- white cold drink</dd>
+  <dd>- Healthy</dd>
 </dl>
 ```
 
@@ -28,6 +29,7 @@
   <dd>- black hot drink</dd>
   <dt>Milk</dt>
   <dd>- white cold drink</dd>
+  <dd>- Healthy</dd>
 </dl>
 
 &nbsp;

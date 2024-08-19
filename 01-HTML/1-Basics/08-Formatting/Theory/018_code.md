@@ -1,4 +1,21 @@
-# <code></code> tag
+# Overview
+
+- `<code></code>` tag
+- Syntax
+- Example
+- Default CSS Settings
+- Specifications
+- Tag-specific attribute
+- Global attribute
+- Event attribute
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# `<code></code>` tag
 
 - The `<code>` tag is used to define a piece of computer code.
 
@@ -6,7 +23,9 @@
 
 &nbsp;
 
-# Syntax :
+&nbsp;
+
+# Syntax
 
 ```html
 <code>text</code>
@@ -14,7 +33,9 @@
 
 &nbsp;
 
-# Example :
+&nbsp;
+
+# Example
 
 ```html
 <p>
@@ -25,6 +46,8 @@
 
 &nbsp;
 
+&nbsp;
+
 # Default CSS Settings
 
 ```css
@@ -32,6 +55,8 @@ code {
   font-family: monospace;
 }
 ```
+
+&nbsp;
 
 &nbsp;
 
@@ -46,18 +71,20 @@ code {
 
 &nbsp;
 
+&nbsp;
+
 # Tag-specific attribute
 
 > HTML `<code>` tag does not contain any specific attribute.
 
 &nbsp;
 
-# Global attribute:
+# Global attribute
 
 > The `<code>` tag supports the Global attributes in HTML.
 
 &nbsp;
 
-# Event attribute:
+# Event attribute
 
 > The `<code>` tag supports the Event attributes in HTML.

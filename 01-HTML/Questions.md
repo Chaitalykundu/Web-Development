@@ -314,6 +314,7 @@
 &nbsp;
 
 &nbsp;
+
 &nbsp;
 
 &nbsp;
@@ -333,16 +334,62 @@
 3. What is the difference btw div and section
 
 &nbsp;
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;
 
 &nbsp;
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;
 
 &nbsp;
+
+&nbsp;
+
+# Iframe
+
+1. What is iframe
+
+
+&nbsp;
+
+&nbsp;
+
+# Meta tag
+
+1. What is meta tag
+2. What is meta data
+3. Which are specified using meta tag
+4. Name the attributes of meta tag
+5. What is charset attribute
+6. For emojis which charset is recommended
+7. What is the syntax for charset attribute
+8. In which elements can charset attribute be used
+9. What is content attribute
+10. What is the syntax for content attribute
+11. What is http-equiv attribute
+12. What is the syntax for http-equiv attribute
+13. What is name attribute
+14. What is the syntax for name attribute
+15. Can we use http-equiv attribute and name attribute together
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 &nbsp;
 
 # Answer
