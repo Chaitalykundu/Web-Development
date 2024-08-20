@@ -1,3 +1,20 @@
+# Overview
+
+- Primitive datatypes
+- Number
+- Null
+- Boolean
+- BigInt
+- String
+- Symbol
+- Undefined
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Primitive datatypes
 
 Primitive datatypes are the set of **basic datatypes** in javascript.
@@ -13,6 +30,7 @@ Primitive datatypes are the set of **basic datatypes** in javascript.
 | String    | "string"            | String         |
 | Symbol    | "symbol"            | Symbol         |
 | Undefined | "undefined"         | N/A            |
+|           |                     |                |
 
 &nbsp;
 
@@ -62,6 +80,16 @@ var Name = "Chaitaly";
 
 ```js
 var sym = Symbol("I am a symbol");
+```
+
+&nbsp;
+
+The following are not same.
+
+```js
+let id = Symbol("123");
+let anotherID = Symbol("123");
+console.log(id == anotherID); // false
 ```
 
 &nbsp;

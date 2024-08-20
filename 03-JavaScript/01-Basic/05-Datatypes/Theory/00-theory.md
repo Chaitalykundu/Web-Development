@@ -18,7 +18,6 @@
 
 Datatypes are **types of data** which are stored in a variable.
 
-
 &nbsp;
 
 ## Types of datatypes
@@ -52,6 +51,8 @@ B = BigInt
 U = undefined
 ```
 
+&nbsp;
+
 | Data Type | Description                                    |
 | --------- | ---------------------------------------------- |
 | number    | represents numeric values e.g. 100             |
@@ -61,6 +62,7 @@ U = undefined
 | Boolean   | represents boolean value either false or true  |
 | BigInt    |                                                |
 | undefined | represents undefined value                     |
+|||
 
 &nbsp;
 

@@ -47,6 +47,10 @@ console.log(sym);
 console.log("Datatype of sym is",(typeof sym));
 
 
+let id = Symbol("123");
+let anotherID = Symbol("123");
+console.log("check symbol", id==anotherID) // false
+
 // Undefined
 console.log("\t\t\t\t\t\t\t\t\t Undefined");
 
