@@ -18,20 +18,16 @@ result = "4" / 2;
 console.log(result); // 2
 ```
 
-
 &nbsp;
 
 &nbsp;
 
 # 2. Non-numeric String with numeric string
 
-non-numeric string used with `- , / , \*` results to `NaN`
+non-numeric string and numeric string used with `- , / , \*` results to `NaN`
 
 ```js
 let result;
-
-result = "hello" - "world";
-console.log(result); // NaN
 
 result = "4" - "hello";
 console.log(result); // NaN
@@ -44,12 +40,25 @@ console.log(result); // NaN
 
 &nbsp;
 
-# 3. Non-numeric string with numaric value
+# 3. Non-numeric string with number
 
 ```js
 result = 2 - "hello";
 console.log(result); // NaN
 
 result = "hello" * 4;
+console.log(result); // NaN
+```
+
+&nbsp;
+
+&nbsp;
+
+# 4. Non-numeric String with Non-numeric string
+
+```js
+let result;
+
+result = "hello" - "world";
 console.log(result); // NaN
 ```

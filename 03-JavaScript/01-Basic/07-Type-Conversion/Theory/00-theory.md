@@ -41,7 +41,7 @@ There are various operator and functions in JavaScript which automatically conve
 ```js
 let result;
 
-// If we concat (`+`) string and numeric then it will conb=vert the number to string
+// If we concat (`+`) string and numeric then it will convert the number to string
 
 result = "3" + 2;
 console.log(result); // "32"

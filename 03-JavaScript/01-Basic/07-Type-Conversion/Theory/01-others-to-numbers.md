@@ -1,25 +1,5 @@
 # Implicit Conversion to Number
 
-# 1. Numeric String to number
-
-numeric string used with `- , / , \*` results number type
-
-```js
-let result;
-
-result = "4" - "2";
-console.log(result); // 2
-
-result = "4" - 2;
-console.log(result); // 2
-
-result = "4" * 2;
-console.log(result); // 8
-
-result = "4" / 2;
-console.log(result); // 2
-```
-
 &nbsp;
 
 ## more methods that can be used to convert strings to numbers:
