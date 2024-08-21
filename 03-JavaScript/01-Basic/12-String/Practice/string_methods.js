@@ -9,6 +9,7 @@ console.log("toUpperCase,", n.toUpperCase());
 let m = "ChaItAly";
 console.log("toLowerCase,", m.toLowerCase());
 
+
 // slice()
 console.log("slice,", n.slice(2, 7));
 console.log("slice,", n.slice(5));
@@ -16,12 +17,15 @@ console.log("slice,", n.slice(-7, 5));
 console.log("slice,", n.slice(-7, -4));
 console.log("slice,", n.slice(-3));
 
+
 // substring()
 console.log("substring", n.substring(2, 6)); // aita
 console.log("substring", n.substring(4)); // aita
 console.log("substring", n.substring(4, 2)); // ai
 console.log("substring", n.substring(-2)); // Chaitaly
 console.log("substring", n.substring(4,-2)); // Chaitaly
+
+
 
 // replace
 let fruit = "banana";
