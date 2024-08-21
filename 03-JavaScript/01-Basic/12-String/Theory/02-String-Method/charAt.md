@@ -1,3 +1,18 @@
+# Overview
+
+- Description
+- Syntax
+- Parameters
+- Return Value
+- Example
+- Browser Support
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `charAt()` method returns the character at a specified index (position) in a string.
@@ -20,9 +35,11 @@ string.charAt(index);
 
 # Parameters
 
-| Parameter | Description                                                   |
-| --------- | ------------------------------------------------------------- |
-| index     | Optional. The index (position) of the character. Default = 0. |
+| Parameter | Description                            |
+| --------- | -------------------------------------- |
+| index     | Optional. Default = 0.                 |
+|           | The index (position) of the character. |
+|           |                                        |
 
 &nbsp;
 
@@ -33,6 +50,7 @@ string.charAt(index);
 | Type     | Description                                                                           |
 | -------- | ------------------------------------------------------------------------------------- |
 | A string | The character at the specified index. Empty string ("") if the index is out of range. |
+|          |                                                                                       |
 
 &nbsp;
 

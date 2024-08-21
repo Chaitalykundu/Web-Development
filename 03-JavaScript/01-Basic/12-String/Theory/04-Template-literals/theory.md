@@ -1,3 +1,21 @@
+# Overview
+
+- Template Literal
+  - Synonyms
+- Quotes Inside Strings
+- Multiline Strings
+- Interpolation
+- Variable Substitutions
+- Expression Substitution
+- HTML Templates
+- Browser Support
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Template Literal
 
 ## Synonyms
@@ -9,11 +27,9 @@
 
 &nbsp;
 
-&nbsp;
-
 Template Literals use ` back-ticks (``) ` rather than the quotes ("") to define a string
 
-## Example
+### Example
 
 ```js
 let name = `Chaitaly`;
@@ -34,6 +50,8 @@ With template literals, you can use both single and double quotes inside a strin
 
 ```js
 let text = `He's often called "Johnny"`;
+let answer2 = "He is called 'Johnny'";
+let answer3 = 'He is called "Johnny"';
 ```
 
 &nbsp;
@@ -63,8 +81,6 @@ Template literals provide an easy way to interpolate variables and expressions i
 
 &nbsp;
 
-&nbsp;
-
 ## Syntax
 
 ```js
@@ -73,9 +89,7 @@ ${...}
 
 &nbsp;
 
-&nbsp;
-
-## Example :
+## Example
 
 ```js
 let a = `This is ${name}`;

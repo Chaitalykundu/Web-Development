@@ -1,3 +1,18 @@
+# Overview
+
+- Description
+- Syntax
+- Parameters
+- Return Value
+- Example
+- Browser Support
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `toLowerCase()` method converts **a string to lowercase letters**.
@@ -40,7 +55,7 @@ NONE
 
 ```js
 let fname = "ChaItAly";
-console.log(fname.toLowerCase()); //
+console.log(fname.toLowerCase()); // chaitaly
 ```
 
 &nbsp;

@@ -1,3 +1,17 @@
+# Overview
+
+- Description
+- Syntax
+- Return Value
+- Example
+- Browser Support
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `length` property returns the **length of a string**.
@@ -23,6 +37,7 @@ string.length;
 | Type     | Description               |
 | -------- | ------------------------- |
 | A number | The length of the string. |
+|          |                           |
 
 &nbsp;
 

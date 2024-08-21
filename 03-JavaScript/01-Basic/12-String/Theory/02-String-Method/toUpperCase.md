@@ -1,3 +1,18 @@
+# Overview
+
+- Description
+- Syntax
+- Parameters
+- Return Value
+- Example
+- Browser Support
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `toUpperCase()` method converts **a string to uppercase letters**.
@@ -31,6 +46,7 @@ NONE
 | Type     | Description                        |
 | -------- | ---------------------------------- |
 | A string | The string converted to uppercase. |
+|          |                                    |
 
 &nbsp;
 

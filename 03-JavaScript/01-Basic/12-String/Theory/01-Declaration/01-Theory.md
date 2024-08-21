@@ -1,11 +1,24 @@
-# strings
+# Overview
+
+- String
+- Example
+- Strings are immutable
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# String
 
 JavaScript `strings` are for storing and manipulating text.
 
 A JavaScript string is **zero or more characters** written inside single or double quotes.
 
+Strings are case-sensitive.
 
-JavaScript Strings are **immutable**
+&nbsp;
 
 &nbsp;
 
@@ -33,7 +46,21 @@ let answer3 = 'He is called "Johnny"';
 
 &nbsp;
 
+# Strings are immutable
+
+JavaScript Strings are **immutable**. Since once a string is created it will receive a reference in the memory and its value will never change.
+
 &nbsp;
+
+## Example
+
+```js
+str = "new string"
+console.log(str); // new string
+str.replace("new", "replaced");
+console.log(str); // new string
+```
+
 &nbsp;
 &nbsp;
 &nbsp;

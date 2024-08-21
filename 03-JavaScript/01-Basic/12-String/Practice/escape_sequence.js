@@ -1,5 +1,4 @@
 let str = "Hello 'Yash', How are you?"
-
 console.log(str);   // O.P: Hello 'Yash', How are you?
 
 
@@ -33,5 +32,5 @@ console.log("Horizontal Tabulator ---------","Hello 'Yash',\t How are you?");
 // Vertical Tabulator
 console.log("Vertical Tabulator ---------","Hello 'Yash',\v How are you?");
 /* O.P: Vertical Tabulator --------- Hello 'Yash',
- How are you?  
+                                                    How are you?  
  */

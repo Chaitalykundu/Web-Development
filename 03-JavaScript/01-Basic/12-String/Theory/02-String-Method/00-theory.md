@@ -1,3 +1,15 @@
+# Overview
+
+- String Search Methods
+- JavaScript String Methods
+- String HTML Wrapper Methods
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # String Search Methods
 
 - String indexOf()
@@ -15,23 +27,23 @@
 
 # JavaScript String Methods
 
-- String length
-- String slice()
-- String substring()
-- String substr()
-- String replace()
-- String replaceAll()
-- String toUpperCase()
-- String toLowerCase()
-- String concat()
-- String trim()
-- String trimStart()
-- String trimEnd()
-- String padStart()
-- String padEnd()
-- String charAt()
-- String charCodeAt()
-- String split()
+- length
+- slice()
+- substring()
+- substr()
+- replace()
+- replaceAll()
+- toUpperCase()
+- toLowerCase()
+- concat()
+- trim()
+- trimStart()
+- trimEnd()
+- padStart()
+- padEnd()
+- charAt()
+- charCodeAt()
+- split()
 
 &nbsp;
 
@@ -75,6 +87,7 @@ They do not change the original variable.
 | trimEnd()           | Returns a string with removed whitespaces from the end                                                     |
 | trimStart()         | Returns a string with removed whitespaces from the start                                                   |
 | valueOf()           | Returns the primitive value of a string or a string object                                                 |
+|                     |                                                                                                            |
 
 &nbsp;
 
@@ -101,3 +114,4 @@ These are not standard methods, and may not work as expected.
 | strike()    | Displays a string with a strikethrough     |
 | sub()       | Displays a string as subscript text        |
 | sup()       | Displays a string as superscript text      |
+|             |                                            |
