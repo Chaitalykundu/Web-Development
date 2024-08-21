@@ -28,13 +28,13 @@
 # JavaScript String Methods
 
 - length
+- toUpperCase()
+- toLowerCase()
 - slice()
 - substring()
 - substr()
 - replace()
 - replaceAll()
-- toUpperCase()
-- toLowerCase()
 - concat()
 - trim()
 - trimStart()

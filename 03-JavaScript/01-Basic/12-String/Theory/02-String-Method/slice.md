@@ -1,3 +1,18 @@
+# Overview
+
+- Description
+- Syntax
+- Parameters
+- Return Value
+- Example
+- Browser Support
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `slice()` method extracts a part of a string.
@@ -8,9 +23,13 @@ The `slice()` method does not change the original string.
 
 The start and end parameters specifies the part of the string to extract.
 
-The first position is 0, the second is 1, ...
+&nbsp;
+
+## Note
 
 A negative number selects from the end of the string.
+
+For example, `str.slice(-7,5)` means it will be started from 7th position from the right to left and the will count upto 5th index towards right.
 
 &nbsp;
 
@@ -33,6 +52,7 @@ string.slice(start);
 | --------- | -------------------------------------------------------------------------------- |
 | start     | Required. The start position. (First character is 0).                            |
 | end       | Optional. The end position (up to, but not including). Default is string length. |
+|           |                                                                                  |
 
 &nbsp;
 
@@ -43,6 +63,7 @@ string.slice(start);
 | Type     | Description                       |
 | -------- | --------------------------------- |
 | A string | The extracted part of the string. |
+|          |                                   |
 
 &nbsp;
 
@@ -58,6 +79,12 @@ console.log(fname.slice(2, 7)); //aital
 
 // From position 5 to the end
 console.log(fname.slice(5)); //aly
+
+// From 2nd to 5th character
+console.log("slice,",n.slice(-7,5)); // hait
+
+
+console.log("slice,",n.slice(-7,-4)); // hai
 
 // Only the last character
 console.log(fname.slice(-1)); //y
