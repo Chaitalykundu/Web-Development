@@ -30,18 +30,24 @@ console.log("substring", n.substring(4,-2)); // Chaitaly
 // replace
 let fruit = "banana";
 console.log(fruit.replace("banana", "apple")); // apple
-
 console.log(fruit); // banana
 
-// concat
+let str1 = "i am Chaitaly. i am a Software Engineer."
+console.log(str1.replace("i", "I")); // I am Chaitaly. i am a Software Engineer.
+console.log(str1);
 
+let part = /i/i;
+console.log(str1.replace(part,"I")); // I am Chaitaly. i am a Software Engineer.
+
+
+
+// concat
 const fname = " Chaitaly";
 const greeting = "Good Morning";
 
 console.log("Concatenation, ", greeting.concat(fname));
 
 // trim
-
 const firstname = "            Chaitaly           ";
 const lastName = "Kundu";
 console.log(firstname, lastName); //            Chaitaly            Kundu

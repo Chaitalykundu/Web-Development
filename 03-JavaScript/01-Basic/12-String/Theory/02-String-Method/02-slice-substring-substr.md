@@ -15,6 +15,8 @@
 
 - If any argument is greater than the string’s length, the string’s length will be used in that case.
 
+- Any argument value that is `NaN` is treated as if it were `0`
+
 &nbsp;
 
 &nbsp;

@@ -22,7 +22,11 @@ The `substring()` method extracts characters from start to end (exclusive).
 
 The `substring()` method does not change the original string.
 
-If start is greater than end, arguments are swapped: (4, 1) = (1, 4).
+If `start` == `end`, `substring()` returns an empty string
+
+If `start` > `end`, arguments are swapped: (4, 1) = (1, 4).
+
+If `end` is omitted, `substring()` extracts characters to the end of the string
 
 Start or end values less than 0, are treated as 0.
 
