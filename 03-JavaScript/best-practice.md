@@ -1,3 +1,11 @@
+# Use "use strict"
+
+`"use strict"` treats all js code of newer version.
+
+&nbsp;
+
+&nbsp;
+
 Avoid `global variables`, avoid `new`, avoid `==`, avoid `eval()`
 
 &nbsp;
@@ -81,7 +89,7 @@ car = "Fiat"; // Not possible
 
 # Declare Arrays with const
 
-Declaring arrays with const will prevent any accidential change of type:
+Declaring arrays with const will prevent any accidental change of type:
 
 &nbsp;
 
