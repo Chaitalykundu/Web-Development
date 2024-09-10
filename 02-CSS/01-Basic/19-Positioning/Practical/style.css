@@ -4,14 +4,35 @@
 }
 
 .box {
+  display: inline-block;
   height: 200px;
-  width: 80vw;
+  width: 20vw;
   margin: 3px;
   border: 2px solid black;
 }
 
-/* If we want to add z-index, we have to use position:relative  */
+.box2 {
+  position: absolute;
+  top: 50vh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
+  background-color: red;
+}
 
+.box1 {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: aqua;
+}
+
+/* .box3 {F
+  position: relative;
+  top: 5px;
+} */
+/* If we want to add z-index, we have to use position:relative  */
+/* 
 .box1 {
   background-color: rgb(105, 159, 206);
   position: relative;
@@ -31,4 +52,4 @@
 
 .box4 {
   background-color: rgb(222, 137, 195);
-}
+} */
