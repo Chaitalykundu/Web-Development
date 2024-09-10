@@ -109,29 +109,59 @@
 &nbsp;
 
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
+# Closure
+
+1. What is a closure in JavaScript?
+2. Why are closures important in JavaScript?
+3. Can you give an example of a closure in JavaScript?
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
 
 # Answer
@@ -155,8 +185,6 @@ null is an object type
 &nbsp;
 &nbsp;
 
-# Answer
-
 # Variable
 
 ### 8. Can we declare Many Variables is one statement
@@ -166,17 +194,47 @@ Yes. By using comma.
 ```
 
 &nbsp;
+
 &nbsp;
+
+# Closure
+
+### 1. What is a closure in JavaScript?
+
+```md
+A closure is an inner function that has access to the outer function's variables and parameters.
+
+It allows the inner function to access and manipulate the outer function's variables, even after the outer function has returned.
+```
+
 &nbsp;
+
+### 2. Why are closures important in JavaScript?
+
+```md
+Closures are important in JavaScript because they allow for information hiding and encapsulation. They also allow for private variables and methods, which can be useful in certain scenarios.
+```
+
 &nbsp;
+
+### 3. Can you give an example of a closure in JavaScript?
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
 &nbsp;
 &nbsp;
