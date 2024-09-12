@@ -99,38 +99,39 @@ Here are some commonly used media features:
 
 ## Other media features are:
 
-|Other Features|
-|-
-|any-hover|
-|any-pointer|
-|aspect-ratio|
-|color|
-|color-gamut|
-|color-index|
-|device-aspect-ratio Deprecated|
-|device-height Deprecated|
-|device-width Deprecated|
-|display-mode|
-|dynamic-range|
-|forced-colors|
-|grid|
-|height|
-|hover|
-|inverted-colors|
-|monochrome|
-|orientation|
-|overflow-block|
-|overflow-inline|
-|pointer|
-|prefers-color-scheme|
-|prefers-contrast|
-|prefers-reduced-motion|
-|prefers-reduced-transparency Experimental|
-|resolution|
-|scripting|
-|update|
-|video-dynamic-range|
-|width|
+| Other Features                            |
+| ----------------------------------------- |
+| any-hover                                 |
+| any-pointer                               |
+| aspect-ratio                              |
+| color                                     |
+| color-gamut                               |
+| color-index                               |
+| device-aspect-ratio Deprecated            |
+| device-height Deprecated                  |
+| device-width Deprecated                   |
+| display-mode                              |
+| dynamic-range                             |
+| forced-colors                             |
+| grid                                      |
+| height                                    |
+| hover                                     |
+| inverted-colors                           |
+| monochrome                                |
+| orientation                               |
+| overflow-block                            |
+| overflow-inline                           |
+| pointer                                   |
+| prefers-color-scheme                      |
+| prefers-contrast                          |
+| prefers-reduced-motion                    |
+| prefers-reduced-transparency Experimental |
+| resolution                                |
+| scripting                                 |
+| update                                    |
+| video-dynamic-range                       |
+| width                                     |
+
 &nbsp;
 
 &nbsp;

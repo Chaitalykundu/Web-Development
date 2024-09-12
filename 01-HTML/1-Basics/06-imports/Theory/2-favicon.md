@@ -1,6 +1,11 @@
 # Overview
 
-- We use HTML `<link>` tag to insert a **favicon**
+- Favicon
+- How To Add a Favicon in HTML
+- Example
+- Create your own favicon
+
+&nbsp;
 
 &nbsp;
 
@@ -11,6 +16,8 @@
 - A favicon is a **small image** displayed next to the page title in the browser tab.
 
 - A favicon is a small image, so it should be a simple image with **high contrast**.
+
+- We use HTML `<link>` tag to insert a **favicon**
 
 &nbsp;
 
@@ -35,7 +42,6 @@
   <title>My Page Title</title>
 
   <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
-  
 </head>
 ```
 

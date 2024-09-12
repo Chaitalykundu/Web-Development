@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: black;
+  }
+  
+  #bulb_container {
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
+  
+  .bulb {
+    height: 50px;
+    margin: auto;
+  }
+  
+  /* Turn on bulb button */
+  #bulb_on {
+    background-color: rgb(124, 124, 245);
+    padding: 15px;
+    border-radius: 15px;
+  
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  
+    color: rgb(245, 244, 246);
+    font-size: 20px;
+    font-weight: bold;
+    animation-name: bulb-button-color;
+    animation-duration: 5s;
+  }
+  
+  #bulb_on:hover {
+    cursor: pointer;
+    border: 2px solid white;
+  }
+  
+  @keyframes bulb-button-color {
+    from {
+      background-color: rgb(124, 124, 245);
+    }
+    to {
+      background-color: rgb(17, 17, 163);
+    }
+  }
+  
