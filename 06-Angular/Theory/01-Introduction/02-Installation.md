@@ -19,3 +19,5 @@
    - Run project & open browser together ==> `ng serve --o`
 
    - Run project in a specific port ==> `ng serve --port port_number`
+
+9. Create component ==> `ng g c component_name` or `ng generate component component_name`

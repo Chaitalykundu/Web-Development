@@ -4,8 +4,15 @@
 
 2. Which file will be executed first when we run angular project
 
-3. Why AppComponent will be loaded first
-   &nbsp;
+3.Why AppComponent will be loaded first
+
+&nbsp;
+
+&nbsp;
+
+# Component
+
+1. When do we use Internal HTML code in component decorator
 
 &nbsp;
 
@@ -19,11 +26,9 @@
 
 &nbsp;
 
-&nbsp;
+# Answer
 
-&nbsp;
-
-&nbsp;
+## File STructure
 
 2. Which file will be executed first when we run angular project
 
@@ -35,4 +40,16 @@
 
    ```md
    Because in main.ts file we have specified AppComponent first
+   ```
+
+&nbsp;
+
+&nbsp;
+
+## Component
+
+1. When do we use Internal HTML code in component decorator
+
+   ```md
+   If we have little bit html code, the we prefer Internal HTML.
    ```
