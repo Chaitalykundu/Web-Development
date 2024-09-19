@@ -4,6 +4,7 @@
 - [Features of Angular](#features-of-angular)
 - [AngularJS Extends HTML](#angularjs-extends-html)
 - [Angular CLI](#angular-cli)
+- [Framework vs Libraries](#framework-vs-libraries)
 
 &nbsp;
 

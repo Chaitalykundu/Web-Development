@@ -4,7 +4,6 @@
 - [Create component](#create-component)
 - [Defining a Component](#defining-a-component)
 - [Configuration](#configuration)
-- [Standalone components](#standalone-components)
 
 &nbsp;
 
@@ -30,7 +29,7 @@ Components provide structure for organizing your project into easy-to-understand
 
 &nbsp;
 
-# Create component
+# Create Component
 
 We can create component using any of the followings command
 
@@ -53,37 +52,19 @@ Every component has the following core properties:
 
 &nbsp;
 
+&nbsp;
+
+Angular creates an instance of the component for every matching HTML element it encounters. The DOM element that matches a component's selector is referred to as that component's host element. The contents of a component's template are rendered inside its host element.
+
+The DOM rendered by a component, corresponding to that component's template, is called that component's view.
+
+&nbsp;
+
+&nbsp;
+
 ### Configuration
 
 Configuration means an arrangement of parts or elements in a particular form, figure, or combination.
-
-&nbsp;
-
-&nbsp;
-
-# Standalone components
-
-Standalone components are a feature in Angular that allows developers to create components that are self-contained, reusable, and can be shared across multiple projects.
-
-To mark a component as standalone, set `standalone: true` in its component metadata.
-
-Standalone components can directly import other components, directives, and pipes used in their templates.
-
-&nbsp;
-
-**Self-contained** : Standalone components have their own dependencies, styles, and functionality.
-
-**Reusable** : Standalone components can be used across different parts of an application or across different projects.
-
-**Simplified development** : Standalone components simplify component development and reuse, making it easier to build and maintain large-scale applications.
-
-**Reduced need for NgModules** : Standalone components allow developers to build and use components without the need for NgModules.
-
-**Improved modularity** : Standalone components improve modularity, code organization, and maintainability.
-
-**Easier lazy loading** : Standalone components make lazy loading much easier.
-
-&nbsp;
 
 &nbsp;
 

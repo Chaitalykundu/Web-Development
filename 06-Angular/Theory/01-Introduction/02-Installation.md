@@ -2,22 +2,24 @@
 
 1. Install node js
 
-2. Check node version ==> `node -v`
+2. Install node js ==> `npm install`
 
-3. Check npm version ==> `npm -v`
+3. Check node version ==> `node -v`
 
-4. Install Angular CLI ==> `install npm -g @angular/cli`
+4. Check npm version ==> `npm -v`
 
-5. Check angular version ==> `ng v`
+5. Install Angular CLI ==> `install npm -g @angular/cli`
 
-6. Create angular project ==> `ng new project_name`
+6. Check angular version ==> `ng v`
 
-7. Go to the project ==> `cd project_name`
+7. Create angular project ==> `ng new project_name`
 
-8. Run the project ==> `npm start` or `ng serve`
+8. Go to the project ==> `cd project_name`
+
+9. Run the project ==> `npm start` or `ng serve`
 
    - Run project & open browser together ==> `ng serve --o`
 
    - Run project in a specific port ==> `ng serve --port port_number`
 
-9. Create component ==> `ng g c component_name` or `ng generate component component_name`
+10. Create component ==> `ng g c component_name` or `ng generate component component_name`

@@ -12,6 +12,10 @@
 
 # Component Decorator
 
+The object passed to the `@Component` decorator is called the **component's metadata**. This includes the **selector**, **template**, and other properties described throughout this guide.
+
+&nbsp;
+
 Structure of Component Decorator
 
 ```ts
@@ -98,8 +102,6 @@ When we use Internal CSS code we name it `styles` instead of `styleUrl`
 ```
 
 The styles property takes an array of strings that contain the CSS rule declarations.
-
-&nbsp;
 
 &nbsp;
 
