@@ -38,3 +38,13 @@
      margin: auto;
    }
    ```
+
+&nbsp;
+
+&nbsp;
+
+2. To delay some times to appear any image
+
+   ```css
+   transition-delay: 5ms;
+   ```

@@ -1,11 +1,18 @@
 # Overview
 
-- All CSS Simple Selectors
-- id Selector
-- class Selector
-- Universal Selector
-- element Selector
-- Grouping Selector
+- [All CSS Simple Selectors](#all-css-simple-selectors)
+  - [Precedence](#precedence)
+- [id Selector](#the-css-id-selector)
+  - [Note](#note)
+  - [Example](#example)
+- [class Selector](#the-css-class-selector)
+  - [Example](#example-1)
+- [Universal Selector](#the-css-universal-selector)
+  - [Example](#example-2)
+- [element Selector](#the-css-element-selector)
+  - [Example](#example-3)
+- [Grouping Selector](#the-css-grouping-selector)
+  - [Example](#example-4)
 
 &nbsp;
 
@@ -17,13 +24,13 @@
 
 - The `id selector` uses the `id` attribute of an HTML element to select a specific element.
 
-- The class selector selects HTML elements with a specific `class` attribute.
+- The `class selector` selects HTML elements with a specific `class` attribute.
 
-- The universal selector (\*) selects all HTML elements on the page.
+- The `universal selector` (\*) selects all HTML `elements` on the page.
 
-- The element selector selects HTML elements based on the element name.
+- The `element selector` selects HTML elements based on the `element name`.
 
-- The grouping selector selects all the HTML elements with the same style definitions.
+- The `grouping selector` selects all the HTML elements with the `same style definitions`.
 
 &nbsp;
 
@@ -39,10 +46,14 @@
 | Universal selector     | \*                 | \*         | Selects all elements                           |
 | Element selector       | element            | p          | Selects all `<p>` elements                     |
 | Grouping Selector      | element,element,.. | div, p     | Selects all `<div>` and `<p>` elements         |
+|                        |                    |            |                                                |
 
 &nbsp;
 
-Precedence id > class > tag
+## Precedence
+
+id > class > tag / element
+
 &nbsp;
 
 &nbsp;
@@ -82,6 +93,8 @@ An id name cannot start with a number!
 
 - To select elements with a specific class, write a **period** (.) character, followed by the class name.
 
+&nbsp;
+
 ## Example
 
 ```css
@@ -98,6 +111,8 @@ An id name cannot start with a number!
 # The CSS Universal Selector
 
 - The universal selector (\*) selects all HTML elements on the page.
+
+&nbsp;
 
 ## Example
 
@@ -116,6 +131,8 @@ An id name cannot start with a number!
 
 - The element selector selects HTML elements based on the element name.
 
+&nbsp;
+
 ## Example
 
 ```css
@@ -132,6 +149,10 @@ p {
 # The CSS Grouping Selector
 
 - The grouping selector selects all the HTML elements with the same style definitions.
+
+&nbsp;
+
+## Example
 
 ```css
 h1,
