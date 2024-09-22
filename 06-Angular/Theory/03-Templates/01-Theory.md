@@ -2,6 +2,8 @@
 
 - [Understanding templates](#understanding-templates)
 - [Empower your HTML](#empower-your-html)
+- [Types of Templates](#types-of-templates)
+  - [Internal Template](#internal-template)
 - [More on template syntax](#more-on-template-syntax)
 
 &nbsp;
@@ -20,13 +22,17 @@ Templates are written in **HTML**, and special syntax can be used within a templ
 
 &nbsp;
 
-Each Angular template in your application is a section of HTML to include as a part of the page that the browser displays. An Angular HTML template renders a view, or user interface, in the browser, just like regular HTML, but with a lot more functionality.
+An Angular HTML template renders a view, or user interface, in the browser, just like regular HTML, but with a lot more functionality.
+
+It is essentially HTML combined with Angular's built-in **directives**, **bindings** and **expressions** that render dynamic content.
+
+Templates allow Angular to interact with DOM and reflect the components data dynamically within the view.
 
 &nbsp;
 
 &nbsp;
 
-When you generate an Angular application with the Angular CLI, the `app.component.html` file is the default template containing placeholder HTML.
+When we generate an Angular application with the Angular CLI, it creates `app.component.html` file which is the default template containing placeholder HTML.
 
 The template syntax guides show you how to control the UX/UI by coordinating data between the class and the template.
 
@@ -36,11 +42,37 @@ The template syntax guides show you how to control the UX/UI by coordinating dat
 
 # Empower your HTML
 
-Extend the HTML vocabulary of your applications with special Angular syntax in your templates. For example, Angular helps you get and set DOM (Document Object Model) values dynamically with features such as built-in template functions, variables, event listening, and data binding.
+An Angular template is part of an overall webpage, and not the entire page, we don't need to include elements such as `<html>`, `<body>`, or `<base>`, and can focus exclusively on the part of the page you are developing.
 
 &nbsp;
 
-an Angular template is part of an overall webpage, and not the entire page, you don't need to include elements such as `<html>`, `<body>`, or `<base>`, and can focus exclusively on the part of the page you are developing.
+&nbsp;
+
+# Types of Templates
+
+There are two ways to define a template
+
+1. <u>**_Internal Template_**</u>: The template is directly written inside the component's TypeScript file
+
+2. <u>**_External Template_**</u>: The template is placed in a separate HTML file and is referenced within the component.
+
+&nbsp;
+
+&nbsp;
+
+## Internal Template
+
+```ts
+@Component({
+  selector: 'app-add-employee',
+  standalone: true,
+  imports: [],
+  templateUrl: '<h1>Hello World</h1>',
+  styleUrl: './add-employee.component.css'
+})
+
+
+```
 
 &nbsp;
 

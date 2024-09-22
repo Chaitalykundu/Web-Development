@@ -52,14 +52,14 @@ In component decorator we can pass html in two ways.
 1. External file
 2. Internal HTML code
 
-When we use Internal HTML code we name it `styles` instead of `styleUrl`
+When we use Internal HTML code we name it `template` instead of `templateUrl`
 
 ```ts
 @Component({
   selector: 'app-add-employee',
   standalone: true,
   imports: [],
-  templateUrl: '<h1>Hello World</h1>',
+  template: '<h1>Hello World</h1>',
   styleUrl: './add-employee.component.css'
 })
 ```
