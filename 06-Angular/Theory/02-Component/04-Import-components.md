@@ -1,9 +1,9 @@
 # Overview
 
 - [Introduction](#introduction)
-  - [Example](#example)
 - [Standalone components](#standalone-components)
-- [Features of Standalone components](#features-of-standalone-components)
+  - [Example](#example)
+  - [Features of Standalone components](#features-of-standalone-components)
 
 &nbsp;
 

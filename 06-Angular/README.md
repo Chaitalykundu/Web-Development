@@ -4,6 +4,7 @@
 | ------------ | ------ |
 | Introduction |        |
 | Component    |        |
+| Data Binding |        |
 
 &nbsp;
 
@@ -18,9 +19,22 @@
 
 &nbsp;
 
+# Data Binding
+
+- One way data binding
+
+  - from .ts to .html (interpolation, property binding)
+  - from .html to .ts (event binding)
+
+- Two way data binding
+
+  - Using ngModel
+
+- Using Signal (Angular 17 onwards)
+
 &nbsp;
 
-[JS class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+&nbsp;
 
 [Typescript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 

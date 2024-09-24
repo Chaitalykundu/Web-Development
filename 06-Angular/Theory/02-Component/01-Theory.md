@@ -58,13 +58,13 @@ We can create component using any of the followings command
 
 When we generate a new component using angular CLI, it creates 4 files.
 
-- **<u>component_name.component.html</u>**: The HTML template file UI is defined.
+- **<u>component_name.component.html</u>**: The HTML template file **UI** is defined.
 
-- **<u>component_name.component.css</u>**: The Css file where styles for the component is defined.
+- **<u>component_name.component.css</u>**: The Css file where **styles** for the component is defined.
 
-- **<u>component_name.component.ts</u>**: The typescript file where the component class is defined. It contains teh logic and properties for the component
+- **<u>component_name.component.ts</u>**: The typescript file where the component class is defined. It contains teh **logic** and properties for the component
 
-- **<u>component_name.spec.ts</u>**: The test file for writing unit tests related to this component.
+- **<u>component_name.spec.ts</u>**: The test file for writing unit **tests** related to this component.
 
 &nbsp;
 

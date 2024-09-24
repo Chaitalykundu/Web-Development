@@ -4,7 +4,8 @@
 - [Empower your HTML](#empower-your-html)
 - [Types of Templates](#types-of-templates)
   - [Internal Template](#internal-template)
-- [More on template syntax](#more-on-template-syntax)
+  - [External Template](#external-template)
+- [Key concepts on template](#key-concepts-on-template)
 
 &nbsp;
 
@@ -50,7 +51,7 @@ An Angular template is part of an overall webpage, and not the entire page, we d
 
 # Types of Templates
 
-There are two ways to define a template
+There are **two** ways to define a template
 
 1. <u>**_Internal Template_**</u>: The template is directly written inside the component's TypeScript file
 
@@ -67,22 +68,36 @@ There are two ways to define a template
   selector: 'app-add-employee',
   standalone: true,
   imports: [],
-  templateUrl: '<h1>Hello World</h1>',
+  template: '<h1>Hello World</h1>',
   styleUrl: './add-employee.component.css'
 })
-
-
 ```
 
 &nbsp;
 
 &nbsp;
 
-# More on template syntax
+## External Template
+
+```ts
+@Component({
+  selector: 'app-add-employee',
+  standalone: true,
+  imports: [],
+  template: './add-employee.component.html',
+  styleUrl: './add-employee.component.css'
+})
+```
+
+&nbsp;
+
+&nbsp;
+
+# Key concepts on template
 
 | Topics                               | Details                                                                                        |
 | ------------------------------------ | ---------------------------------------------------------------------------------------------- |
-| Interpolation                        | Learn how to use interpolation and expressions in HTML.                                        |
+| Interpolation                        | It allows embedding of expressions inside double curly braces in the template                  |
 | Template statements                  | Respond to events in your templates.                                                           |
 | Binding syntax                       | Use binding to coordinate values in your application.                                          |
 | Property binding                     | Set properties of target elements or directive @Input() decorators.                            |
@@ -99,6 +114,8 @@ There are two ways to define a template
 &nbsp;
 
 &nbsp;
+
+Interpolation, directives, event binding, Property binding, Two way data binding, template reference variables, component communication, pipes
 
 &nbsp;
 

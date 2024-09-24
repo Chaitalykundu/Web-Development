@@ -81,6 +81,8 @@ This is the entry point.
 
 This file contains `<app-toot></app-toot>`. The whole application will run inside this.
 
+If we want to add any framework (like bootstrap), we will ad this in `index.html` file
+
 &nbsp;
 
 &nbsp;

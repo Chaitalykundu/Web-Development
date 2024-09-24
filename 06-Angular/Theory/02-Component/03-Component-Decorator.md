@@ -12,9 +12,9 @@
 
 # Component Decorator
 
-This tells angular that this class is a component.
+`@Component Decorator` tells angular that this class is a component.
 
-The object passed to the `@Component` decorator is called the **component's metadata**. This includes the **selector**, **template**, and other properties described throughout this guide.
+The object passed to the `@Component` decorator is called the **component's metadata**. This includes the **selector**, **template**, **styles**, and other properties.
 
 &nbsp;
 

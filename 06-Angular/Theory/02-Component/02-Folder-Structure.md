@@ -38,7 +38,7 @@ When we generate a new component using angular CLI, it creates 4 files.
 
 # HTML template (.html)
 
-The html template defined the **structure and layout** of the component's view.
+The html template define the **structure and layout** of the component's view.
 
 It uses standard HTML along with angular's template syntax to bind data and listen for user events.
 
@@ -48,7 +48,7 @@ It uses standard HTML along with angular's template syntax to bind data and list
 
 ## Interpolation
 
-Displaying component properties in the template using double curly braces
+Displaying component properties in the template using **double curly braces**
 
 ```html
 <h1>{{title}}</h1>
@@ -60,9 +60,9 @@ Displaying component properties in the template using double curly braces
 
 ## Directives
 
-Special markers in the DOM that tell angular to modify the DOM in some ways
+Special markers in the DOM those tell angular to modify the DOM in some ways
 
-There are two types of directives.
+There are **two** types of directives.
 
 1. **Structural Directives** : Change the DOM layout by adding or removing elements (e.g. `*ngif`, `*ngfor`)
 
@@ -86,7 +86,7 @@ Capturing user events and executing methods in the component.
 
 ## Property Binding
 
-Binding properties of HTML elements to component properties/
+Binding properties of HTML elements to component properties.
 
 ```html
 <img [src]="imageURL" />
@@ -98,7 +98,7 @@ Binding properties of HTML elements to component properties/
 
 # CSS Style (.css)
 
-The CSS files define the styles specific to the component. Each component can have iys own styles, allowing for encapsulation and modular design
+The CSS files define the styles specific to the component. Each component can have its own styles, allowing for encapsulation and modular design.
 
 &nbsp;
 
@@ -144,7 +144,7 @@ The TypeScript file contains the logic for the component, defining its behavior.
 
 ## Component Class
 
-A TypeScript class that represents the component, annotated with the @Component decorator.
+A TypeScript class that represents the component, annotated with the `@Component` decorator.
 
 - **Properties** : Variables that hold the state of the components
 
@@ -165,3 +165,9 @@ Special methods that allow to tap into key events in a component's lifecycle (e.
 ## Data binding
 
 Mechanisms to bind component properties to template, allowing for dynamic content and interactivity
+
+&nbsp;
+
+&nbsp;
+
+annotated ==> to add a short explanation or opinion to a text or image
