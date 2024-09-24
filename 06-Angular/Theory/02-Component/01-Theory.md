@@ -54,6 +54,16 @@ We can create component using any of the followings command
 
 &nbsp;
 
+# The Updated Files
+
+When we generate a new component using angular CLI, we need to update `app.component.ts`.
+
+We need to add **import** statement for the component and include it in the **declaration array**
+
+&nbsp;
+
+&nbsp;
+
 # Folder Structure
 
 When we generate a new component using angular CLI, it creates 4 files.
@@ -65,18 +75,6 @@ When we generate a new component using angular CLI, it creates 4 files.
 - **<u>component_name.component.ts</u>**: The typescript file where the component class is defined. It contains teh **logic** and properties for the component
 
 - **<u>component_name.spec.ts</u>**: The test file for writing unit **tests** related to this component.
-
-&nbsp;
-
-&nbsp;
-
-# The Updated Files
-
-When we generate a new component using angular CLI, it updates `app.module.ts` file automatically.
-
-It automatically declare the new component in the root module `app.module.ts`.
-
-It adds **import** statement for the component and includes it in the **declaration array**
 
 &nbsp;
 
