@@ -23,3 +23,23 @@
    - Run project in a specific port ==> `ng serve --port port_number`
 
 10. Create component ==> `ng g c component_name` or `ng generate component component_name`
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Install angular in github codespace
+
+I've been able to get Angular running in Codespaces by changing the Node version to 16.13. NVM comes pre-installed, so all you need is:
+
+
+> nvm install 16.13
+
+> npm install -g @angular/cli
+
+> ng new project_name
+
+> ng serve
