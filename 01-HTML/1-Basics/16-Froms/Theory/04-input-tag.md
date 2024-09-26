@@ -126,6 +126,10 @@ Some more values for the type attribute are :
 - submit
 - reset
 
+### Note
+
+It is not possible to set checkboxes to read-only using standard HTML attributes
+
 &nbsp;
 
 The different input types are referred in [input_type-attributes.html](./Attributes/input_type-attributes.md) file

@@ -1,0 +1,27 @@
+<p>property-binding works!</p>
+<p>
+    Binding the image source
+    <img [src]="imageUrl" alt="random-image">
+</p>
+
+<p>
+    Binding the button disabled property
+    <button [disabled]="isDisabled">Submit</button>
+</p>
+
+<img [src]="user.profileImage" alt="profile-Image">
+<form>
+    <label for="name">Name : </label>
+    <input type="text" id="name" [value]="user.name" placeholder="Enter your name" [readonly]="isReadOnly">
+
+    <br>
+    <label for="hobbies">Hobbies : </label>
+    <input type="checkbox" id="hobbies" value="gardening" [checked]="isChecked" [readonly]="isReadOnly">Gardening
+    <input type="checkbox" id="hobbies" value="swimming" [checked]=isChecked>Swimming
+    <input type="checkbox" id="hobbies" value="reading">Reading
+    <input type="checkbox" id="hobbies" value="writing">Writing
+    <button [disabled]="isDisabled">Reset</button>
+
+</form>
+
+<div [class.special]="isSpecial">Special Content</div>
