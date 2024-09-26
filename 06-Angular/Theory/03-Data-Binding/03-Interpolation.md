@@ -29,7 +29,7 @@
 
 # Summary
 
-- Interpolation in Angular allows you to **display dynamic values** from your component's data in your view.
+- Interpolation in Angular allows you to **display dynamic values** from component's data in view.
 
 - It supports basic expressions, string concatenation, method calls, ternary operators, and more.
 

@@ -36,7 +36,6 @@
 
 2. Add any CLI builder ==> `ng add`
 
-
 &nbsp;
 
 &nbsp;
@@ -47,11 +46,18 @@
 
 I've been able to get Angular running in Codespaces by changing the Node version to 16.13. NVM comes pre-installed, so all you need is:
 
-
-> nvm install 16.13
+> nvm install 22.4.1
 
 > npm install -g @angular/cli
 
 > ng new project_name
 
 > ng serve
+
+&nbsp;
+
+&nbsp;
+
+# Create angular project in existing github project
+
+> ng new app_Name --directory ./
