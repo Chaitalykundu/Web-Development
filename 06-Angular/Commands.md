@@ -61,3 +61,25 @@ I've been able to get Angular running in Codespaces by changing the Node version
 # Create angular project in existing github project
 
 > ng new app_Name --directory ./
+
+&nbsp;
+
+&nbsp;
+
+# Deploy
+
+## Install ghpages
+
+> npm i angular-cli-ghpages
+
+## ng add
+
+> ng add angular-cli-ghpages
+
+## Build application
+
+> ng build --base-href "https://Chaitalykundu.github.io/repository_name/"
+
+## Deploy
+
+> npx angular-cli-ghpages --dir=dist/repository_name
