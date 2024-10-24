@@ -1,3 +1,20 @@
+# Overview
+
+- [Overview](#overview)
+- [Basic tags](#basic-tags)
+- [!DOCTYPE](#doctype)
+- [HTML5](#html5)
+- [html](#html)
+- [head](#head)
+- [title](#title)
+- [body](#body)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Basic tags
 
 | Name       | Description             |
@@ -15,17 +32,13 @@
 ```html
 <!DOCTYPE html5>
 <html>
-    <head>
-    </head>
-    
-    <body>
+  <head> </head>
 
-    </body>
+  <body></body>
 </html>
 ```
 
 &nbsp;
-
 
 # !DOCTYPE
 
@@ -35,9 +48,7 @@
 
 - The `<!DOCTYPE>` declaration represents the **document type** & helps browser to display page correctly.
 
-
 &nbsp;
-
 
 # HTML5
 
@@ -47,14 +58,11 @@
 
 &nbsp;
 
-
-
 # html
 
 - The `<html>` element is the **root element** of a webpage
 
 &nbsp;
-
 
 # head
 
@@ -66,7 +74,7 @@
 
 - The `<title>` element specifies a title for the webpage (which is shown in the browser's title bar or in the page's tab)
 
-- The page title is very important for ***search engine optimization (SEO)***. The text is used by search engine algorithms to decide the order when listing pages in search results.
+- The page title is very important for **_search engine optimization (SEO)_**. The text is used by search engine algorithms to decide the order when listing pages in search results.
 
 - This title --
   - defines a title in the browser toolbar

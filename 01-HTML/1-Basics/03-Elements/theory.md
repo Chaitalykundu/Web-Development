@@ -1,10 +1,13 @@
 # Overview
 
-- Elements
-- Block and Inline Elements
-- Nesting
-- Comments in HTML
-  
+- [Overview](#overview)
+- [Elements](#elements)
+- [Block and Inline Elements](#block-and-inline-elements)
+  - [Block-level Elements](#block-level-elements)
+  - [Inline Elements](#inline-elements)
+- [Nesting](#nesting)
+- [Comments in HTML](#comments-in-html)
+
 &nbsp;
 
 &nbsp;
@@ -139,9 +142,8 @@ Here are the inline elements in HTML:
 &nbsp;
 
 # Comments in HTML
- 
 
-The comment tag `<!--  -->` is used to insert comments in the source code. 
+The comment tag `<!--  -->` is used to insert comments in the source code.
 
 Comments are not displayed in the browsers.
 

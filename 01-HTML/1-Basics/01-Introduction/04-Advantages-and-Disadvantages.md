@@ -1,7 +1,8 @@
 # Overview
 
-- Advantages of HTML
-- Disadvantages of HTML
+- [Overview](#overview)
+- [Advantages of HTML](#advantages-of-html)
+- [Disadvantages of HTML](#disadvantages-of-html)
 
 &nbsp;
 

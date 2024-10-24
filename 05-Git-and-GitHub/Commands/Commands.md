@@ -1,34 +1,118 @@
-# initialize git repository
+# Check git version
 
-> git init
+```bash
+ git --version
+```
+
+&nbsp;
+
+&nbsp;
+
+# Set User Name & User Email
+
+```bash
+ git config --global user.name "USERNAME"
+```
+
+```bash
+ git config --global user.email "EMAIL"
+```
+
+&nbsp;
+
+Use `global` to set the username and e-mail for every repository on your computer
+
+&nbsp;
+
+If you want to set the username/e-mail for just the current repo, you can remove global
+
+```bash
+ git config user.name "USERNAME"
+```
+
+```bash
+ git config user.email "EMAIL"
+```
 
 &nbsp;
 
 &nbsp;
 
-# Staging files
+# Set the default Editor
 
-stage a file
-
-> git add FILENAME
-
-&nbsp;
-
-stage multiple file
-
-> git add FILENAME1 FILENAME2
+```bash
+ git config --global core.editor "EDITOR-NAME"
+```
 
 &nbsp;
 
-Stage the current directory & all its files
+&nbsp;
 
-> git add .
+# Set initial branch
+
+```bash
+ git config --global init.defaultBranch "BRANCH-NAME"
+```
 
 &nbsp;
 
-Stage a file with a pattern
+&nbsp;
 
-> git add \*.extension
+# Check config setting
+
+```bash
+ git config --list
+```
+
+&nbsp;
+
+&nbsp;
+
+# Creating Git Folder
+
+```bash
+ mkdir "FOLDER-NAME"
+```
+
+&nbsp;
+
+&nbsp;
+
+# Go to the folder
+
+```bash
+ cd "FOLDER-NAME"
+```
+
+&nbsp;
+
+&nbsp;
+
+# Initialize git repository
+
+```bash
+ git init
+```
+
+&nbsp;
+
+&nbsp;
+
+# Check lists of directory / files
+
+```bash
+ ls
+```
+
+&nbsp;
+
+&nbsp;
+
+# Check lists of all directory / files (also hidden)
+
+```bash
+ ls -la
+```
 
 &nbsp;
 
@@ -38,13 +122,53 @@ Stage a file with a pattern
 
 full status
 
-> git status
+```bash
+ git status
+```
 
 &nbsp;
 
 Short status
 
-> git status -s
+```bash
+ git status -s
+```
+
+&nbsp;
+
+&nbsp;
+
+# Staging files
+
+stage a file
+
+```bash
+ git add FILENAME
+```
+
+&nbsp;
+
+stage multiple file
+
+```bash
+ git add FILENAME1 FILENAME2
+```
+
+&nbsp;
+
+Stage the current directory & all its files
+
+```bash
+ git add .
+```
+
+&nbsp;
+
+Stage a file with a pattern
+
+```bash
+ git add \*.extension
+```
 
 &nbsp;
 
@@ -54,13 +178,17 @@ Short status
 
 Commits with a one single-line message
 
-> git commit -m "MESSAGE"
+```bash
+ git commit -m "MESSAGE"
+```
 
 &nbsp;
 
 Open the default editor to type a long message
 
-> git commit
+```bash
+ git commit
+```
 
 &nbsp;
 
@@ -68,7 +196,9 @@ Open the default editor to type a long message
 
 # Skipping the staging area
 
-> git commit -am "MESSAGE"
+```bash
+ git commit -am "MESSAGE"
+```
 
 &nbsp;
 
@@ -78,13 +208,17 @@ Open the default editor to type a long message
 
 Remove from working directory & staging area
 
-> git rm FILENAME
+```bash
+ git rm FILENAME
+```
 
 &nbsp;
 
 Remove from staging area only
 
-> git rm --cached FILENAME
+```bash
+ git rm --cached FILENAME
+```
 
 &nbsp;
 
@@ -92,7 +226,9 @@ Remove from staging area only
 
 # Renaming or moving file
 
-> git mv OLD_NAME NEW_NAME
+```bash
+ git mv OLD_NAME NEW_NAME
+```
 
 &nbsp;
 
@@ -102,7 +238,9 @@ Remove from staging area only
 
 Shows unstaged changes
 
-> git diff
+```bash
+ git diff
+```
 
 &nbsp;
 
@@ -110,13 +248,17 @@ Shows staged changes
 
 &nbsp;
 
-> git diff-staged
+```bash
+ git diff-staged
+```
 
 &nbsp;
 
 Same as the above
 
-> git diff --cached
+```bash
+ git diff --cached
+```
 
 &nbsp;
 
@@ -126,19 +268,25 @@ Same as the above
 
 Full history
 
-> git log
+```bash
+ git log
+```
 
 &nbsp;
 
 Summary
 
-> git log --oneline
+```bash
+ git log --oneline
+```
 
 &nbsp;
 
 Lists the commits from the oldest to the newest
 
-> git log --reverse
+```bash
+ git log --reverse
+```
 
 &nbsp;
 
@@ -148,25 +296,33 @@ Lists the commits from the oldest to the newest
 
 Shows the given commit
 
-> git show 921a2ff
+```bash
+ git show 921a2ff
+```
 
 &nbsp;
 
 Shows the last commit
 
-> git show HEAD
+```bash
+ git show HEAD
+```
 
 &nbsp;
 
 Two steps before the last commit
 
-> git show HEAD-2
+```bash
+ git show HEAD-2
+```
 
 &nbsp;
 
 Shows the version of file.js stored in the last commit
 
-> git show HEAD:file.js
+```bash
+ git show HEAD:file.js
+```
 
 &nbsp;
 
@@ -176,7 +332,9 @@ Shows the version of file.js stored in the last commit
 
 Copies the last version of file is from repo to index
 
-> git restore --staged filename
+```bash
+ git restore --staged filename
+```
 
 &nbsp;
 
@@ -186,25 +344,33 @@ Copies the last version of file is from repo to index
 
 Copies file from index to working directory
 
-> git restore file
+```bash
+ git restore file
+```
 
 &nbsp;
 
 Restores multiple files in working directory
 
-> git restore file1 file2
+```bash
+ git restore file1 file2
+```
 
 &nbsp;
 
 Discards all local changes (except untracked files)
 
-> git restore .
+```bash
+ git restore .
+```
 
 &nbsp;
 
 Removes all untracked files
 
-> git clean -fd
+```bash
+ git clean -fd
+```
 
 &nbsp;
 
@@ -212,7 +378,9 @@ Removes all untracked files
 
 # Restoring an earlier version of a file
 
-> git restore--source-HEAD-2 file.js
+```bash
+ git restore--source-HEAD-2 file.js
+```
 
 &nbsp;
 &nbsp;

@@ -1,3 +1,17 @@
+# Overview
+
+- [Overview](#overview)
+- [VCS](#vcs)
+- [Benefits of the version control system](#benefits-of-the-version-control-system)
+- [Types of Version Control Systems](#types-of-version-control-systems)
+- [Different VCS](#different-vcs)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # VCS
 
 VCS = Version Control System
@@ -57,24 +71,6 @@ A separate branch is created for every contributor who made the changes and the 
 - Git
 - Subversion (SVN)
 - Mercurial
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 

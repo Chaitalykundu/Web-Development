@@ -1,7 +1,8 @@
 # Overview
 
-- Similarities between HTML and CSS
-- Differences between HTML & CSS
+- [Overview](#overview)
+- [Similarities between HTML and CSS](#similarities-between-html-and-css)
+- [Differences between HTML \& CSS](#differences-between-html--css)
 
 &nbsp;
 

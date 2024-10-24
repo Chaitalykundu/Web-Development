@@ -1,8 +1,9 @@
 # Overview
 
-- Key Features of HTML
-- 5 key uses of HTML
-- New features of HTML5
+- [Overview](#overview)
+- [Key Features of HTML](#key-features-of-html)
+- [5 key uses of HTML](#5-key-uses-of-html)
+- [New features of HTML5](#new-features-of-html5)
 
 &nbsp;
 
@@ -38,11 +39,11 @@
 
 # 5 key uses of HTML
 
-* Creating web page.
-* Integrating CSS and JavaScript
-* Accessing web content
-* Semantic markup
-* Cross-platform compatibility
+- Creating web page.
+- Integrating CSS and JavaScript
+- Accessing web content
+- Semantic markup
+- Cross-platform compatibility
 
 &nbsp;
 

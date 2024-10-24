@@ -1,9 +1,15 @@
 # Overview
 
-- Tags
-- Types of tags
-- Deprecated Tags
-- HTML Deprecated Attributes
+- [Overview](#overview)
+- [Tags](#tags)
+- [Types of tags](#types-of-tags)
+  - [Container tag ](#container-tag-)
+  - [Empty tag](#empty-tag)
+  - [Utility-Based Tags](#utility-based-tags)
+- [Deprecated Tags](#deprecated-tags)
+    - [Example](#example)
+- [HTML Deprecated Attributes](#html-deprecated-attributes)
+    - [Example](#example-1)
 
 &nbsp;
 
@@ -38,7 +44,7 @@ There are **two** types of tags in HTML
 
 &nbsp;
 
-## <u>Container tag : </u>
+## <u>Container tag </u>
 
 - An HTML tag is known as a container tag when the tag consists of an opening tag and a closing tag as its companion tag.
 
@@ -50,21 +56,22 @@ There are **two** types of tags in HTML
 
 &nbsp;
 
-## <u>Empty tag : </u>
+## <u>Empty tag</u>
 
 - An HTML tag is called an empty tag when the tag only has an opening tag and does not have a closing tag or a companion tag.
 
 - list of empty tag
-  |tag|
-  |-|
-  |`<hr/>`|
-  |`<br/>`|
-  |`<img/>`|
-  |`<input/>`|
-  |`<link/>`|
-  |`<meta/>`|
-  |`<source/>`|
-  |`<area/>`|
+
+  | tag         |
+  | ----------- |
+  | `<hr/>`     |
+  | `<br/>`     |
+  | `<img/>`    |
+  | `<input/>`  |
+  | `<link/>`   |
+  | `<meta/>`   |
+  | `<source/>` |
+  | `<area/>`   |
 
 - These are also called **unpaired tag**
 

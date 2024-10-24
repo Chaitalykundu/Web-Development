@@ -1,12 +1,13 @@
 # Overview
 
-- HTML
-- Hypertext
-- Markup Language
-- Types of pages
-- Note
-- HTML document in Browser
-  
+- [Overview](#overview)
+- [HTML](#html)
+- [Hypertext](#hypertext)
+- [Markup Language](#markup-language)
+- [Types of pages](#types-of-pages)
+- [Note](#note)
+- [HTML document in Browser](#html-document-in-browser)
+
 &nbsp;
 
 &nbsp;
@@ -26,12 +27,12 @@
 - The latest version of HTML is known as **HTML5**.
 
 - `index.html` is the entry point of all webpage.
-  
-&nbsp;
 
 &nbsp;
 
-# Hypertext 
+&nbsp;
+
+# Hypertext
 
 Hypertext is a way of connecting texts or images or web pages to another one, either within a single website or between websites.
 
@@ -85,4 +86,3 @@ The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to read HTML doc
 A browser does not display the HTML tags but uses them to determine how to display the document.
 
 Open the file saved with the `.html` extension, and automatically it will open in the browser and all the content written inside the `<body>` tag will be displayed in the browser.
-

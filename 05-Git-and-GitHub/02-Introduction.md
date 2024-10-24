@@ -116,7 +116,7 @@ It is used for:
 | focused on      | Git is focused on version control and code sharing.                                         | GitHub is focused on centralized source code hosting.                              |
 | user management | Git has no user management feature.                                                         | GitHub has a built-in user management feature                                      |
 | Competitor      | Git competes with CVS, Subversion, Mercurial, etc.                                          | GitHub competes with GitLab, Bit Bucket, AWS Code Commit, Azure DevOps Server, etc |
-|                 |                                                                                             |
+|                 |                                                                                             |                                                                                    |
 
 &nbsp;
 

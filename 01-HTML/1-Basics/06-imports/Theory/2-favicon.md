@@ -1,9 +1,10 @@
 # Overview
 
-- Favicon
-- How To Add a Favicon in HTML
-- Example
-- Create your own favicon
+- [Overview](#overview)
+- [Favicon](#favicon)
+- [How To Add a Favicon in HTML](#how-to-add-a-favicon-in-html)
+  - [Example](#example)
+- [Create your own favicon](#create-your-own-favicon)
 
 &nbsp;
 
