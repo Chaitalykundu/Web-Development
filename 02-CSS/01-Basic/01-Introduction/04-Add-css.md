@@ -1,9 +1,14 @@
 # Overview
 
-- Ways of inserting CSS
-- Inline CSS
-- Internal CSS
-- External CSS
+- [Overview](#overview)
+- [Chapter Summary](#chapter-summary)
+- [Ways of inserting CSS](#ways-of-inserting-css)
+- [Inline CSS](#inline-css)
+  - [Example](#example)
+- [Internal CSS](#internal-css)
+  - [Example](#example-1)
+- [External CSS](#external-css)
+  - [Example](#example-2)
 
 &nbsp;
 

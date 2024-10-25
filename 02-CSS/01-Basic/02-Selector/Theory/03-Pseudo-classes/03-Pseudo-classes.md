@@ -1,11 +1,18 @@
 # Overview
 
-- What are Pseudo-classes
-- All CSS Pseudo Classes
-- Anchor Pseudo-classes
-- Pseudo-classes and HTML Classes
-- Simple Tooltip Hover
-- The `:first-child` Pseudo-class
+- [Overview](#overview)
+- [Chapter Summary](#chapter-summary)
+- [What are Pseudo-classes](#what-are-pseudo-classes)
+- [Syntax](#syntax)
+- [All CSS Pseudo Classes](#all-css-pseudo-classes)
+- [Anchor Pseudo-classes](#anchor-pseudo-classes)
+  - [Note](#note)
+- [Pseudo-classes and HTML Classes](#pseudo-classes-and-html-classes)
+- [Simple Tooltip Hover](#simple-tooltip-hover)
+- [The `:first-child` Pseudo-class](#the-first-child-pseudo-class)
+  - [Match the first `<p>` element](#match-the-first-p-element)
+  - [Match the first `<i>` element in all `<p>` elements](#match-the-first-i-element-in-all-p-elements)
+  - [Match all `<i>` elements in all first child `<p>` elements](#match-all-i-elements-in-all-first-child-p-elements)
 
 &nbsp;
 
@@ -201,15 +208,3 @@ p:first-child i {
   color: blue;
 }
 ```
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;

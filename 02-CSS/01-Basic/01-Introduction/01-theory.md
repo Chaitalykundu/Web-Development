@@ -1,7 +1,12 @@
 # Overview
 
-- What is CSS
-- Why CSS
+- [Overview](#overview)
+- [Chapter Summary](#chapter-summary)
+- [What is CSS](#what-is-css)
+- [Why use CSS](#why-use-css)
+  - [1. Solves a big problem for styling multiple pages](#1-solves-a-big-problem-for-styling-multiple-pages)
+  - [2. Saves a lot of time](#2-saves-a-lot-of-time)
+  - [3. Provide more attributes](#3-provide-more-attributes)
 
 &nbsp;
 

@@ -1,7 +1,9 @@
 # Overview
 
-- Cascading
-- Preference Between internal and external CSS
+- [Overview](#overview)
+- [Chapter Summary](#chapter-summary)
+- [Cascading](#cascading)
+- [Preference Between internal and external CSS](#preference-between-internal-and-external-css)
 
 &nbsp;
 

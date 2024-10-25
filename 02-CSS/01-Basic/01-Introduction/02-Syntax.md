@@ -1,8 +1,13 @@
 # Overview
 
-- Syntax
-- Selector
-- Declaration Block
+- [Overview](#overview)
+- [Chapter Summary](#chapter-summary)
+- [Syntax](#syntax)
+  - [Selector](#selector)
+  - [Declaration Block](#declaration-block)
+    - [Property](#property)
+    - [Value](#value)
+  - [Example](#example)
 
 &nbsp;
 

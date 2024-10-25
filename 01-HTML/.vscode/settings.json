@@ -1,9 +1,0 @@
-{
-    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
-    "[markdown]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "cSpell.words": [
-        "geolocation"
-    ]
-}

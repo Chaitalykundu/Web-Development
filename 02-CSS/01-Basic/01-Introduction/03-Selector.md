@@ -1,7 +1,9 @@
 # Overview
 
-- Selector
-- Types of selectors
+- [Overview](#overview)
+- [Chapter Summary](#chapter-summary)
+- [Selector](#selector)
+- [Types of selectors](#types-of-selectors)
 
 &nbsp;
 

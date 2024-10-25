@@ -1,17 +1,19 @@
 # Overview
 
+- [Overview](#overview)
+- [Chapter Summary](#chapter-summary)
 - [All CSS Simple Selectors](#all-css-simple-selectors)
   - [Precedence](#precedence)
-- [id Selector](#the-css-id-selector)
+- [The CSS id Selector](#the-css-id-selector)
   - [Note](#note)
   - [Example](#example)
-- [class Selector](#the-css-class-selector)
+- [The CSS class Selector](#the-css-class-selector)
   - [Example](#example-1)
-- [Universal Selector](#the-css-universal-selector)
+- [The CSS Universal Selector](#the-css-universal-selector)
   - [Example](#example-2)
-- [element Selector](#the-css-element-selector)
+- [The CSS element Selector](#the-css-element-selector)
   - [Example](#example-3)
-- [Grouping Selector](#the-css-grouping-selector)
+- [The CSS Grouping Selector](#the-css-grouping-selector)
   - [Example](#example-4)
 
 &nbsp;
