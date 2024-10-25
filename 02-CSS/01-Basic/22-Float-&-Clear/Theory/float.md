@@ -1,11 +1,16 @@
 # Overview
 
-- Definition and Usage
-- How it works
-- Syntax
-- Example
-- Specification
-- Property Values
+- [Overview](#overview)
+- [Chapter Summary](#chapter-summary)
+- [Properties](#properties)
+- [Definition and Usage](#definition-and-usage)
+- [How it works](#how-it-works)
+- [Syntax](#syntax)
+- [Example](#example)
+- [Specification](#specification)
+- [Property Values](#property-values)
+
+&nbsp;
 
 &nbsp;
 

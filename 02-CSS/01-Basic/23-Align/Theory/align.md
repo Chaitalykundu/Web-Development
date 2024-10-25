@@ -1,12 +1,31 @@
 # Overview
 
-- Center Align Text
-- Center an Image
-- Left and Right Align - Using position
-
-- Example
-- Specification
-- Property Values
+- [Overview](#overview)
+- [Chapter Summary](#chapter-summary)
+- [Center Align Text](#center-align-text)
+  - [Example](#example)
+- [Center Align Elements](#center-align-elements)
+  - [Example](#example-1)
+  - [Note](#note)
+- [Center an Image](#center-an-image)
+- [Example](#example-2)
+- [Left and Right Align - Using position](#left-and-right-align---using-position)
+  - [Example](#example-3)
+  - [Note](#note-1)
+- [Left and Right Align - Using float](#left-and-right-align---using-float)
+  - [Example](#example-4)
+- [The clearfix Hack](#the-clearfix-hack)
+  - [Note:](#note-2)
+  - [Example](#example-5)
+- [Center Vertically - Using padding](#center-vertically---using-padding)
+  - [Example](#example-6)
+  - [Example](#example-7)
+- [Center Vertically - Using line-height](#center-vertically---using-line-height)
+  - [Example](#example-8)
+- [Center Vertically - Using position \& transform](#center-vertically---using-position--transform)
+  - [Example](#example-9)
+- [Center Vertically - Using Flexbox](#center-vertically---using-flexbox)
+  - [Example](#example-10)
 
 &nbsp;
 
@@ -14,7 +33,7 @@
 
 # Chapter Summary
 
-- To just **center the text**  inside an element, use `text-align: center;`
+- To just **center the text** inside an element, use `text-align: center;`
 
 - To **horizontally center** a _block element_ (like `<div>`), use `margin: auto;`. and `width` have to set (not 100%)
 
@@ -28,7 +47,7 @@
 
 # Center Align Text
 
-To just **center the text**  inside an element, use `text-align: center;`
+To just **center the text** inside an element, use `text-align: center;`
 
 &nbsp;
 

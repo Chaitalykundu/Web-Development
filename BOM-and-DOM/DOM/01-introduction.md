@@ -1,5 +1,18 @@
 # Overview
 
+- [Overview](#overview)
+- [Introduction](#introduction)
+- [N.B:](#nb)
+- [Auto Correction](#auto-correction)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Introduction
+
 DOM = Document Object Model
 
 `Document Object Model (DOM)` is a programming interface for HTML and XML documents, that allows to create, manipulate, or delete the element from the document. It defines the logical structure of documents and the way a document is accessed and manipulated.
@@ -10,9 +23,9 @@ DOM tree refers to the HTML page where all the nodes / tags are objects. The tex
 
 There are mainly 3 types of nodes.
 
-* text nodes
-* element nodes
-* comment nodes
+- text nodes
+- element nodes
+- comment nodes
 
 &nbsp;
 
@@ -26,11 +39,11 @@ There are mainly 3 types of nodes.
 
 # N.B:
 
-* In HTML, `<HTML></HTML>` is root node and `<head></head>` and `<body></body>` are it's children.
+- In HTML, `<HTML></HTML>` is root node and `<head></head>` and `<body></body>` are it's children.
 
-* Text node is always a leaf of the tree.
+- Text node is always a leaf of the tree.
 
-* Sometimes `document.body` can be null if the javascript can be written before the body tag.
+- Sometimes `document.body` can be null if the javascript can be written before the body tag.
 
 &nbsp;
 
