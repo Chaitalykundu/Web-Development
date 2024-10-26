@@ -2,13 +2,13 @@
 
 - [Overview](#overview)
 - [Git Status](#git-status)
-    - [full status](#full-status)
-    - [Short status](#short-status)
+  - [full status](#full-status)
+  - [Short status](#short-status)
 - [States of files](#states-of-files)
 - [Git Staging Environment](#git-staging-environment)
-    - [To stage **any particular file**, we use the following command](#to-stage-any-particular-file-we-use-the-following-command)
-    - [To stage **more than one file**, we use the following command](#to-stage-more-than-one-file-we-use-the-following-command)
-    - [To stage **all changed files**, we use the following command](#to-stage-all-changed-files-we-use-the-following-command)
+  - [To stage **any particular file**, we use the following command](#to-stage-any-particular-file-we-use-the-following-command)
+  - [To stage **more than one file**, we use the following command](#to-stage-more-than-one-file-we-use-the-following-command)
+  - [To stage **all changed files**, we use the following command](#to-stage-all-changed-files-we-use-the-following-command)
 
 &nbsp;
 
@@ -61,6 +61,10 @@ When you first add files to an empty repository, they are all untracked. To get 
 As we are working, we may be adding, editing and removing files. But whenever we hit a milestone or finish a part of the work, we should add the files to a Staging Environment.
 
 **_Staged files are files that are ready to be committed to the repository we are working on._**
+
+&nbsp;
+
+<img src="./assets/git workflow.png">
 
 &nbsp;
 

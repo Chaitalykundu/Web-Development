@@ -197,7 +197,7 @@ Open the default editor to type a long message
 # Skipping the staging area
 
 ```bash
- git commit -am "MESSAGE"
+ git commit -a -m "MESSAGE"
 ```
 
 &nbsp;
