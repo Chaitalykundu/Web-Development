@@ -1,3 +1,15 @@
+# Questions
+
+1. What is Git snapshot
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # 1. What is git?
 
 ```md
@@ -14,22 +26,7 @@ We can also use `git commit -a`. This automatically stage all tracked, modified 
 ```
 
 &nbsp;
+
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
 &nbsp;
