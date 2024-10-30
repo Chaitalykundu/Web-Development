@@ -8,11 +8,12 @@
 - [Git Commit without Stage](#git-commit-without-stage)
 - [Git Commit Log](#git-commit-log)
 - [Atomic commit](#atomic-commit)
-  - [Meaning of unit of work](#meaning-of-unit-of-work)
+    - [Meaning of unit of work](#meaning-of-unit-of-work)
 - [Git snapshot](#git-snapshot)
 - [Musketeers of Git](#musketeers-of-git)
   - [Commit Object](#commit-object)
   - [Tree Object](#tree-object)
+  - [Blob object](#blob-object)
 
 &nbsp;
 
@@ -174,6 +175,12 @@ Everything is stored as **_key-value pairs_** in the tree project. This key is t
 &nbsp;
 
 &nbsp;
+
+## Blob object
+
+Blob object is present in tree object and contains teh actual file content.
+
+This is the place where the file content is stored.
 
 &nbsp;
 

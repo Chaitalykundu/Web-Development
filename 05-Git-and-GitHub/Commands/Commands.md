@@ -294,10 +294,16 @@ Lists the commits from the oldest to the newest
 
 # Viewing a commit
 
-Shows the given commit
+Shows the given commit details
 
 ```bash
  git show 921a2ff
+```
+
+Show the full commit id, tree, parent, author, committer
+
+```bash
+git show -s --pretty=raw 508d1ad
 ```
 
 &nbsp;

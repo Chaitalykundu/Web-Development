@@ -1,62 +1,71 @@
-# Plan 
+# Plan
+
 30 video - 10 days
 
+01-01-2024:
+✔ Specificity & cascade @done(24-02-02 16:32)
+✔ Sizing units @done(24-02-02 16:32)
+✔ display property @started(24-02-02 16:38) @done(24-02-07 23:35) @lasted(5d6h57m33s)
 
-01-01-2024:    
-  ✔ Specificity & cascade @done(24-02-02 16:32)
-  ✔ Sizing units @done(24-02-02 16:32)
-  ✔ display property @started(24-02-02 16:38) @done(24-02-07 23:35) @lasted(5d6h57m33s)
-
-02-02-2024: 
-  ✔ Shadow and outlines @started(24-02-07 23:35) @done(24-02-09 17:58) @lasted(1d18h23m2s)
-  ✔ Styling lists @started(24-02-09 17:58) @done(24-02-12 16:02) @lasted(2d22h4m23s)
-  ✔ overflow property @started(24-02-12 16:02) @done(24-02-13 13:23) @lasted(21h21m17s)
+02-02-2024:
+✔ Shadow and outlines @started(24-02-07 23:35) @done(24-02-09 17:58) @lasted(1d18h23m2s)
+✔ Styling lists @started(24-02-09 17:58) @done(24-02-12 16:02) @lasted(2d22h4m23s)
+✔ overflow property @started(24-02-12 16:02) @done(24-02-13 13:23) @lasted(21h21m17s)
 
 03-02-2024:
-  - Position property
+
+- Position property
   ✔ Project : design the card @started(24-02-13 13:23) @done(24-02-13 13:53) @lasted(30m14s)
 
 04-02-2024:
-  ✔ CSS variables @started(24-02-16 12:32) @done(24-03-17 12:20) @lasted(4w1d23h48m33s)
-  ✔ media query @started(24-02-22 12:34) @done(24-03-17 12:20) @lasted(3w2d23h46m33s)
-  ✔ float and clear @done(24-03-12 14:14)
+✔ CSS variables @started(24-02-16 12:32) @done(24-03-17 12:20) @lasted(4w1d23h48m33s)
+✔ media query @started(24-02-22 12:34) @done(24-03-17 12:20) @lasted(3w2d23h46m33s)
+✔ float and clear @done(24-03-12 14:14)
 
 05-02-2024:
-  ✔ Project : Multi color website @done(24-02-22 16:33)
-  ✔ more on css selector @done(24-03-12 14:14)
+✔ Project : Multi color website @done(24-02-22 16:33)
+✔ more on css selector @done(24-03-12 14:14)
 
 06-02-2024:
-  - Project : Design the layout
-  - Flexbox
+
+- Project : Design the layout
+- Flexbox
 
 07-02-2024:
-  - Grid
-  - Project : navbar using flexbox
+
+- Grid
+- Project : navbar using flexbox
 
 08-02-2024:
-  - Transforms
-  - Project : Design the grids
+
+- Transforms
+- Project : Design the grids
 
 09-02-2024:
-  - Transition property
-  - Animation
-  - Project : bonus animation
+
+- Transition property
+- Animation
+- Project : bonus animation
 
 10-02-2024:
-  - Object-fit and object-cover
-  - filters
 
+- Object-fit and object-cover
+- filters
 
 12-03-2024:
-  - Project : A set of color marker (Free code camp) @started(24-03-12 15:59)
+
+- Project : A set of color marker (Free code camp) @started(24-03-12 15:59)
 
 13-03-2024:
-  - HTML revision
-  - JS Introduction, Variables, Scopes, Hoisting, Datatype
-  - mock interview HTML
+
+- HTML revision
+- JS Introduction, Variables, Scopes, Hoisting, Datatype
+- mock interview HTML
 
 14-03-2024:
-  - JS Introduction, Variables, Scopes, Hoisting, Datatype
+
+- JS Introduction, Variables, Scopes, Hoisting, Datatype
 
 20-04-2024:
-  - Sigma video 23 - 34
+
+- Sigma video 23 - 34
