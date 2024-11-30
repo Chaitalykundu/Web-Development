@@ -46,7 +46,11 @@
 
 # Question Links
 
+[GFG HTML Tutorial](https://www.geeksforgeeks.org/html-tutorial/?ref=ghm)
+
 [GFG Questions](https://www.geeksforgeeks.org/html-examples/?ref=dhm)
+
+[naukri html questions](https://www.naukri.com/code360/library/html-interview-questions)
 
 &nbsp;
 
