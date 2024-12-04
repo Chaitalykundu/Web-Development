@@ -8,3 +8,4 @@
 8. Create a Form with a Dropdown Menu
 9. Create an Image with Alt Text
 10. Create a Hyperlink that Opens in a New Tab
+11. Create a Progress Bar
