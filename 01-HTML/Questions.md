@@ -2,6 +2,7 @@
 
 - [Overview](#overview)
 - [Question Links](#question-links)
+- [Questions](#questions)
 - [Introduction](#introduction)
 - [Tags](#tags)
 - [Elements](#elements)
@@ -36,9 +37,10 @@
   - [1. What is HTML](#1-what-is-html)
   - [2. What is Hypertext](#2-what-is-hypertext)
   - [3. What is markup language](#3-what-is-markup-language)
-  - [4. How many types of pages are there in website.](#4-how-many-types-of-pages-are-there-in-website)
+  - [4. How many types of pages are there in website](#4-how-many-types-of-pages-are-there-in-website)
 - [Image](#image-1)
   - [7. When is alt attribute more useful](#7-when-is-alt-attribute-more-useful)
+- [Input](#input-1)
 
 &nbsp;
 
@@ -56,6 +58,8 @@
 
 &nbsp;
 
+# Questions
+
 # Introduction
 
 1. What is HTML
@@ -70,6 +74,7 @@
 10. What are the advantages of HTML
 11. What are the disadvantages of HTML
 12. What are the differences between HTML & CSS
+13. Why do we name html file index.html
 
 &nbsp;
 
@@ -256,6 +261,7 @@
 1. What is input tag
 2. What is Specification of input tag
 3. What are the Values of `type` attribute in input tag
+4. Is it valid to have two input elements with the same name?
 
 &nbsp;
 
@@ -481,7 +487,7 @@ Hypertext is a way of connecting texts or images or webpages to another one, eit
 
 ```
 
-## 4. How many types of pages are there in website.
+## 4. How many types of pages are there in website
 
 ```md
 There are two types of pages in website.
@@ -524,6 +530,14 @@ This includes situations where images fail to load for various reasons, not just
 &nbsp;
 
 &nbsp;
+
+# Input
+
+4. Is it valid to have two input elements with the same name?
+
+```md
+It will generally be interpreted as an array of values e.g. {arr:[1,2]}
+```
 
 &nbsp;
 &nbsp;
