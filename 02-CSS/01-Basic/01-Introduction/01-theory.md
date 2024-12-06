@@ -7,6 +7,8 @@
   - [1. Solves a big problem for styling multiple pages](#1-solves-a-big-problem-for-styling-multiple-pages)
   - [2. Saves a lot of time](#2-saves-a-lot-of-time)
   - [3. Provide more attributes](#3-provide-more-attributes)
+- [CSS FrameWorks](#css-frameworks)
+- [Focus part in CSS](#focus-part-in-css)
 
 &nbsp;
 
@@ -24,6 +26,8 @@
   - It solves big problem for styling multiple pages
   - Saves a lot of time
   - Provide more attributes
+
+&nbsp;
 
 &nbsp;
 
@@ -64,3 +68,26 @@ CSS provides more detailed attributes than plain HTML to define the look and fee
 &nbsp;
 
 &nbsp;
+
+# CSS FrameWorks
+
+CSS Frameworks are
+
+- Tailwind
+- BootStrap
+- Materialize
+- Semantic UI
+- Bulma
+- Foundation
+
+&nbsp;
+
+&nbsp;
+
+# Focus part in CSS
+
+- font
+- images
+- button
+- card
+- list

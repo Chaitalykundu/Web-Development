@@ -36,6 +36,8 @@
 
 &nbsp;
 
+&nbsp;
+
 # Ways of inserting CSS
 
 - There are **three** ways of inserting a style sheet:

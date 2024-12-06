@@ -27,6 +27,8 @@
 
 &nbsp;
 
+&nbsp;
+
 # Syntax
 
 - A CSS rule set contains a **selector** and a **declaration block** .
