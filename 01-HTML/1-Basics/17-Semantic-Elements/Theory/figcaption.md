@@ -1,16 +1,22 @@
+# Overview
+
+- [Overview](#overview)
+
+&nbsp;
+
 # HTML `<figcaption>` Element
 
 - A figure caption `<figcaption>` element is used to add a caption to describe the image contained within the figure element.
 
-* It is an optional tag
+- It is an optional tag
 
-* `<figcaption>` element is used bellow the `<img>` tag within the `<figure>` tag.
-
-&nbsp;
+- `<figcaption>` element is used bellow the `<img>` tag within the `<figure>` tag.
 
 &nbsp;
 
-# Example:
+&nbsp;
+
+# Example
 
 ```html
 <figure>

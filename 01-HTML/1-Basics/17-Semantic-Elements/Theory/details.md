@@ -1,3 +1,11 @@
+# Overview
+
+- [Overview](#overview)
+
+&nbsp;
+
+# details elements
+
 - The `<details>` tag specifies additional details that the user can open and close on demand.
 
 - The `<details>` tag is often used to create an interactive widget that the user can open and close. By default, the widget is closed. When open, it expands, and displays the content within.
@@ -12,7 +20,7 @@
 
 - The `<summary>` tag is used in conjunction with `<details>` to specify a visible heading for the details.
 
-* The `<details>` tag wraps all the content which you want to show or hide and the `<summary>` tag contains the summary and the title of the section.
+- The `<details>` tag wraps all the content which you want to show or hide and the `<summary>` tag contains the summary and the title of the section.
 
 &nbsp;
 

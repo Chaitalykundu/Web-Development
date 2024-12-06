@@ -1,8 +1,18 @@
+# Overview
+
+- [Overview](#overview)
+- [HTML `<article>` Element](#html-article-element)
+- [Default CSS Settings](#default-css-settings)
+
+&nbsp;
+
+&nbsp;
+
 # HTML `<article>` Element
 
 - The `<article>` element specifies independent, self-contained content.
 
-* the `<article>` element can be used in :
+- the `<article>` element can be used in :
   - Forum posts
   - Blog posts
   - User comments
