@@ -1,3 +1,46 @@
+# Overview
+
+- [Overview](#overview)
+- [Introduction](#introduction)
+- [Selector](#selector)
+  - [Simple Selector](#simple-selector)
+  - [Combinator Selector](#combinator-selector)
+  - [Pseudo-Class Selector](#pseudo-class-selector)
+  - [Pseudo-elements Selector](#pseudo-elements-selector)
+- [Color](#color)
+- [Background](#background)
+- [Font](#font)
+- [Icon](#icon)
+- [Margin](#margin)
+- [Padding](#padding)
+- [Border](#border)
+- [Height \& Width](#height--width)
+  - [min-height](#min-height)
+  - [max-height](#max-height)
+  - [min-width](#min-width)
+  - [max-width](#max-width)
+- [Box model](#box-model)
+- [Align](#align)
+- [!important](#important)
+- [Form](#form)
+- [Typography](#typography)
+- [Answer](#answer)
+- [1. What is cascade](#1-what-is-cascade)
+- [2. What is Margin Collapse](#2-what-is-margin-collapse)
+- [3. What are the hover feature](#3-what-are-the-hover-feature)
+- [4. What is the difference between PX, EM and Percent?](#4-what-is-the-difference-between-px-em-and-percent)
+- [5. What are Web Safe Fonts?](#5-what-are-web-safe-fonts)
+- [6. what is scroll anchoring](#6-what-is-scroll-anchoring)
+- [7. What is VH/VW (viewport height/ viewport width) in CSS?](#7-what-is-vhvw-viewport-height-viewport-width-in-css)
+- [8. Difference between margin and padding?](#8-difference-between-margin-and-padding)
+- [What are the different Box Sizing Properties?](#what-are-the-different-box-sizing-properties)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Introduction
 
 1. What is CSS
@@ -255,6 +298,7 @@
 10. What is Box sizing
 11. What are the property values of box-sizing
 12. What if we define box-sizing as border-box
+13. Can we add height and width in inline element?
 
 &nbsp;
 
@@ -291,6 +335,36 @@
 
 1. What is typography
 2. Which CSS properties are included in typography
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Answer
+
+14. Can we add height and width in inline element?
+
+```md
+No. Inline element ignores height and width. It only takes the width as much as needed
+```
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 

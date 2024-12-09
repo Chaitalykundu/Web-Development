@@ -9,3 +9,21 @@
 | `[attribute^=value]`   | `a[href^="https"]`     | Selects every `<a>` element whose href attribute value begins with "https"                |
 | `[attribute$=value]`   | `a[href$=".pdf"]`      | Selects every `<a>` element whose href attribute value ends with ".pdf"                   |
 | `[attribute*=value]`   | `a[href*="w3schools"]` | Selects every `<a>` element whose href attribute value contains the substring "w3schools" |
+
+&nbsp;
+
+&nbsp;
+
+# [attribute=value]
+
+Selects all elements with the given attribute and value pair
+
+&nbsp;
+
+## Example
+
+```css
+input[type="text"] {
+  color: green;
+}
+```

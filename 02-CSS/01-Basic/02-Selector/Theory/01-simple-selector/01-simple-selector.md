@@ -11,7 +11,7 @@
   - [Example](#example-1)
 - [The CSS Universal Selector](#the-css-universal-selector)
   - [Example](#example-2)
-- [The CSS element Selector](#the-css-element-selector)
+- [The CSS Type / Element Selector](#the-css-type--element-selector)
   - [Example](#example-3)
 - [The CSS Grouping Selector](#the-css-grouping-selector)
   - [Example](#example-4)
@@ -40,15 +40,15 @@
 
 # All CSS Simple Selectors
 
-| Selector Name          | Syntax             | Example    | Example description                            |
-| ---------------------- | ------------------ | ---------- | ---------------------------------------------- |
-| id selector            | #id                | #firstname | Selects the element with id="firstname"        |
-| class selector         | . class            | .intro     | Selects all elements with class="intro"        |
-| element.class selector | element.class      | p.intro    | Selects only `<p>` elements with class="intro" |
-| Universal selector     | \*                 | \*         | Selects all elements                           |
-| Element selector       | element            | p          | Selects all `<p>` elements                     |
-| Grouping Selector      | element,element,.. | div, p     | Selects all `<div>` and `<p>` elements         |
-|                        |                    |            |                                                |
+| Selector Name           | Syntax             | Example    | Example description                            |
+| ----------------------- | ------------------ | ---------- | ---------------------------------------------- |
+| id selector             | #id                | #firstname | Selects the element with id="firstname"        |
+| class selector          | . class            | .intro     | Selects all elements with class="intro"        |
+| element.class selector  | element.class      | p.intro    | Selects only `<p>` elements with class="intro" |
+| Universal selector      | \*                 | \*         | Selects all elements                           |
+| Type / Element selector | element            | p          | Selects all `<p>` elements                     |
+| Grouping Selector       | element,element,.. | div, p     | Selects all `<div>` and `<p>` elements         |
+|                         |                    |            |                                                |
 
 &nbsp;
 
@@ -129,7 +129,7 @@ An id name cannot start with a number!
 
 &nbsp;
 
-# The CSS element Selector
+# The CSS Type / Element Selector
 
 - The element selector selects HTML elements based on the element name.
 

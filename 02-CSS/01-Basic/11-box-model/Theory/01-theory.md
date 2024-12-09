@@ -1,12 +1,14 @@
 # Overview
 
-- Definition and Usage
-- Note
-- Explanation of the different parts
-- Content area
-- padding area
-- border Field
-- Margin Field
+- [Overview](#overview)
+- [Chapter Summary](#chapter-summary)
+- [Definition and Usage](#definition-and-usage)
+- [Note](#note)
+- [Explanation of the different parts](#explanation-of-the-different-parts)
+- [Content area](#content-area)
+- [Padding area](#padding-area)
+- [Border Field](#border-field)
+- [Margin Field](#margin-field)
 
 &nbsp;
 
@@ -14,7 +16,7 @@
 
 # Chapter Summary
 
-- `Box model` describes the layout of the elements. The HTML elements are considered as boxes.
+- `Box model` describes the layout of the elements.
 
 - **Total element height** = height + top padding + bottom padding + top border + bottom border + top margin + bottom margin
 
@@ -32,6 +34,8 @@
 
 The CSS **box model** is essentially a box that wraps around every HTML element.
 
+The box model allows us to add a border around elements, and to define space between elements.
+
 &nbsp;
 
 It consists of
@@ -47,19 +51,21 @@ It consists of
 
 # Note
 
-When you set the `height` and `width` properties of an element with CSS, you just set the height and width of the content area. To calculate the full size of an element, you must also add padding, borders and margins.
+When you set the `height` and `width` properties of an element with CSS, you just set the height and width of the content area.
+
+To calculate the full size of an element, you must also add padding, borders and margins.
 
 &nbsp;
 
-**Total element height** = height + top padding + bottom padding + top border + bottom border + top margin + bottom margin
+**Total element height** = height + padding (top + bottom) + border (top + bottom) + margin (top + bottom)
 
 &nbsp;
 
-**Total element width** = width + left padding + right padding + left border + right border + left margin + right margin
+**Total element width** = width + padding (left + right) + border (left + right) + margin (left + right)
 
 &nbsp;
 
-<img src="../assets/box-model.png">
+<img src="../../assets/box-model.png">
 
 &nbsp;
 
@@ -71,10 +77,6 @@ When you set the `height` and `width` properties of an element with CSS, you jus
 - <u>Padding </u> - Clears an area around the content. The padding is transparent
 - <u>Border</u> - A border that goes around the padding and content
 - <u>Margin</u> - Clears an area outside the border. The margin is transparent
-
-&nbsp;
-
-The box model allows us to add a border around elements, and to define space between elements.
 
 &nbsp;
 
