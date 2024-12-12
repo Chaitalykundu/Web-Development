@@ -6,15 +6,18 @@
 
 form {
   text-align: center;
-  margin-top: 200px;
+  position: absolute;
+  top: 50vh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
 }
 .text-type,
 .submit {
-  width: 30%;
+  width: 100%;
   font-size: 24px;
   padding: 10px;
   margin: 10px 0;
-  border: 2px solid #eee;
+  border: 2px solid #aeacac;
   border-radius: 10px;
   box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
 }

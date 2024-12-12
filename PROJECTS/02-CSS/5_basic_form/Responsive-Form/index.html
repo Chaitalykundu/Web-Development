@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Responsive form</title>
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <h1>Responsive Form</h1>
+    <p>
+      Resize the browser window to see the effect. When the screen is less than
+      600px wide, make the two columns stack on top of each other instead of
+      next to each other.
+    </p>
+
+    <div class="container">
+      <form>
+        <div class="row">
+          <div class="sidebar">
+            <label for="fname">First Name : </label>
+          </div>
+          <div class="input-box">
+            <input
+              type="text"
+              id="fname"
+              name="name"
+              placeholder="First Name"
+              class="text-type"
+            />
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="sidebar">
+            <label for="lname">Last Name : </label>
+          </div>
+          <div class="input-box">
+            <input
+              type="text"
+              id="lname"
+              name="name"
+              placeholder="Last Name"
+              class="text-type"
+            />
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="sidebar">
+            <label for="email">Email</label>
+          </div>
+          <div class="input-box">
+            <input
+              type="email"
+              id="email"
+              name="email"
+              placeholder="Email"
+              class="text-type"
+            />
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="sidebar">
+            <label for="country">Country</label>
+          </div>
+          <div class="input-box">
+            <select>
+              <option>Select one</option>
+              <option>USA</option>
+              <option>India</option>
+              <option>UK</option>
+              <option>Italy</option>
+              <option>Japan</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="sidebar">
+            <label for="comment">Comment</label>
+          </div>
+          <div class="input-box">
+            <textarea placeholder="Write something.."></textarea>
+          </div>
+        </div>
+
+        <input type="submit" value="Submit" class="submit" />
+      </form>
+    </div>
+  </body>
+</html>
