@@ -350,7 +350,9 @@
 
 # Answer
 
-14. Can we add height and width in inline element?
+# Box model
+
+13. Can we add height and width in inline element?
 
 ```md
 No. Inline element ignores height and width. It only takes the width as much as needed

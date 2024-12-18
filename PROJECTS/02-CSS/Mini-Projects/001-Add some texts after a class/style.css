@@ -1,0 +1,12 @@
+.para1::before{
+    content: "This is paragraph 1 -->";
+    color: rgb(211, 214, 211);
+    background-color: rgb(128, 128, 247);
+
+}
+
+.para2::after{
+    content: "<-- this is paragraph 2";
+    color: red;
+    background-color: rgb(247, 247, 144);
+}

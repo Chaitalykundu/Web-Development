@@ -34,4 +34,8 @@ Suppose we have created a large website. Suddenly we need to make some changes l
 
 &nbsp;
 
+# Position
+
+- Suppose we have two elements A & B. If we want to make A's position absolute with respect to B, then we have to set `position : relative` to element B first and then set `position:absolute` to element A.
+
 &nbsp;

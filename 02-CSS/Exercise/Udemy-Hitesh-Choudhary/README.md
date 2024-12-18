@@ -8,4 +8,3 @@
 6. Create a Circle Using Border Radius
 7. Add a Box Shadow to an Element
 8. Positions In CSS
-11. Add some texts after a class

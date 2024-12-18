@@ -1,5 +1,0 @@
-.para2::after{
-    content: "<- this is paragraph 2";
-    color: red;
-    background-color: rgb(247, 247, 144);
-}

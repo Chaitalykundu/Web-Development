@@ -3,13 +3,19 @@
 2. Design a responsive navigation bar with drop-down menus
 
 3. Build a photo gallery with a grid of images and hover effects
+
 4. Create a responsive pricing table
+
 5. Make a basic form with custom styles.
 
 6. A design a layout for a blog with a banner, post listings, and a sidebar.
+
 7. Build a basic e-commerce product page with product images, pricing, and a 'add to cart' button.
+
 8. Create a css-only accordion widget.
+
 9. Build a basic calculator with custom styles.
+
 10. Design a layout for a recipe website with a grid of recipe cards.
 
 11. Create a responsive timeline of events.

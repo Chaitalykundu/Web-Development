@@ -32,6 +32,7 @@
 | ::first-line   | p::first-line   | Selects the first line of every `<p>` element                |
 | ::marker       | ::marker        | Selects the markers of list items                            |
 | ::selection    | p::selection    | Selects the portion of an element that is selected by a user |
+|                |                 |                                                              |
 
 &nbsp;
 
