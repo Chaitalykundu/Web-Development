@@ -74,7 +74,25 @@
 
 18-12-2024:
   ✔ POTD @done(24-12-18 06:03)
-  ☐ Navbar from Hitesh Choudhary @started(24-12-18 06:04)
+  ✔ Navbar from Hitesh Choudhary @started(24-12-18 06:04) @done(24-12-19 13:04) @lasted(1d7h50s)
   ☐ Flex
   ✔ ::after - Pseudo element @done(24-12-18 12:56)
   ✔ ::before - Pseudo element @done(24-12-18 12:56)
+  
+  
+  transform
+  transition
+  
+  
+19-12-2024:
+  ✔ twitter style navbar @done(24-12-19 13:05)
+  ✔ Dropdown navbar @done(24-12-19 13:05)
+  ✔ Build a custom coming soon template Project @done(24-12-19 13:06)
+
+  justify-content
+  align-items
+  linear-gradient
+  rem unit
+  object-fit
+  transition
+  box-shadow

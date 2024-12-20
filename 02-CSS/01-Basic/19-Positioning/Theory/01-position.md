@@ -94,7 +94,7 @@ selector {
 | Value    | Description                                                                                                                                                                                                                                                                            |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | static   | Elements render in order, as they appear in the document flow                                                                                                                                                                                                                          |
-| absolute | The element is positioned relative to its parent                                                                                                                                                                                         |
+| absolute | The element is positioned relative to its parent                                                                                                                                                                                                                                       |
 | relative | The element is positioned relative to its normal position, so "left:20px" adds 20 pixels to the element's LEFT position                                                                                                                                                                |
 | fixed    | The element is positioned relative to the browser window                                                                                                                                                                                                                               |
 | sticky   | The element is positioned based on the user's scroll position A sticky element toggles between relative and fixed, depending on the scroll position. It is positioned relative until a given offset position is met in the viewport - then it "sticks" in place (like position:fixed). |
@@ -110,6 +110,22 @@ selector {
 
 - Suppose we have two elements A & B. If we want to make A's position absolute with respect to B, then we have to set `position : relative` to element B first and then set `position:absolute` to element A.
 
+- If we use before / after in any element and want set `position:absolute` then the element should be set to `position : relative` first
+
+  ```css
+  .para1{
+    position: relative;
+  }
+
+  .para1:hover::before {
+  content: "This is paragraph 1";
+  color: red;
+  background-color: #dfdbf5;
+  position: absolute;
+  left: 10%;
+  top: 24px;
+
+  ```
 
 &nbsp;
 

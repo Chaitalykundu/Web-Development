@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  background-color: rgb(68, 192, 241);
+  padding: 20px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+  padding: 5px;
+  display: block;
+}
+
+.dropdown-content {
+  background-color: rgb(25, 25, 26);
+  display: none;
+  /* position: relative; */
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+  position: absolute;
+  min-width: 150px;
+  padding: 10px;
+}

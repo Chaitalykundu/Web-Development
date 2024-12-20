@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.circle-list{
+    margin: 20px;
+    padding: 20px;
+    width: 300px;
+    border: 2px solid black;
+    display: flex;
+}
+
+.circle{
+    width: 30px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.circle-1{
+    background-color: rgb(237, 178, 178);
+}
+.circle-2{
+    background-color: rgb(191, 191, 245);
+}
+.circle-3{
+    background-color: rgb(181, 247, 187);
+}
+.circle-4{
+    background-color: rgb(237, 245, 182);
+}
+.circle-5{
+    background-color: rgb(236, 166, 178);
+}

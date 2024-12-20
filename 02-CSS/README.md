@@ -47,9 +47,9 @@ Exercise practice : [harshitvashisth](https://www.youtube.com/watch?v=luAkR9VaLc
 | 26    | Specificity                 |        |                                                                                                                                                              |
 | 27    | !important                  |        |                                                                                                                                                              |
 | 28    | Math function               |        |                                                                                                                                                              |
-| 21    | Inheritance                 |        |                                                                                                                                                              |
-| 23    | Typography                  |        |                                                                                                                                                              |
-| 27    | Flex                        |        |                                                                                                                                                              |
+| 29    | Inheritance                 |        |                                                                                                                                                              |
+| 30    | Typography                  |        |                                                                                                                                                              |
+| 31    | Flexbox                        |        |                                                                                                                                                              |
 
 &nbsp;
 

@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: rgb(140, 140, 252);
+  color: rgb(255, 255, 255);
+  padding: 20px;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar a {
+  text-decoration: none;
+  position: relative;
+  padding: 5px;
+}
+
+.navbar a:hover {
+  border-bottom: 2px solid red;
+}

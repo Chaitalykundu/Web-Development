@@ -1,0 +1,2 @@
+- `justify-content` helps to align elements left to right
+- `align-items` helps to align elements top to bottom

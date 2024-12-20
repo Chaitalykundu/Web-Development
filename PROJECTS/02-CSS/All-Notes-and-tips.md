@@ -1,6 +1,7 @@
 # Tips
 
 - If we want to target any class / element, we can check simply just by changing background color
+- Before styling wrap everything in container. It's easy for styling
 
 &nbsp;
 
@@ -9,6 +10,8 @@
 &nbsp;
 
 &nbsp;
+
+# Notes
 
 # Selector : Pseudo ELements
 
@@ -21,6 +24,8 @@ Suppose we have created a large website. Suddenly we need to make some changes l
 # Flex
 
 - Default behaviour of flex is **left to right**
+- `justify-content` helps to align elements left to right
+- `align-items` helps to align elements top to bottom
 
 &nbsp;
 
