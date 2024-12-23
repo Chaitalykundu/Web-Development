@@ -1,0 +1,66 @@
+.area-of-practice {
+  background-color: rgb(222, 239, 233);
+  margin: 20px;
+  padding: 10px;
+}
+
+.container-1,
+.container-2,
+.container-3,
+.container-4,
+.container-5,
+.container-6 {
+  width: 300px;
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+}
+
+.items {
+  width: 30px;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  border-radius: 50%;
+}
+
+.item-1 {
+  background-color: rgb(162, 203, 239);
+}
+.item-2 {
+  background-color: rgb(216, 158, 158);
+}
+.item-3 {
+  background-color: rgb(199, 232, 145);
+}
+.item-4 {
+  background-color: rgb(245, 174, 242);
+}
+
+.container-1 {
+  background-color: rgb(170, 231, 223);
+  align-items: center;
+}
+.container-2 {
+  background-color: rgb(190, 249, 182);
+  align-items: flex-start;
+}
+
+.container-3 {
+  background-color: rgb(149, 222, 240);
+  align-items: flex-end;
+}
+
+.container-4 {
+  background-color: rgb(249, 156, 195);
+  align-items: stretch;
+}
+.container-5 {
+  background-color: rgb(231, 236, 194);
+  align-items: baseline;
+}
+.container-6 {
+  background-color: rgb(169, 246, 246);
+  align-items: normal;
+}
