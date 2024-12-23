@@ -340,6 +340,18 @@
 
 &nbsp;
 
+# Flexbox
+
+1. What is CSS Flexbox?
+2. How do I create a flex container in CSS Flexbox?
+3. What are the common use cases for CSS Flexbox?
+4. Can I use CSS Flexbox with CSS Grid?
+5. Are CSS Flexbox properties supported by all browsers?
+
+&nbsp;
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;
@@ -354,13 +366,61 @@
 
 13. Can we add height and width in inline element?
 
-```md
-No. Inline element ignores height and width. It only takes the width as much as needed
-```
+    ```md
+    No. Inline element ignores height and width. It only takes the width as much as needed
+    ```
 
 &nbsp;
 
 &nbsp;
+
+# Flexbox
+
+1. What is CSS Flexbox?
+
+   ```md
+   CSS Flexbox, or the Flexible Box Layout Module, is a CSS layout model designed to help create more efficient and predictable layouts by distributing space within a container and aligning items in a flexible manner.
+   ```
+
+&nbsp;
+
+&nbsp;
+
+2.  How do I create a flex container in CSS Flexbox?
+
+    ```md
+    To create a flex container in CSS Flexbox, you set the display property of an element to flex or inline-flex. This element then becomes the flex container, and its direct children become flex items.
+    ```
+
+&nbsp;
+
+&nbsp;
+
+3. What are the common use cases for CSS Flexbox?
+
+- Creating responsive navigation bars
+- Centering elements vertically and horizontally
+- Building complex layouts with flexible proportions
+- Aligning elements within a container
+  &nbsp;
+
+&nbsp;
+
+4. Can I use CSS Flexbox with CSS Grid?
+
+   ```md
+   Yes, CSS Flexbox and CSS Grid can be used together. CSS Grid is often used for the overall page layout, while Flexbox is typically used for arranging elements within a smaller container.
+   ```
+
+&nbsp;
+
+&nbsp;
+
+5. Are CSS Flexbox properties supported by all browsers?
+
+   ```md
+   Most modern browsers support CSS Flexbox properties. However, it’s important to check for compatibility with older versions and provide fallbacks if necessary. Tools like Autoprefixer can help with adding necessary vendor prefixes.
+   ```
 
 &nbsp;
 
