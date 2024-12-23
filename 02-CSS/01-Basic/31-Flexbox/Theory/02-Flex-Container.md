@@ -98,6 +98,37 @@ The `flex-direction` property can have one of the following values:
 
 &nbsp;
 
+# `flex-wrap` Property
+
+The `flex-wrap` property specifies whether the flex items should wrap or not, if there is not enough room for them on one flex line.
+
+&nbsp;
+
+## Values of `flex-direction`
+
+The `flex-wrap` property can have one of the following values:
+
+| Values           | Description                                                            |
+| ---------------- | ---------------------------------------------------------------------- |
+| nowrap (default) | specifies that the flex items will not wrap                            |
+| wrap             | specifies that the flex items will wrap if necessary                   |
+| wrap-reverse     | specifies that the flex items will wrap if necessary, in reverse order |
+|                  |                                                                        |
+
+&nbsp;
+
+## Syntax
+
+````css
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap | wrap | wrap-reverse;
+}
+
+&nbsp;
+
+&nbsp;
+
 # `justify-content` Property
 
 The `justify-content` property is used to **align the flex items** when they do not use all available space on the main-axis (**horizontally**).
@@ -128,7 +159,7 @@ The `justify-content` property can have one of the following values:
   justify-content: center | flex-start | flex-end | space-between | space-around
     | space-evenly;
 }
-```
+````
 
 &nbsp;
 
@@ -156,7 +187,7 @@ Use the `align-self` property of each item to override the `align-items` propert
 
 &nbsp;
 
-## Values of `justify-content`
+## Values of `align-items`
 
 The `align-items` property can have one of the following values:
 
@@ -180,6 +211,37 @@ The `align-items` property can have one of the following values:
   align-items: center | flex-start | flex-end | stretch | baseline | normal;
 }
 ```
+
+&nbsp;
+
+&nbsp;
+
+# `align-content` property
+
+The `align-content` property is used to align the flex lines.
+
+It is used rarely
+
+The `align-content` property is similar to align-items, but instead of aligning flex items, it aligns the flex lines.
+
+## Values of `align-content`
+
+The `align-content` property can have one of the following values:
+
+| Values        | Description |
+| ------------- | ----------- |
+| center        |
+| stretch       |
+| flex-start    |
+| flex-end      |
+| space-around  |
+| space-between |
+| space-evenly  |
+|               |             |
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
