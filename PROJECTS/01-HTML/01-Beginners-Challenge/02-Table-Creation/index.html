@@ -6,21 +6,30 @@
     <title>Table Creation</title>
 
     <style>
-      table,
-      th,
-      td {
+      table {
+        width: 80%;
+        margin: 20px auto;
         border: 1px solid black;
+        border-radius: 10px;
         border-collapse: separate;
-        padding: 5px 10px;
+        border-spacing: 0;
+        overflow: hidden;
       }
 
       th,
       td {
         width: 250px;
+        padding: 5px 20px;
         text-align: left;
+        border-bottom: 1px solid black;
       }
+
       th {
-        background-color: rgb(211, 211, 214);
+        background-color: rgb(204, 205, 205);
+      }
+
+      tr:last-child td {
+        border-bottom: none; /* Remove bottom border from the last row */
       }
     </style>
   </head>
