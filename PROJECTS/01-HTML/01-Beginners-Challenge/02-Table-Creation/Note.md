@@ -1,0 +1,1 @@
+- To collapse border into a single border, we use `border-collapse` property.

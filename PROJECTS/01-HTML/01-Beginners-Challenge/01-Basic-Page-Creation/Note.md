@@ -1,0 +1,1 @@
+- To open a link in a new tab we use `target="\_\_blank"
