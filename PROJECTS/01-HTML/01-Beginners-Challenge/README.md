@@ -20,6 +20,7 @@ Create a table with the following data:
 | ----- | --- | ---------- |
 | Alice | 24  | Engineer   |
 | Bob   | 30  | Designer   |
+|       |     |            |
 
 &nbsp;
 

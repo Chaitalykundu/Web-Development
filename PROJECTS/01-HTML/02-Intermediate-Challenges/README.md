@@ -14,7 +14,7 @@ Create a webpage with a container (`<div>`) that has:
 ## 2. Navigation Bar
 
 - Create a horizontal navigation bar with links to "Home," "About," and "Contact."
-- Use a <`nav`> element and list items (<`ul`> and <`li`>).
+- Use a `<nav>` element and list items (`<ul>` and `<li>`).
 
 &nbsp;
 
@@ -22,9 +22,9 @@ Create a webpage with a container (`<div>`) that has:
 
 ## 3. Media Embedding
 
-- Embed a YouTube video using the <`iframe`> tag.
-- Add an audio file with the <`audio`> tag (with controls).
-- Embed a local image using <`img`> and an external image with a URL.
+- Embed a YouTube video using the `<iframe>` tag.
+- Add an audio file with the `<audio>` tag (with controls).
+- Embed a local image using `<img>` and an external image with a URL.
 - HTML Forms with Validation
 
 &nbsp;
