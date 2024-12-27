@@ -49,7 +49,7 @@ Exercise practice : [harshitvashisth](https://www.youtube.com/watch?v=luAkR9VaLc
 | 28    | Math function               |        |                                                                                                                                                              |
 | 29    | Inheritance                 |        |                                                                                                                                                              |
 | 30    | Typography                  |        |                                                                                                                                                              |
-| 31    | Flexbox                        |        |                                                                                                                                                              |
+| 31    | Flexbox                     |        |                                                                                                                                                              |
 
 &nbsp;
 

@@ -16,13 +16,13 @@ The `align-content` property can have one of the following values:
 
 | Values        | Description |
 | ------------- | ----------- |
-| center        |
-| stretch       |
-| flex-start    |
-| flex-end      |
-| space-around  |
-| space-between |
-| space-evenly  |
+| center        |             |
+| stretch       |             |
+| flex-start    |             |
+| flex-end      |             |
+| space-around  |             |
+| space-between |             |
+| space-evenly  |             |
 |               |             |
 
 &nbsp;

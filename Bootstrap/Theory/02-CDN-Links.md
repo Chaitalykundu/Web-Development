@@ -1,0 +1,82 @@
+# CDN
+
+CDN = Content Delivery Network
+
+&nbsp;
+
+&nbsp;
+
+# CDN CSS link
+
+```html
+<link
+  href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+  rel="stylesheet"
+  integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+  crossorigin="anonymous"
+/>
+```
+
+&nbsp;
+
+CSS Link should be added in `<head>` tag
+
+If we want to add both bootstrap CSS and custom css file, first we need to add bootstrap css file link then custom css file link in html file.
+
+&nbsp;
+
+&nbsp;
+
+# CDN JS link
+
+```html
+<script
+  src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+  crossorigin="anonymous"
+></script>
+```
+
+&nbsp;
+
+`bootstrap.bundle.min.js` is the combination of `popper.js` and `bootstrap.js`
+
+&nbsp;
+
+JS Link should be added in `<body>` tag
+
+You can also include Popper and our JS separately. If you don’t plan to use **dropdowns**, **popovers**, or **tooltips**, save some kilobytes by not including Popper.
+
+&nbsp;
+
+&nbsp;
+
+## Popper JS CDN link
+
+```html
+<script
+  src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+  integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+  crossorigin="anonymous"
+></script>
+```
+
+&nbsp;
+
+## Bootstrap JS CDN link
+
+```html
+<script
+  src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"
+  integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy"
+  crossorigin="anonymous"
+></script>
+```
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
