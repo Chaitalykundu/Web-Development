@@ -28,6 +28,20 @@ Bootstrap works on 6 screens.
 
 &nbsp;
 
+# Example
+
+```html
+<h1 class="text-sm-end text-lg-center">Welcome to Bootstrap</h1>
+```
+
+Here, if the screen breakpoint is small (sm) or bigger but less than large(lg), the heading will aligned at the end most corner (right).
+
+And if the screen breakpoint is large (lg) or bigger, the heading will aligned center.
+
+&nbsp;
+
+&nbsp;
+
 # Core concepts
 
 - Breakpoints are the building blocks of responsive design. Use them to control when your layout can be adapted at a particular viewport or device size.
