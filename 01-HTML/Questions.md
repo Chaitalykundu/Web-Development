@@ -108,6 +108,14 @@
 
 &nbsp;
 
+# Basic Structure
+
+1. What will happen if we add `<!DOCTYPE>` at the end of our html page
+
+&nbsp;
+
+&nbsp;
+
 # Imports
 
 1. Which tag do we use to import any file
@@ -499,6 +507,18 @@ There are two types of pages in website.
 &nbsp;
 
 &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Basic Structure
+
+1. What will happen if we add `<!DOCTYPE>` at the end of our html page
+
+The <`!DOCTYPE>` declaration is a signal to the browser to render the page in **standards mode** or **quirks mode**. If it’s placed later, the browser will assume no `<!DOCTYPE>` was provided and may default to quirks mode.
+
+Always place `<!DOCTYPE>` at the very beginning of your HTML document to ensure proper **standards-compliant rendering** by the browser.
 
 &nbsp;
 
