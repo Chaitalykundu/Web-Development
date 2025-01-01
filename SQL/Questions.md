@@ -1,5 +1,9 @@
 https://www.linkedin.com/posts/naresh-reddy-k_zero-to-advance-in-sql-ugcPost-7256617430192410624-HZVH?utm_source=share&utm_medium=member_desktop
 
+&nbsp;
+
+&nbsp;
+
 1. What is the purpose of the GROUP BY clause in SQL? Could you provide an example?
 
 2. Explain the difference between an INNER JOIN and a LEFT JOIN with examples.
