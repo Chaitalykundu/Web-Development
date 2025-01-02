@@ -1,5 +1,6 @@
 # Overview
 
+- [Overview](#overview)
 - [Introduction](#introduction)
 - [Why Typescript](#why-typescript)
 - [Type Safety](#type-safety)

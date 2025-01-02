@@ -1,11 +1,17 @@
 # Overview
 
-- Definition and Usage
-- Syntax
-- Margin: Shorthand Property
-- CSS Margin Values
-- The auto Value
-- Margin Collapse
+- [Overview](#overview)
+- [Chapter Summary](#chapter-summary)
+- [CSS Margin Properties](#css-margin-properties)
+- [Definition and Usage](#definition-and-usage)
+- [Syntax](#syntax)
+- [Margin: Shorthand Property](#margin-shorthand-property)
+- [CSS Margin Values](#css-margin-values)
+- [The `auto` Value](#the-auto-value)
+- [Margin Collapse](#margin-collapse)
+  - [Example](#example)
+
+&nbsp;
 
 &nbsp;
 

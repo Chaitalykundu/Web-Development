@@ -1,11 +1,15 @@
 # Overview
 
-- Definition and Usage
-- Syntax
-- Example
-- Specification
-- Property Values
-- Common weight name mapping
+- [Overview](#overview)
+- [Chapter Summary](#chapter-summary)
+- [Definition and Usage](#definition-and-usage)
+- [Syntax](#syntax)
+- [Example](#example)
+- [Specification](#specification)
+- [Property Values](#property-values)
+- [Common weight name mapping](#common-weight-name-mapping)
+
+&nbsp;
 
 &nbsp;
 

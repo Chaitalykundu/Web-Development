@@ -1,5 +1,21 @@
 # Overview
 
+- [Overview](#overview)
+- [Properties](#properties)
+- [Definition \& usage](#definition--usage)
+- [Note:](#note)
+- [Syntax](#syntax)
+- [Example](#example)
+- [Property values](#property-values)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Properties
+
 | Property | Description                              | Default value  |
 | -------- | ---------------------------------------- | -------------- |
 | display  | specifies if/how an element is displayed | inline / block |

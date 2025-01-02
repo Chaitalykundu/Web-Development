@@ -1,8 +1,9 @@
 # Overview
 
-- border Shorthand Property
-- Syntax
-- Example
+- [Overview](#overview)
+- [border Shorthand Property](#border-shorthand-property)
+- [Syntax](#syntax)
+- [Example](#example)
 
 &nbsp;
 

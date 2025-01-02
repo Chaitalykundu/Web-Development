@@ -1,11 +1,15 @@
 # Overview
 
-- Definition and Usage
-- Syntax
-- Example
-- Specification
-- Property Values
-- Constituent properties
+- [Overview](#overview)
+- [Chapter Summary](#chapter-summary)
+- [Definition and Usage](#definition-and-usage)
+- [Syntax](#syntax)
+- [Example](#example)
+- [Specification](#specification)
+- [Property Values](#property-values)
+- [Constituent properties](#constituent-properties)
+
+&nbsp;
 
 &nbsp;
 

@@ -1,11 +1,14 @@
 # Overview
 
-- Definition and Usage
-- Constituent properties
-- Syntax
-- Example
-- Formal Definition
-- Property Values
+- [Overview](#overview)
+- [Chapter Summary](#chapter-summary)
+- [Definition and Usage](#definition-and-usage)
+- [Constituent properties](#constituent-properties)
+- [Syntax](#syntax)
+- [Formal definition](#formal-definition)
+- [Property Values](#property-values)
+
+&nbsp;
 
 &nbsp;
 

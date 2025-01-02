@@ -1,10 +1,14 @@
 # Overview
 
-- Introduction
-- How To Add Icons
-- Bootstrap icons
-- Font Awesome icons
-- Google icons
+- [Overview](#overview)
+- [Chapter Summary](#chapter-summary)
+- [Introduction](#introduction)
+- [How To Add Icons](#how-to-add-icons)
+- [Bootstrap icons](#bootstrap-icons)
+- [Font Awesome icons](#font-awesome-icons)
+- [Google icons](#google-icons)
+
+&nbsp;
 
 &nbsp;
 

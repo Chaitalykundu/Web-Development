@@ -1,11 +1,17 @@
 # Overview
 
-- Definition and Usage
-- Note
-- Syntax
-- padding: Shorthand Property
-- CSS padding Values
-- Padding and Element Width
+- [Overview](#overview)
+- [Chapter Summary](#chapter-summary)
+- [CSS padding Properties](#css-padding-properties)
+- [Definition and Usage](#definition-and-usage)
+- [Note](#note)
+- [Syntax](#syntax)
+- [Padding: Shorthand Property](#padding-shorthand-property)
+- [CSS padding Values](#css-padding-values)
+- [Padding and Element Width](#padding-and-element-width)
+  - [Example](#example)
+
+&nbsp;
 
 &nbsp;
 

@@ -3,13 +3,12 @@
 - [Overview](#overview)
 - [Introduction](#introduction)
 - [Bootstrap Versions](#bootstrap-versions)
-- [Difference between Bootstrap 5 and Bootstrap 3 & 4](#difference-between-bootstrap-5-and-bootstrap-3--4)
+- [Difference between Bootstrap 5 and Bootstrap 3 \& 4](#difference-between-bootstrap-5-and-bootstrap-3--4)
 - [Key Features of Bootstrap](#key-features-of-bootstrap)
 - [Why Use Bootstrap](#why-use-bootstrap)
 - [Framework](#framework)
 - [Responsive Web Design](#responsive-web-design)
 - [Folder Structure](#folder-structure)
-- [Setup Bootstrap in Your Project](#setup-bootstrap-in-your-project)
 
 &nbsp;
 

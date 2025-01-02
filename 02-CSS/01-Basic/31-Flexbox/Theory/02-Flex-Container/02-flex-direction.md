@@ -2,7 +2,8 @@
 
 - [Overview](#overview)
 - [`flex-direction` Property](#flex-direction-property)
-- [Syntax](#syntax)
+  - [Values of `flex-direction`](#values-of-flex-direction)
+  - [Syntax](#syntax)
 
 &nbsp;
 

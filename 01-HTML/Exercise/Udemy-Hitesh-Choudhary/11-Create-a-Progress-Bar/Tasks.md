@@ -1,6 +1,6 @@
 # Task
 
- Create a simple progress bar with a label that shows 70% completion.
+Create a simple progress bar with a label that shows 70% completion.
 
 &nbsp;
 

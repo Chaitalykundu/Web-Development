@@ -1,3 +1,3 @@
 01-01-2025:
-    - Revise the basic syntax: `<!DOCTYPE>`, `<html>`, `<head>`, `<body>`.
+    ✔ Revise the basic syntax: `<!DOCTYPE>`, `<html>`, `<head>`, `<body>`. @done(25-01-02 17:00)
     - Understand the semantic elements: `<header>`, `<footer>`, `<main>`, `<article>`, `<section>`, etc.
