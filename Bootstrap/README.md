@@ -4,9 +4,13 @@
 
 Before diving into Bootstrap, ensure you have a basic understanding of:
 
-- HTML: Structure of web pages.
-- CSS: Styling concepts.
-- JavaScript: For components with interactivity.
+- **_HTML_**: Structure of web pages.
+- **_CSS_**: Styling concepts.
+- **_JavaScript_**: For components with interactivity.
+
+&nbsp;
+
+&nbsp;
 
 ### Explore the Grid System
 
@@ -15,6 +19,10 @@ Bootstrap’s grid system is fundamental for responsive design. Learn:
 - How rows and columns work.
 - Classes like .container, .row, .col-, .col-md-, etc.
 - Breakpoints for responsiveness (e.g., sm, md, lg, xl, xxl).
+
+&nbsp;
+
+&nbsp;
 
 ### Components Overview
 
@@ -28,6 +36,10 @@ Bootstrap offers a variety of ready-made components. Some key ones to focus on:
 - **_Alerts_**: Notification banners.
 - **_Carousels_**: Image sliders.
 
+&nbsp;
+
+&nbsp;
+
 ### Customize via Utilities
 
 Learn Bootstrap’s utility classes for:
@@ -37,9 +49,17 @@ Learn Bootstrap’s utility classes for:
 - Typography (fw-bold, text-center).
 - Flexbox (d-flex, align-items-center).
 
+&nbsp;
+
+&nbsp;
+
 ### Understand Sass for Customization (Optional)
 
 If you want to customize Bootstrap, explore its Sass variables. This helps you change default styles like colors, fonts, and spacing.
+
+&nbsp;
+
+&nbsp;
 
 ### Build Sample Projects
 

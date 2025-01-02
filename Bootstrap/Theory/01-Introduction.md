@@ -1,8 +1,29 @@
+# Overview
+
+- [Overview](#overview)
+- [Introduction](#introduction)
+- [Bootstrap Versions](#bootstrap-versions)
+- [Difference between Bootstrap 5 and Bootstrap 3 & 4](#difference-between-bootstrap-5-and-bootstrap-3--4)
+- [Key Features of Bootstrap](#key-features-of-bootstrap)
+- [Why Use Bootstrap](#why-use-bootstrap)
+- [Framework](#framework)
+- [Responsive Web Design](#responsive-web-design)
+- [Folder Structure](#folder-structure)
+- [Setup Bootstrap in Your Project](#setup-bootstrap-in-your-project)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Introduction
 
-Bootstrap is a free open-source, powerful front-end framework to create modern, responsive, and mobile-first websites and web applications easily
+Bootstrap is a free open-source, powerful front-end framework to create modern, responsive, and mobile-first websites and web applications easily.
 
-Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins
+It provides a collection of pre-designed components, utility classes, and tools to simplify web development.
+
+Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins.
 
 Originally developed by **Twitter**, it simplifies web development by providing pre-designed HTML, CSS, and JavaScript components.
 
@@ -28,6 +49,10 @@ Latest version of bootstrap is **Bootstrap 5**
 &nbsp;
 
 Bootstrap 5 uses **vanilla JS**
+
+&nbsp;
+
+&nbsp;
 
 # Difference between Bootstrap 5 and Bootstrap 3 & 4
 
@@ -84,7 +109,7 @@ A framework is a basic structure or set of ideas that provides support for somet
 
 &nbsp;
 
-# Responsive Web Design?
+# Responsive Web Design
 
 Responsive web design is about creating web sites which automatically adjust themselves to look good on all devices, from small phones to large desktops.
 
@@ -101,12 +126,3 @@ Responsive web design is about creating web sites which automatically adjust the
 &nbsp;
 
 &nbsp;
-
-# Setup Bootstrap in Your Project
-
-There are two ways to start using Bootstrap 5 on your own web site.
-
-- Include Bootstrap 5 from a CDN
-- Download Bootstrap 5 from getbootstrap.com
-
-CDN = Content Delivery Network
