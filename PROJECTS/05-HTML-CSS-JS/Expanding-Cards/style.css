@@ -1,17 +1,16 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.container{
-    position: absolute;
-    top: 50vh;
-    left:50vw;
-    transform: translate(-50%,-50%);
-    text-align: center;
+.container {
+  position: absolute;
+  top: 50vh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
+  text-align: center;
 }
-
 
 /* body{
     display: flex;
@@ -20,3 +19,7 @@
     justify-content: center;
     height: 100vh;
 } */
+
+.image:hover {
+    width: 360px;
+}

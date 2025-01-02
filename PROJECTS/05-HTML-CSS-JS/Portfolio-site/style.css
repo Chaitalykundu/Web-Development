@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+
+li {
+    list-style-type: none;
+    padding: 20px 30px;
+    cursor: pointer;
+}
+
+
+.name{
+    font-size: 40px;
+    /* float: left; */
+    text-align: left;
+}

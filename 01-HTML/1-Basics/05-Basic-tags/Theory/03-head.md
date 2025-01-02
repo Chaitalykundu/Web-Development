@@ -1,5 +1,11 @@
 # Overview
 
+- [Overview](#overview)
+- [head tag](#head-tag)
+- [Purpose of the `<head>` Tag](#purpose-of-the-head-tag)
+- [Tags Inside `<head>`](#tags-inside-head)
+- [Conclusion](#conclusion)
+
 &nbsp;
 
 &nbsp;
@@ -61,6 +67,6 @@ It provides essential details to the browser and search engines, influencing how
 
 &nbsp;
 
-# Conclusion:
+# Conclusion
 
 The `<head>` tag is essential for configuring how the webpage behaves, how it appears in the browser, and how it is perceived by search engines and social media platforms. It ensures that your page is functional, responsive, and properly optimized.

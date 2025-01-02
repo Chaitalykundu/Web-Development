@@ -77,6 +77,17 @@ It provides essential details to the browser and search engines, influencing how
 
 &nbsp;
 
+# Semantic Elements:
+
+| Semantic Elements | Description       |
+| ----------------- | ----------------- |
+| `<header>`        | top section       |
+| `<footer>`        | bottom section    |
+| `<main>`          | core content      |
+| `<article>`       | independent piece |
+| `<section>`       | group of content  |
+|                   |                   |
+
 &nbsp;
 
 &nbsp;
