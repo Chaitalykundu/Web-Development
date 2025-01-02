@@ -35,7 +35,7 @@ It's main purpose is to **create mobile responsive website**.
 
 # Bootstrap Versions
 
-Latest version of bootstrap is **Bootstrap 5**
+Latest version of bootstrap is **Bootstrap 5**. It uses **vanilla JS**
 
 &nbsp;
 
@@ -45,10 +45,6 @@ Latest version of bootstrap is **Bootstrap 5**
 | Bootstrap 4          | Introduced a mobile-first approach and better flexbox support.                    |
 | Bootstrap 5 (Latest) | Removed dependency on jQuery, improved grid system, and enhanced utility classes. |
 |                      |                                                                                   |
-
-&nbsp;
-
-Bootstrap 5 uses **vanilla JS**
 
 &nbsp;
 
