@@ -539,7 +539,7 @@ It’s a CSS unit used to measure the height and width in percentage with respec
 
 &nbsp;
 
-# What are the different Box Sizing Properties?
+# 9. What are the different Box Sizing Properties?
 
 The box-sizing CSS property sets how the total width and height of an element are calculated.
 
@@ -548,3 +548,148 @@ The box-sizing CSS property sets how the total width and height of an element ar
 - `Padding-box`: Width and height values apply to the element's content and its padding. The border is added to the outside of the box. Currently, only Firefox supports the padding-box value.
 
 - `Border-box`: Width and height values apply to the content,padding and border
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# 1. What does CSS stand for?
+
+CSS stands for cascading stylesheet
+
+&nbsp;
+
+&nbsp;
+
+# 2. What is the purpose of CSS
+
+We use CSS to style our HTML page to decorate this in organized way. It allows developers to control aspects like font, color, layout and spacing of HTML elements.
+
+&nbsp;
+
+&nbsp;
+
+# 3. How to link a CSS file in html document
+
+We can add external css file inside html `<head>` section using `<link>` tag.
+
+`<link href="CSS_file_Path" rel = "stylesheet" type="text/css">`
+
+- **rel** is used to indicate the relation between current document and the linked document. Some common values are
+
+  - stylesheet
+  - icon
+  - preload
+  - alternate
+
+- **type** attribute specifies the MIME type of the linked tag
+
+&nbsp;
+
+&nbsp;
+
+# 4. What is MIME
+
+A MIME type, also known as a **media type** or content type, is a two-part identifier that indicates the format of a file or content.
+
+&nbsp;
+
+&nbsp;
+
+# 5. What is the syntax of a CSS rule
+
+```css
+selector {
+  property: value;
+}
+```
+
+&nbsp;
+
+&nbsp;
+
+# 6. What are the different ways to apply CSS to a webpage?
+
+CSS can be applied in three ways
+
+1. **Inline styles**
+2. **Internal styles**
+3. **External styles**
+
+&nbsp;
+
+&nbsp;
+
+# 7. What is an inline style?
+
+Inline styles are CSS styles that applied directly to an individual html tag using style attribute.
+
+&nbsp;
+
+&nbsp;
+
+# 8. What is an internal stylesheet?
+
+Internal stylesheet is CSS style that is added in `<style>` tag inside head section in the html document.
+
+It applies styles to that particular html document.
+
+&nbsp;
+
+&nbsp;
+
+# 9. What is an external stylesheet?
+
+An External stylesheet is the separate css file which is linked in a html document in `<head>` section using `<link>` tag.
+
+It applies styles accross multiple html documents
+
+&nbsp;
+
+&nbsp;
+
+# 10. What is the difference between class selector and id selector
+
+| Description                       | class selector                       | id selector                       |
+| --------------------------------- | ------------------------------------ | --------------------------------- |
+| Applied in                        | Multiple element                     | Unique element                    |
+| Denoted by                        | .                                    | #                                 |
+| No of id / class for each element | Each element can have multiple class | Each element can have only one id |
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
