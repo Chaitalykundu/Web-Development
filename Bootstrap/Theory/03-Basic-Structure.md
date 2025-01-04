@@ -1,5 +1,15 @@
 # Overview
 
+- [Overview](#overview)
+- [Project Structure for Local Installation](#project-structure-for-local-installation)
+  - [Explanation of Folders and Files](#explanation-of-folders-and-files)
+- [Project Structure for CDN Method](#project-structure-for-cdn-method)
+  - [Explanation of Folders and Files](#explanation-of-folders-and-files-1)
+- [Structure of Bootstrap Itself](#structure-of-bootstrap-itself)
+  - [Explanation of Bootstrap Files](#explanation-of-bootstrap-files)
+- [Folder Organization for a Real-World Project](#folder-organization-for-a-real-world-project)
+- [Best Practices for Bootstrap Projects](#best-practices-for-bootstrap-projects)
+
 &nbsp;
 
 &nbsp;
@@ -32,7 +42,7 @@ project-folder/
 
 &nbsp;
 
-## Explanation of Folders and Files:
+## Explanation of Folders and Files
 
 1. **_css/ Folder_**:
 
@@ -102,7 +112,7 @@ project-folder/
 
 &nbsp;
 
-## Explanation of Folders and Files:
+## Explanation of Folders and Files
 
 1. **_index.html_**:
 
@@ -155,7 +165,7 @@ bootstrap/
 
 &nbsp;
 
-## Explanation of Bootstrap Files:
+## Explanation of Bootstrap Files
 
 1. **_css/_**:
 

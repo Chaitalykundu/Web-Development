@@ -1,12 +1,26 @@
 # Overview
 
 - [Overview](#overview)
+- [Chapter Summary](#chapter-summary)
 - [Setup Bootstrap in Your Project](#setup-bootstrap-in-your-project)
-- [CDN](#cdn)
-- [CDN CSS link](#cdn-css-link)
-- [CDN JS link](#cdn-js-link)
+- [Including a CDN](#including-a-cdn)
+  - [Steps to Set Up Bootstrap via CDN:](#steps-to-set-up-bootstrap-via-cdn)
+  - [CDN CSS link](#cdn-css-link)
+    - [Note](#note)
+  - [CDN JS link](#cdn-js-link)
+    - [Note](#note-1)
   - [Popper JS CDN link](#popper-js-cdn-link)
   - [Bootstrap JS CDN link](#bootstrap-js-cdn-link)
+  - [Pros of CDN](#pros-of-cdn)
+  - [Cons of CDN:](#cons-of-cdn)
+- [Local Installation](#local-installation)
+  - [Steps to Set Up Bootstrap Locally:](#steps-to-set-up-bootstrap-locally)
+  - [Pros of Local Installation:](#pros-of-local-installation)
+  - [Cons of Local Installation:](#cons-of-local-installation)
+- [Package Managers](#package-managers)
+- [Which Method Should You Choose?](#which-method-should-you-choose)
+  - [Use CDN:](#use-cdn)
+  - [Use Local Installation:](#use-local-installation)
 
 &nbsp;
 
