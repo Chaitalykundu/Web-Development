@@ -2,7 +2,7 @@
 
 - [Overview](#overview)
 - [Chapter Summary](#chapter-summary)
-- [Setup Bootstrap in Your Project](#setup-bootstrap-in-your-project)
+- [Setup Bootstrap in Your Project](#setup-bootstrap-in--------------------------------------your-project)
 - [Including a CDN](#including-a-cdn)
   - [Steps to Set Up Bootstrap via CDN:](#steps-to-set-up-bootstrap-via-cdn)
   - [CDN CSS link](#cdn-css-link)
