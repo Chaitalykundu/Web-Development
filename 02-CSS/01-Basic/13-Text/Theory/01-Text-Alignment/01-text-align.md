@@ -1,3 +1,11 @@
+# Overview
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 | Property   | Description                                | Default value                                           |
 | ---------- | ------------------------------------------ | ------------------------------------------------------- |
 | text-align | Specifies the horizontal alignment of text | left if direction is ltr, and right if direction is rtl |
@@ -8,7 +16,9 @@
 
 # Definition & usage
 
-The `text-align` property is used to set the **horizontal alignment** of a text.
+The `text-align` property is used to set the **horizontal alignment** of text within a block container, such as a `<div>`, `<p>`, or `<h1>`
+
+This means it works like vertical-align but in the horizontal direction.
 
 A text can be **left or right aligned, centered, or justified**.
 
@@ -17,6 +27,7 @@ A text can be **left or right aligned, centered, or justified**.
 # Note
 
 When the `text-align` property is set to "`justify`", each line is stretched so that every line has equal width, and the left and right margins are straight
+
 &nbsp;
 
 &nbsp;
@@ -54,9 +65,11 @@ p.main {
 
 &nbsp;
 
+# Specialization
+
 |                    |                                |
 | ------------------ | ------------------------------ |
-| Inherited:         | yes                            |
+| Inherited          | yes                            |
 | Animation type     | discrete                       |
 | Applies to         | block containers               |
 | JavaScript syntax: | object.style.textAlign="right" |
@@ -68,9 +81,8 @@ p.main {
 
 # Property values
 
-| Property     | Values                                                                                                                                                       |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Value        | Description                                                                                                                                                  |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | start        | The same as left if direction is left-to-right and right if direction is right-to-left.                                                                      |
 | end          | The same as right if direction is left-to-right and left if direction is right-to-left.                                                                      |
 | left         | Aligns the text to the left                                                                                                                                  |
@@ -81,3 +93,4 @@ p.main {
 | match-parent | Similar to inherit, but the values start and end are calculated according to the parent's direction and are replaced by the appropriate left or right value. |
 | initial      | Sets this property to its default value.                                                                                                                     |
 | inherit      | Inherits this property from its parent element.                                                                                                              |
+|              |                                                                                                                                                              |
