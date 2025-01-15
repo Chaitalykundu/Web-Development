@@ -17,11 +17,11 @@
 
 &nbsp;
 
-## start working
+## Start working
 
 Structure your page
 
 - index.html
 - images folder
 - styles folder
-- scripts folder:
+- scripts folder
