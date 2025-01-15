@@ -21,8 +21,8 @@ Breakpoints are customizable widths that determine how your responsive layout be
 
 Bootstrap works on 6 screens.
 
-| Breakpoint        | Class infix | Dimensions |
-| ----------------- | ----------- | ---------- |
+| Breakpoint        | Class infix | Dimensions | Usage |
+| ----------------- | ----------- | ---------- | ----- |
 | Extra small       | None        | <576px     |
 | Small             | sm          | ≥576px     |
 | Medium            | md          | ≥768px     |

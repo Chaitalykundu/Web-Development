@@ -18,7 +18,7 @@
 
 # Introduction
 
-Bootstrap is a free open-source, powerful front-end framework to create modern, responsive, and mobile-first websites and web applications easily.
+Bootstrap is a **free open-source, powerful front-end framework** to create modern, responsive, and mobile-first websites and web applications easily.
 
 It provides a collection of pre-designed components, utility classes, and tools to simplify web development.
 
