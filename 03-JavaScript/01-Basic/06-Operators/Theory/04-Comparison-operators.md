@@ -8,11 +8,15 @@ Identical comparison operators check datatype also. Ex: 5 == '5' but 5!=='5'
 
 &nbsp;
 
+&nbsp;
+
 ## Example
 
 ```js
 if (age < 18) text = "Too young to buy alcohol";
 ```
+
+&nbsp;
 
 &nbsp;
 
@@ -26,3 +30,4 @@ if (age < 18) text = "Too young to buy alcohol";
 | >=       | Greater than or equal to           | 20>=10 = true   |
 | <        | Less than                          | 20<10 = false   |
 | <=       | Less than or equal to              | 20<=10 = false  |
+|          |                                    |                 |

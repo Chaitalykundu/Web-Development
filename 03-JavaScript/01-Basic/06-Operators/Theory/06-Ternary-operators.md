@@ -1,3 +1,5 @@
+# Ternary operator
+
 JavaScript also contains a conditional operator that assigns a value to a variable based on some condition.
 
 Ternary operator is also known as **Conditional** operator

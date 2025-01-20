@@ -6,12 +6,16 @@ Comparison and Logical operators are used to test for true or false.
 
 &nbsp;
 
+&nbsp;
+
 ## Example
 
 ```js
 let x = 10;
 if (x == 5 || x == 10) return true;
 ```
+
+&nbsp;
 
 &nbsp;
 

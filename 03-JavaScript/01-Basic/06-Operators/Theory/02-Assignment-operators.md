@@ -19,13 +19,14 @@ x += 5;
 
 | Operator | Name                               | Description         | Example                       |
 | -------- | ---------------------------------- | ------------------- | ----------------------------- |
-| =        |                                    | Assign              | 10+10 = 20                    |
+| =        | Assignment Operator                | Assign              | 10+10 = 20                    |
 | +=       | Addition Assignment Operator       | Add and assign      | var a=10; a+=20; Now a = 30   |
 | -=       | Subtraction Assignment Operator    | Subtract and assign | var a=20; a-=10; Now a = 10   |
 | \*=      | Multiplication Assignment Operator | Multiply and assign | var a=10; a\*=20; Now a = 200 |
 | /=       | Division Assignment Operator       | Divide and assign   | var a=10; a/=2; Now a = 5     |
 | %=       | Remainder Assignment Operator      | Modulus and assign  | var a=10; a%=2; Now a = 0     |
 | \*\*=    | Exponentiation Assignment Operator | power and assign    |
+|          |                                    |                     |
 
 &nbsp;
 
@@ -113,6 +114,10 @@ let x = 10;
 x \*= 5;
 ```
 
+&nbsp;
+
+&nbsp;
+
 # The /= Operator
 
 The **Division Assignment Operator** divides a variable.
@@ -123,6 +128,10 @@ The **Division Assignment Operator** divides a variable.
 let x = 10;
 x /= 5;
 ```
+
+&nbsp;
+
+&nbsp;
 
 # The %= Operator
 

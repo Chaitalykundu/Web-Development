@@ -6,6 +6,8 @@ Multiplication (\*) and division (/) have higher precedence than addition (+) an
 
 &nbsp;
 
+&nbsp;
+
 ## Operator Precedence Values
 
 Expressions in parentheses are computed before the rest of the expression

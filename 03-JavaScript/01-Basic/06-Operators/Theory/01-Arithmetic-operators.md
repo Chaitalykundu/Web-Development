@@ -20,11 +20,12 @@ let x = (100 + 50) * a;
 | +        | Addition            | 10+20 = 30                |
 | -        | Subtraction         | 20-10 = 10                |
 | \*       | Multiplication      | 10\*20 = 200              |
-| \*\*     | Exponentiation      |
 | /        | Division            | 20/10 = 2                 |
-| %        | Modulus (Remainder) | 20%10 = 0                 |
+| %        | Modulus (Remainder) | 20%3 = 2                  |
+| \*\*     | Exponentiation      | 2 \*\* 3 = 8              |
 | ++       | Increment           | var a=10; a++; Now a = 11 |
 | --       | Decrement           | var a=10; a--; Now a = 9  |
+|          |                     |                           |
 
 &nbsp;
 
@@ -32,7 +33,7 @@ let x = (100 + 50) * a;
 
 # Operators and Operands
 
-The numbers (in an arithmetic operation) are called operands.
+The numbers (in an arithmetic operation) are called **operands**.
 
 The operation (to be performed between the two operands) is defined by an operator.
 
@@ -124,6 +125,30 @@ In mathematics, the result of a modulo operation is the remainder of an arithmet
 
 &nbsp;
 
+# Exponentiation
+
+The exponentiation operator (\*\*) raises the first operand to the power of the second operand.
+
+## Example
+
+```js
+let x = 5;
+let z = x ** 2;
+```
+
+x \*\* y produces the same result as Math.pow(x,y):
+
+## Example
+
+```js
+let x = 5;
+let z = Math.pow(x, 2);
+```
+
+&nbsp;
+
+&nbsp;
+
 # Incrementing
 
 The increment operator (++) increments numbers.
@@ -150,28 +175,4 @@ The decrement operator (--) decrements numbers.
 let x = 5;
 x--;
 let z = x;
-```
-
-&nbsp;
-
-&nbsp;
-
-# Exponentiation
-
-The exponentiation operator (\*\*) raises the first operand to the power of the second operand.
-
-## Example
-
-```js
-let x = 5;
-let z = x ** 2;
-```
-
-x \*\* y produces the same result as Math.pow(x,y):
-
-## Example
-
-```js
-let x = 5;
-let z = Math.pow(x, 2);
 ```

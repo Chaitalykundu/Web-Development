@@ -40,6 +40,7 @@ The following operators are known as JavaScript special operators.
 | in         | In Operator checks if object has the given property                             |
 | instanceof | checks if the object is an instance of given type                               |
 | new        | creates an instance (object)                                                    |
+|this	|Refers to the current context|
 | typeof     | checks the type of object.                                                      |
 | void       | it discards the expression's return value.                                      |
 | yield      | checks what is returned in a generator by the generator's iterator.             |
