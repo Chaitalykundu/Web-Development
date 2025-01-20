@@ -38,6 +38,8 @@ Primitive datatypes are the set of **basic datatypes** in javascript.
 
 # Number
 
+Represents integers and floating-point numbers.
+
 ```js
 var age = 21;
 ```
@@ -45,6 +47,8 @@ var age = 21;
 &nbsp;
 
 # Null
+
+Represents the intentional absence of value.
 
 ```js
 let nullvar = null;
@@ -54,6 +58,8 @@ let nullvar = null;
 
 # Boolean
 
+Represents `true` or `false`.
+
 ```js
 let istrue = true;
 ```
@@ -61,6 +67,8 @@ let istrue = true;
 &nbsp;
 
 # BigInt
+
+Used for numbers beyond the safe integer limit (2^53 - 1).
 
 ```js
 let value = BigInt(573) + BigInt(7);
@@ -70,6 +78,8 @@ let value = BigInt(573) + BigInt(7);
 
 # String
 
+Used for textual data.
+
 ```js
 var Name = "Chaitaly";
 ```
@@ -77,6 +87,8 @@ var Name = "Chaitaly";
 &nbsp;
 
 # Symbol
+
+Represents unique identifiers.
 
 ```js
 var sym = Symbol("I am a symbol");
@@ -95,6 +107,8 @@ console.log(id == anotherID); // false
 &nbsp;
 
 # Undefined
+
+Represents a variable that has been declared but not assigned a value.
 
 ```js
 let undefvar;

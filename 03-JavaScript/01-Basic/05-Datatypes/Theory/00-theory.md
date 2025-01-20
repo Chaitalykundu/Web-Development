@@ -62,7 +62,7 @@ U = undefined
 | Boolean   | represents boolean value either false or true  |
 | BigInt    |                                                |
 | undefined | represents undefined value                     |
-|||
+|           |                                                |
 
 &nbsp;
 
@@ -85,6 +85,7 @@ The Object Datatypes are :
 | Array     | represents group of similar values                      |
 | date      | represents date                                         |
 | RegExp    | represents regular expression                           |
+|           |                                                         |
 
 &nbsp;
 

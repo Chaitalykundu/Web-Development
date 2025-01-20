@@ -21,6 +21,8 @@ The Object Datatypes are :
 
 # Object
 
+Represents a collection of key-value pairs.
+
 ```js
 const car = { type: "Fiat", model: "500", color: "white" };
 ```
@@ -30,6 +32,8 @@ const car = { type: "Fiat", model: "500", color: "white" };
 &nbsp;
 
 # Array
+
+A special type of object used to store ordered lists of values.
 
 ```js
 const cars = ["Saab", "Volvo", "BMW"];
@@ -41,6 +45,8 @@ const cars = ["Saab", "Volvo", "BMW"];
 
 # Function
 
+A block of code designed to perform a task.
+
 ```js
 function findname() {}
 ```
@@ -51,6 +57,8 @@ function findname() {}
 
 # Dates
 
+Represents dates and times.
+
 ```js
 const d = new Date("2022-03-25");
 ```
@@ -58,3 +66,34 @@ const d = new Date("2022-03-25");
 &nbsp;
 
 &nbsp;
+
+# Map
+
+A collection of key-value pairs where keys can be of any type.
+
+```js
+let map = new Map();
+map.set("key", "value");
+console.log(map);
+```
+
+&nbsp;
+
+&nbsp;
+
+# Set
+
+A collection of unique values.
+
+```js
+let set = new Set([1, 2, 3, 3]);
+console.log(set);
+```
+
+&nbsp;
+
+&nbsp;
+
+# WeakMap and WeakSet
+
+Similar to `Map` and `Set` but with weakly held references for keys/values
