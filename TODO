@@ -89,13 +89,20 @@
   ✔ Dropdown navbar @done(24-12-19 13:05)
   ✔ Build a custom coming soon template Project @done(24-12-19 13:06)
 
-  justify-content
-  align-items
-  linear-gradient
-  rem unit
-  object-fit
-  transition
-  box-shadow
+
+  CSS
+    justify-content
+    align-items
+    linear-gradient
+    rem unit
+    object-fit
+    transition
+    box-shadow
 
 
+  JS
+    Soft copy
+    Hard Copy
+    Deep copy
+    Shallow Copy
   

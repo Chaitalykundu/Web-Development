@@ -68,3 +68,11 @@
 10. How to place a program or function in strict mode in js
 
     > using `use strict`
+
+11. Which method is used to remove the first element of an array?
+
+   > shift()
+
+12. Which method returns a shallow copy of a portion of an array?
+
+   > slice()
