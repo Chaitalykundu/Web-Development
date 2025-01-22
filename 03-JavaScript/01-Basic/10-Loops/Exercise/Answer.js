@@ -75,12 +75,122 @@ console.log(multipliedNumbers);
 and stores each city in a new array named `cityList`
 */
 
-let cities = ["Paris", "New York", "Tokyo", "London"]
+let cities = ["Paris", "New York", "Tokyo", "London"];
 let cityList = [];
 
-
-
 for (let i = 0; i < cities.length; i++) {
-  cityList.push(cities[i])
+  cityList.push(cities[i]);
 }
 console.log(cityList);
+
+/* 
+7. Write a `for` loop that loops through the array `[1,2,3,4,5,6,7,8,9]` and stops the loop when it finds 5. 
+Stores all elements before 5 in a new array.
+*/
+
+let arrNumber = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+let newArr = [];
+
+for (let i = 0; i < arrNumber.length; i++) {
+  if (arrNumber[i] === 5) break;
+  newArr.push(arrNumber[i]);
+}
+console.log(newArr);
+
+/* 
+8. Write a `for` loop that loops through the array `[1,2,3,4,5,6,7,8,9]` and skips 5. 
+Stores all elements in a new array.
+*/
+
+let arrSkip = [];
+
+for (let i = 0; i < arrNumber.length; i++) {
+  if (arrNumber[i] === 5) continue;
+  arrSkip.push(arrNumber[i]);
+}
+console.log(arrSkip);
+
+/* 
+9. Write a `for of` loop that loops through the array `[1,2,3,4,5,6,7,8,9]` and stops the loop when it finds 5. 
+Stores all elements before 5 in a new array.
+*/
+
+let newArrBreak = [];
+
+for (const i of arrNumber) {
+  if (i === 5) break;
+  newArrBreak.push(i);
+}
+console.log(newArrBreak);
+
+/* 
+10. Write a `for of` loop that loops through the array `[1,2,3,4,5,6,7,8,9]` and skips 5. 
+Stores all elements in a new array.
+*/
+
+let newArrSkip = [];
+
+for (let i of arrNumber) {
+  if (i == 5) continue;
+  newArrSkip.push(i);
+}
+
+console.log(newArrSkip);
+
+/* 
+11. Write a `for in` loop that loops through an object containing city populations.
+Stops the loop when the population of "Berlin" is found. 
+Stores all the previous cities' populations in a new object named `newCityPopulation`  
+*/
+
+let citiesPopulation = {
+  London: 8900000,
+  "New York": 8400000,
+  Paris: 2200000,
+  Rome: 50000,
+  Berlin: 3500000,
+};
+
+let newCityPopulation = {};
+
+for (let city in citiesPopulation) {
+  if (city == "Berlin") break;
+  newCityPopulation[city] = citiesPopulation[city];
+}
+
+console.log(newCityPopulation);
+
+/* 
+12. Write a `for in` loop that loops through an object containing city populations.
+Slip the city with the population bellow 100000. 
+Stores the rest cities in a new object named `largePopulation`  
+*/
+
+let largePopulation = {};
+
+for (let city in citiesPopulation) {
+  if (city == 100000) continue;
+  largePopulation[city] = citiesPopulation[city];
+}
+
+console.log(largePopulation);
+
+/*
+13. Write a `forEach` loop that loops through the array `[1,2,3,4,5,6,7,8,9]`.
+Stores all the elements in a new array.
+*/
+
+let newArrForNumber = [];
+arrNumber.forEach((element) => {
+  console.log(element);
+});
+
+/*
+14. Write a `forEach` loop that loops through the array `[1,2,3,4,5,6,7,8,9]` and stops the loop when it finds 5. 
+Stores all elements before 5 in a new array.
+*/
+
+/* 
+15. Write a `forEach` loop that loops through the array `[1,2,3,4,5,6,7,8,9]` and skips 5. 
+Stores all previous elements in a new array.
+*/
