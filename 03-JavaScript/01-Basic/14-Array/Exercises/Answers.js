@@ -6,7 +6,7 @@ let teaFlavors = ["green tea", "black tea", "oolong tea"];
 let firstTea = teaFlavors[0];
 console.log(firstTea);
 
-/* 
+/*
 2. Declare an array named `cities` containing `"London"`, `"Tokyo"`, `"Paris"`, and `"New York"`. 
    Access the third element in the array and store it in a variable named `favoriteCity`.
 */
@@ -20,7 +20,7 @@ console.log(favoriteCity);
    Change the second element of the array to `"jasmine tea"`.
 */
 
-let teaTypes = ["herbel tea", "white tea", "masala chai"];
+let teaTypes = ["herbal tea", "white tea", "masala chai"];
 teaTypes[1] = "jasmine tea";
 console.log(teaTypes);
 
@@ -70,7 +70,7 @@ let asianCities = ["Tokyo", "Bangkok"];
 let worldCities = europeanCities.concat(asianCities);
 console.log(worldCities);
 
-/* 
+/*
 9. You have an array named `teaMenu` containing `"masala chai"`, `"oolong tea"`, `"green tea"`, and `"earl grey"`. 
    Find the length of the array and store it in a variable named `menuLength`.
 */
@@ -79,31 +79,25 @@ let teaMenu = ["Masala chai", "oolong tea", "green tea", "earl grey"];
 const menuLength = teaMenu.length;
 console.log(menuLength);
 
-/* 
+/*
 10. You have an array named `cityBucketList` containing `"Kyoto"`, `"London"`, `"Cape Town"`, and `"Vancouver"`. 
     Check if `"London"` is in the array and store the result in a variable named `isLondonInList`.
 */
-
 
 let cityBucketList = ["Kyoto", "London", "Cape Town", "Vancouver"];
 
 let isLondonInList;
 
-for(let i=0;i< cityBucketList.length;i++)
-{
-  if(cityBucketList[i]=="London")
-  {
-   isLondonInList = true;
-   break;
-  }
-  else
-    isLondonInList = false
-}   
-      
-console.log(isLondonInList);
+for (let i = 0; i < cityBucketList.length; i++) {
+  if (cityBucketList[i] == "London") {
+    isLondonInList = true;
+    break;
+  } else isLondonInList = false;
+}
 
+console.log(isLondonInList);
 
 // alternative
 
-isLondonInList = cityBucketList.includes("London")
+isLondonInList = cityBucketList.includes("London");
 console.log(isLondonInList);
