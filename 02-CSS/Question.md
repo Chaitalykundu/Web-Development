@@ -164,10 +164,22 @@
 11. In how many ways font-size can be expressed?
 12. What is line-height
 13. Is negative value allow in line-height
-14. What is font-family
-15. How many types of font family name in css
-16. What is color property
-17. What is font-stretch
+
+&nbsp;
+
+## font-family
+
+1. What is font-family
+2. How many types of font family name in css
+3. generic font family
+4. When do we use generic font family
+
+&nbsp;
+
+##
+
+17. What is color property
+18. What is font-stretch
 
 &nbsp;
 
@@ -386,11 +398,11 @@
 
 &nbsp;
 
-2.  How do I create a flex container in CSS Flexbox?
+2. How do I create a flex container in CSS Flexbox?
 
-    ```md
-    To create a flex container in CSS Flexbox, you set the display property of an element to flex or inline-flex. This element then becomes the flex container, and its direct children become flex items.
-    ```
+   ```md
+   To create a flex container in CSS Flexbox, you set the display property of an element to flex or inline-flex. This element then becomes the flex container, and its direct children become flex items.
+   ```
 
 &nbsp;
 

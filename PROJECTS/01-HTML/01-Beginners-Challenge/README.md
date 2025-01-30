@@ -1,3 +1,18 @@
+# Status
+
+| Project             | Status |
+| ------------------- | ------ |
+| Basic Page Creation | Done   |
+| Table Creation      | Done   |
+| Form Challenge      | Done   |
+| List Creation       | Done   |
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ## 1. Basic Page Creation
 
 Create a simple webpage with:

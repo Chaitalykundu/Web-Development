@@ -21,7 +21,7 @@
 
 - The `font-size` property sets the size of a font.
 
-- The default size is 16px, which is equal to 1em.
+- The default size is **16px** or **1em**.
 
 - The font-size can be **absolute** or **relative**.
 
@@ -32,6 +32,7 @@
 | Property  | Description               | Default value |
 | --------- | ------------------------- | ------------- |
 | font-size | Specifies the font size . | medium        |
+|           |                           |               |
 
 &nbsp;
 
@@ -53,11 +54,15 @@ If we do not define a font-size, then for the normal text such as paragraphs, th
 
 &nbsp;
 
+&nbsp;
+
+# font-size category
+
 The font-size can be **absolute** or **relative**.
 
 &nbsp;
 
-## <u>Absolute-size</u>
+## <u>Absolute size</u>
 
 It is used to set the text to **a definite size**.
 
@@ -65,7 +70,7 @@ Using absolute-size, it is not possible to change the size of the text in all br
 
 &nbsp;
 
-## <u>Relative-size</u>
+## <u>Relative size</u>
 
 It is used to set the size of the text **relative to its neighboring elements**.
 
@@ -79,7 +84,8 @@ With relative-size, it is possible to change the size of the text in browsers.
 
 ```css
 selector {
-  font-size: medium|xx-small|x-small|small|large|x-large|xx-large|smaller|larger|length|percentage|initial|inherit;
+  font-size: medium | xx-small | x-small | small | large | x-large | xx-large |
+    smaller | larger |length | percentage | initial | inherit;
 }
 ```
 
@@ -141,3 +147,4 @@ Set different font weight for three paragraphs:
 | %        | Sets the font-size to a percent of the parent element's font size |
 | initial  | Sets this property to its default value.                          |
 | inherit  | Inherits this property from its parent element                    |
+|          |                                                                   |

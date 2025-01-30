@@ -1,3 +1,18 @@
+# Status
+
+| Project                       | Status |
+| ----------------------------- | ------ |
+| Responsive Design with Divs   |        |
+| Navigation Bar                |        |
+| Media Embedding               |        |
+| Create a form with fields for |        |
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ## 1. Responsive Design with Divs
 
 Create a webpage with a container (`<div>`) that has:
@@ -31,7 +46,7 @@ Create a webpage with a container (`<div>`) that has:
 
 &nbsp;
 
-## 4. Create a form with fields for:
+## 4. Create a form with fields for
 
 - Name, Email, Age, and Gender (radio buttons).
 - A dropdown menu for country selection.
