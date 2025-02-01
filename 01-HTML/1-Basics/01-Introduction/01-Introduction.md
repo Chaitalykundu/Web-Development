@@ -18,7 +18,7 @@
 
 - HTML stands for **Hyper Text Markup Language**.
 
-- HTML provides a way of displaying web pages with text and images or multimedia content.
+- HTML provides a way of displaying web pages with text and images or other multimedia contents.
 
 - HTML is used to define the `layout` or the `structure` of a webpage.
 

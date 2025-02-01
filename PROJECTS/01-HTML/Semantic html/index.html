@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantic HTML</title>
+
+    <style>
+        form{
+            border: 2px dashed gray;
+            padding:  10px;
+        }
+        label{
+            display: block;
+            margin: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header class=header>
+        <nav class="navbar">
+            <ul class="list">
+                <li class="list-item">Home</li>
+                <li class="list-item">About</li>
+                <li class="list-item">Contact Us</li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section></section>
+        <section></section>
+
+        <section id="contact-us">
+            
+            <h2>Contact Us</h2>
+
+            <form>
+                <label for="name"> Name : 
+                    <input type="text" id="name" value="name">
+                </label>
+                
+                <label for="email"> Email : 
+                    <input type="email" id="email" value="email">
+                </label>
+
+                <label for="query"> Message : 
+                    <textarea id="query" placeholder="Enter your query here"></textarea>
+                </label>
+
+                <label for="submit">
+                    <button value="submit">Submit</button>
+                </label>
+            </form>
+        </section>
+    </main>
+
+    <footer></footer>
+</body>
+
+</html>

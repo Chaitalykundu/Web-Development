@@ -64,19 +64,25 @@
 
 # Introduction
 
+## Introduction
+
 1. What is HTML
 2. What is Hypertext
 3. What is markup language
 4. How many types of pages are there in website
-5. What is the purpose of a web browser
-6. What are the key features of HTML
-7. What are the 5 uses of HTML?
-8. What are the new features of HTML5
-9. What are the difference between HTML & HTML5
-10. What are the advantages of HTML
-11. What are the disadvantages of HTML
-12. What are the differences between HTML & CSS
-13. Why do we name html file index.html
+5. What is dynamic webpage
+6. What is the purpose of a web browser
+
+## Features
+
+7. What are the key features of HTML
+8. What are the 5 uses of HTML?
+9. What are the new features of HTML5
+10. What are the difference between HTML & HTML5
+11. What are the advantages of HTML
+12. What are the disadvantages of HTML
+13. What are the differences between HTML & CSS
+14. Why do we name html file index.html
 
 &nbsp;
 
@@ -469,13 +475,11 @@
 
 ## 1. What is HTML
 
-```md
 HTML stands for Hypertext Markup language.
 
-It Provides a way of displaying the webpages with texts and images or multimedia contents.
+It Provides a way of displaying the webpages with texts and images or other multimedia contents.
 
-HTML is used to define the layout or the structure of a webpage.
-```
+HTML is used to define the `layout` or the `structure` of a webpage.
 
 &nbsp;
 
@@ -483,9 +487,7 @@ HTML is used to define the layout or the structure of a webpage.
 
 ## 2. What is Hypertext
 
-```md
 Hypertext is a way of connecting texts or images or webpages to another one, either in a single website or between websites.
-```
 
 &nbsp;
 
@@ -493,23 +495,41 @@ Hypertext is a way of connecting texts or images or webpages to another one, eit
 
 ## 3. What is markup language
 
-```md
+Markup Language is the way to structure and format the contents of a webpage. To do this HTML use `tags` and `attributes`.
 
-```
+&nbsp;
+
+&nbsp;
 
 ## 4. How many types of pages are there in website
 
-```md
 There are two types of pages in website.
 
 1. Static page
 2. Dynamic page
-```
 
 &nbsp;
 
 &nbsp;
 
+## 5. What is dynamic webpage
+
+Dynamic webpages are those where the contents of the webpages depends on the user input.
+
+&nbsp;
+
+&nbsp;
+
+## 6. What is the purpose of a web browser
+
+The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to read HTML documents and display them correctly.
+
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+&nbsp;
 &nbsp;
 
 &nbsp;
