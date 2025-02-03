@@ -1,11 +1,18 @@
 # Overview
 
-- JavaScript Display Possibilities
-- Using innerHTML
-- Using document.write()
-- Using window.alert()
-- Using console.log()
-- JavaScript Print
+- [Overview](#overview)
+- [JavaScript Display Possibilities](#javascript-display-possibilities)
+- [Using innerHTML](#using-innerhtml)
+  - [Example](#example)
+- [Using document.write()](#using-documentwrite)
+  - [Example](#example-1)
+    - [Note](#note)
+- [Using window.alert()](#using-windowalert)
+  - [Example](#example-2)
+- [Using console.log()](#using-consolelog)
+  - [Example](#example-3)
+- [JavaScript Print](#javascript-print)
+  - [Example](#example-4)
 
 &nbsp;
 

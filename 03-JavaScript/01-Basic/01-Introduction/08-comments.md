@@ -1,8 +1,11 @@
 # Overview
 
-- JavaScript Comments
-- Single Line Comment
-- Multi-line Comments
+- [Overview](#overview)
+- [JavaScript Comments](#javascript-comments)
+- [Single Line Comment](#single-line-comment)
+  - [Example](#example)
+- [Multi-line Comment](#multi-line-comment)
+- [Example](#example-1)
 
 &nbsp;
 

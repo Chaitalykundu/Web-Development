@@ -1,3 +1,45 @@
+# Overview
+
+- [Overview](#overview)
+- [Questions](#questions)
+- [Introduction](#introduction)
+  - [Theory](#theory)
+  - [JS Versions](#js-versions)
+  - [How to add](#how-to-add)
+  - [Output](#output)
+  - [Statements](#statements)
+  - [Keywords](#keywords)
+  - [Syntax](#syntax)
+  - [Comments](#comments)
+- [Variable](#variable)
+- [Datatype](#datatype)
+- [Closure](#closure)
+- [Answer](#answer)
+- [Introduction](#introduction-1)
+  - [1. What is Programming](#1-what-is-programming)
+  - [2. What does ES stand for](#2-what-does-es-stand-for)
+  - [3. What is ECMAScript](#3-what-is-ecmascript)
+  - [5. How is it related to JavaScript](#5-how-is-it-related-to-javascript)
+- [Datatype](#datatype-1)
+  - [2. Is null an independent type or object](#2-is-null-an-independent-type-or-object)
+- [Variable](#variable-1)
+  - [8. Can we declare Many Variables is one statement](#8-can-we-declare-many-variables-is-one-statement)
+- [Closure](#closure-1)
+  - [1. What is a closure in JavaScript?](#1-what-is-a-closure-in-javascript)
+  - [2. Why are closures important in JavaScript?](#2-why-are-closures-important-in-javascript)
+  - [3. Can you give an example of a closure in JavaScript?](#3-can-you-give-an-example-of-a-closure-in-javascript)
+- [1. What are the Difference Between String `indexOf()` and String `search()`](#1-what-are-the-difference-between-string-indexof-and-string-search)
+- [2.Why do we use functions?](#2why-do-we-use-functions)
+- [3. What are the ways to empty an array?](#3-what-are-the-ways-to-empty-an-array)
+- [4. What is the difference between console.log, alert() and document.write()](#4-what-is-the-difference-between-consolelog-alert-and-documentwrite)
+- [5. What is Node?](#5-what-is-node)
+- [6. Is JS a Client-Side or Server-Side Language?](#6-is-js-a-client-side-or-server-side-language)
+- [7. Why do we avoid to use var?](#7-why-do-we-avoid-to-use-var)
+
+&nbsp;
+
+&nbsp;
+
 # Questions
 
 # Introduction
@@ -16,7 +58,6 @@
 10. What is High-level language
 11. What is Interpreted language
 12. What is Dynamic Language
-
 
 - How is JavaScript different from Java?
 - What are the key features of JavaScript?

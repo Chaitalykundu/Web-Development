@@ -1,8 +1,11 @@
 # Overview
 
-- Statements
-- JavaScript White Space
-- JavaScript Line Length and Line Breaks
+- [Overview](#overview)
+- [Statements](#statements)
+  - [Example](#example)
+- [JavaScript White Space](#javascript-white-space)
+- [JavaScript Line Length and Line Breaks](#javascript-line-length-and-line-breaks)
+  - [Example](#example-1)
 
 &nbsp;
 
@@ -51,10 +54,10 @@ The following lines are equivalent:
 
 ```js
 let person = "Hege";
-let person="Hege";
+let person = "Hege";
 ```
 
-A good practice is to put spaces around operators ( = + - * / )
+A good practice is to put spaces around operators ( = + - \* / )
 
 &nbsp;
 

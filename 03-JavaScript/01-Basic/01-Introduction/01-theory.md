@@ -1,11 +1,16 @@
 # Overview
 
-- Programming
-- ECMAScript
-- JavaScript
-- Features of JavaScript
-- Application of JavaScript
-- What can we build using JavaScript
+- [Overview](#overview)
+- [Programming](#programming)
+- [ECMAScript](#ecmascript)
+  - [Why ECMAScript Matters](#why-ecmascript-matters)
+- [JavaScript](#javascript)
+- [Features of JavaScript](#features-of-javascript)
+- [Application of JavaScript](#application-of-javascript)
+- [What can we build using JavaScript](#what-can-we-build-using-javascript)
+- [High-level language](#high-level-language)
+- [Interpreted language](#interpreted-language)
+- [Dynamic Language](#dynamic-language)
 
 &nbsp;
 
