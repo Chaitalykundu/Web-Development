@@ -5,11 +5,25 @@
 ## Theory
 
 1. What is Programming
-2. What is ECMAScript
-3. What is JavaScript
-4. What are the features of JS
-5. What are the Application of JavaScript
-6. What can we build using JavaScript
+2. What does ES stand for
+3. What is ECMAScript
+4. Why does ECMAScript Matter
+5. How is it related to JavaScript
+6. What is JavaScript
+7. What are the features of JS
+8. What are the Application of JavaScript
+9. What can we build using JavaScript
+10. What is High-level language
+11. What is Interpreted language
+12. What is Dynamic Language
+
+
+- How is JavaScript different from Java?
+- What are the key features of JavaScript?
+- Why is JavaScript called a client-side scripting language?
+- What is the difference between JavaScript and ECMAScript?
+- Is JavaScript a compiled or an interpreted language? Explain.
+- What are the different JavaScript engines?
 
 &nbsp;
 
@@ -154,7 +168,79 @@
 
 &nbsp;
 
-&nbsp;
+- What is the difference between var, let, and const in JavaScript?
+
+- Explain arrow functions (()=>{}) and how they differ from regular functions.
+
+- What is template literals, and how are they used in ES6?
+
+- What are default parameters, and why are they useful?
+
+- Explain destructuring assignment in ES6 with an example.
+
+- What is the difference between spread (...) and rest (...) operators?
+
+- What is strict mode in JavaScript, and why is it used?
+
+- How does block scoping work in JavaScript?
+
+- 🔹 Intermediate Level
+
+- What is ECMAScript Modules (ESM), and how do import and export work?
+
+- What are Promises in JavaScript, and how do they help in asynchronous programming?
+
+- Explain async/await and how it improves handling asynchronous code.
+
+- What is optional chaining (?.), and how does it work?
+
+- What is Nullish Coalescing (??), and how is it different from ||?
+
+- How does Set and Map work in ES6?
+
+- What is the difference between forEach(), map(), filter(), and reduce()?
+
+- Explain WeakMap and WeakSet and when to use them.
+
+- What are Symbol and BigInt in JavaScript?
+
+- What is the difference between a shallow copy and a deep copy in JavaScript?
+
+- 🔹 Advanced Level
+
+- How do JavaScript engines (V8, SpiderMonkey, etc.) implement ECMAScript?
+
+- What is tail call optimization, and how does it work in JavaScript?
+
+- How do private class fields work in JavaScript?
+
+- What are dynamic imports, and how do they improve performance?
+
+- Explain the concept of iterators and generators in JavaScript.
+
+- How does Reflect API work in JavaScript?
+
+- What are Proxy objects, and how can they be used?
+
+- How does debouncing and throttling work in JavaScript?
+
+- What is WeakRef, and when should it be used?
+
+- How does ESLint help enforce ECMAScript standards in projects?
+
+- 🔥 Bonus Questions (Conceptual & Practical)
+
+- What is hoisting, and how does it work with var, let, and const?
+
+- What are getter and setter methods, and how are they defined in ES6?
+
+- Explain event loop, microtasks, and macrotasks in JavaScript.
+
+- What is currying, and how can it be implemented?
+
+- What is the difference between deep destructuring and shallow destructuring?
+
+- &nbsp;
 
 &nbsp;
 
@@ -166,13 +252,45 @@
 
 # Answer
 
+# Introduction
+
+## 1. What is Programming
+
+Programming is the way of talking to computer
+
+&nbsp;
+
+## 2. What does ES stand for
+
+ES stands for EcmaScript
+
+&nbsp;
+
+## 3. What is ECMAScript
+
+Ecmascript defines the specification of scripting language.
+Ecmascript is the specification or standard that tells how scripting language should be.
+
 &nbsp;
 &nbsp;
+
+## 5. How is it related to JavaScript
+
+- JavaScript is an implementation of ECMAScript.
+
+- ECMAScript provides the core features (such as data types, objects, functions, and control structures), while JavaScript adds browser-specific functionalities like DOM manipulation, events, and APIs.
+
+- Think of ECMAScript as the blueprint, and JavaScript as a practical implementation based on that blueprint.
+
+&nbsp;
+
+&nbsp;
+
 &nbsp;
 
 # Datatype
 
-2. Is null an independent type or object
+## 2. Is null an independent type or object
 
 ```md
 null is an object type

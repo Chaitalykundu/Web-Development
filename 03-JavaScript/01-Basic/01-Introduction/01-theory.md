@@ -6,7 +6,7 @@
 - Features of JavaScript
 - Application of JavaScript
 - What can we build using JavaScript
-  
+
 &nbsp;
 
 &nbsp;
@@ -27,16 +27,31 @@ Programming is a way to talk to computers.
 
 `ECMAScript` (/ˈɛkməskrɪpt/; ES) is a specification or standard that tells how scripting language should be.
 
-The **ECMAScript** specification is a blueprint for creating a scripting language.
-**JavaScript** is an implementation of that blueprint.
+The **ECMAScript** specification is a blueprint for creating a scripting language. **JavaScript** is an implementation of that blueprint.
 
 It was created to ensure that different documents on javascript are talking about the same language.
 
 &nbsp;
 
+&nbsp;
+
+## Why ECMAScript Matters
+
+- Ensures **compatibility** and **consistency** across JavaScript
+  engines (V8, SpiderMonkey, Chakra, etc.).
+
+- Provides modern features that improve code readability,
+  performance, and maintainability.
+
+- Helps developers understand how JavaScript evolves over time.
+
+&nbsp;
+
+&nbsp;
+
 # JavaScript
 
-JavaScript is a lightweight, interpreted, event-based, client-side, object-oriented programming language.
+JavaScript is a **high-level, lightweight, interpreted, event-based, client-side, object-oriented dynamic programming language**.
 
 JavaScript is used to create client-side dynamic pages.
 
@@ -58,7 +73,7 @@ JavaScript is not a compiled language, but it is a translated language. The Java
 
 - **_Scripting_** : Javascript executes the client-side script in the browser.
 
-- **_Interpreter_** : The browser interprets JavaScript code.
+- **_Interpreter_** : No need for compilation. The browser interprets JavaScript code.
 
 - **_Event Handling_** : Events are actions. Javascript provides event-handling options.
 
@@ -111,3 +126,45 @@ JavaScript is used to create interactive websites. It is mainly used for:
 - 3-D drawing
 - Mobile apps
 - Smart watch apps
+
+&nbsp;
+
+&nbsp;
+
+# High-level language
+
+A high-level language is one that is designed to be easy for humans to read and write.
+
+It abstracts away complex details like memory management, register allocation, and CPU instructions, allowing developers to focus on logic rather than low-level hardware operations.
+
+&nbsp;
+
+&nbsp;
+
+# Interpreted language
+
+An interpreted language is executed line-by-line at runtime by an interpreter, rather than being compiled into machine code beforehand.
+
+&nbsp;
+
+&nbsp;
+
+# Dynamic Language
+
+A dynamic language allows changes to variables, objects, and types at runtime (without needing explicit type declarations).
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
