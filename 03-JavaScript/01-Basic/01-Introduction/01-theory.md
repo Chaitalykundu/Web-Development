@@ -162,9 +162,17 @@ A dynamic language allows changes to variables, objects, and types at runtime (w
 
 &nbsp;
 
-&nbsp;
+# EcmaScript vs JavaScript
 
-&nbsp;
+| Feature         | ECMAScript                                                  | JavaScript                                                             |
+| --------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Definition      | Language Specification                                      | Language Implementation                                                |
+| Purpose         | Defines rules, syntax, and features for scripting languages | Implements ECMAScript for web and other platforms                      |
+| Standardization | Managed by Ecma International (ECMA-262)                    | Developed initially by Netscape, now managed by multiple organizations |
+| Core            | Features Data types, control structures, standard library   | ECMAScript + Web APIs (DOM, BOM) + additional features                 |
+| Usage           | Not directly executable                                     | Widely used in browsers, servers (Node.js), mobile apps, etc.          |
+| Examples        | ES5, ES6, ES7, ES2023                                       | JavaScript (in browsers, Node.js)                                      |
+|                 |                                                             |                                                                        |
 
 &nbsp;
 

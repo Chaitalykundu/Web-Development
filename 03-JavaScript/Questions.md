@@ -58,12 +58,18 @@
 10. What is High-level language
 11. What is Interpreted language
 12. What is Dynamic Language
+13. Why is JavaScript called a client-side scripting language?
+14. Is JavaScript a compiled or an interpreted language? Explain.
+15. What is the difference between JavaScript and ECMAScript?
 
-- How is JavaScript different from Java?
-- What are the key features of JavaScript?
-- Why is JavaScript called a client-side scripting language?
-- What is the difference between JavaScript and ECMAScript?
-- Is JavaScript a compiled or an interpreted language? Explain.
+&nbsp;
+
+&nbsp;
+
+## JS vs Java
+
+1. How is JavaScript different from Java?
+
 - What are the different JavaScript engines?
 
 &nbsp;
@@ -201,6 +207,45 @@
 
 &nbsp;
 
+JavaScript Characteristics
+What do you mean by "JavaScript is a high-level language"?
+What is an interpreted language? How does it apply to JavaScript?
+Why is JavaScript called a dynamic language?
+What do you mean by weakly typed (loosely typed) language in JavaScript?
+What is Just-In-Time (JIT) Compilation in JavaScript?
+What is the difference between statically typed and dynamically typed languages? Where does JavaScript fit?
+What is automatic type conversion (type coercion) in JavaScript?
+📌 History & Evolution
+Who created JavaScript, and when was it created?
+Why was JavaScript originally created?
+What are the major versions of ECMAScript, and what features were introduced in ES6?
+What is the difference between ES5 and ES6?
+Which JavaScript version is most commonly used today?
+📌 JavaScript in Practice
+What are the different environments where JavaScript can run?
+What is the role of JavaScript in web development?
+Can JavaScript be used for backend development? If yes, how?
+What is the difference between client-side and server-side JavaScript?
+What is Node.js, and how is it related to JavaScript?
+Can JavaScript be used for mobile app development?
+How does JavaScript handle memory management?
+What is the difference between synchronous and asynchronous execution in JavaScript?
+📌 Miscellaneous
+What are some limitations of JavaScript?
+What is the Document Object Model (DOM) in JavaScript?
+How does JavaScript interact with HTML and CSS?
+🚀 Bonus (Scenario-Based Questions)
+If JavaScript is single-threaded, how does it handle multiple tasks?
+What will happen if you run JavaScript code in an older browser that doesn’t support ES6 features?
+Why does console.log(0.1 + 0.2 === 0.3) return false in JavaScript?
+Explain the output of:
+javascript
+Copy
+Edit
+console.log(typeof NaN);
+What happens when JavaScript encounters an undefined variable?
+
+
 &nbsp;
 
 &nbsp;
@@ -281,9 +326,44 @@
 
 - What is the difference between deep destructuring and shallow destructuring?
 
-- &nbsp;
+
+
+
 
 &nbsp;
+
+&nbsp;
+
+1. What is JavaScript?
+2. What are the data types supported by JavaScript?
+3. What is the difference between `let`, `const`, and `var`?
+4. Explain how `==` and `===` differ.
+5. What is a closure?
+6. What is hoisting?
+7. Explain the concept of "this" in JavaScript.
+8. What are JavaScript prototypes?
+9. What is the difference between `null` and `undefined`?
+10. How does JavaScript handle asynchronous operations?
+11. What is a promise?
+12. What are async/await functions?
+13. Explain event delegation in JavaScript.
+14. What are JavaScript modules?
+15. How can you prevent a function from being called multiple times?
+16. What is the event loop?
+17. What is the difference between `apply()` and `call()` methods?
+18. What is `bind()` method used for?
+19. What is a JavaScript event loop?
+20. Explain the concept of "event bubbling" and "event capturing".
+21. What is the difference between `deep copy` and `shallow copy`?
+22. What are generator functions?
+23. What is the `new` keyword used for?
+24. How do JavaScript’s `setTimeout` and `setInterval` work?
+25. What is a `WeakMap` and how is it different from a `Map`?
+26. What is a `Set` in JavaScript?
+27. What is `Object.create()` used for?
+28. How does JavaScript’s garbage collection work?
+29. What are "decorators" in JavaScript?
+30. Explain the difference between `prototype` and `__proto__`.
 
 &nbsp;
 
