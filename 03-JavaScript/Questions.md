@@ -2,15 +2,16 @@
 
 - [Overview](#overview)
 - [Questions](#questions)
-- [Introduction](#introduction)
-  - [Theory](#theory)
-  - [JS Versions](#js-versions)
-  - [How to add](#how-to-add)
+  - [Introduction](#introduction)
+    - [Theory](#theory)
+    - [JS Versions](#js-versions)
+    - [How to add](#how-to-add)
   - [Output](#output)
   - [Statements](#statements)
   - [Keywords](#keywords)
   - [Syntax](#syntax)
   - [Comments](#comments)
+  - [JS vs Java](#js-vs-java)
 - [Variable](#variable)
 - [Datatype](#datatype)
 - [Closure](#closure)
@@ -20,14 +21,29 @@
   - [2. What does ES stand for](#2-what-does-es-stand-for)
   - [3. What is ECMAScript](#3-what-is-ecmascript)
   - [5. How is it related to JavaScript](#5-how-is-it-related-to-javascript)
+- [JS Versions](#js-versions-1)
+  - [1. When and by whom was javascript invented](#1-when-and-by-whom-was-javascript-invented)
+  - [2. What are the different names of javascript](#2-what-are-the-different-names-of-javascript)
+  - [3. Why was JavaScript originally created?](#3-why-was-javascript-originally-created)
+  - [4. Which is the latest version of ECMAscript and what features were introduced there](#4-which-is-the-latest-version-of-ecmascript-and-what-features-were-introduced-there)
+  - [5. What can we use in code to treat all js code as newer version?](#5-what-can-we-use-in-code-to-treat-all-js-code-as-newer-version)
+  - [6. What are the major differences between ES5 and ES6?](#6-what-are-the-major-differences-between-es5-and-es6)
+  - [7. What will happen if you run JavaScript code in an older browser that doesn’t support ES6 features?](#7-what-will-happen-if-you-run-javascript-code-in-an-older-browser-that-doesnt-support-es6-features)
+  - [8. Which JavaScript version is most commonly used today?](#8-which-javascript-version-is-most-commonly-used-today)
+  - [9. Why is ES6 the Most Popular?](#9-why-is-es6-the-most-popular)
+- [How to add](#how-to-add-1)
+  - [1. Which tag is used to add JS code](#1-which-tag-is-used-to-add-js-code)
+  - [2. What are the places we can add JS code](#2-what-are-the-places-we-can-add-js-code)
+  - [3. What are the advantages External JavaScript](#3-what-are-the-advantages-external-javascript)
+- [Output](#output-1)
 - [Datatype](#datatype-1)
   - [2. Is null an independent type or object](#2-is-null-an-independent-type-or-object)
 - [Variable](#variable-1)
-  - [8. Can we declare Many Variables is one statement](#8-can-we-declare-many-variables-is-one-statement)
+    - [8. Can we declare Many Variables is one statement](#8-can-we-declare-many-variables-is-one-statement)
 - [Closure](#closure-1)
-  - [1. What is a closure in JavaScript?](#1-what-is-a-closure-in-javascript)
-  - [2. Why are closures important in JavaScript?](#2-why-are-closures-important-in-javascript)
-  - [3. Can you give an example of a closure in JavaScript?](#3-can-you-give-an-example-of-a-closure-in-javascript)
+    - [1. What is a closure in JavaScript?](#1-what-is-a-closure-in-javascript)
+    - [2. Why are closures important in JavaScript?](#2-why-are-closures-important-in-javascript)
+    - [3. Can you give an example of a closure in JavaScript?](#3-can-you-give-an-example-of-a-closure-in-javascript)
 - [1. What are the Difference Between String `indexOf()` and String `search()`](#1-what-are-the-difference-between-string-indexof-and-string-search)
 - [2.Why do we use functions?](#2why-do-we-use-functions)
 - [3. What are the ways to empty an array?](#3-what-are-the-ways-to-empty-an-array)
@@ -42,9 +58,9 @@
 
 # Questions
 
-# Introduction
+## Introduction
 
-## Theory
+### Theory
 
 1. What is Programming
 2. What does ES stand for
@@ -56,38 +72,40 @@
 8. What are the Application of JavaScript
 9. What can we build using JavaScript
 10. What is High-level language
-11. What is Interpreted language
-12. What is Dynamic Language
-13. Why is JavaScript called a client-side scripting language?
-14. Is JavaScript a compiled or an interpreted language? Explain.
-15. What is the difference between JavaScript and ECMAScript?
+11. What is Light-weight programming languages
+12. What is Interpreted language
+13. What is Dynamic Language
+14. Why is JavaScript called a client-side scripting language?
+15. Is JavaScript a compiled or an interpreted language? Explain.
+16. What do you mean by weakly typed (loosely typed) language in JavaScript?
+17. What is the difference between JavaScript and ECMAScript?
+18. What is the difference between statically typed and dynamically typed languages? Where does JavaScript fit?
 
 &nbsp;
 
 &nbsp;
 
-## JS vs Java
-
-1. How is JavaScript different from Java?
-
-- What are the different JavaScript engines?
-
-&nbsp;
-
-&nbsp;
-
-## JS Versions
+### JS Versions
 
 1. When and by whom was javascript invented
 2. What are the different names of javascript
-3. Which is the latest version of ECMAscript
-4. What can we use in code to treat all js code as newer version.
+3. Why was JavaScript originally created?
+4. Which is the latest version of ECMAscript and what features were introduced there
+5. What can we use in code to treat all js code as newer version.
+6. What are the major differences between ES5 and ES6?
+7. What will happen if you run JavaScript code in an older browser that doesn’t support ES6 features?
+8. Which JavaScript version is most commonly used today?
+9. Why is ES6 the Most Popular?
 
 &nbsp;
 
 &nbsp;
 
-## How to add
+### How to add
+
+1. Which tag is used to add JS code
+2. What are the places we can add JS code
+3. What are the advantages External JavaScript
 
 &nbsp;
 
@@ -134,6 +152,16 @@
 1. Why do we use comments
 2. Which is the symbol of Single-line Comments
 3. Which is the symbol of Multi-line Comments
+
+&nbsp;
+
+&nbsp;
+
+## JS vs Java
+
+1. How is JavaScript different from Java?
+
+- What are the different JavaScript engines?
 
 &nbsp;
 
@@ -208,43 +236,59 @@
 &nbsp;
 
 JavaScript Characteristics
-What do you mean by "JavaScript is a high-level language"?
-What is an interpreted language? How does it apply to JavaScript?
-Why is JavaScript called a dynamic language?
-What do you mean by weakly typed (loosely typed) language in JavaScript?
 What is Just-In-Time (JIT) Compilation in JavaScript?
-What is the difference between statically typed and dynamically typed languages? Where does JavaScript fit?
-What is automatic type conversion (type coercion) in JavaScript?
-📌 History & Evolution
-Who created JavaScript, and when was it created?
-Why was JavaScript originally created?
-What are the major versions of ECMAScript, and what features were introduced in ES6?
-What is the difference between ES5 and ES6?
-Which JavaScript version is most commonly used today?
-📌 JavaScript in Practice
-What are the different environments where JavaScript can run?
-What is the role of JavaScript in web development?
-Can JavaScript be used for backend development? If yes, how?
-What is the difference between client-side and server-side JavaScript?
-What is Node.js, and how is it related to JavaScript?
-Can JavaScript be used for mobile app development?
-How does JavaScript handle memory management?
-What is the difference between synchronous and asynchronous execution in JavaScript?
-📌 Miscellaneous
-What are some limitations of JavaScript?
-What is the Document Object Model (DOM) in JavaScript?
-How does JavaScript interact with HTML and CSS?
-🚀 Bonus (Scenario-Based Questions)
-If JavaScript is single-threaded, how does it handle multiple tasks?
-What will happen if you run JavaScript code in an older browser that doesn’t support ES6 features?
-Why does console.log(0.1 + 0.2 === 0.3) return false in JavaScript?
-Explain the output of:
-javascript
-Copy
-Edit
-console.log(typeof NaN);
-What happens when JavaScript encounters an undefined variable?
 
+What is automatic type conversion (type coercion) in JavaScript?
+
+📌 JavaScript in Practice
+
+- What are the different environments where JavaScript can run?
+- What is the role of JavaScript in web development?
+- Can JavaScript be used for backend development? If yes, how?
+- What is the difference between client-side and server-side JavaScript?
+- What is Node.js, and how is it related to JavaScript?
+- Can JavaScript be used for mobile app development?
+- How does JavaScript handle memory management?
+- What is the difference between synchronous and asynchronous execution in JavaScript?
+- 📌 Miscellaneous
+- What are some limitations of JavaScript?
+- What is the Document Object Model (DOM) in - JavaScript?
+- How does JavaScript interact with HTML and CSS?
+
+  🚀 Bonus (Scenario-Based Questions)
+  If JavaScript is single-threaded, how does it handle multiple tasks?
+
+  Why does console.log(0.1 + 0.2 === 0.3) return false in JavaScript?
+  Explain the output of:
+  javascript
+  Copy
+  Edit
+  console.log(typeof NaN);
+  What happens when JavaScript encounters an undefined variable?
+
+- What is "use strict";? How does it help?
+- Explain map(), filter(), and reduce() with examples.
+- Difference between == and === in JavaScript?
+
+What is the difference between var, let, and const?
+How do arrow functions differ from regular functions?
+Explain how destructuring works with objects and arrays.
+What are Promises? How do they work?
+How is includes() different from indexOf()?
+Explain how async/await works. How is it different from Promises?
+How does the spread operator work with objects?
+What does .finally() do in Promises?
+What is flat() used for in JavaScript?
+What is the difference between ?? and || operators?
+How does optional chaining improve code readability?
+How is replaceAll() different from replace()?
+
+What is the benefit of Object.hasOwn()?
+
+How do let, const, and var differ?
+What is the purpose of async/await?
+What are the benefits of using map(), filter(), and reduce()?
+Explain optional chaining (?.) and nullish coalescing (??).
 
 &nbsp;
 
@@ -326,15 +370,10 @@ What happens when JavaScript encounters an undefined variable?
 
 - What is the difference between deep destructuring and shallow destructuring?
 
-
-
-
-
 &nbsp;
 
 &nbsp;
 
-1. What is JavaScript?
 2. What are the data types supported by JavaScript?
 3. What is the difference between `let`, `const`, and `var`?
 4. Explain how `==` and `===` differ.
@@ -393,6 +432,7 @@ Ecmascript defines the specification of scripting language.
 Ecmascript is the specification or standard that tells how scripting language should be.
 
 &nbsp;
+
 &nbsp;
 
 ## 5. How is it related to JavaScript
@@ -409,6 +449,149 @@ Ecmascript is the specification or standard that tells how scripting language sh
 
 &nbsp;
 
+# JS Versions
+
+## 1. When and by whom was javascript invented
+
+JavaScript was invented by **Brendan Eich** in 1995, and became an ECMA standard in 1997.
+
+&nbsp;
+
+&nbsp;
+
+## 2. What are the different names of javascript
+
+Mocha > livescript > JavaScript
+
+&nbsp;
+
+&nbsp;
+
+## 3. Why was JavaScript originally created?
+
+JavaScript was originally created To add interactivity to web pages, like handling button clicks, form validation, and dynamic content updates.
+
+&nbsp;
+
+&nbsp;
+
+## 4. Which is the latest version of ECMAscript and what features were introduced there
+
+As of February 2025, the latest version of ECMAScript (ES), the standard upon which JavaScript is based, is ECMAScript 2024 (ES15), published in June 2024.
+
+&nbsp;
+
+**Key Features Introduced in ECMAScript 2024:**
+
+1. Grouping Synchronous Iterables: Object.groupBy() and Map.groupBy() Methods
+2. Promise.withResolvers() Method
+3. Regular Expression /v Flag
+4. Resizable ArrayBuffers
+5. Well-Formed Unicode Strings
+
+&nbsp;
+
+&nbsp;
+
+## 5. What can we use in code to treat all js code as newer version?
+
+`use strict`
+
+&nbsp;
+
+&nbsp;
+
+## 6. What are the major differences between ES5 and ES6?
+
+&nbsp;
+
+&nbsp;
+
+## 7. What will happen if you run JavaScript code in an older browser that doesn’t support ES6 features?
+
+If you try to run ES6 JavaScript in an older browser (like Internet Explorer or early versions of Chrome/Firefox), you may face errors or unexpected behavior because the browser doesn’t recognize ES6 syntax.
+
+&nbsp;
+
+| ES6 Feature                         | Issue in Older Browsers                   |
+| ----------------------------------- | ----------------------------------------- |
+| `let` and `const`                   | SyntaxError: `Unexpected identifier`      |
+| Arrow Functions (()=>{})            | SyntaxError: `Unexpected token '=>'`      |
+| Template Literals (`Hello ${name}`) | Displays raw string without variables     |
+| Destructuring (const {name} = obj;) | SyntaxError: `Unexpected token {`         |
+| import/export Modules               | SyntaxError: `Unexpected token 'import'`  |
+| Promise and async/await             | ReferenceError: `Promise is not defined ` |
+
+&nbsp;
+
+&nbsp;
+
+## 8. Which JavaScript version is most commonly used today?
+
+The most widely used JavaScript version today is ECMAScript 6 (ES6 / ES2015) and its subsequent updates (ES7 to ES2024).
+
+&nbsp;
+
+&nbsp;
+
+## 9. Why is ES6 the Most Popular?
+
+- Widely Supported → All modern browsers (Chrome, Firefox, Edge, Safari) fully support ES6.
+- Modern Features → Includes let/const, arrow functions, promises, template literals, and modules.
+- Backward Compatibility → Works alongside ES5, ensuring a smooth transition.
+- Node.js Compatibility → ES6+ is fully supported in modern Node.js versions, making it popular for backend -development too.
+- Industry Adoption → Frameworks like React, Angular, and Vue rely on ES6+ features
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# How to add
+
+## 1. Which tag is used to add JS code
+
+The tag is used to add JS code `<script></script>`
+
+&nbsp;
+
+&nbsp;
+
+## 2. What are the places we can add JS code
+
+We can add JS code in 3 places of HTML code
+
+- Between the body tag of html
+- Between the head tag of html
+- In .js file (external javaScript)
+
+&nbsp;
+
+&nbsp;
+
+## 3. What are the advantages External JavaScript
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Output
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Datatype
 
 ## 2. Is null an independent type or object
@@ -418,10 +601,13 @@ null is an object type
 ```
 
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;
-&nbsp;
+
 &nbsp;
 
 # Variable

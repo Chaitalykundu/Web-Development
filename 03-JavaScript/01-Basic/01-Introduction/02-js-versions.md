@@ -95,6 +95,7 @@ We can use `use strict` to treat all js code as newer version.
 |     |                     | Object.fromEntries                             |
 |     |                     | Optional catch binding                         |
 |     | ECMAScript 2020     | The Nullish Coalescing Operator (??)           |
+|     |                     |                                                |
 
 &nbsp;
 &nbsp;

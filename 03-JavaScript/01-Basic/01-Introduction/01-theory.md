@@ -8,9 +8,15 @@
 - [Features of JavaScript](#features-of-javascript)
 - [Application of JavaScript](#application-of-javascript)
 - [What can we build using JavaScript](#what-can-we-build-using-javascript)
-- [High-level language](#high-level-language)
-- [Interpreted language](#interpreted-language)
+- [Key Points](#key-points)
+  - [High-level language](#high-level-language)
+  - [Light-weight programming language](#light-weight-programming-language)
+  - [Interpreted language](#interpreted-language)
 - [Dynamic Language](#dynamic-language)
+    - [JavaScript is dynamically typed, meaning:](#javascript-is-dynamically-typed-meaning)
+  - [Weakly typed (loosely typed) language](#weakly-typed-loosely-typed-language)
+- [EcmaScript vs JavaScript](#ecmascript-vs-javascript)
+- [Statically Typed vs. Dynamically Typed Languages](#statically-typed-vs-dynamically-typed-languages)
 
 &nbsp;
 
@@ -78,7 +84,7 @@ JavaScript is not a compiled language, but it is a translated language. The Java
 
 - **_Scripting_** : Javascript executes the client-side script in the browser.
 
-- **_Interpreter_** : No need for compilation. The browser interprets JavaScript code.
+- **_Interpreted language_** : No need for compilation. The browser interprets JavaScript code.
 
 - **_Event Handling_** : Events are actions. Javascript provides event-handling options.
 
@@ -136,7 +142,9 @@ JavaScript is used to create interactive websites. It is mainly used for:
 
 &nbsp;
 
-# High-level language
+# Key Points
+
+## High-level language
 
 A high-level language is one that is designed to be easy for humans to read and write.
 
@@ -144,9 +152,13 @@ It abstracts away complex details like memory management, register allocation, a
 
 &nbsp;
 
+## Light-weight programming language
+
+Lightweight programming languages are designed to have small memory footprint, are easy to implement.
+
 &nbsp;
 
-# Interpreted language
+## Interpreted language
 
 An interpreted language is executed line-by-line at runtime by an interpreter, rather than being compiled into machine code beforehand.
 
@@ -157,6 +169,26 @@ An interpreted language is executed line-by-line at runtime by an interpreter, r
 # Dynamic Language
 
 A dynamic language allows changes to variables, objects, and types at runtime (without needing explicit type declarations).
+
+&nbsp;
+
+### JavaScript is dynamically typed, meaning:
+
+- You don't need to declare variable types explicitly (let x = 10; instead of int x = 10;).
+
+- A variable can hold different types at different times (let x = 10; x = "hello"; is valid).
+
+- Type errors are only caught at runtime (console.log(5 + "5"); // "55" instead of throwing an error).
+
+However, TypeScript (a superset of JavaScript) brings static typing to JavaScript, allowing type checking at compile time.
+
+&nbsp;
+
+&nbsp;
+
+## Weakly typed (loosely typed) language
+
+A weakly typed (loosely typed) language allows implicit type conversions (type coercion), meaning variables can be used in operations even if they are of different types. The language automatically converts values between types as needed.
 
 &nbsp;
 
@@ -177,6 +209,17 @@ A dynamic language allows changes to variables, objects, and types at runtime (w
 &nbsp;
 
 &nbsp;
+
+# Statically Typed vs. Dynamically Typed Languages
+
+| Feature          | Statically Typed                                   | Dynamically Typed                                                  |
+| ---------------- | -------------------------------------------------- | ------------------------------------------------------------------ |
+| Definition       | Data types are checked at compile time.            | Data types are checked at runtime.                                 |
+| Type Declaration | Variables must be explicitly declared with a type. | Variables can hold any type, and their type can change at runtime. |
+| Error Detection  | Type-related errors are detected before execution. | Type-related errors are only detected when the code runs.          |
+| Performance      | Faster execution due to early type checking.       | Slower execution since types are resolved dynamically.             |
+| Examples         | C, C++, Java, TypeScript, Go                       | JavaScript, Python, Ruby, PHP                                      |
+|                  |                                                    |                                                                    |
 
 &nbsp;
 
