@@ -113,11 +113,20 @@
 
 ## Output
 
+1. How can JS data be displayed
+2. What is the main use of `document.write`
+3. Where should we not call `document.write`
+4. What is the main use of `console.log`
+5. What is the use of `window.print()`
+
 &nbsp;
 
 &nbsp;
 
 ## Statements
+
+1. What is Statement
+2. What things are composed of JavaScript statements
 
 &nbsp;
 

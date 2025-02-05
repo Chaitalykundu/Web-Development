@@ -91,7 +91,7 @@ For testing purposes, it is convenient to use `document.write()`:
 
 The `document.write()` method should only be used for testing.
 
-Never call document.write after the document has finished loading. It will overwrite the whole document.
+Never call `document.write` after the document has finished loading. It will overwrite the whole document.
 
 &nbsp;
 
