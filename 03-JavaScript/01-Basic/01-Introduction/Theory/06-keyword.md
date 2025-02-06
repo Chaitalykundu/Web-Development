@@ -19,6 +19,12 @@ JavaScript statements often start with a keyword.
 
 Reserved words cannot be used as names for variables.
 
+There are total **63** keywords in JS.
+
+&nbsp;
+
+&nbsp;
+
 # Example
 
 The `let` keyword tells the browser to create variables

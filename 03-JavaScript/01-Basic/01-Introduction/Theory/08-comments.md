@@ -15,6 +15,10 @@
 
 # JavaScript Comments
 
+Comments in JavaScript are **non-executable** lines used to explain code. They help with readability, debugging, and documentation.
+
+&nbsp;
+
 JavaScript comments can be used to
 
 - explain JavaScript code, and to make it more readable.

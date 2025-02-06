@@ -39,11 +39,11 @@
 - [Datatype](#datatype-1)
   - [2. Is null an independent type or object](#2-is-null-an-independent-type-or-object)
 - [Variable](#variable-1)
-    - [8. Can we declare Many Variables is one statement](#8-can-we-declare-many-variables-is-one-statement)
+  - [8. Can we declare Many Variables is one statement](#8-can-we-declare-many-variables-is-one-statement)
 - [Closure](#closure-1)
-    - [1. What is a closure in JavaScript?](#1-what-is-a-closure-in-javascript)
-    - [2. Why are closures important in JavaScript?](#2-why-are-closures-important-in-javascript)
-    - [3. Can you give an example of a closure in JavaScript?](#3-can-you-give-an-example-of-a-closure-in-javascript)
+  - [1. What is a closure in JavaScript?](#1-what-is-a-closure-in-javascript)
+  - [2. Why are closures important in JavaScript?](#2-why-are-closures-important-in-javascript)
+  - [3. Can you give an example of a closure in JavaScript?](#3-can-you-give-an-example-of-a-closure-in-javascript)
 - [1. What are the Difference Between String `indexOf()` and String `search()`](#1-what-are-the-difference-between-string-indexof-and-string-search)
 - [2.Why do we use functions?](#2why-do-we-use-functions)
 - [3. What are the ways to empty an array?](#3-what-are-the-ways-to-empty-an-array)
@@ -111,7 +111,7 @@
 
 &nbsp;
 
-## Output
+### Output
 
 1. How can JS data be displayed
 2. What is the main use of `document.write`
@@ -123,16 +123,17 @@
 
 &nbsp;
 
-## Statements
+### Statements
 
 1. What is Statement
 2. What things are composed of JavaScript statements
+3. Can we add extra white spaces in JS code
 
 &nbsp;
 
 &nbsp;
 
-## Keywords
+### Keywords
 
 1. What is keyword
 2. Can we use keyword as variable name
@@ -141,22 +142,26 @@
 
 &nbsp;
 
-## Syntax
+### Syntax
 
 1. How many types of values are there in JS? What are they called
-2. What are the syntax rules for Literals
-3. What is Variable
-4. Which keywords are used to declare variables
-5. What is Expression
-6. What is Evaluation
-7. What is Identifiers
-8. What are the rules for Identifiers
+2. What is literal
+3. How many types of JavaScript Literals are there is js
+4. What are the syntax rules for Literals
+5. Is JS case sensitive
+6. Is hypen allowed in JavaScript
+7. What is Variable
+8. Which keywords are used to declare variables
+9. What is Expression
+10. What is Evaluation
+11. What is Identifiers
+12. What are the rules for Identifiers
 
 &nbsp;
 
 &nbsp;
 
-## Comments
+### Comments
 
 1. Why do we use comments
 2. Which is the symbol of Single-line Comments
@@ -166,17 +171,28 @@
 
 &nbsp;
 
-## JS vs Java
+### JS Engine
+
+1. What is JS engine
+2. What are the different JavaScript engines?
+3. How does a JavaScript Engine Work
+4. What is JIT
+
+&nbsp;
+
+&nbsp;
+
+### JS vs Java
 
 1. How is JavaScript different from Java?
 
-- What are the different JavaScript engines?
-
 &nbsp;
 
 &nbsp;
 
-# Variable
+## Variable
+
+### Theory
 
 1. What is Variable
 2. Which is the basic unit of storage in a program
@@ -186,6 +202,9 @@
 6. How to Declare a variable
 7. Is it possible to Declare & Initialize a variable together
 8. Can we declare Many Variables is one statement
+9. Is re-declaration of variable possible
+
+### Var
 
 &nbsp;
 

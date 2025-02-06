@@ -1,12 +1,6 @@
 # Overview
 
-- What are Variables
-- JavaScript Identifiers
-- Naming rules
-- Ways to Declare a JavaScript Variable
-- Declaring a Variable
-- Initializing a variable
-- Declaring & Initializing together
+- [Overview](#overview)
 
 &nbsp;
 
@@ -14,173 +8,98 @@
 
 &nbsp;
 
-# What are Variables
+# `var` Keyword
 
-Variables are containers for storing data (storing data values).
+The `var` keyword is used in all JavaScript code from 1995 to 2015.
 
-It is a basic unit of storage in a program.
+Variables defined with `var` can be redeclared.
+
+Variables declared with the `var` have **global scope**.
+
+&nbsp;
+
+Variables declared inside a `{ }` block can be accessed from outside the block.
 
 &nbsp;
 
 ## Example
 
-In this example, x, y, and z, are variables, declared with the `var` keyword:
-
 ```js
-var x = 5;
-var y = 6;
-var z = x + y;
+{
+  var x = 2;
+}
+// "x" can be used here
 ```
 
 &nbsp;
 
-The value stored in a variable can be changed during program execution.
+&nbsp;
+
+# When to Use JavaScript var?
+
+If you want your code to run in **older browsers**, you must use `var`.
+
+&nbsp;
+
+&nbsp;
+
+# Redeclaring Variables
+
+Redeclaring a variable using the `var` in the same block is allowed:
+
+&nbsp;
 
 ## Example
 
 ```js
-var x = 5;
+var x = 2;
+// Now x is 2
 
-var x = "Chaitaly";
+var x = 3;
+// Now x is 3
 ```
 
 &nbsp;
 
-&nbsp;
+Redeclaring a variable using the `var` keyword can impose problems.
 
-# JavaScript Identifiers
-
-All JavaScript variables must be identified with **unique** names. These unique names are called **_identifiers_**.
-
-Identifiers can be short names (like x and y) or more descriptive names (age, sum, totalVolume).
+Redeclaring a variable inside a block will also redeclare the variable outside the block
 
 &nbsp;
 
-&nbsp;
-
-# Naming rules
-
-- Names can contain letters, digits, underscores, and dollar signs.
-- Names must begin with a letter or $ or \_ .
-- Names are case sensitive (y and Y are different variables).
-- Reserved words (like JavaScript keywords) cannot be used as names.
-- Spaces are not allowed in variable names.
-
-&nbsp;
-
-&nbsp;
-
-# Ways to Declare a JavaScript Variable
-
-4 Ways to Declare a JavaScript Variable:
-
-- Using `var`
-- Using `let`
-- Using `const`
-- Using nothing
-
-These are the keywords which define that a variable is declared.
-
-&nbsp;
-
-&nbsp;
-
-# Declaring a Variable
-
-**Creating** a variable in JavaScript is called "**declaring**" a variable.
-
-You can declare a JavaScript variable with the `var`, `let` or `const` keyword:
+## Example
 
 ```js
-var carName;
-let carName;
-const carName;
+var x = 10;
+// Here x is 10
+
+{
+  var x = 2;
+  // Here x is 2
+}
+
+// Here x is 2
 ```
 
 &nbsp;
 
-After the declaration, the variable has no value (technically it is `undefined`).
+&nbsp;
+
+# `var` Hoisting
+
+Variables defined with `var` are hoisted to the top and can be initialized at any time.
+
+Meaning: You can use the variable before it is declared:
 
 &nbsp;
 
-&nbsp;
+## Example
 
-# Initializing a variable
-
-To initialize a value to the variable, use the `equal` sign:
+This is OK:
 
 ```js
 carName = "Volvo";
-```
-
-&nbsp;
-
-&nbsp;
-
-# Declaring & Initializing together
-
-You can also assign a value to the variable when you declare it:
-
-```js
-let carName = "Volvo";
-```
-
-&nbsp;
-
-&nbsp;
-
-# One Statement, Many Variables
-
-You can declare many variables in one statement.
-
-Start the statement with let and separate the variables by comma:
-
-```js
-let person = "John Doe",
-  carName = "Volvo",
-  price = 200;
-```
-
-&nbsp;
-
-&nbsp;
-
-# Re-Declaring JavaScript Variables
-
-If you re-declare a JavaScript variable declared with var, it will **not lose its value**.
-
-## Example
-
-```js
-var carName = "Volvo";
 var carName;
 ```
 
-The variable `carName` will still have the value "`Volvo`" after the execution of these statements
-
 &nbsp;
-
-## Note
-
-You cannot re-declare a variable declared with `let` or `const`.
-
-&nbsp;
-
-&nbsp;
-
-# Global JavaScript Variables
-
-A variable declared **outside a function**, becomes `GLOBAL`.
-
-&nbsp;
-
-## Example
-
-```js
-let carName = "Volvo";
-// code here can use carName
-
-function myFunction() {
-  // code here can also use carName
-}
-```

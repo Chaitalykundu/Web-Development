@@ -50,12 +50,7 @@ Semicolons separate JavaScript statements.
 
 JavaScript ignores multiple spaces. You can add white space to your script to make it more readable.
 
-The following lines are equivalent:
-
-```js
-let person = "Hege";
-let person = "Hege";
-```
+### Note
 
 A good practice is to put spaces around operators ( = + - \* / )
 
@@ -67,14 +62,14 @@ A good practice is to put spaces around operators ( = + - \* / )
 
 If a JavaScript statement does not fit on one line, the best place to break it is after an operator
 
+&nbsp;
+
 ## Example
 
 ```js
 `document.getElementById("demo").innerHTML = 
 "Hello Dolly!";`;
 ```
-
-&nbsp;
 
 &nbsp;
 &nbsp;
