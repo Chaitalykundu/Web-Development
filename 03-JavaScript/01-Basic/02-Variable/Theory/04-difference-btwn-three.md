@@ -1,4 +1,14 @@
-# Difference between var let and const
+# Overview
+
+- [Overview](#overview)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Difference between var, let and const
 
 | Topic                                  | var                                                                            | let                                                                                  | const                                                                                          |
 | -------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
@@ -8,3 +18,4 @@
 | declared without initialization        | It can be declared without initialization.                                     | It can be declared without initialization.                                           | It can not be declared without initialization.                                                 |
 | Can be accessed without initialization | It can be accessed without initialization as its default value is “undefined”. | It cannot be accessed without initialization otherwise it will give ‘referenceError’ | It cannot be accessed without initialization, as it cannot be declared without initialization. |
 | Hoisting                               | hoisting done, with initializing as ‘default’ value                            | Hoisting is done, but not initialized                                                | Hoisting is done, but not initialized                                                          |
+|                                        |                                                                                |                                                                                      |

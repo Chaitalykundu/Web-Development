@@ -1,6 +1,18 @@
+# Overview
+
+- [Overview](#overview)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # `let` Keyword
 
-The `let` keyword was introduced in ES6 (2015).
+`let` is one of the ways to declare variables in JavaScript
+
+The `let` keyword was introduced in **ES6** (2015).
 
 Variables defined with `let` can not be redeclared.
 
@@ -12,7 +24,18 @@ Variables defined with `let` have block scope.
 
 &nbsp;
 
-# When to use `let`?
+# Key Characteristics of let
+
+- **Block-scoped** (limited to {} blocks like if, for, etc.)
+- **Cannot be redeclared within the same scope**
+- **Can be reassigned** (mutable)
+- **Hoisted but not initialized** (Cannot access before declaration)
+
+&nbsp;
+
+&nbsp;
+
+# When to use `let`
 
 If you think the value of the variable **can change**, use `let`.
 
@@ -55,7 +78,7 @@ Variables declared inside a `{ }` block cannot be accessed from outside the bloc
 
 # Redeclaring Variables
 
-Redeclaring a variable using the `let` in the same block is NOT allowed:
+Redeclaring a variable using the `let` in the same block is NOT allowed
 
 &nbsp;
 
@@ -106,7 +129,7 @@ let x = 10;
 
 Variables defined with `let` are also hoisted to the top of the block, but not initialized.
 
-Meaning: Using a `let` variable before it is declared will result in a `ReferenceError`:
+Meaning: Using a `let` variable before it is declared will result in a `ReferenceError`
 
 &nbsp;
 

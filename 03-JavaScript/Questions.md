@@ -204,11 +204,76 @@
 8. Can we declare Many Variables is one statement
 9. Is re-declaration of variable possible
 
+&nbsp;
+
+&nbsp;
+
 ### Var
 
+1. What is var
+2. Can we access the variable from outside the block which is declared in `var`
+3. What are the characteristics of var
+4. When should we use JavaScript var
+5. If we declare a variable inside a block will it redeclare outside the block
+6. What is var Hoisting
+7. Which scope var has
+
 &nbsp;
 
 &nbsp;
+
+### let
+
+1. What is let
+2. What are the characteristics of let
+3. When should we use JavaScript let
+4. If we declare a variable inside a block will it redeclare outside the block
+5. What is let Hoisting
+
+&nbsp;
+
+&nbsp;
+
+### const
+
+1. What is const
+2. What are the characteristics of const
+3. When should we use JavaScript const
+4. If we declare a variable inside a block will it redeclare outside the block
+5. Can we re-assign value in const
+6. What is const Hoisting
+
+&nbsp;
+
+&nbsp;
+
+### var vs let vs const
+
+1. What are the differences between var and et and const
+
+&nbsp;
+
+&nbsp;
+
+# Escape Sequence
+
+1. What is escape sequence
+2. Explain some common escape sequences
+
+&nbsp;
+
+&nbsp;
+
+## Scope
+
+1. What is scope
+2. How many types of scopes are there in js
+3. If you assign a value to a variable that has not been declared what will happen
+4. What is the problem of global scope
+5. 
+
+
+
 
 &nbsp;
 

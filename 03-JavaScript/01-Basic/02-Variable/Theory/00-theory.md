@@ -1,5 +1,6 @@
 # Overview
 
+- [Overview](#overview)
 - What are Variables
 - JavaScript Identifiers
 - Naming rules
@@ -18,6 +19,8 @@
 
 Variables are containers, used to store data values
 
+It allows you to store, update, and reuse information throughout your program.
+
 It is a basic unit of storage in a program.
 
 &nbsp;
@@ -30,18 +33,6 @@ In this example, x, y, and z, are variables, declared with the `var` keyword:
 var x = 5;
 var y = 6;
 var z = x + y;
-```
-
-&nbsp;
-
-The value stored in a variable can be changed during program execution.
-
-## Example
-
-```js
-var x = 5;
-
-var x = "Chaitaly";
 ```
 
 &nbsp;
@@ -72,12 +63,11 @@ Identifiers can be short names (like x and y) or more descriptive names (age, su
 
 # Ways to Declare a JavaScript Variable
 
-4 Ways to Declare a JavaScript Variable:
+3 Ways to Declare a JavaScript Variable:
 
 - Using `var`
 - Using `let`
 - Using `const`
-- Using nothing
 
 These are the keywords which define that a variable is declared.
 
@@ -168,9 +158,27 @@ You cannot re-declare a variable declared with `let` or `const`.
 
 &nbsp;
 
+&nbsp;
+
 # Global JavaScript Variables
 
-A variable declared **outside a function**, becomes `GLOBAL`.
+A global variable is a variable that is declared outside of a function, class, or block and can be accessed from anywhere in the program.
+
+It has a global scope, meaning it is available throughout the execution of the program.
+
+&nbsp;
+
+&nbsp;
+
+# Key Characteristics of Global Variables
+
+- **Accessible Everywhere** – Can be used inside functions, loops, and even other files (if imported).
+
+- **Persistent Value** – Retains its value throughout the program execution.
+
+- **Risk of Unintended Modifications** – Can be modified by any function, which may lead to unexpected behaviors.
+
+&nbsp;
 
 &nbsp;
 

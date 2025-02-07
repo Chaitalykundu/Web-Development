@@ -1,12 +1,31 @@
-Scope determines the **accessibility** (visibility) of variables, objects, and functions from different parts of the code.
+# Overview
+
+- [Overview](#overview)
 
 &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Scope
+
+Scope determines the **accessibility** (visibility) of variables, objects, and functions from different parts of the code.
+
+It determines where a variable can be used and how long it exists.
+
+&nbsp;
+
+&nbsp;
+
+# Types of scope
 
 JavaScript has 3 types of scope:
 
 - Global scope
 - Function scope
 - Block scope
+- Lexical Scope (Closures)
 
 &nbsp;
 
@@ -14,7 +33,7 @@ JavaScript has 3 types of scope:
 
 # Global Scope
 
-Variables declared **Globally (outside any function)** have Global Scope.
+Variables declared **Globally (outside any function or block)** have Global Scope.
 
 Global variables can be accessed from anywhere in a JavaScript program.
 
@@ -32,11 +51,17 @@ const x = 2; // Global scope
 
 &nbsp;
 
+# Problem
+
+If too many global variables exist, they can cause conflicts.
+
+&nbsp;
+
 &nbsp;
 
 # Automatically Global
 
-If you assign a value to a variable that has not been declared, it will automatically become a **GLOBAL** variable.
+If we assign a value to a variable that has not been declared, it will automatically become a **GLOBAL** variable.
 
 &nbsp;
 
@@ -147,3 +172,28 @@ Variables declared inside a `{ }` block can be accessed from outside the block.
 Local variable's lifetime is **within the block** of its declaration
 
 Global variable's lifetime is **throughout the program**
+
+&nbsp;
+
+&nbsp;
+
+# Lexical Scope (Closures)
+
+Lexical scope means a function can access variables from its parent scope
+
+&nbsp;
+
+```js
+function outer() {
+  let outerVar = "I'm from outer";
+
+  function inner() {
+    console.log(outerVar); // ✅ Accessible (lexical scope)
+  }
+
+  inner();
+}
+outer();
+```
+
+The inner function (inner()) can access outerVar from outer(). But outerVar is not accessible outside outer().

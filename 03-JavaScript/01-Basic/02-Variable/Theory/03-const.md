@@ -1,4 +1,16 @@
+# Overview
+
+- [Overview](#overview)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # `const` keyword
+
+`const` is one of the ways to declare variables in JavaScript.
 
 The `const` keyword was introduced in ES6 (2015).
 
@@ -12,7 +24,19 @@ Variables defined with `const` have Block Scope.
 
 &nbsp;
 
-# When to use JavaScript const?
+# Key Characteristics of const
+
+- **Block-scoped** (limited to {} blocks like if, for, etc.)
+- **Cannot be redeclared within the same scope**
+- **Can be reassigned** (mutable)
+- **Cannot be re-assigned within the same scope** ()
+- **Hoisted but not initialized** (Cannot access before declaration)
+
+&nbsp;
+
+&nbsp;
+
+# When to use JavaScript const
 
 Always declare a variable with `const` when you know that the value should **not be changed**.
 
@@ -127,7 +151,9 @@ const x = 2; // Not allowed
 
 Variables defined with `const` are also hoisted to the top of the block, but not initialized.
 
-Meaning: Using a `const` variable before it is declared will result in a `ReferenceError`:
+Meaning: Using a `const` variable before it is declared will result in a `ReferenceError`
+
+&nbsp;
 
 ## Example
 
@@ -136,5 +162,4 @@ carName = "Saab";
 const carName = "Volvo";
 ```
 
-&nbsp;
 &nbsp;
