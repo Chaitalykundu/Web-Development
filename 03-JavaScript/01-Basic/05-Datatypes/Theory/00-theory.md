@@ -1,12 +1,15 @@
 # Overview
 
-- Datatypes
-- Types of datatypes
-- Primitive datatypes
-- Non-primitives or Object datatypes
-- Adding a number and a string
-- JavaScript Types are Dynamic
-- Empty Value
+- [Overview](#overview)
+- [Datatypes](#datatypes)
+  - [Types of datatypes](#types-of-datatypes)
+- [Primitive datatypes](#primitive-datatypes)
+- [Non-primitives or Object datatypes](#non-primitives-or-object-datatypes)
+- [Adding a number and a string](#adding-a-number-and-a-string)
+- [JavaScript Types are Dynamic](#javascript-types-are-dynamic)
+  - [Example](#example)
+- [Empty Values](#empty-values)
+  - [Example](#example-1)
 
 &nbsp;
 

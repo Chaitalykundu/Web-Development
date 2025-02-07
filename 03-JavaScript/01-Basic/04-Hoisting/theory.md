@@ -1,6 +1,19 @@
 # Overview
 
 - [Overview](#overview)
+- [Hoisting Summary](#hoisting-summary)
+- [Hoisting](#hoisting)
+  - [Note](#note)
+- [Hoisting with `var`](#hoisting-with-var)
+  - [Key point](#key-point)
+- [Example](#example)
+- [Hoisting with `let` and `const`](#hoisting-with-let-and-const)
+  - [Key Point](#key-point-1)
+- [Example](#example-1)
+- [🚨 Real-World Bug Due to Hoisting](#-real-world-bug-due-to-hoisting)
+    - [Buggy Code (Due to Hoisting)](#buggy-code-due-to-hoisting)
+  - [Why Does This Bug Happen?](#why-does-this-bug-happen)
+  - [Corrected Code (Using Function Declaration)](#corrected-code-using-function-declaration)
 
 &nbsp;
 

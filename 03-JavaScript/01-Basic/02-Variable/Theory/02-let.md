@@ -1,6 +1,17 @@
 # Overview
 
 - [Overview](#overview)
+- [`let` Keyword](#let-keyword)
+- [Key Characteristics of let](#key-characteristics-of-let)
+- [When to use `let`](#when-to-use-let)
+  - [Example](#example)
+- [Block Scope](#block-scope)
+  - [Example](#example-1)
+- [Redeclaring Variables](#redeclaring-variables)
+  - [Example](#example-2)
+  - [Example](#example-3)
+- [`let` Hoisting](#let-hoisting)
+  - [Example](#example-4)
 
 &nbsp;
 

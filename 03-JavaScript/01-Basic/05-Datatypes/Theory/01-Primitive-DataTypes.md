@@ -1,13 +1,14 @@
 # Overview
 
-- Primitive datatypes
-- Number
-- Null
-- Boolean
-- BigInt
-- String
-- Symbol
-- Undefined
+- [Overview](#overview)
+- [Primitive datatypes](#primitive-datatypes)
+- [Number](#number)
+- [Null](#null)
+- [Boolean](#boolean)
+- [BigInt](#bigint)
+- [String](#string)
+- [Symbol](#symbol)
+- [Undefined](#undefined)
 
 &nbsp;
 

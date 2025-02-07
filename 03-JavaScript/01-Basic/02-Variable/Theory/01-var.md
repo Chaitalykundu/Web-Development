@@ -1,6 +1,16 @@
 # Overview
 
 - [Overview](#overview)
+- [`var` Keyword](#var-keyword)
+  - [Note](#note)
+- [Example](#example)
+- [Key Characteristics of var](#key-characteristics-of-var)
+- [When to Use JavaScript var](#when-to-use-javascript-var)
+- [Redeclaring Variables](#redeclaring-variables)
+  - [Example](#example-1)
+  - [Example](#example-2)
+- [`var` Hoisting](#var-hoisting)
+  - [Example](#example-3)
 
 &nbsp;
 
@@ -93,7 +103,6 @@ var x = 10;
 // Here x is 10
 
 {
-
   var x = 2;
   // Here x is 2
 }

@@ -1,6 +1,20 @@
 # Overview
 
 - [Overview](#overview)
+- [Scope](#scope)
+- [Types of scope](#types-of-scope)
+- [Global Scope](#global-scope)
+- [Problem](#problem)
+- [Automatically Global](#automatically-global)
+  - [Example](#example)
+  - [Note](#note)
+- [Function Scope / Local Scope](#function-scope--local-scope)
+  - [Example](#example-1)
+- [Block Scope](#block-scope)
+  - [Example](#example-2)
+  - [Example](#example-3)
+- [Lifetime of a variable](#lifetime-of-a-variable)
+- [Lexical Scope (Closures)](#lexical-scope-closures)
 
 &nbsp;
 

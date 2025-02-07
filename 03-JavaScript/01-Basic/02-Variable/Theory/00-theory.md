@@ -1,13 +1,21 @@
 # Overview
 
 - [Overview](#overview)
-- What are Variables
-- JavaScript Identifiers
-- Naming rules
-- Ways to Declare a JavaScript Variable
-- Declaring a Variable
-- Initializing a variable
-- Declaring & Initializing together
+- [Variables](#variables)
+  - [Example](#example)
+- [JavaScript Identifiers](#javascript-identifiers)
+- [Naming rules](#naming-rules)
+- [Ways to Declare a JavaScript Variable](#ways-to-declare-a-javascript-variable)
+- [Declaring a Variable](#declaring-a-variable)
+- [Initializing a variable](#initializing-a-variable)
+- [Declaring \& Initializing together](#declaring--initializing-together)
+- [One Statement, Many Variables](#one-statement-many-variables)
+- [Re-Declaring JavaScript Variables](#re-declaring-javascript-variables)
+  - [Example](#example-1)
+  - [Note](#note)
+- [Global JavaScript Variables](#global-javascript-variables)
+- [Key Characteristics of Global Variables](#key-characteristics-of-global-variables)
+  - [Example](#example-2)
 
 &nbsp;
 

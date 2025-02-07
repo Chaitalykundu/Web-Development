@@ -1,6 +1,18 @@
 # Overview
 
 - [Overview](#overview)
+- [`const` keyword](#const-keyword)
+- [Key Characteristics of const](#key-characteristics-of-const)
+- [When to use JavaScript const](#when-to-use-javascript-const)
+  - [Example](#example)
+- [Must be Assigned](#must-be-assigned)
+- [Cannot be Reassigned](#cannot-be-reassigned)
+- [Block Scope](#block-scope)
+  - [Example](#example-1)
+- [Redeclaring Variables](#redeclaring-variables)
+  - [Example](#example-2)
+- [`const` Hoisting](#const-hoisting)
+  - [Example](#example-3)
 
 &nbsp;
 
