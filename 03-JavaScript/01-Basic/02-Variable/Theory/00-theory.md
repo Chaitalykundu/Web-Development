@@ -14,9 +14,9 @@
 
 &nbsp;
 
-# What are Variables
+# Variables
 
-Variables are containers for storing data (storing data values).
+Variables are containers, used to store data values
 
 It is a basic unit of storage in a program.
 
