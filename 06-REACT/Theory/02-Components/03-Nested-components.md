@@ -1,10 +1,11 @@
 # Overview
 
-- Nesting
-- Example
-- What the browser sees
-- Don't
-- Note
+- [Overview](#overview)
+- [Nesting](#nesting)
+- [Example](#example)
+  - [What the browser sees](#what-the-browser-sees)
+- [Don't](#dont)
+- [Note](#note)
 
 &nbsp;
 
@@ -18,9 +19,9 @@ Components are regular JavaScript functions, so you can keep multiple components
 
 &nbsp;
 
-<u>***Parent component***</u>: The component in which we nest another component is called parent component.
+<u>**_Parent component_**</u>: The component in which we nest another component is called parent component.
 
-<u>***Child component***</u>: The component which is  nested in parent component is called child component.
+<u>**_Child component_**</u>: The component which is nested in parent component is called child component.
 
 &nbsp;
 

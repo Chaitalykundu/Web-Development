@@ -1,10 +1,16 @@
 # Overview
 
-- What is component
-- Syntax / Defining a component
-- Example
-- Types of components
-- Naming Rule
+- [Overview](#overview)
+- [Introduction](#introduction)
+  - [Note](#note)
+- [Syntax](#syntax)
+- [Example](#example)
+  - [Step 1: Define the function](#step-1-define-the-function)
+  - [Step 2: Add markup](#step-2-add-markup)
+    - [TIP](#tip)
+  - [Step 3: Export the component](#step-3-export-the-component)
+- [Types of components](#types-of-components)
+- [Naming Rule](#naming-rule)
 
 &nbsp;
 

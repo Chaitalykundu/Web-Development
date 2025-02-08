@@ -1,8 +1,10 @@
 # Overview
 
-- What is JSX
-- Difference Between JSX and React
-- What is Fragment
+- [Overview](#overview)
+- [What is JSX?](#what-is-jsx)
+- [Difference Between JSX and React](#difference-between-jsx-and-react)
+- [Advantages of using JSX in React JS](#advantages-of-using-jsx-in-react-js)
+- [What is Fragment](#what-is-fragment)
 
 &nbsp;
 

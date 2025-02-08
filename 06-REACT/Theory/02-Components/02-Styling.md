@@ -1,7 +1,8 @@
 # Overview
 
-- 8 Ways to Style React Components
-- Adding styles
+- [Overview](#overview)
+- [8 Ways to Style React Components](#8-ways-to-style-react-components)
+- [Adding styles](#adding-styles)
 
 &nbsp;
 
@@ -29,9 +30,9 @@
 In React, we specify a CSS class with `className`. It works the same way as the HTML class attribute:
 
 ```js
-import './css_filename';
+import "./css_filename";
 
-<div className="container"></div>
+<div className="container"></div>;
 ```
 
 ```css
