@@ -1,7 +1,7 @@
 # Overview
 
 - [Overview](#overview)
-- [Overview](#overview-1)
+- [Description](#description)
 - [Syntax](#syntax)
 - [Console Object Methods](#console-object-methods)
 
@@ -11,8 +11,7 @@
 
 &nbsp;
 
-
-# Overview
+# Description
 
 The `console object` provides access to the browser's debugging console.
 
