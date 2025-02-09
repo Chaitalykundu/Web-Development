@@ -1,3 +1,19 @@
+# Overview
+
+- [Overview](#overview)
+- [Description](#description)
+- [Note](#note)
+- [Syntax](#syntax)
+- [Parameters](#parameters)
+- [Examples](#examples)
+- [Browser Support](#browser-support)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `table()` method writes a table to the console.
@@ -17,7 +33,7 @@ You can sort the table by clicking the column names.
 # Syntax
 
 ```js
-console.table(tabledata, tablecolumns)
+console.table(tabledata, tablecolumns);
 ```
 
 &nbsp;
@@ -26,13 +42,13 @@ console.table(tabledata, tablecolumns)
 
 # Parameters
 
-| Parameters | Description                          |
-| ---------- | ------------------------------------ |
-| tabledata	|Required.
-||The data to fill the table with.
-|tablecolumns	|Optional.
-||An array with the names of the table columns. |
-|            |                                      |
+| Parameters   | Description                                   |
+| ------------ | --------------------------------------------- |
+| tabledata    | Required.                                     |
+|              | The data to fill the table with.              |
+| tablecolumns | Optional.                                     |
+|              | An array with the names of the table columns. |
+|              |                                               |
 
 &nbsp;
 
@@ -43,9 +59,9 @@ console.table(tabledata, tablecolumns)
 Using an array of objects:
 
 ```js
-const car1 = {name:"Audi", model:"A4"}
-const car2 = {name:"Volvo", model:"XC90"}
-const car3 = {name:"Ford", model:"Fusion"}
+const car1 = { name: "Audi", model: "A4" };
+const car2 = { name: "Volvo", model: "XC90" };
+const car3 = { name: "Ford", model: "Fusion" };
 
 console.table([car1, car2, car3]);
 ```
@@ -55,9 +71,9 @@ console.table([car1, car2, car3]);
 Only include the "model" column in the table:
 
 ```js
-const car1 = {name:"Audi", model:"A4"}
-const car2 = {name:"Volvo", model:"XC90"}
-const car3 = {name:"Ford", model:"Fusion"}
+const car1 = { name: "Audi", model: "A4" };
+const car2 = { name: "Volvo", model: "XC90" };
+const car3 = { name: "Ford", model: "Fusion" };
 
 console.table([car1, car2, car3], ["model"]);
 ```

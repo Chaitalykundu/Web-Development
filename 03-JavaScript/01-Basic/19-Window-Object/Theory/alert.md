@@ -1,3 +1,20 @@
+# Overview
+
+- [Overview](#overview)
+- [Description](#description)
+- [Note](#note)
+- [Syntax](#syntax)
+- [Parameters](#parameters)
+- [Return Value](#return-value)
+- [Example](#example)
+- [Browser Support](#browser-support)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `alert()` method displays an alert box with a message and an OK button.

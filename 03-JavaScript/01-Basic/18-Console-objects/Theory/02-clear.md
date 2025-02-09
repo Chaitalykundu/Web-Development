@@ -1,3 +1,17 @@
+# Overview
+
+- [Overview](#overview)
+- [Description](#description)
+- [Syntax](#syntax)
+- [Examples](#examples)
+- [Browser Support](#browser-support)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `clear()` method clears the console.
@@ -11,7 +25,7 @@ The `clear()` method also write "Console was cleared" in the console.
 # Syntax
 
 ```js
-console.clear()
+console.clear();
 ```
 
 &nbsp;
@@ -21,7 +35,8 @@ console.clear()
 # Examples
 
 ```js
-let x = 2, y = 3;
+let x = 2,
+  y = 3;
 
 console.log(x + y);
 

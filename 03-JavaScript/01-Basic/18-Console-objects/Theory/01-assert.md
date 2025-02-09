@@ -1,3 +1,18 @@
+# Overview
+
+- [Overview](#overview)
+- [Description](#description)
+- [Syntax](#syntax)
+- [Parameters](#parameters)
+- [Examples](#examples)
+- [Browser Support](#browser-support)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `assert()` method writes a message to the console if an expression evaluates to false.

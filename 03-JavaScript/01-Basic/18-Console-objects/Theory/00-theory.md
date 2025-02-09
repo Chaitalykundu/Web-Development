@@ -1,5 +1,19 @@
 # Overview
 
+- [Overview](#overview)
+- [Overview](#overview-1)
+- [Syntax](#syntax)
+- [Console Object Methods](#console-object-methods)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+# Overview
+
 The `console object` provides access to the browser's debugging console.
 
 It is a property of the window object.

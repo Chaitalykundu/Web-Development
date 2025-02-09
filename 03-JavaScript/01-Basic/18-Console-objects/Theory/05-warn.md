@@ -1,3 +1,19 @@
+# Overview
+
+- [Overview](#overview)
+- [Description](#description)
+- [Note](#note)
+- [Syntax](#syntax)
+- [Parameters](#parameters)
+- [Examples](#examples)
+- [Browser Support](#browser-support)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `warn()` method writes a warning to the console.

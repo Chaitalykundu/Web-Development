@@ -1,3 +1,20 @@
+# Overview
+
+- [Overview](#overview)
+- [Description](#description)
+- [Note](#note)
+- [Syntax](#syntax)
+- [Parameters](#parameters)
+- [Return Value](#return-value)
+- [Example](#example)
+- [Browser Support](#browser-support)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `confirm()` method displays a dialog box with a message, an `OK` button, and a `Cancel` button.
@@ -32,10 +49,10 @@ confirm(message);
 
 # Parameters
 
-| Parameter   | Description                            |
-| ----------- | -------------------------------------- |
-| message        | Optional.                              |
-|             | The text to display in the confirm box.|
+| Parameter | Description                             |
+| --------- | --------------------------------------- |
+| message   | Optional.                               |
+|           | The text to display in the confirm box. |
 
 &nbsp;
 
@@ -43,9 +60,9 @@ confirm(message);
 
 # Return Value
 
-| Parameter | Description                                           |
-| --------- | ----------------------------------------------------- |
-| A boolean  | true if the user clicked OK, otherwise false.  |
+| Parameter | Description                                   |
+| --------- | --------------------------------------------- |
+| A boolean | true if the user clicked OK, otherwise false. |
 
 &nbsp;
 
@@ -62,7 +79,7 @@ if (confirm("Press a button!") == true) {
 } else {
   text = "You canceled!";
 }
-document.write(text)
+document.write(text);
 ```
 
 &nbsp;

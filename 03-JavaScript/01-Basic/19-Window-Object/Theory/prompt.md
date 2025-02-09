@@ -1,3 +1,20 @@
+# Overview
+
+- [Overview](#overview)
+- [Description](#description)
+- [Note](#note)
+- [Syntax](#syntax)
+- [Parameters](#parameters)
+- [Return Value](#return-value)
+- [Example](#example)
+- [Browser Support](#browser-support)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `prompt()` method displays a dialog box that prompts the user for input.
@@ -93,16 +110,6 @@ switch (favDrink) {
 # Browser Support
 
 `prompt()` is supported in all browsers
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
