@@ -13,7 +13,7 @@
 
 # Description
 
-The `console object` provides access to the browser's debugging console.
+The `console object` provides acce ss to the browser's debugging console.
 
 It is a property of the window object.
 
