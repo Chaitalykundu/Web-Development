@@ -1,7 +1,57 @@
-The bitwise operators perform bitwise operations on operands.
+# Overview
+
+- [Overview](#overview)
+- [Bitwise Operator](#bitwise-operator)
+- [Example](#example)
+- [Bitwise Operator](#bitwise-operator-1)
+- [Examples](#examples)
+- [JavaScript Uses 32 bits Bitwise Operands](#javascript-uses-32-bits-bitwise-operands)
+- [JavaScript Bitwise AND](#javascript-bitwise-and)
+  - [One bit example](#one-bit-example)
+  - [4 bits example:](#4-bits-example)
+- [JavaScript Bitwise OR](#javascript-bitwise-or)
+  - [One bit example:](#one-bit-example-1)
+  - [4 bits example:](#4-bits-example-1)
+- [JavaScript Bitwise XOR](#javascript-bitwise-xor)
+  - [One bit example:](#one-bit-example-2)
+  - [4 bits example:](#4-bits-example-2)
+- [JavaScript Bitwise AND (\&)](#javascript-bitwise-and-)
+  - [Example](#example-1)
+- [JavaScript Bitwise OR (|)](#javascript-bitwise-or-)
+  - [Example](#example-2)
+- [JavaScript Bitwise XOR (^)](#javascript-bitwise-xor-)
+  - [Example](#example-3)
+- [JavaScript Bitwise NOT (~)](#javascript-bitwise-not-)
+  - [Example](#example-4)
+- [JavaScript (Zero Fill) Bitwise Left Shift (\<\<)](#javascript-zero-fill-bitwise-left-shift-)
+  - [Example](#example-5)
+- [JavaScript (Sign Preserving) Bitwise Right Shift (\>\>)](#javascript-sign-preserving-bitwise-right-shift-)
+  - [Example](#example-6)
+- [JavaScript (Zero Fill) Right Shift (\>\>\>)](#javascript-zero-fill-right-shift-)
+  - [Example](#example-7)
+- [Binary Numbers](#binary-numbers)
+- [Converting Decimal to Binary](#converting-decimal-to-binary)
+  - [Example](#example-8)
+- [Converting Binary to Decimal](#converting-binary-to-decimal)
+  - [Example](#example-9)
+
 &nbsp;
 
-# Example :
+&nbsp;
+
+&nbsp;
+
+# Bitwise Operator
+
+The bitwise operators perform bitwise operations on operands.
+
+These perform operations on binary numbers.
+
+&nbsp;
+
+&nbsp;
+
+# Example
 
 ```js
 let x = 5 & 1;
@@ -9,17 +59,20 @@ let x = 5 & 1;
 
 &nbsp;
 
+&nbsp;
+
 # Bitwise Operator
 
-| Operator | Name                          | Description                                                                                              | Example                    |
-| -------- | ----------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------- |
-| &        | Bitwise AND                   | Sets each bit to 1 if both bits are 1                                                                    | (10==20 & 20==33) = false  |
-| \|       | Bitwise OR                    | Sets each bit to 1 if one of two bits is 1                                                               | (10==20 \| 20==33) = false |
-| ^        | Bitwise XOR                   | Sets each bit to 1 if only one of two bits is 1                                                          | (10==20 ^ 20==33) = false  |
-| ~        | Bitwise NOT                   | Inverts all the bits                                                                                     | (~10) = -10                |
-| <<       | Bitwise Left Shift            | Shifts left by pushing zeros in from the right and let the leftmost bits fall off                        | (10<<2) = 40               |
-| >>       | Bitwise Right Shift           | Shifts right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off | (10>>2) = 2                |
-| >>>      | Bitwise Right Shift with Zero | Shifts right by pushing zeros in from the left, and let the rightmost bits fall off                      | (10>>>2) = 2               |
+| Operator | Name                             | Description                                                                                              | Example                    |
+| -------- | -------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------- |
+| &        | Bitwise AND                      | Sets each bit to 1 if both bits are 1                                                                    | (10==20 & 20==33) = false  |
+| \|       | Bitwise OR                       | Sets each bit to 1 if one of two bits is 1                                                               | (10==20 \| 20==33) = false |
+| ^        | Bitwise XOR                      | Sets each bit to 1 if only one of two bits is 1                                                          | (10==20 ^ 20==33) = false  |
+| ~        | Bitwise NOT                      | Inverts all the bits                                                                                     | (~10) = -10                |
+| <<       | Bitwise Left Shift               | Shifts left by pushing zeros in from the right and let the leftmost bits fall off                        | (10<<2) = 40               |
+| >>       | Bitwise Right Shift              | Shifts right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off | (10>>2) = 2                |
+| >>>      | Bitwise Unsigned Shift with Zero | Shifts right by pushing zeros in from the left, and let the rightmost bits fall off                      | (10>>>2) = 2               |
+|          |                                  |                                                                                                          |                            |
 
 &nbsp;
 
@@ -36,6 +89,7 @@ let x = 5 & 1;
 | 5 ^ 1     | 4      | 0101 ^ 0001  | 0100   |
 | 5 >> 1    | 2      | 0101 >> 1    | 0010   |
 | 5 >>> 1   | 2      | 0101 >>> 1   | 0010   |
+|           |        |              |        |
 
 &nbsp;
 
@@ -57,7 +111,7 @@ After the bitwise operation is performed, the result is converted back to 64 bit
 
 When a bitwise AND is performed on a pair of bits, it returns 1 if both bits are 1.
 
-## One bit example:
+## One bit example
 
 | Operation | Result |
 | --------- | ------ |

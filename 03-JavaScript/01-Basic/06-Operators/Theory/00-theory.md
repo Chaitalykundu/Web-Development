@@ -1,8 +1,26 @@
+# Overview
+
+- [Overview](#overview)
+- [Definition](#definition)
+- [Example](#example)
+- [Types of JavaScript Operators](#types-of-javascript-operators)
+- [JavaScript Special Operators](#javascript-special-operators)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Definition
 
 JavaScript operators are symbols that are used to perform operations on operands.
 
-For example:
+&nbsp;
+
+&nbsp;
+
+# Example
 
 ```js
 var sum = 10 + 20;
@@ -21,8 +39,9 @@ There are different types of JavaScript operators:
 3. Logical Operators
 4. Comparison Operators
 5. Bitwise Operators
-6. Ternary Operators
-7. Type Operators
+6. Unary operators
+7. Ternary Operators
+8. Type Operators
 
 &nbsp;
 
@@ -40,8 +59,8 @@ The following operators are known as JavaScript special operators.
 | in         | In Operator checks if object has the given property                             |
 | instanceof | checks if the object is an instance of given type                               |
 | new        | creates an instance (object)                                                    |
-|this	|Refers to the current context|
+| this       | Refers to the current context                                                   |
 | typeof     | checks the type of object.                                                      |
 | void       | it discards the expression's return value.                                      |
 | yield      | checks what is returned in a generator by the generator's iterator.             |
-|            |
+|            |                                                                                 |
