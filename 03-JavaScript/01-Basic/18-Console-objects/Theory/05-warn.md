@@ -26,7 +26,7 @@ The `warn()` method writes a warning to the console.
 
 When testing console methods, be sure to have the console view visible.
 
-Press F12 to open the console veiw.
+Press F12 to open the console view.
 
 &nbsp;
 

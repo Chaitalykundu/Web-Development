@@ -6,14 +6,27 @@
     - [Theory](#theory)
     - [JS Versions](#js-versions)
     - [How to add](#how-to-add)
-  - [Output](#output)
-  - [Statements](#statements)
-  - [Keywords](#keywords)
-  - [Syntax](#syntax)
-  - [Comments](#comments)
-  - [JS vs Java](#js-vs-java)
-- [Variable](#variable)
+    - [Output](#output)
+    - [Statements](#statements)
+    - [Keywords](#keywords)
+    - [Syntax](#syntax)
+    - [Comments](#comments)
+    - [JS Engine](#js-engine)
+    - [JS vs Java](#js-vs-java)
+  - [Variable](#variable)
+    - [Theory](#theory-1)
+    - [Var](#var)
+    - [let](#let)
+    - [const](#const)
+    - [var vs let vs const](#var-vs-let-vs-const)
+- [Escape Sequence](#escape-sequence)
+  - [Scope](#scope)
 - [Datatype](#datatype)
+  - [Operators](#operators)
+    - [Theory](#theory-2)
+    - [Arithmetic operators](#arithmetic-operators)
+    - [Assignment operator](#assignment-operator)
+- [Bitwise operators](#bitwise-operators)
 - [Closure](#closure)
 - [Answer](#answer)
 - [Introduction](#introduction-1)
@@ -39,11 +52,11 @@
 - [Datatype](#datatype-1)
   - [2. Is null an independent type or object](#2-is-null-an-independent-type-or-object)
 - [Variable](#variable-1)
-  - [8. Can we declare Many Variables is one statement](#8-can-we-declare-many-variables-is-one-statement)
+    - [8. Can we declare Many Variables is one statement](#8-can-we-declare-many-variables-is-one-statement)
 - [Closure](#closure-1)
-  - [1. What is a closure in JavaScript?](#1-what-is-a-closure-in-javascript)
-  - [2. Why are closures important in JavaScript?](#2-why-are-closures-important-in-javascript)
-  - [3. Can you give an example of a closure in JavaScript?](#3-can-you-give-an-example-of-a-closure-in-javascript)
+    - [1. What is a closure in JavaScript?](#1-what-is-a-closure-in-javascript)
+    - [2. Why are closures important in JavaScript?](#2-why-are-closures-important-in-javascript)
+    - [3. Can you give an example of a closure in JavaScript?](#3-can-you-give-an-example-of-a-closure-in-javascript)
 - [1. What are the Difference Between String `indexOf()` and String `search()`](#1-what-are-the-difference-between-string-indexof-and-string-search)
 - [2.Why do we use functions?](#2why-do-we-use-functions)
 - [3. What are the ways to empty an array?](#3-what-are-the-ways-to-empty-an-array)
@@ -270,10 +283,7 @@
 2. How many types of scopes are there in js
 3. If you assign a value to a variable that has not been declared what will happen
 4. What is the problem of global scope
-5. 
-
-
-
+5.
 
 &nbsp;
 
@@ -288,7 +298,48 @@
 
 &nbsp;
 
+## Operators
+
+### Theory
+
+1. What is operator
+2. How many types of operators are there in JS
+3. Name some special operators
+
 &nbsp;
+
+&nbsp;
+
+### Arithmetic operators
+
+1. What is Arithmetic operator
+2. Name the Arithmetic Operators
+3. What is operand
+4. What is operator
+
+&nbsp;
+
+&nbsp;
+
+### Assignment operator
+
+1. What is Assignment operator
+2. Name the Assignment operators
+3. What is Chained Assignment operators
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Bitwise operators
+
+1. What is Bitwise operator
+2. Name the Assignment operators
+3. JavaScript stores numbers as How many bits , and performed on How many bits
 
 &nbsp;
 

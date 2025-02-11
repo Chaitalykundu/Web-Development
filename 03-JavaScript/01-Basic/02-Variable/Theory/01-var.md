@@ -20,7 +20,7 @@
 
 # `var` Keyword
 
-`var` is one of the ways to declare variables in JavaScript
+`var` is one of the ways to declare variables in JavaScript.
 
 The `var` keyword is used in all JavaScript code **before ES6** (from 1995 to 2015).
 
