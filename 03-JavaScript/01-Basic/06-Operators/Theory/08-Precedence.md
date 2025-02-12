@@ -10,8 +10,11 @@ Multiplication (\*) and division (/) have higher precedence than addition (+) an
 
 ## Operator Precedence Values
 
-Expressions in parentheses are computed before the rest of the expression
+Expressions in parentheses are computed before the rest of the expression.
+
 Function are executed before the result is used in the rest of the expression
+
+&nbsp;
 
 &nbsp;
 
@@ -24,6 +27,9 @@ Function are executed before the result is used in the rest of the expression
 | 17  | ()       | Function Call         | myFunction()            |
 | 17  | new      | New with Arguments    | new Date("June 5,2022") |
 | 16  | new      | New without Arguments | new Date()              |
+|     |          |                       |                         |
+
+&nbsp;
 
 &nbsp;
 
@@ -37,6 +43,9 @@ Postfix increments are executed before prefix increments
 | 15  | --       | Postfix Decrement | i--     |
 | 14  | ++       | Prefix Increment  | ++i     |
 | 14  | --       | Prefix Decrement  | --i     |
+|     |          |                   |         |
+
+&nbsp;
 
 &nbsp;
 
@@ -46,6 +55,9 @@ Postfix increments are executed before prefix increments
 | --- | -------- | ----------- | ------- |
 | 14  | !        | Logical NOT | !(x==y) |
 | 14  | ~        | Bitwise NOT | ~x      |
+|     |          |             |         |
+
+&nbsp;
 
 &nbsp;
 
@@ -58,6 +70,9 @@ Postfix increments are executed before prefix increments
 | 14  | typeof   | Data Type       | typeof x           |
 | 14  | void     | Evaluate Void   | void(0)            |
 | 14  | delete   | Property Delete | delete myCar.color |
+|     |          |                 |                    |
+
+&nbsp;
 
 &nbsp;
 
@@ -75,6 +90,9 @@ Multiplications and divisions are executed before additions and subtractions
 | 11  | +        | Addition           | 10 + 5         |
 | 11  | -        | Subtraction        | 10 - 5         |
 | 11  | +        | Concatenation      | "John" + "Doe" |
+|     |          |                    |                |
+
+&nbsp;
 
 &nbsp;
 
@@ -85,6 +103,9 @@ Multiplications and divisions are executed before additions and subtractions
 | 10  | <<       | Shift Left             | x << 2  |
 | 10  | >>       | Shift Right (signed)   | x >> 2  |
 | 10  | >>>      | Shift Right (unsigned) | x >>> 2 |
+|     |          |                        |         |
+
+&nbsp;
 
 &nbsp;
 
@@ -94,6 +115,9 @@ Multiplications and divisions are executed before additions and subtractions
 | --- | ---------- | ------------------ | ------------------ |
 | 9   | in         | Property in Object | "PI" in Math       |
 | 9   | instanceof | Instance of Object | x instanceof Array |
+|     |            |                    |                    |
+
+&nbsp;
 
 &nbsp;
 
@@ -109,6 +133,9 @@ Multiplications and divisions are executed before additions and subtractions
 | 8   | ===      | Strict equal          | x === y    |
 | 8   | !=       | Unequal               | x != y     |
 | 8   | !==      | Strict unequal        | x !== y    |
+|     |          |                       |            |
+
+&nbsp;
 
 &nbsp;
 
@@ -119,6 +146,9 @@ Multiplications and divisions are executed before additions and subtractions
 | 7   | &        | Bitwise AND | x & y   |
 | 6   | ^        | Bitwise XOR | x ^ y   |
 | 5   | \|       | Bitwise OR  | x \| y  |
+|     |          |             |         |
+
+&nbsp;
 
 &nbsp;
 
@@ -129,6 +159,9 @@ Multiplications and divisions are executed before additions and subtractions
 | 4   | &&       | Logical AND        | x && y   |
 | 3   | \|\|     | Logical OR         | x \|\| y |
 | 3   | ??       | Nullish Coalescing | x ?? y   |
+|     |          |                    |          |
+
+&nbsp;
 
 &nbsp;
 
@@ -137,6 +170,9 @@ Multiplications and divisions are executed before additions and subtractions
 | Val | Operator | Description | Example        |
 | --- | -------- | ----------- | -------------- |
 | 2   | ? :      | Condition   | ? "yes" : "no" |
+|     |          |             |                |
+
+&nbsp;
 
 &nbsp;
 
@@ -167,3 +203,4 @@ Assignments are executed after other operations
 | 2   | yield\*  | Delegate                  | yield\* x |
 | 2   | ...      | Spread                    | ... x     |
 | 1   | ,        | Comma                     | x , y     |
+|     |          |                           |           |

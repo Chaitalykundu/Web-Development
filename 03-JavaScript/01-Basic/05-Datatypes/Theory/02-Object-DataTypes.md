@@ -1,19 +1,55 @@
+# Overview
+
+- [Overview](#overview)
+- [Non-Primitive / Object / Reference datatypes](#non-primitive--object--reference-datatypes)
+- [Object](#object)
+- [Array](#array)
+- [Function](#function)
+- [Dates](#dates)
+- [Map](#map)
+- [Set](#set)
+- [WeakMap and WeakSet](#weakmap-and-weakset)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Non-Primitive / Object / Reference datatypes
+
+Non-primitive data types are mutable and stored by reference in memory.
+
+Unlike primitive data types, which are copied by value, non-primitive data types store a reference to the actual memory location.
+
+&nbsp;
 
 The Object Datatypes are :
 
 1. An object
 2. An array
-3. A Function
+3. Function
+4. A date
+5. RegExp
+6. Map
+7. Set
+8. WeakMap & WeakSet (WeakMap, WeakSet)
 
 &nbsp;
 
-| Type     | typeof return value                  |
-| -------- | ------------------------------------ |
-| object   | "object"                             |
-| array    | "object"                             |
-| function | "function" ( this is objectfunction) |
-|          |                                      |
+| Type                                 | typeof return value                  |
+| ------------------------------------ | ------------------------------------ |
+| object                               | "object"                             |
+| array                                | "object"                             |
+| function                             | "function" ( this is objectfunction) |
+| An object                            |
+| An array                             |
+| Function                             |
+| A date                               |
+| RegExp                               |
+| Map                                  |
+| Set                                  |
+| WeakMap & WeakSet (WeakMap, WeakSet) |
 
 &nbsp;
 
