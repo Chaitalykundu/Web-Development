@@ -13,6 +13,7 @@
 - [Empty Values](#empty-values)
   - [Example](#example-3)
 - [Special Cases](#special-cases)
+- [Key Differences Between Primitive and Non-Primitive Types](#key-differences-between-primitive-and-non-primitive-types)
 
 &nbsp;
 
@@ -211,3 +212,16 @@ let car = "";
 - typeof NaN → "number"
 - typeof [] → "object"
 - typeof function() {} → "function"
+
+&nbsp;
+
+&nbsp;
+
+# Key Differences Between Primitive and Non-Primitive Types
+
+| Feature   | Primitive Data Types                                     | Non-Primitive Data Types                |
+| --------- | -------------------------------------------------------- | --------------------------------------- |
+| Stored as | Value                                                    | Reference                               |
+| Mutable   | No                                                       | Yes                                     |
+| Examples  | String, Number, Boolean, Null, Undefined, Symbol, BigInt | Object, Array, Function, Date, Map, Set |
+|           |                                                          |                                         |

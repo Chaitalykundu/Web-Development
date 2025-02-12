@@ -3,10 +3,22 @@
 - [Overview](#overview)
 - [Non-Primitive / Object / Reference datatypes](#non-primitive--object--reference-datatypes)
 - [Object](#object)
+  - [Example](#example)
+  - [Accessing Object Properties](#accessing-object-properties)
+  - [Modifying an object](#modifying-an-object)
 - [Array](#array)
+  - [Example](#example-1)
+  - [Array Methods](#array-methods)
+  - [Example](#example-2)
+  - [Array Methods](#array-methods-1)
 - [Function](#function)
-- [Dates](#dates)
+  - [Example](#example-3)
+- [Date (object)](#date-object)
+  - [Example](#example-4)
+- [Regular Expressions (RegExp)](#regular-expressions-regexp)
+  - [Example](#example-5)
 - [Map](#map)
+  - [Example](#example-6)
 - [Set](#set)
 - [WeakMap and WeakSet](#weakmap-and-weakset)
 
@@ -42,14 +54,15 @@ The Object Datatypes are :
 | object                               | "object"                             |
 | array                                | "object"                             |
 | function                             | "function" ( this is objectfunction) |
-| An object                            |
-| An array                             |
-| Function                             |
-| A date                               |
-| RegExp                               |
-| Map                                  |
-| Set                                  |
-| WeakMap & WeakSet (WeakMap, WeakSet) |
+| An object                            |                                      |
+| An array                             |                                      |
+| Function                             |                                      |
+| A date                               |                                      |
+| RegExp                               |                                      |
+| Map                                  |                                      |
+| Set                                  |                                      |
+| WeakMap & WeakSet (WeakMap, WeakSet) |                                      |
+|                                      |                                      |
 
 &nbsp;
 
@@ -57,10 +70,35 @@ The Object Datatypes are :
 
 # Object
 
+Objects are collections of key-value pairs, where the keys are strings (or Symbols) and the values can be of any type.
+
 Represents a collection of key-value pairs.
+
+&nbsp;
+
+## Example
 
 ```js
 const car = { type: "Fiat", model: "500", color: "white" };
+```
+
+&nbsp;
+
+## Accessing Object Properties
+
+- Dot notation: person.name
+- Bracket notation: person["name"]
+
+&nbsp;
+
+## Modifying an object
+
+```js
+person.age = 26; // Modify an existing property
+person.city = "New York"; // Add a new property
+delete person.isDeveloper; // Remove a property
+
+console.log(person);
 ```
 
 &nbsp;
@@ -69,10 +107,52 @@ const car = { type: "Fiat", model: "500", color: "white" };
 
 # Array
 
-A special type of object used to store ordered lists of values.
+Arrays are ordered collections of values, indexed starting from 0.
+
+&nbsp;
+
+## Example
 
 ```js
 const cars = ["Saab", "Volvo", "BMW"];
+```
+
+&nbsp;
+
+## Array Methods
+
+```js
+fruits.push("Mango"); // Add at the end
+fruits.pop(); // Remove last element
+fruits.unshift("Grapes"); // Add at the beginning
+fruits.shift(); // Remove first element
+console.log(fruits);
+```
+
+&nbsp;
+
+&nbsp;
+
+Arrays are ordered collections of values, indexed starting from 0.
+
+&nbsp;
+
+## Example
+
+```js
+const cars = ["Saab", "Volvo", "BMW"];
+```
+
+&nbsp;
+
+## Array Methods
+
+```js
+fruits.push("Mango"); // Add at the end
+fruits.pop(); // Remove last element
+fruits.unshift("Grapes"); // Add at the beginning
+fruits.shift(); // Remove first element
+console.log(fruits);
 ```
 
 &nbsp;
@@ -81,7 +161,13 @@ const cars = ["Saab", "Volvo", "BMW"];
 
 # Function
 
+Functions are first-class objects in JavaScript, meaning they can be assigned to variables, passed as arguments, and returned from other functions.
+
 A block of code designed to perform a task.
+
+&nbsp;
+
+## Example
 
 ```js
 function findname() {}
@@ -91,12 +177,37 @@ function findname() {}
 
 &nbsp;
 
-# Dates
+# Date (object)
 
 Represents dates and times.
 
+&nbsp;
+
+## Example
+
 ```js
-const d = new Date("2022-03-25");
+let currentDate = new Date();
+console.log(currentDate); // Output: Current date and time
+console.log(currentDate.getFullYear()); // Get year
+console.log(currentDate.getMonth() + 1); // Get month (0-based)
+console.log(currentDate.getDate()); // Get day of the month
+```
+
+&nbsp;
+
+&nbsp;
+
+# Regular Expressions (RegExp)
+
+Regular expressions are objects used for pattern matching in strings.
+
+&nbsp;
+
+## Example
+
+```js
+let pattern = /hello/i; // Case-insensitive search for "hello"
+console.log(pattern.test("Hello World")); // Output: true
 ```
 
 &nbsp;
@@ -105,7 +216,12 @@ const d = new Date("2022-03-25");
 
 # Map
 
-A collection of key-value pairs where keys can be of any type.
+A Map is a collection of key-value pairs where keys can be any type (including objects).
+
+
+&nbsp;
+
+## Example
 
 ```js
 let map = new Map();
@@ -123,7 +239,7 @@ A collection of unique values.
 
 ```js
 let set = new Set([1, 2, 3, 3]);
-console.log(set);
+console.log(set);  // Output : Set(3) { 1, 2, 3 }
 ```
 
 &nbsp;

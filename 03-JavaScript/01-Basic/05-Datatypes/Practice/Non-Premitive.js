@@ -22,3 +22,7 @@ console.log(today.getDate());
 console.log(today.getDay());
 
 
+//  Set
+
+let set = new Set([1, 2, 3, 3]);
+console.log(set);
