@@ -1,3 +1,17 @@
+# Overview
+
+- [Overview](#overview)
+- [for of loop](#for-of-loop)
+- [Syntax :](#syntax-)
+- [Example : Looping over a Array](#example--looping-over-a-array)
+- [Example : Looping over a String](#example--looping-over-a-string)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # for of loop
 
 The JavaScript `for of` loop loops through the values of an iterable object (array or string).

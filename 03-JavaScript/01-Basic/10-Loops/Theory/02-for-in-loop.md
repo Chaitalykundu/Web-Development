@@ -1,3 +1,24 @@
+# Overview
+
+- [Overview](#overview)
+- [for in loop](#for-in-loop)
+- [Syntax :](#syntax-)
+- [Example](#example)
+  - [Example Explained](#example-explained)
+- [For In Over Arrays](#for-in-over-arrays)
+  - [Syntax](#syntax)
+  - [Example](#example-1)
+  - [Note :](#note-)
+- [Array.forEach()](#arrayforeach)
+  - [Example](#example-2)
+  - [Example](#example-3)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # for in loop
 
 The JavaScript `for in` loop loops through the properties of an Object.
