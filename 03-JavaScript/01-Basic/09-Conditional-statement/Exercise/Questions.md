@@ -1,4 +1,4 @@
-# Begineer Questions
+# Beginner Questions
 
 1. Check Even or Odd
 2. Check Positive, Negative, or Zero
