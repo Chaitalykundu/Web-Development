@@ -4,6 +4,7 @@
 - [for loop](#for-loop)
 - [Flow Chart](#flow-chart)
 - [Syntax](#syntax)
+  - [Explanation](#explanation)
 - [Example](#example)
 - [Loop Scope](#loop-scope)
 
@@ -18,6 +19,8 @@
 A for loop repeats until a specified condition evaluates to false.
 
 The JavaScript `for loop` is similar to the Java and C for loop.
+
+&nbsp;
 
 &nbsp;
 
@@ -36,6 +39,16 @@ for (initialization; condition; increment) {
   code to be executed;
 }
 ```
+
+&nbsp;
+
+## Explanation
+
+- **Initialization**: Executes once before the loop starts.
+- **Condition**: Checked before each iteration; if true, the loop executes.
+- **Increment/Decrement**: Updates the loop control variable after each iteration.
+
+&nbsp;
 
 &nbsp;
 
