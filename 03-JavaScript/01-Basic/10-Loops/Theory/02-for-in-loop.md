@@ -1,17 +1,18 @@
 # Overview
 
 - [Overview](#overview)
-- [for in loop](#for-in-loop)
-- [Syntax :](#syntax-)
+- [for.....in loop](#forin-loop)
+- [Syntax](#syntax)
 - [Example](#example)
   - [Example Explained](#example-explained)
-- [For In Over Arrays](#for-in-over-arrays)
-  - [Syntax](#syntax)
+- [for.....in Over Arrays](#forin-over-arrays)
+  - [Syntax](#syntax-1)
   - [Example](#example-1)
-  - [Note :](#note-)
+  - [Note](#note)
 - [Array.forEach()](#arrayforeach)
   - [Example](#example-2)
   - [Example](#example-3)
+- [When to Use for...in?](#when-to-use-forin)
 
 &nbsp;
 
@@ -19,21 +20,28 @@
 
 &nbsp;
 
-# for in loop
+# for.....in loop
 
 The JavaScript `for in` loop loops through the properties of an Object.
 
-We use `for-in` loop in object and array
+It is commonly used to **loop through object properties** but should not be used for arrays (because it iterates over property names, not values).
 
 &nbsp;
 
-# Syntax :
+&nbsp;
+
+# Syntax
 
 ```js
 for (let key in object_name) {
   // code block to be executed
 }
 ```
+
+- **key** → Represents the property name (not the value).
+- **object** → The object whose properties we are iterating over.
+
+&nbsp;
 
 &nbsp;
 
@@ -52,19 +60,16 @@ for (let x in person) {
 
 ## Example Explained
 
-The `for in` loop iterates over a person object
-
-Each iteration returns a key (x)
-
-The key is used to access the value of the key
-
-The value of the key is person[x]
+1. The `for in` loop iterates over a person object
+2. Each iteration returns a key (x)
+3. The key is used to access the value of the key
+4. The value of the key is `person[x]`
 
 &nbsp;
 
 &nbsp;
 
-# For In Over Arrays
+# for.....in Over Arrays
 
 The JavaScript `for in` statement can also loop over the properties of an Array:
 
@@ -89,7 +94,9 @@ for (let x in numbers) {
 }
 ```
 
-## Note :
+&nbsp;
+
+## Note
 
 Do not use `for in` over an Array if the index `order` is important.
 
@@ -140,7 +147,18 @@ function myFunction(value) {
 ```
 
 &nbsp;
+
 &nbsp;
+
+# When to Use for...in?
+
+- When looping over objects and their properties.
+- When checking dynamic object structures.
+- When debugging nested objects.
+- Avoid using it for arrays (use for, for...of, or .forEach() instead).
+
 &nbsp;
+
 &nbsp;
+
 &nbsp;

@@ -6,6 +6,7 @@
 - [Syntax](#syntax)
   - [Explanation](#explanation)
 - [Example](#example)
+- [When to Use a for Loop](#when-to-use-a-for-loop)
 - [Loop Scope](#loop-scope)
 
 &nbsp;
@@ -18,7 +19,7 @@
 
 A for loop repeats until a specified condition evaluates to false.
 
-The JavaScript `for loop` is similar to the Java and C for loop.
+It is typically used when the **number of iterations is known** beforehand.
 
 &nbsp;
 
@@ -36,7 +37,7 @@ The JavaScript `for loop` is similar to the Java and C for loop.
 
 ```js
 for (initialization; condition; increment) {
-  code to be executed;
+  // code to be executed in each iteration;
 }
 ```
 
@@ -44,9 +45,9 @@ for (initialization; condition; increment) {
 
 ## Explanation
 
-- **Initialization**: Executes once before the loop starts.
-- **Condition**: Checked before each iteration; if true, the loop executes.
-- **Increment/Decrement**: Updates the loop control variable after each iteration.
+- <u>**Initialization**</u>: Executes once before the loop starts.
+- <u>**Condition**</u>: Checked before each iteration; if true, the loop executes.
+- <u>**Increment/Decrement**</u>: Updates the loop control variable after each iteration.
 
 &nbsp;
 
@@ -55,12 +56,30 @@ for (initialization; condition; increment) {
 # Example
 
 ```js
-for (let i = 0; i < selectObject.options.length; i++) {
-  if (selectObject.options[i].selected) {
-    numberSelected++;
-  }
+for (let i = 0; i < 5; i++) {
+  console.log("Iteration:", i);
 }
 ```
+
+&nbsp;
+
+```js
+let fruits = ["Apple", "Banana", "Cherry"];
+
+for (let i = 0; i < fruits.length; i++) {
+  console.log(fruits[i]);
+}
+```
+
+&nbsp;
+
+&nbsp;
+
+# When to Use a for Loop
+
+- When the number of iterations is known beforehand.
+- When iterating through arrays (though forEach and for...of can be better).
+- When you need to increment or decrement a counter variable.
 
 &nbsp;
 

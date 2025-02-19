@@ -19,10 +19,10 @@ javascript 54-84 of sigma course CWH
 | 2     | Variables (var, let, const)          | Done   |
 | 3     | Scopes                               |        |
 | 4     | Hoisting                             |
-| 5     | Datatype (NNBBSSU)                   |        |
-| 6     | Operators                            |        |
+| 5     | Datatype (NNBBSSU)                   | Done   |
+| 6     | Operators                            | Done   |
 | 7     | Type Casting / Conversions           |        |
-| 8     | Control flow (Conditional statement) |
+| 8     | Control flow (Conditional statement) | Done   |
 | 9     | Type Coercion                        |
 | 10    | loops & iterations                   |
 | 11    | Iterables                            |

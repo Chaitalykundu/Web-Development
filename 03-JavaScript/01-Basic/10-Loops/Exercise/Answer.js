@@ -190,7 +190,7 @@ arrNumber.forEach((element) => {
 Stores all elements before 5 in a new array.
 */
 
-/* 
+/*
 15. Write a `forEach` loop that loops through the array `[1,2,3,4,5,6,7,8,9]` and skips 5. 
 Stores all previous elements in a new array.
 */
