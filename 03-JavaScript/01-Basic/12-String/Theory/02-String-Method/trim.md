@@ -1,3 +1,19 @@
+# Overview
+
+- [Overview](#overview)
+- [Description](#description)
+- [Syntax](#syntax)
+- [Parameters](#parameters)
+- [Return Value](#return-value)
+- [Example](#example)
+- [Browser Support](#browser-support)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `trim()` method removes whitespace from both sides of a string.

@@ -1,3 +1,14 @@
+# Overview
+
+- [Overview](#overview)
+- [String Search Methods](#string-search-methods)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # String Search Methods
 
 - String indexOf()

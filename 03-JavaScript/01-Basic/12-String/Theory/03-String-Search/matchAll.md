@@ -1,3 +1,19 @@
+# Overview
+
+- [Overview](#overview)
+- [Description](#description)
+- [Syntax](#syntax)
+- [Parameters](#parameters)
+- [Example](#example)
+- [Return Value](#return-value)
+- [Browser Support](#browser-support)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `matchAll()` method returns an iterator containing the results of matching a string against a string (or a regular expression).

@@ -1,3 +1,19 @@
+# Overview
+
+- [Overview](#overview)
+- [Description](#description)
+- [Syntax](#syntax)
+- [Parameters](#parameters)
+- [Example](#example)
+- [Return Value](#return-value)
+- [Browser Support](#browser-support)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `endsWith()` method returns true if a string ends with a specified string.

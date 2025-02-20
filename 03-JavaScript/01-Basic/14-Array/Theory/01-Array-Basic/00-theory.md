@@ -1,3 +1,26 @@
+# Overview
+
+- [Overview](#overview)
+- [Array](#array)
+- [Characteristics of array](#characteristics-of-array)
+- [Why Use Arrays?](#why-use-arrays)
+- [Converting an Array to a String](#converting-an-array-to-a-string)
+  - [Example](#example)
+- [Arrays are Objects](#arrays-are-objects)
+- [The Difference Between Arrays and Objects](#the-difference-between-arrays-and-objects)
+- [When to Use `Arrays`. When to use `Objects`.](#when-to-use-arrays-when-to-use-objects)
+- [Associative Arrays](#associative-arrays)
+  - [Example](#example-1)
+- [How to Recognize an Array](#how-to-recognize-an-array)
+  - [Solution 1:](#solution-1)
+  - [Solution 2](#solution-2)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Array
 
 An array is a special variable, which can hold more than one value.

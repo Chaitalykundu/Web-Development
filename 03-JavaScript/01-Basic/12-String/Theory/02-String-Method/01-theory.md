@@ -1,8 +1,9 @@
 # Overview
 
-- String Search Methods
-- JavaScript String Methods
-- String HTML Wrapper Methods
+- [Overview](#overview)
+- [String Search Methods](#string-search-methods)
+- [JavaScript String Methods](#javascript-string-methods)
+- [String HTML Wrapper Methods](#string-html-wrapper-methods)
 
 &nbsp;
 

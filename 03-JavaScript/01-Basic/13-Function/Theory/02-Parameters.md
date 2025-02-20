@@ -1,15 +1,18 @@
 # Overview
 
-- Parameters
-- Arguments
-- Syntax
-- Parameter Rules
-- Default Parameters
-- Default Parameter Values
-- Function Rest Parameter
-- The Arguments Object
-- Arguments are Passed by Value
-- Objects are Passed by Reference
+- [Overview](#overview)
+- [Parameters](#parameters)
+- [Arguments](#arguments)
+- [Syntax](#syntax)
+- [Parameter Rules](#parameter-rules)
+- [Default Parameters](#default-parameters)
+  - [Example](#example)
+- [Default Parameter Values](#default-parameter-values)
+  - [Example](#example-1)
+- [Function Rest Parameter](#function-rest-parameter)
+- [The Arguments Object](#the-arguments-object)
+- [Arguments are Passed by Value](#arguments-are-passed-by-value)
+- [Objects are Passed by Reference](#objects-are-passed-by-reference)
 
 &nbsp;
 

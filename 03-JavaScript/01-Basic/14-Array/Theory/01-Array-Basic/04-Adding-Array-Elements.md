@@ -1,3 +1,19 @@
+# Overview
+
+- [Overview](#overview)
+- [Using `push()` method](#using-push-method)
+  - [Example](#example)
+- [Using `length` property](#using-length-property)
+  - [Example](#example-1)
+- [WARNING !](#warning-)
+  - [Example](#example-2)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Using `push()` method
 
 The easiest way to add a new element to an array is using the `push()` method:

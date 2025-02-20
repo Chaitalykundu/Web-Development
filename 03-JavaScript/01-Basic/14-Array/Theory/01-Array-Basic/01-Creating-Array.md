@@ -1,3 +1,23 @@
+# Overview
+
+- [Overview](#overview)
+- [Create an array](#create-an-array)
+- [Syntax](#syntax)
+- [Example](#example)
+- [Example](#example-1)
+- [Example](#example-2)
+- [Using Keyword `new`](#using-keyword-new)
+  - [Syntax](#syntax-1)
+  - [Example](#example-3)
+- [JavaScript `new Array()`](#javascript-new-array)
+  - [A Common Error](#a-common-error)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Create an array
 
 Using an array literal is the easiest way to create a JavaScript Array.

@@ -1,3 +1,20 @@
+# Overview
+
+- [Overview](#overview)
+- [Description](#description)
+- [Syntax](#syntax)
+- [Parameters](#parameters)
+- [Example](#example)
+- [Return Value](#return-value)
+- [Browser Support](#browser-support)
+- [The Difference Between String `indexOf()` and String `search()`](#the-difference-between-string-indexof-and-string-search)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `indexOf()` method returns the index (position) of the **first occurrence** of a specified text in a string

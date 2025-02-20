@@ -1,3 +1,21 @@
+# Overview
+
+- [Overview](#overview)
+- [Description](#description)
+- [Syntax](#syntax)
+- [Parameters](#parameters)
+- [Example](#example)
+  - [Example](#example-1)
+  - [Example](#example-2)
+- [Return Value](#return-value)
+- [Browser Support](#browser-support)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `lastIndexOf()` method returns the index (position) of the last occurrence of a specified value in a string.

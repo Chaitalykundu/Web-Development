@@ -1,3 +1,21 @@
+# Overview
+
+- [Overview](#overview)
+- [Function Invocation](#function-invocation)
+- [Invoking a JavaScript Function](#invoking-a-javascript-function)
+- [Invoking a Function as a Function](#invoking-a-function-as-a-function)
+- [Self-Invoking Functions](#self-invoking-functions)
+- [Example](#example)
+- [The Global Object](#the-global-object)
+- [Invoking a Function as a Method](#invoking-a-function-as-a-method)
+- [Invoking a Function with a Function Constructor](#invoking-a-function-with-a-function-constructor)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Function Invocation
 
 - **_Function invocation_** is a way to use the code inside a function

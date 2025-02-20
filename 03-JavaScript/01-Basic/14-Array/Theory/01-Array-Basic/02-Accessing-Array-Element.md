@@ -1,3 +1,19 @@
+# Overview
+
+- [Overview](#overview)
+- [Access the Full Array](#access-the-full-array)
+  - [Example](#example)
+- [Accessing Array Elements](#accessing-array-elements)
+- [Note](#note)
+- [Accessing the First Array Element](#accessing-the-first-array-element)
+- [Accessing the Last Array Element](#accessing-the-last-array-element)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Access the Full Array
 
 With JavaScript, the full array can be accessed by referring to the array name:

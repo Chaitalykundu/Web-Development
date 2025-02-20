@@ -1,3 +1,24 @@
+# Overview
+
+- [Overview](#overview)
+- [Description](#description)
+  - [Note](#note)
+- [Syntax](#syntax)
+- [Parameters](#parameters)
+- [Example](#example)
+- [Return Value](#return-value)
+- [Browser Support](#browser-support)
+- [The Difference Between String `indexOf()` and String `search()`](#the-difference-between-string-indexof-and-string-search)
+- [The Difference Between](#the-difference-between)
+  - [String search() and String indexOf()](#string-search-and-string-indexof)
+  - [String search() and String match()](#string-search-and-string-match)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `search()` method searches a string for a string (or a regular expression) and returns the position of the match

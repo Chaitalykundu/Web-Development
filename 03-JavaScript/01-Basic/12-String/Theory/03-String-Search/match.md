@@ -1,3 +1,22 @@
+# Overview
+
+- [Overview](#overview)
+- [Description](#description)
+  - [Note](#note)
+- [Syntax](#syntax)
+- [Parameters](#parameters)
+- [Example](#example)
+- [Return Value](#return-value)
+- [Browser Support](#browser-support)
+- [The Difference Between](#the-difference-between)
+  - [String search() and String match()](#string-search-and-string-match)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 The `match()` method matches a string against a regular expression \*\*

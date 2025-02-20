@@ -40,7 +40,8 @@ Here are some easy examples:
 
 - Iterating over a String
 - Iterating over an Array
-  Technically, iterables must implement the `Symbol.iterator` method.
+
+Technically, iterables must implement the `Symbol.iterator` method.
 
 &nbsp;
 

@@ -1,5 +1,18 @@
 # Overview
 
+- [Overview](#overview)
+- [Introduction](#introduction)
+- [Similarities between slice() and substring() methods](#similarities-between-slice-and-substring-methods)
+- [Differences between slice() and substring() and substr() methods](#differences-between-slice-and-substring-and-substr-methods)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Introduction
+
 - Similarities between slice() and substring() methods
 - Differences between slice() and substring() and substr() methods
 
