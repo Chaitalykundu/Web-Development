@@ -1,46 +1,44 @@
 # Overview
 
 - [Overview](#overview)
-- [for of loop](#for-of-loop)
-- [Syntax :](#syntax-)
-- [Example : Looping over a Array](#example--looping-over-a-array)
-- [Example : Looping over a String](#example--looping-over-a-string)
+- [for.....of loop](#forof-loop)
+- [Syntax](#syntax)
+- [Example](#example)
+  - [Looping over a Array](#looping-over-a-array)
+  - [Looping over a String](#looping-over-a-string)
+- [When to Use for...of?](#when-to-use-forof)
+
+# for.....of loop
+
+The JavaScript `for.....of` loop loops through the **values of an iterable object** (like arrays, strings, maps, sets, and more).
+
+It allows you to **directly access values** rather than indices or property names.
 
 &nbsp;
 
 &nbsp;
 
-&nbsp;
-
-# for of loop
-
-The JavaScript `for of` loop loops through the values of an iterable object (array or string).
-
-&nbsp;
-
-&nbsp;
-
-# Syntax :
+# Syntax
 
 ```js
-for (variable of iterable) {
-  // code block to be executed
+for (let item of iterable) {
+  // Code to execute
 }
 ```
 
-- variable - For every iteration the value of the next property is assigned to the variable. Variable can be declared with const, let, or var.
-
-- iterable - An object that has iterable properties (Ex : array or string).
-
-&nbsp;
+- item - Represents the value of each element.
+- iterable - An object that has iterable properties (Ex : arrays, strings, maps, sets).
 
 &nbsp;
 
-# Example : Looping over a Array
+&nbsp;
+
+# Example
+
+## Looping over a Array
 
 ```js
 const cars = ["BMW", "Volvo", "Mini"];
-
 let text = "";
 for (let x of cars) {
   text += x;
@@ -51,13 +49,22 @@ for (let x of cars) {
 
 &nbsp;
 
-# Example : Looping over a String
+## Looping over a String
 
 ```js
 let language = "JavaScript";
-
-let text = "";
-for (let x of language) {
-  text += x;
+for (let char of language) {
+  console.log(char);
 }
 ```
+
+&nbsp;
+
+&nbsp;
+
+# When to Use for...of?
+
+- When looping through arrays, strings, maps, or sets.
+- When you only need values (not keys or indices).
+- When you need `break` or `continue` (unlike `.forEach()`).
+- Not for objects (use `for...in` or `Object.entries()` instead).

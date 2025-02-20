@@ -2,21 +2,33 @@
 
 - [Overview](#overview)
 - [continue statement](#continue-statement)
+- [Syntax](#syntax)
 - [Example](#example)
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+- [When to Use continue?](#when-to-use-continue)
+- [Difference Between break and continue](#difference-between-break-and-continue)
 
 # continue statement
 
-The `continue` statement "**jumps over**" one iteration in the loop.
+The continue statement **skips the current iteration** of a loop and moves to the next iteration without stopping the entire loop.
 
 &nbsp;
 
-The continue statement breaks one iteration (in the loop), if a specified condition occurs, and continues with the next iteration in the loop.
+Typically used in for, while, and do…while loops.
+Unlike break, which exits the loop, continue skips only the current iteration.
+
+&nbsp;
+
+&nbsp;
+
+# Syntax
+
+```js
+continue;
+```
+
+&nbsp;
+
+&nbsp;
 
 # Example
 
@@ -35,24 +47,27 @@ for (let i = 0; i < 5; i++) {
 
 &nbsp;
 
-&nbsp;
+# When to Use continue?
+
+- When skipping specific iterations (e.g., odd/even numbers).
+- When avoiding unnecessary processing inside loops.
+- When filtering out unwanted values in a loop.
 
 &nbsp;
 
 &nbsp;
 
-&nbsp;
+# Difference Between break and continue
+
+| Feature  | break                                | continue                                              |
+| -------- | ------------------------------------ | ----------------------------------------------------- |
+| Effect   | Exits the loop completely            | Skips the current iteration and moves to the next one |
+| Use case | When you need to stop the loop early | When you need to skip certain iterations              |
+| Best for | Exiting loops based on a condition   | Skipping unwanted values in loops                     |
+|          |                                      |                                                       |
 
 &nbsp;
-
 &nbsp;
-
 &nbsp;
-
 &nbsp;
-
-&nbsp;
-
-&nbsp;
-
 &nbsp;

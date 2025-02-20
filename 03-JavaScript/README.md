@@ -1,11 +1,10 @@
 # Java-Script
 
-YouTube :
-[JavaScript tutorial - Code with Harry](https://www.youtube.com/watch?v=ER9SspLe4Hg&list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR)
+YouTube : [JavaScript tutorial - Code with Harry](https://www.youtube.com/watch?v=ER9SspLe4Hg&list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR)
 
-<br>
+&nbsp;
 
-javascript 54-84 of sigma course CWH
+javascript 54–84 of sigma course CWH
 
 &nbsp;
 
@@ -24,7 +23,7 @@ javascript 54-84 of sigma course CWH
 | 7     | Type Casting / Conversions           |        |
 | 8     | Control flow (Conditional statement) | Done   |
 | 9     | Type Coercion                        |
-| 10    | loops & iterations                   |
+| 10    | loops & iterations                   | Done   |
 | 11    | Iterables                            |
 | 12    | Functions + Arrow functions          |        |
 | 13    | String                               |
@@ -35,8 +34,8 @@ javascript 54-84 of sigma course CWH
 | 12    | Try Catch & Error handling           |        |
 | 13    | Strict mode                          |        |
 | 14    | Timeout & Interval                   |        |
-| 15    | Classes                              |
-|       | DOM manipilation                     |
+| 15    | Classes                              |        |
+|       | DOM manipulation                     |        |
 
 &nbsp;
 
@@ -95,9 +94,10 @@ javascript 54-84 of sigma course CWH
 | 44    |                                      | for-of                                          |        |
 | 45    |                                      | while                                           |        |
 | 46    |                                      | do-while                                        |        |
-| 47    |                                      | for await...of                                  |        |
+| 47    |                                      | for await…of                                    |        |
 | 48    |                                      | break                                           |        |
-| 49    |                                      | continue                                        |        |
+| 49    |                                      | continue                                        |
+|       |                                      | labeled loop                                    |
 |       |                                      |                                                 |        |
 | 50    | Iterables                            | Iterates over a string                          |        |
 | 51    |                                      | Iterates over an array                          |        |
@@ -164,7 +164,7 @@ javascript 54-84 of sigma course CWH
 | Typed Arrays           |        |
 | ES Next features       |        |
 
-LinkedIn - [Notes by Abhishek Srivastava](https://www.linkedin.com/posts/abhi18cs_javascript-notes-activity-7052920991458467840-N5Sf?utm_source=share&utm_medium=member_desktop)
+LinkedIn - [Notes by Abhishek Srivastava](https://www.linkedin.com/posts/abhi18cs_javascript-notes-activity-7052920991458467840-N5Sf?utm_source=share&utm_medium=member_desktop)
 
 &nbsp;
 
@@ -172,163 +172,203 @@ LinkedIn - [Notes by Abhishek Srivastava](https://www.linkedin.com/posts/abhi18c
 
 &nbsp;
 
-4.Expressions
-Primary expressions
-• this
-• Literals
-• []
-• {}
-• function
-• class
-• function*
-• async function
-• async function*
-• /ab+c/i
-• `string`
-• ( )
+4. Expressions
+   Primary expressions
+
+- this
+- Literals
+- []
+- {}
+- function
+- class
+- function\*
+- async function
+- async function\*
+- /ab+c/i
+- `string`
+- ( )
+  &nbsp;
 
 Left-hand-side expressions
-• Property accessors
-• ?.
-• new
-• new .target
-• import.meta
-• super
-• import()
 
-9.Objects and Arrays
-• Object Literal: { key: value }
-• Array Literal: [element1, element2, ...]
-• Object Methods and Properties
-• Array Methods: push(), pop(), shift(), unshift(),
-splice(), slice(), forEach(), map(), filter()
+- Property accessors
+  - ?.
+- new
+- new .target
+- import.meta
+- super
+- import()
 
-10.Classes and Prototypes
-• Class Declaration
-• Constructor Functions
-• Prototypal Inheritance
-• extends keyword
-• super keyword
-• Private class features
-• Public class fields
-• static
-• Static initialization blocks
+  9.Objects and Arrays
+  • Object Literal: { key: value }
+  • Array Literal: [element1, element2, …]
+  • Object Methods and Properties
+  • Array Methods: push(), pop(), shift(), unshift(),
+  splice(), slice(), forEach(), map(), filter()
+  10.Classes and Prototypes
+  • Class Declaration
+  • Constructor Functions
+  • Prototypal Inheritance
+  • extends keyword
+  • super keyword
+  • Private class features
+  • Public class fields
+  • static
+  • Static initialization blocks
+  ADVANCED CONCEPTS
+  12.Closures
+  • Lexical Scope
+  • Function Scope
+  • Closure Use Cases
+  13.Asynchronous JavaScript
+  • Callback Functions
+  • Promises
+  • async/await Syntax
+  • Fetch API
+  • XMLHttpRequest
+  14.Modules
+  • import and export Statements (ES6 Modules)
+  • CommonJS Modules (require, module.exports)
+  15.Event Handling
+  • Event Listeners
+  • Event Object
+  • Bubbling and Capturing
 
-ADVANCED CONCEPTS
+1.  DOM Manipulation
+    • Selecting DOM Elements
+    • Modifying Element Properties
+    • Creating and Appending Elements
 
-12.Closures
-• Lexical Scope
-• Function Scope
-• Closure Use Cases
+2.  Regular Expressions
+    • Pattern Matching
+    • RegExp Methods: test(), exec(), match(), replace()
 
-13.Asynchronous JavaScript
-• Callback Functions
-• Promises
-• async/await Syntax
-• Fetch API
-• XMLHttpRequest
+3.  Browser APIs
+    • localStorage and sessionStorage
+    • navigator Object
+    • Geolocation API
+    • Canvas API
 
-14.Modules
-• import and export Statements (ES6 Modules)
-• CommonJS Modules (require, module.exports)
+4.  Web APIs
+    • setTimeout(), setInterval()
+    • XMLHttpRequest
+    • Fetch API
+    • WebSockets
 
-15.Event Handling
-• Event Listeners
-• Event Object
-• Bubbling and Capturing
+5.  Functional Programming
+    • Higher-Order Functions
+    • map(), reduce(), filter()
+    • Pure Functions and Immutability
 
-16.DOM Manipulation
-• Selecting DOM Elements
-• Modifying Element Properties
-• Creating and Appending Elements
+6.  Promises and Asynchronous Patterns
+    • Promise Chaining
+    • Error Handling with Promises
+    • Async/Await
 
-17.Regular Expressions
-• Pattern Matching
-• RegExp Methods: test(), exec(), match(), replace()
+7.  ES6+ Features
+    • Template Literals
+    • Destructuring Assignment
+    • Rest and Spread Operators
+    • Arrow Functions
+    • Classes and Inheritance
+    • Default Parameters
+    • let, const Block Scoping
 
-18.Browser APIs
-• localStorage and sessionStorage
-• navigator Object
-• Geolocation API
-• Canvas API
+8.  Browser Object Model (BOM)
+    • window Object
+    • history Object
+    • location Object
+    • navigator Object
 
-19.Web APIs
-• setTimeout(), setInterval()
-• XMLHttpRequest
-• Fetch API
-• WebSockets
+9.  Node.js Specific Concepts
+    • require()
+    • Node.js Modules (module.exports)
+    • File System Module (fs)
+    • npm (Node Package Manager)
 
-20.Functional Programming
-• Higher-Order Functions
-• map(), reduce(), filter()
-• Pure Functions and Immutability
+10. Testing Frameworks
+    • Jasmine
+    • Mocha
+    • Jest
 
-21.Promises and Asynchronous Patterns
-• Promise Chaining
-• Error Handling with Promises
-• Async/Await
+&nbsp;
 
-22.ES6+ Features
-• Template Literals
-• Destructuring Assignment
-• Rest and Spread Operators
-• Arrow Functions
-• Classes and Inheritance
-• Default Parameters
-• let, const Block Scoping
+&nbsp;
 
-23.Browser Object Model (BOM)
-• window Object
-• history Object
-• location Object
-• navigator Object
-
-24.Node.js Specific Concepts
-• require()
-• Node.js Modules (module.exports)
-• File System Module (fs)
-• npm (Node Package Manager)
-
-25.Testing Frameworks
-• Jasmine
-• Mocha
-• Jest
+&nbsp;
 
 JS Functions
+
 JS Objects
+
 JS Events
+
 JS Strings
+
 JS Numbers
+
 JS BigInt
+
 JS Number Methods
+
 JS Number Properties
+
 JS Arrays
+
 JS Array Methods
+
 JS Array Sort
+
 JS Array Iteration
+
 JS Array Const
+
 JS Dates
+
 JS Date Formats
+
 JS Date Get Methods
+
 JS Date Set Methods
+
 JS Math
+
 JS Random
+
 JS Sets
+
 JS Maps
+
 JS RegExp
+
 JS Precedence
+
 JS Errors
+
 JS Scope
+
 JS Hoisting
+
 JS Strict Mode
+
 JS this Keyword
+
 JS Arrow Function
+
 JS Classes
+
 JS Modules
+
 JS JSON
+
 JS Debugging
+
 JS Style Guide
+
 JS Best Practices
+
 JS Mistakes
+
 JS Performance
+
 JS Reserved Words
