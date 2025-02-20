@@ -14,6 +14,8 @@
 
 - set
 
+- forEach loop
+
 &nbsp;
 
 &nbsp;
