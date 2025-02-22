@@ -2,6 +2,7 @@
 
 - [Overview](#overview)
 - [Iterables](#iterables)
+- [Iterator](#iterator)
 - [Iterating](#iterating)
 - [Examples of Built-in Iterables in JavaScript](#examples-of-built-in-iterables-in-javascript)
 - [The For Of Loop](#the-for-of-loop)
@@ -25,7 +26,17 @@
 
 # Iterables
 
+An iterable is an object that contains a collection of values and allows iteration over them one by one.
+
 An **iterable** is any object in JavaScript that implements the iterable protocol, meaning it has a special method called `[Symbol.iterator]()` that returns an iterator.
+
+This allows the object to be used in loops like `for…of` and `spread syntax (…)`.
+
+&nbsp;
+
+&nbsp;
+
+# Iterator
 
 An **iterator** is an object that follows the iterator protocol, meaning it has a next() method that returns an object with `{ value, done }` properties.
 
@@ -58,7 +69,8 @@ JavaScript has many built-in iterables:
 - **TypedArrays**: new `Uint8Array([1,2,3])`
 - **Arguments object**: Function arguments
 - **NodeLists**: document.querySelectorAll()
-  All these can be iterated using loops like `for…of` and spread operators (…).
+
+All these can be iterated using loops like `for…of` and `spread operators (…)`.
 
 &nbsp;
 
