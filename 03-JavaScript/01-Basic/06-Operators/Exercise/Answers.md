@@ -15,6 +15,6 @@
 5. console.log(2\*\*3);
 6. The result be Infinity
 7. 8
-8. y *= 5
+8. y \*= 5
 9. 2
 10. true, false

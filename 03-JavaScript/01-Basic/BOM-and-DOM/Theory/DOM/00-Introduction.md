@@ -1,10 +1,24 @@
 # Overview
 
-- WHat is DOM
+- [Overview](#overview)
+- [Introduction](#introduction)
+- [What is the DOM?](#what-is-the-dom)
+- [What is the HTML DOM?](#what-is-the-html-dom)
+
+&nbsp;
+
+&nbsp;
+
+
+- What is DOM
 - How to change the content of HTML elements
 - How to change the style (CSS) of HTML elements
 - How to react to HTML DOM events
 - How to add and delete HTML elements
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -24,12 +38,13 @@ When an HTML file is loaded into the browser, the javascript can not understand 
 
 &nbsp;
 
-***DOM tree refers to a HTML page where all the nodes are objects.***
+**_DOM tree refers to a HTML page where all the nodes are objects._**
 
 There can be 3 main types of nodes in the DOM tree:
-* text nodes
-* element nodes
-* comment nodes
+
+- text nodes
+- element nodes
+- comment nodes
 
 &nbsp;
 
@@ -88,7 +103,7 @@ The W3C DOM standard is separated into 3 different parts:
 
 # What is the HTML DOM?
 
-The HTML DOM is a standard object model and programming interface for HTML. 
+The HTML DOM is a standard object model and programming interface for HTML.
 
 It defines:
 
