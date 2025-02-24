@@ -15,6 +15,8 @@
 - set
 
 - forEach loop
+- for.....of
+- for.....in
 
 &nbsp;
 

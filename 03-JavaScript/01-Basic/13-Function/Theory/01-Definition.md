@@ -1,11 +1,13 @@
 # Overview
 
 - [Overview](#overview)
-- [function definition](#function-definition)
+- [Function Definition](#function-definition)
+- [Types of Function Definitions](#types-of-function-definitions)
 - [Function Declarations](#function-declarations)
 - [Note](#note)
-- [Syntax 1:](#syntax-1)
-- [Syntax 2:](#syntax-2)
+- [Syntax](#syntax)
+  - [Syntax 1](#syntax-1)
+  - [Syntax 2](#syntax-2)
 - [Example](#example)
 - [Function Expressions](#function-expressions)
 - [The Function() Constructor](#the-function-constructor)
@@ -23,17 +25,33 @@
 
 &nbsp;
 
-# function definition
+# Function Definition
 
-JavaScript functions are defined with the `function` keyword.
+A **function definition** refers to the actual implementation of a function.
+It can be created using a function declaration, a function expression, or an arrow function.
 
-You can use a **function declaration** or a **function expression**.
+&nbsp;
+
+&nbsp;
+
+# Types of Function Definitions
+
+1. Using Function Declaration
+2. Using Function Expression
+3. Using Arrow Function (ES6+)
+4. Using Function Constructor
+
+&nbsp;
 
 &nbsp;
 
 &nbsp;
 
 # Function Declarations
+
+A **function declaration** is when a function is defined using the `function` keyword with a name.
+
+These functions are hoisted, meaning they can be called before their definition in the code.
 
 Declared functions are not executed immediately. They are "saved for later use", and will be executed later, when they are invoked (called upon).
 
@@ -54,7 +72,11 @@ Function names can contain **letters, digits, underscores, and dollar signs** (s
 
 &nbsp;
 
-# Syntax 1:
+&nbsp;
+
+# Syntax
+
+## Syntax 1
 
 Without parameters
 
@@ -66,7 +88,7 @@ function function_name() {
 
 &nbsp;
 
-# Syntax 2:
+## Syntax 2
 
 With parameters
 

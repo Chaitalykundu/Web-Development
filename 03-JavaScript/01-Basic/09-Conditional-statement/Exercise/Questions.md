@@ -61,11 +61,11 @@
 
 # Bonus Challenge
 
-🔹 Rock, Paper, Scissors Game
+1. Rock, Paper, Scissors Game
 
-    ```md
-    Ask the user to choose rock, paper, or scissors and compare it against a randomly generated choice from the computer.
-    ```
+```md
+Ask the user to choose rock, paper, or scissors and compare it against a randomly generated choice from the computer.
+```
 
 &nbsp;
 
@@ -75,7 +75,7 @@
 
 # Switch Case
 
-## Begineer Questions
+## Beginner Questions
 
 1. Day of the Week
 
@@ -103,24 +103,24 @@
 
 4. Calculator (switch case)
 
-    ```md
-    Create a basic calculator that takes two numbers and an operator (+, -, \*, /) and performs the operation.
-    ```
+   ```md
+   Create a basic calculator that takes two numbers and an operator (+, -, \*, /) and performs the operation.
+   ```
 
 5. Traffic Light System
 
-    ```md
-    Take traffic light colors (red, yellow, green) as input and print the corresponding action:
-    Red → Stop
-    Yellow → Get Ready
-    Green → Go
-    ```
+   ```md
+   Take traffic light colors (red, yellow, green) as input and print the corresponding action:
+   Red → Stop
+   Yellow → Get Ready
+   Green → Go
+   ```
 
 6. Check the Number of Days in a Month
 
-    ```md
-    Take a month number (1-12) as input and print the number of days in that month.
-    ```
+   ```md
+   Take a month number (1-12) as input and print the number of days in that month.
+   ```
 
 &nbsp;
 
@@ -130,28 +130,28 @@
 
 7. Grade System
 
-    ```md
-    Take a grade (A, B, C, D, F) as input and print a message based on the grade.
-    ```
+   ```md
+   Take a grade (A, B, C, D, F) as input and print a message based on the grade.
+   ```
 
 8. Currency Converter
 
-    ```md
-    Convert an amount from USD to different currencies (INR, EUR, GBP) based on user selection.
-    ```
+   ```md
+   Convert an amount from USD to different currencies (INR, EUR, GBP) based on user selection.
+   ```
 
-    Example
+   Example
 
-    ```md
-    Input: 100 USD to INR
-    Output: 8300 INR (assuming 1 USD = 83 INR)
-    ```
+   ```md
+   Input: 100 USD to INR
+   Output: 8300 INR (assuming 1 USD = 83 INR)
+   ```
 
 9. Menu-Based Food Order System
 
-    ```md
-    Display a menu with items (Pizza, Burger, Pasta) and ask the user to select an option. Print the price accordingly.
-    ```
+   ```md
+   Display a menu with items (Pizza, Burger, Pasta) and ask the user to select an option. Print the price accordingly.
+   ```
 
 10. Check Season by Month
 
@@ -169,8 +169,8 @@
 
 ## Bonus Challenge 🚀
 
-🔹 Rock, Paper, Scissors Game
+1. Rock, Paper, Scissors Game
 
-    ``md
-    Ask the user to choose rock, paper, or scissors, and use switch to determine the winner against a randomly generated choice
-    ```
+   ```md
+   Ask the user to choose rock, paper, or scissors, and use switch to determine the winner against a randomly generated choice
+   ```

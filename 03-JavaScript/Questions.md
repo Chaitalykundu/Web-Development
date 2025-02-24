@@ -27,6 +27,9 @@
     - [Arithmetic operators](#arithmetic-operators)
     - [Assignment operator](#assignment-operator)
 - [Bitwise operators](#bitwise-operators)
+  - [Function](#function)
+    - [Theory](#theory-3)
+    - [Parameters](#parameters)
 - [Closure](#closure)
 - [Answer](#answer)
 - [Introduction](#introduction-1)
@@ -340,6 +343,57 @@
 1. What is Bitwise operator
 2. Name the Assignment operators
 3. JavaScript stores numbers as How many bits , and performed on How many bits
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+## Function
+
+### Theory
+
+1. What is function
+2. What are the key features of function
+3. What Components are used in function
+4. Which types of functions are there in JavaScript
+5. Name the keywords used in function
+6. What is Modularity
+7. What is Parameterization
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+### Parameters
+
+1. What is parameter
+2. What is argument
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
