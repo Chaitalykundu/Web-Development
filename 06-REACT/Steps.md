@@ -1,4 +1,16 @@
-## Used Node verion
+# In cmd
+
+## Install npm
+
+> npm install
+
+&nbsp;
+
+&nbsp;
+
+# In VSCode
+
+## Used Node version
 
 > node -v
 
@@ -6,7 +18,7 @@
 
 &nbsp;
 
-## Used npm verion
+## Used npm version
 
 > npm -v
 

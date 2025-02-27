@@ -44,30 +44,28 @@ javascript 54–84 of sigma course CWH
 | SL No | Topics                               | SUb-Topics                                      | Status |
 | ----- | ------------------------------------ | ----------------------------------------------- | ------ |
 | 1     | Introduction                         | What is javascript                              | Done   |
-| 2     |                                      | Versions of js                                  |        |
-| 3     |                                      | How to add js                                   |        |
-| 4     |                                      | output                                          |        |
-| 5     |                                      | Statements                                      |        |
-| 6     |                                      | Keywords                                        |        |
-| 7     |                                      | Syntax                                          |        |
-| 8     |                                      | Comments                                        |        |
+| 2     |                                      | Versions of js                                  | Done   |
+| 3     |                                      | How to add js                                   | Done   |
+| 4     |                                      | output                                          | Done   |
+| 5     |                                      | Statements                                      | Done   |
+| 6     |                                      | Keywords                                        | Done   |
+| 7     |                                      | Syntax                                          | Done   |
+| 8     |                                      | Comments                                        | Done   |
 |       |                                      |                                                 |        |
-| 9     | Variables                            | declaration                                     |        |
-| 10    |                                      | var                                             |        |
-| 11    |                                      | let                                             |        |
-| 12    |                                      | const                                           |        |
-|       |                                      |                                                 |        |
+| 9     | Variables                            | declaration                                     | Done   |
+| 10    |                                      | var                                             | Done   |
+| 11    |                                      | let                                             | Done   |
+| 12    |                                      | const                                           | Done   |
 | 13    | Scope                                |                                                 |        |
 | 14    | Hoisting                             |                                                 |        |
 | 15    | DataTypes                            | Primitives (NNBBSSU)                            |        |
 | 16    |                                      | non-primitive                                   |        |
-|       |                                      |                                                 |        |
-| 17    | Operators                            | Arithmetic Operators                            |        |
-| 18    |                                      | Assignment Operators                            |        |
-| 19    |                                      | Logical Operators                               |        |
-| 20    |                                      | Comparison Operators                            |        |
-| 21    |                                      | Bitwise Operators                               |        |
-| 22    |                                      | Ternary Operators                               |        |
+| 17    | Operators                            | Arithmetic Operators                            | Done   |
+| 18    |                                      | Assignment Operators                            | Done   |
+| 19    |                                      | Logical Operators                               | Done   |
+| 20    |                                      | Comparison Operators                            | Done   |
+| 21    |                                      | Bitwise Operators                               | Done   |
+| 22    |                                      | Ternary Operators                               | Done   |
 | 23    |                                      | Type Operators                                  |        |
 | 24    |                                      | BigInt operator                                 |        |
 | 25    |                                      | String operator                                 |        |
@@ -81,10 +79,10 @@ javascript 54–84 of sigma course CWH
 | 33    |                                      | others to boolean                               |        |
 | 34    |                                      | undefined with others                           |        |
 |       |                                      |                                                 |        |
-| 35    | Control flow (Conditional statement) | if                                              |        |
-| 36    |                                      | else                                            |        |
-| 37    |                                      | else if                                         |        |
-| 38    |                                      | switch                                          |        |
+| 35    | Control flow (Conditional statement) | if                                              | Done   |
+| 36    |                                      | else                                            | Done   |
+| 37    |                                      | else if                                         | Done   |
+| 38    |                                      | switch                                          | Done   |
 | 39    |                                      | case                                            |        |
 | 40    |                                      | default                                         |        |
 | 41    |                                      | ternary                                         |        |
@@ -187,7 +185,8 @@ LinkedIn - [Notes by Abhishek Srivastava](https://www.linkedin.com/posts/abh
 - /ab+c/i
 - `string`
 - ( )
-  &nbsp;
+
+&nbsp;
 
 Left-hand-side expressions
 
