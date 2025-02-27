@@ -2,8 +2,11 @@
 
 - [Overview](#overview)
 - [String](#string)
-  - [Example](#example)
-  - [Example](#example-1)
+- [Creating Strings](#creating-strings)
+  - [1. Using String Literals](#1-using-string-literals)
+    - [Example](#example)
+    - [Example](#example-1)
+  - [2. Using the String Constructor](#2-using-the-string-constructor)
 - [Strings are immutable](#strings-are-immutable)
   - [Example](#example-2)
 
@@ -15,17 +18,23 @@
 
 # String
 
-JavaScript `strings` are for storing and manipulating text.
+A string is a sequence of **zero or more characters** used to represent text, written using **single (')**, **double (")**, or **backticks (`)** for template literals.
 
-A JavaScript string is **zero or more characters** written inside single or double quotes.
+JavaScript `strings` are for storing and manipulating text.
 
 Strings are case-sensitive.
 
-&nbsp;
+Strings are **immutable** (cannot be changed after creation).
 
 &nbsp;
 
-## Example
+&nbsp;
+
+# Creating Strings
+
+## 1. Using String Literals
+
+### Example
 
 ```js
 let carName1 = "Volvo XC60"; // Double quotes
@@ -37,13 +46,24 @@ let carName3 = `Volvo XC60`; // backticks
 
 You can use quotes inside a string, as long as they don't match the quotes surrounding the string:
 
-## Example
+### Example
 
 ```js
 let answer1 = "It's alright";
 let answer2 = "He is called 'Johnny'";
 let answer3 = 'He is called "Johnny"';
 ```
+
+&nbsp;
+
+## 2. Using the String Constructor
+
+```js
+let str4 = new String("This is a string object");
+console.log(typeof str4); // "object"
+```
+
+- Note: It's generally not recommended to use `new String()` because it creates an `object`, not a primitive string.
 
 &nbsp;
 
@@ -58,7 +78,7 @@ JavaScript Strings are **immutable**. Since once a string is created it will rec
 ## Example
 
 ```js
-str = "new string"
+str = "new string";
 console.log(str); // new string
 str.replace("new", "replaced");
 console.log(str); // new string

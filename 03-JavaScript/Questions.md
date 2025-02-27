@@ -31,6 +31,7 @@
     - [Theory](#theory-3)
     - [Parameters](#parameters)
 - [Closure](#closure)
+- [String](#string)
 - [Answer](#answer)
 - [Introduction](#introduction-1)
   - [1. What is Programming](#1-what-is-programming)
@@ -416,6 +417,12 @@
 &nbsp;
 
 &nbsp;
+
+# String
+
+1. WHat is string
+2. Why are strings immutable
+
 
 &nbsp;
 
