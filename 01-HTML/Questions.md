@@ -4,6 +4,8 @@
 - [Question Links](#question-links)
 - [Questions](#questions)
 - [Introduction](#introduction)
+  - [Introduction](#introduction-1)
+  - [Features](#features)
 - [Tags](#tags)
 - [Elements](#elements)
 - [Attribute](#attribute)
@@ -34,11 +36,13 @@
 - [Iframe](#iframe)
 - [Meta tag](#meta-tag)
 - [Answer](#answer)
-- [Introduction](#introduction-1)
+- [Introduction](#introduction-2)
   - [1. What is HTML](#1-what-is-html)
   - [2. What is Hypertext](#2-what-is-hypertext)
   - [3. What is markup language](#3-what-is-markup-language)
   - [4. How many types of pages are there in website](#4-how-many-types-of-pages-are-there-in-website)
+  - [5. What is dynamic webpage](#5-what-is-dynamic-webpage)
+  - [6. What is the purpose of a web browser](#6-what-is-the-purpose-of-a-web-browser)
 - [Basic Structure](#basic-structure-1)
 - [Image](#image-1)
   - [7. When is alt attribute more useful](#7-when-is-alt-attribute-more-useful)
@@ -93,7 +97,8 @@
 1. What is tag in HTML
 2. How many types of tags are there
 3. What is Deprecated Tags
-   &nbsp;
+   
+&nbsp;
 
 &nbsp;
 
