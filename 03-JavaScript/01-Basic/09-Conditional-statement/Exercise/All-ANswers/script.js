@@ -22,7 +22,7 @@ function checkVotingEligibility() {
     let num = document.getElementById("number").value;
     if (num >= 18) ans = "Eligible for Vote";
     else ans = "Not Eligible for Vote";
-    
+
     result.innerHTML = ans;
     console.log(num)
 }
