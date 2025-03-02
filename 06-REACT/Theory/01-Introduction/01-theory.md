@@ -15,7 +15,7 @@
 
 # Introduction
 
-React is a Javascript library developed by **Facebook** to build interactive User Interfaces.
+React is a **Javascript library** developed by **Facebook** to build interactive User Interfaces.
 
 It follows the **Component-based architecture** which means you will divide your whole UI part into reusable components. All components are made separately and finally fitted into a parent component which is then rendered.
 

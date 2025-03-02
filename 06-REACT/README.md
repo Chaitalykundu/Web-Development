@@ -57,7 +57,32 @@ https://www.linkedin.com/posts/munnukumar_react-js-handwritten-notes-ugcPost-725
 
 &nbsp;
 
-#
+# Advance topics
+
+- babel
+- Fibre
+- Virtual DOM
+- Hydration
+- Different algorithm
+
+&nbsp;
+
+&nbsp;
+
+# Additional Add-on to React
+
+- Router
+- State Management
+  - Redux, Redux-toolkit, zustand, Context API
+- Class-based component
+- BAAS app
+  - Social media clone, e-commerce app
+
+&nbsp;
+
+&nbsp;
+
+# Pathways
 
 1. Get the Basics Right
 
@@ -74,7 +99,7 @@ https://www.linkedin.com/posts/munnukumar_react-js-handwritten-notes-ugcPost-725
    - Components: Study functional and class components.
    - State and Props:
      - props for passing data between components.
-     - state for managing dynamic data.
+     - state for managing dynamic data or UIO Manipulation.
    - Event Handling: Learn how to handle events in React.
    - Lifecycle Methods: Focus on functional components with hooks (useEffect).
 
