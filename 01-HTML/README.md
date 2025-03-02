@@ -39,12 +39,12 @@ YouTube : [Web Development - WsCube Tech](https://www.youtube.com/watch?v=HVjjoM
 |                   | web storage                                                       |        |
 |                   | drag and drop                                                     |        |
 |                   | web worker                                                        |        |
-|                   | SSE(Server Sent Events)                                           |
-| Web accessibility | What is web accessibility                                         |
-|                   | The Web content accessibility guidelines (WCAG)                   |
-|                   | Read more tag related to accessibility                            |
-| Image             | [Map](https://www.w3schools.com/html/html_images_imagemap.asp)    |
-|                   | [Picture](https://www.w3schools.com/html/html_images_picture.asp) |
+|                   | SSE(Server Sent Events)                                           |        |
+| Web accessibility | What is web accessibility                                         |        |
+|                   | The Web content accessibility guidelines (WCAG)                   |        |
+|                   | Read more tag related to accessibility                            |        |
+| Image             | [Map](https://www.w3schools.com/html/html_images_imagemap.asp)    |        |
+|                   | [Picture](https://www.w3schools.com/html/html_images_picture.asp) |        |
 
 &nbsp;
 

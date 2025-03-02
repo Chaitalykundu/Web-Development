@@ -95,11 +95,25 @@ console.log(greet("Alice")); // Function Call
 
 # Types of Functions
 
-- **Built-in Functions** - Provided by programming languages (e.g., Math.max() in JavaScript).
-- **User-defined Functions** - Created by developers for specific tasks.
-- **Recursive Functions** - Calls itself to solve problems (e.g., factorial computation).
-- **Anonymous Functions** - Functions without a name (e.g., arrow functions in JavaScript).
+- **Named Functions** - A function expression can also have a name (useful for recursion and debugging).
+
+- **Anonymous Functions** - Functions without a name - (e.g., arrow functions in JavaScript).
+
+- **Arrow Functions** - Arrow functions provide a shorter syntax for function expressions.
+
+- **Immediately Invoked Function Expressions (IIFE)** - An IIFE is a function that runs immediately after being defined.
+
+- **Generator Functions** - A generator function allows pausing and resuming execution using yield.
+
+- **Constructor Functions** - JavaScript allows functions to be created dynamically using the Function constructor.
+
 - **Higher-Order Functions** - Functions that take other functions as arguments or return them.
+
+- **Callback Functions** -
+
+- **Async Functions** - An async function allows handling asynchronous operations more easily.
+
+- **Recursive Functions** - Calls itself to solve problems (e.g., factorial computation).
 
 &nbsp;
 

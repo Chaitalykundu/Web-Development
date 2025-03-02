@@ -29,6 +29,7 @@
 - [Bitwise operators](#bitwise-operators)
   - [Function](#function)
     - [Theory](#theory-3)
+    - [Function Definition](#function-definition)
     - [Parameters](#parameters)
 - [Closure](#closure)
 - [String](#string)
@@ -370,8 +371,16 @@
 5. Name the keywords used in function
 6. What is Modularity
 7. What is Parameterization
+8. What is fallback value
+9.
 
 &nbsp;
+
+&nbsp;
+
+### Function Definition
+
+1.
 
 &nbsp;
 
@@ -420,10 +429,9 @@
 
 # String
 
-1. WHat is string
+1. What is string
 2. Why are strings immutable
 
-
 &nbsp;
 
 &nbsp;
@@ -433,9 +441,18 @@
 &nbsp;
 
 &nbsp;
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 &nbsp;
 
+&nbsp;
 &nbsp;
 
 &nbsp;
