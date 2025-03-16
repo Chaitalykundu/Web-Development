@@ -1,0 +1,12 @@
+# Difference
+
+| Features            | Function Declaration                                                                                 | Function Expression                                     | Arrow Function                                                              |
+| ------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Definition          | A **function declaration** is when a function is defined using the `function` keyword with a `name`. | A function expression assigns a function to a variable. | Arrow functions allows a **short syntax for writing function expressions**. |
+| Hoisting            | These functions are hoisted, meaning they **can be called before their definition** in the code.     | These functions are not hoisted                         | These functions are not hoisted                                             |
+| Can be Anonymous?   | No                                                                                                   | Yes                                                     | Yes                                                                         |
+| Used as Callbacks?  | Less common                                                                                          | Very common                                             | often used for callbacks                                                    |
+| Can be Constructor? | Yes                                                                                                  | Yes                                                     | No                                                                          |
+| Has arguments?      | Yes                                                                                                  | Yes                                                     | No                                                                          |
+| Code Size           | Medium                                                                                               | Medium                                                  | Shortest                                                                    |
+|                     |                                                                                                      |                                                         |

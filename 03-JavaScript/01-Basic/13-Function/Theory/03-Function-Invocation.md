@@ -9,6 +9,7 @@
 - [The Global Object](#the-global-object)
 - [Invoking a Function as a Method](#invoking-a-function-as-a-method)
 - [Invoking a Function with a Function Constructor](#invoking-a-function-with-a-function-constructor)
+  - [Example](#example-1)
 
 &nbsp;
 
@@ -18,7 +19,9 @@
 
 # Function Invocation
 
-- **_Function invocation_** is a way to use the code inside a function
+**_Function invocation_** is a way to use the code inside a function
+
+&nbsp;
 
 The code inside the function will execute when "something" **invokes** (calls) the function
 
@@ -35,6 +38,8 @@ The code inside the function will execute when "something" **invokes** (calls) t
 It is common to use the term "call a function" instead of "invoke a function".
 
 It is also common to say "call upon a function", "start a function", or "execute a function".
+
+&nbsp;
 
 &nbsp;
 
@@ -71,6 +76,8 @@ Function expressions will execute automatically if the expression is followed by
 You cannot self-invoke a function declaration.
 
 You have to add parentheses around the function to indicate that it is a function expression:
+
+&nbsp;
 
 # Example
 
@@ -165,7 +172,9 @@ If a function invocation is preceded with the new keyword, it is a constructor i
 
 It looks like you create a new function, but since JavaScript functions are objects you actually create a new object:
 
-Example
+&nbsp;
+
+## Example
 
 ```js
 // This is a function constructor:
@@ -191,6 +200,7 @@ A constructor invocation creates a new object. The new object inherits the prope
 The `this` keyword in the constructor does not have a value.
 
 The value of this will be the new object created when the function is invoked.
+
 &nbsp;
 &nbsp;
 &nbsp;

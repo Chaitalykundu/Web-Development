@@ -30,6 +30,7 @@
   - [Function](#function)
     - [Theory](#theory-3)
     - [Function Definition](#function-definition)
+    - [Arrow functions](#arrow-functions)
     - [Parameters](#parameters)
 - [Closure](#closure)
 - [String](#string)
@@ -57,11 +58,11 @@
 - [Datatype](#datatype-1)
   - [2. Is null an independent type or object](#2-is-null-an-independent-type-or-object)
 - [Variable](#variable-1)
-    - [8. Can we declare Many Variables is one statement](#8-can-we-declare-many-variables-is-one-statement)
+  - [8. Can we declare Many Variables is one statement](#8-can-we-declare-many-variables-is-one-statement)
 - [Closure](#closure-1)
-    - [1. What is a closure in JavaScript?](#1-what-is-a-closure-in-javascript)
-    - [2. Why are closures important in JavaScript?](#2-why-are-closures-important-in-javascript)
-    - [3. Can you give an example of a closure in JavaScript?](#3-can-you-give-an-example-of-a-closure-in-javascript)
+  - [1. What is a closure in JavaScript?](#1-what-is-a-closure-in-javascript)
+  - [2. Why are closures important in JavaScript?](#2-why-are-closures-important-in-javascript)
+  - [3. Can you give an example of a closure in JavaScript?](#3-can-you-give-an-example-of-a-closure-in-javascript)
 - [1. What are the Difference Between String `indexOf()` and String `search()`](#1-what-are-the-difference-between-string-indexof-and-string-search)
 - [2.Why do we use functions?](#2why-do-we-use-functions)
 - [3. What are the ways to empty an array?](#3-what-are-the-ways-to-empty-an-array)
@@ -372,7 +373,6 @@
 6. What is Modularity
 7. What is Parameterization
 8. What is fallback value
-9.
 
 &nbsp;
 
@@ -380,7 +380,32 @@
 
 ### Function Definition
 
-1.
+1. What is function definition
+2. What are the ways to define a function
+3. What is anonymous function
+4. Can we use named function inside function expression
+
+&nbsp;
+
+&nbsp;
+
+### Arrow functions
+
+1. What is Arrow function
+2. What is the syntax of Arrow function
+3. Can we remove return statement in Arrow function
+4. Explain Arrow Function Variants
+5. What are the Key Characteristics of Arrow Functions
+6. When should we Use Arrow Functions
+7. When should we Avoid Arrow Functions
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
