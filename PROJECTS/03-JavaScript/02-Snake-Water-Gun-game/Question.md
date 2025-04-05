@@ -4,6 +4,6 @@ Write a javascript code to create a game of snake, water and gun. The game shoul
 
 Case:
 
-* Snake & Water => Snake wins
-* Water & Gun  => Water wins
-* Gun & Snake => Gun wins
+- Snake & Water => Snake wins
+- Water & Gun => Water wins
+- Gun & Snake => Gun wins

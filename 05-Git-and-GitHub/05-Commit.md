@@ -8,7 +8,7 @@
 - [Git Commit without Stage](#git-commit-without-stage)
 - [Git Commit Log](#git-commit-log)
 - [Atomic commit](#atomic-commit)
-    - [Meaning of unit of work](#meaning-of-unit-of-work)
+  - [Meaning of unit of work](#meaning-of-unit-of-work)
 - [Git snapshot](#git-snapshot)
 - [Musketeers of Git](#musketeers-of-git)
   - [Commit Object](#commit-object)

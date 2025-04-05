@@ -113,19 +113,19 @@ arr.forEach((i, index) => {
 
 1. Use `map()` - If you need a new array
 
-    ```js
-    const doubled = numbers.map((num) => num * 2);
-    console.log(doubled); // [2, 4, 6]
-    ```
+   ```js
+   const doubled = numbers.map((num) => num * 2);
+   console.log(doubled); // [2, 4, 6]
+   ```
 
 2. Use `for…of` -If you need break or continue
 
-    ```js
-    for (let num of numbers) {
-      if (num === 2) break;
-      console.log(num);
-    }
-    ```
+   ```js
+   for (let num of numbers) {
+     if (num === 2) break;
+     console.log(num);
+   }
+   ```
 
 &nbsp;
 

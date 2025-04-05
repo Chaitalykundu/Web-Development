@@ -11,14 +11,14 @@
 - [Property Values](#property-values)
 - [Note](#note-1)
 - [Position - Static](#position---static)
-    - [Example](#example-1)
+  - [Example](#example-1)
 - [Position - relative](#position---relative)
-    - [Example](#example-2)
+  - [Example](#example-2)
 - [Position - fixed](#position---fixed)
-    - [Example](#example-3)
+  - [Example](#example-3)
 - [Position - absolute](#position---absolute)
 - [Position - Sticky](#position---sticky)
-    - [Example](#example-4)
+  - [Example](#example-4)
 
 &nbsp;
 

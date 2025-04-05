@@ -4,19 +4,15 @@
 
 2. Write a `while` loop that counts down from 5 to 1 and stores the numbers in an array
 
-3. Write a `do while` loop that prompts a user to enter their favourite tea type until they emter `stop`. Store each tea type in an array
-   named `teaCollection`
+3. Write a `do while` loop that prompts a user to enter their favourite tea type until they enter `stop`. Store each tea type in an array named `teaCollection`
 
 4. Write a `do while` loop that adds numbers from 1 to 3 and stores the result in a variable named `total`
 
-5. Write a `for` loop that multiplies each element in the array `[2,4,6]` by 2 and stores the result in a new array named
-   `multipliedNumbers`
+5. Write a `for` loop that multiplies each element in the array `[2,4,6]` by 2 and stores the result in a new array named `multipliedNumbers`
 
-6. Write a `for` loop that lists all the cities in the array `["Paris", "New York", "Tokyo", "London"]` and stores each city in a new
-   array named `cityList`
+6. Write a `for` loop that lists all the cities in the array `["Paris", "New York", "Tokyo", "London"]` and stores each city in a new array named `cityList`
 
-7. Write a `for` loop that loops through the array [1,2,3,4,5,6,7,8,9] and stops the loop when it finds 5, Stores all elements before 5
-   in a new array.
+7. Write a `for` loop that loops through the array [1,2,3,4,5,6,7,8,9] and stops the loop when it finds 5, Stores all elements before 5 in a new array.
 
 8. Write a `for` loop that loops through the array `[1,2,3,4,5,6,7,8,9]` and skips 5. Stores all elements in a new array.
 
@@ -52,7 +48,7 @@
 
 &nbsp;
 
-# Intermediate Loop Challenges
+# Intermediate Loop Exercises
 
 1. Find Prime Numbers: Write a program that prints all prime numbers between 1 and 50.
 2. Fibonacci Series: Use a loop to print the first 10 numbers of the Fibonacci series.

@@ -55,7 +55,7 @@
 
 &nbsp;
 
-Template Literals use ` back-ticks (``) ` rather than the quotes ("") to define a string
+Template Literals use `back-ticks (``)` rather than the quotes ("") to define a string
 
 ### Example
 

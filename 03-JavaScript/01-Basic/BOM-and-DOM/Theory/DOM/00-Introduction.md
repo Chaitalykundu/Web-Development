@@ -9,7 +9,6 @@
 
 &nbsp;
 
-
 - What is DOM
 - How to change the content of HTML elements
 - How to change the style (CSS) of HTML elements

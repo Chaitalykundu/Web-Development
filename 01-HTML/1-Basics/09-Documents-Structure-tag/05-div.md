@@ -17,10 +17,10 @@
 
 # Summary
 
-| Specifications         | Description / Type                                               |
+| Specifications         | Description / Type                                 |
 | ---------------------- | -------------------------------------------------- |
 | div                    | defines a division or a section in a html document |
-| Tag Type               | Container                                              |
+| Tag Type               | Container                                          |
 | Display / Element Type | Inline                                             |
 | Usage                  | Structure                                          |
 |                        |                                                    |
@@ -80,7 +80,7 @@ div {
 
 | Specifications    | Type      |
 | ----------------- | --------- |
-| Tag               | Container  |
+| Tag               | Container |
 | Display / Element | Block     |
 | Usage             | Structure |
 |                   |           |

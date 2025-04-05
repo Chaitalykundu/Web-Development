@@ -71,8 +71,8 @@
 
 11. Which method is used to remove the first element of an array?
 
-   > shift()
+> shift()
 
 12. Which method returns a shallow copy of a portion of an array?
 
-   > slice()
+> slice()

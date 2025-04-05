@@ -1,5 +1,5 @@
 # Topics
 
-|Topic|Sub Topic|Status|
-|-|-|-|
-|State Management|
+| Topic            | Sub Topic | Status |
+| ---------------- | --------- | ------ |
+| State Management |

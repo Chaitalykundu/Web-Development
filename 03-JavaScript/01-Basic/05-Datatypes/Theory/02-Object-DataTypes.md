@@ -218,7 +218,6 @@ console.log(pattern.test("Hello World")); // Output: true
 
 A Map is a collection of key-value pairs where keys can be any type (including objects).
 
-
 &nbsp;
 
 ## Example
@@ -239,7 +238,7 @@ A collection of unique values.
 
 ```js
 let set = new Set([1, 2, 3, 3]);
-console.log(set);  // Output : Set(3) { 1, 2, 3 }
+console.log(set); // Output : Set(3) { 1, 2, 3 }
 ```
 
 &nbsp;

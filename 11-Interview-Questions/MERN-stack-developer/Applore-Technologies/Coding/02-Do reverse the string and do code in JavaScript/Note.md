@@ -1,3 +1,3 @@
 # Important
 
-* length of a string = **str.length**
+- length of a string = **str.length**

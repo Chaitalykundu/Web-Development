@@ -8,5 +8,4 @@
 
 5️⃣ Add Color Picker
 
-
 https://www.linkedin.com/posts/harisahmad59_5-secret-tags-in-html-activity-7201420466819899392-bSUI?utm_source=share&utm_medium=member_desktop

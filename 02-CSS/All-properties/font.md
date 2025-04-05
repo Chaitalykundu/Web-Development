@@ -71,11 +71,15 @@ Set some font properties with the shorthand declaration:
 
 ```css
 p.a {
-  font: 15px Arial, sans-serif;
+  font:
+    15px Arial,
+    sans-serif;
 }
 
 p.b {
-  font: italic small-caps bold 12px/30px Georgia, serif;
+  font:
+    italic small-caps bold 12px/30px Georgia,
+    serif;
 }
 ```
 

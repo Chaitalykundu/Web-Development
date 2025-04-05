@@ -13,7 +13,7 @@
   - [Light-weight programming language](#light-weight-programming-language)
   - [Interpreted language](#interpreted-language)
 - [Dynamic Language](#dynamic-language)
-    - [JavaScript is dynamically typed, meaning:](#javascript-is-dynamically-typed-meaning)
+  - [JavaScript is dynamically typed, meaning:](#javascript-is-dynamically-typed-meaning)
   - [Weakly typed (loosely typed) language](#weakly-typed-loosely-typed-language)
 - [EcmaScript vs JavaScript](#ecmascript-vs-javascript)
 - [Statically Typed vs. Dynamically Typed Languages](#statically-typed-vs-dynamically-typed-languages)

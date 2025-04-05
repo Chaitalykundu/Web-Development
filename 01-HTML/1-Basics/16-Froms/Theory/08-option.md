@@ -84,7 +84,6 @@ None
 
 &nbsp;
 
-
 # Tag-specific attributes
 
 | Attribute | Value    | Description                                                    |

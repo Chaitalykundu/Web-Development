@@ -45,7 +45,7 @@ It helps team structure and manage their work through a set of values.
 # Scrum vs Kanban
 
 | Topic     | Scrum                                                                                                            | Kanban                                                                                      |
-| --------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | 
+| --------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------- |
 | Origin    | Software Development                                                                                             | Lean manufacturing                                                                          |
 | Idealogy  | Learn through experiences, self-organize and prioritize, and reflect on wins and losses to continuously improve. | Use visuals to improve work-in-progress                                                     |
 | Cadence   | Regular, fixed-length sprints (i.e. two weeks)                                                                   | Continuous flow                                                                             |

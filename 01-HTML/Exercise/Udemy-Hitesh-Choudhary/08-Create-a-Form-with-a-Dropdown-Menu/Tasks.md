@@ -1,6 +1,6 @@
 # Task
 
- Create a form with a dropdown menu for selecting a country. Include three options: "India", "Canada", and "UK."
+Create a form with a dropdown menu for selecting a country. Include three options: "India", "Canada", and "UK."
 
 &nbsp;
 

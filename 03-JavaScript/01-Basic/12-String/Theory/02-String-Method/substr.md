@@ -14,8 +14,6 @@
 
 &nbsp;
 
-
-
 # Description
 
 The `substr()` method extracts a part of a string.

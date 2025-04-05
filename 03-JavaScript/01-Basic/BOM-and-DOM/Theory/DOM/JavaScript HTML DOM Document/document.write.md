@@ -4,10 +4,10 @@
 - [document.write()](#documentwrite)
 - [Syntax](#syntax)
 - [Examples](#examples)
-    - [1. Writing Text](#1-writing-text)
-    - [2. Writing HTML Elements](#2-writing-html-elements)
-    - [3. Using JavaScript Variables](#3-using-javascript-variables)
-    - [4. Using Expressions](#4-using-expressions)
+  - [1. Writing Text](#1-writing-text)
+  - [2. Writing HTML Elements](#2-writing-html-elements)
+  - [3. Using JavaScript Variables](#3-using-javascript-variables)
+  - [4. Using Expressions](#4-using-expressions)
 
 &nbsp;
 

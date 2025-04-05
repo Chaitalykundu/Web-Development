@@ -10,9 +10,9 @@ Web Technology refers to the various tools and techniques that are utilized in t
 
 Web Technology can be classified into the following sections:
 
-* World Wide Web (WWW)
-* Web browser
-* Web server
+- World Wide Web (WWW)
+- Web browser
+- Web server
 
 &nbsp;
 
@@ -30,9 +30,9 @@ WWW can be defined as **the collection of different websites** around the world,
 
 The World Wide Web is based on several different technologies:
 
-* Web browsers
-* Hypertext Markup Language (HTML)
-* Hypertext Transfer Protocol (HTTP)
+- Web browsers
+- Hypertext Markup Language (HTML)
+- Hypertext Transfer Protocol (HTTP)
 
 A **Web browser** is used to access web pages. Web browsers can be defined as programs which display text, data, pictures, animation and video on the Internet.
 
@@ -44,16 +44,16 @@ Initially, Web browsers were used only for surfing the Web but now they have bec
 
 ## Features of WWW
 
-* HyperText Information System
+- HyperText Information System
 
-* Cross-Platform
+- Cross-Platform
 
-* Distributed
-* Open Standards and Open Source
-* Uses Web Browsers to provide a single interface for many services
-* Dynamic, Interactive and Evolving.
-* “Web 2.0”
-&nbsp;
+- Distributed
+- Open Standards and Open Source
+- Uses Web Browsers to provide a single interface for many services
+- Dynamic, Interactive and Evolving.
+- “Web 2.0”
+  &nbsp;
 
 &nbsp;
 
@@ -61,11 +61,11 @@ Initially, Web browsers were used only for surfing the Web but now they have bec
 
 There are 3 components of the web:
 
-* **Uniform Resource Locator (URL)** : serves as a system for resources on the web.
+- **Uniform Resource Locator (URL)** : serves as a system for resources on the web.
 
-* **HyperText Transfer Protocol (HTTP)** : specifies communication of browser and server.
+- **HyperText Transfer Protocol (HTTP)** : specifies communication of browser and server.
 
-* **Hyper Text Markup Language (HTML)** : defines the structure, organization and content of a webpage.
+- **Hyper Text Markup Language (HTML)** : defines the structure, organization and content of a webpage.
 
 &nbsp;
 

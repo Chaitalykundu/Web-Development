@@ -14,7 +14,6 @@
 
 &nbsp;
 
-
 # Description
 
 The `concat()` method joins two or more strings.

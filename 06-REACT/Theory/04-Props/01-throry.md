@@ -1,6 +1,5 @@
 # Overview
 
-
 [Free code camp documents](https://www.freecodecamp.org/news/how-to-use-props-in-reactjs/)
 
 &nbsp;
@@ -18,13 +17,13 @@
 
 `Props` is a special keyword in React that is used for passing data from one component to another.
 
-The important part here is that data with props are being passed in a unidirectional flow.  This means it’s passed one way from parent to child.
+The important part here is that data with props are being passed in a unidirectional flow. This means it’s passed one way from parent to child.
 
 &nbsp;
 
 # Example
 
-Props might remind you of HTML attributes, but you can pass any JavaScript value through them, including objects, arrays, and functions. It  uses the same syntax as HTML attributes
+Props might remind you of HTML attributes, but you can pass any JavaScript value through them, including objects, arrays, and functions. It uses the same syntax as HTML attributes
 
 Add a "brand" attribute to the `Car` element:
 
@@ -50,7 +49,7 @@ There are **two** steps to using React props:
 Here I’m declaring a `text` attribute to the `ChildComponent` and then assign a string value: `'I am the first child component'`.
 
 ```js
-<ChildComponent text='I am the first child component'/>
+<ChildComponent text="I am the first child component" />
 ```
 
 Now, the `ChildComponent` has a property and a value. Next, we need to pass it via props.
@@ -63,7 +62,7 @@ Now, the `ChildComponent` has a property and a value. Next, we need to pass it v
 function ChildComponent(props) {
     return (
       <div>
-        <p>Hello There! {props.text}</p> 
+        <p>Hello There! {props.text}</p>
       </div>
     )
 
@@ -97,7 +96,6 @@ Consider this sum function:
 function sum(a, b) {
   return a + b;
 }
-
 ```
 
 Such functions are called **“pure”** because they do not attempt to change their inputs, and always return the same result for the same inputs.

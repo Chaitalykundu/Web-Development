@@ -19,7 +19,7 @@
 
 | Tag / Attribute / Property | Description                             |
 | -------------------------- | --------------------------------------- |
-| `<label>` tag             | defines a label for many form elements. |
+| `<label>` tag              | defines a label for many form elements. |
 | Tag                        | Container                               |
 | Display / Element          | Inline                                  |
 | Usage                      | User input                              |

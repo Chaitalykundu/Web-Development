@@ -14,8 +14,6 @@
 
 &nbsp;
 
-
-
 # Description
 
 The `toUpperCase()` method converts **a string to uppercase letters**.

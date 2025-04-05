@@ -6,6 +6,8 @@
     - [This is how it works](#this-is-how-it-works)
   - [Example](#example)
 - [Switching Details](#switching-details)
+- [If cases are Conditions](#if-cases-are-conditions)
+  - [Example](#example-1)
 
 &nbsp;
 
@@ -92,5 +94,45 @@ If multiple cases matches a case value, the `first` case is selected.
 If no matching cases are found, the program continues to the `default` label.
 
 If no default label is found, the program continues to the statement(s) `after the switch`.
+
+&nbsp;
+
+&nbsp;
+
+# If cases are Conditions
+
+If the cases are conditions, the we need to add `switch(true)` This allows us to evaluate each case as a condition returning `true` or `false`.
+
+&nbsp;
+
+&nbsp;
+
+## Example
+
+```js
+let a = 34,
+  b = 21,
+  c = 33;
+var res;
+
+switch (true) {
+  case a > b && a > c:
+    res = a;
+    break;
+  case b > a && b > c:
+    res = b;
+    break;
+  case c > a && c > b:
+    res = c;
+    break;
+  default:
+    res = "All are equal";
+}
+console.log(res);
+```
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;

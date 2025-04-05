@@ -31,7 +31,7 @@ Escape sequences in JavaScript are **special character combinations** used insid
 | \b                        | Backspace                                            | (Removes the previous character) |
 | \f                        | Form feed (Rarely used)                              | (Page break in old printers)     |
 | \v                        | Vertical tab (Rarely used)                           | (Adds vertical space)            |
-| \uXXXX (4-digit hex code) | Unicode Escape Sequences                             | `\u2665` => Unicode for ♥        |
+| \uXXXX (4-digit hex code) | Unicode Escape Sequences                             | `\u2665` => Unicode for ♥       |
 | \u{XXXXXX}                | (Extended Unicode)                                   | "\u{1F600}" => Unicode for 😀    |
 |                           |                                                      |                                  |
 

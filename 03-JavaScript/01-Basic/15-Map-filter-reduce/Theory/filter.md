@@ -37,7 +37,7 @@ array.filter(function(currentValue, index, arr), thisValue)
 | thisValue    | Optional.                                                    |
 |              | Default value undefined.                                     |
 |              | A value passed to the function to be used as its this value. |
-|||
+|              |                                                              |
 
 &nbsp;
 
@@ -45,10 +45,10 @@ array.filter(function(currentValue, index, arr), thisValue)
 
 # Return Value
 
-| Type     | Description                                       |
-| -------- | ------------------------------------------------- |
-| An array | An array of elements that pass the test.
-||An empty array if no elements pass the test. |
+| Type     | Description                                  |
+| -------- | -------------------------------------------- |
+| An array | An array of elements that pass the test.     |
+|          | An empty array if no elements pass the test. |
 
 &nbsp;
 

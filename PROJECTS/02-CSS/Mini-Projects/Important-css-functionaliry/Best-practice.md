@@ -37,7 +37,7 @@
 
 ```css
 .selector {
-  padding: .5px;
+  padding: 0.5px;
 }
 ```
 

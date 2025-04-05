@@ -29,10 +29,9 @@ array.map(function(currentValue, index, arr), thisValue)
 ```
 
 ```js
-arr.map((value)=>{
-    return value;
-})
-
+arr.map((value) => {
+  return value;
+});
 ```
 
 &nbsp;
@@ -54,7 +53,7 @@ arr.map((value)=>{
 | thisValue    | Optional.                                                    |
 |              | Default value undefined.                                     |
 |              | A value passed to the function to be used as its this value. |
-|||
+|              |                                                              |
 
 &nbsp;
 
@@ -76,7 +75,7 @@ Return a new array with the square root of all element values:
 
 ```js
 const numbers = [4, 9, 16, 25];
-const newArr = numbers.map(Math.sqrt)
+const newArr = numbers.map(Math.sqrt);
 ```
 
 &nbsp;
@@ -84,9 +83,8 @@ const newArr = numbers.map(Math.sqrt)
 Multiply all the values in an array with 10:
 
 ```js
-
 const numbers = [65, 44, 12, 4];
-const newArr = numbers.map(myFunction)
+const newArr = numbers.map(myFunction);
 
 function myFunction(num) {
   return num * 10;

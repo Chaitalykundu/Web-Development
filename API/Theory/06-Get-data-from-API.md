@@ -13,7 +13,7 @@
 
 1. Create a new request by either clicking Add a request inside your new Collection or hovering on your Collection, then click the three dots icon and "Add request"
 
-    <img src="../assets/add-request.png">
+<img src="../assets/add-request.png">
 
 &nbsp;
 

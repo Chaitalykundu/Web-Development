@@ -1,6 +1,6 @@
 # Overview
 
-* how to find and access HTML elements in an HTML page.
+- how to find and access HTML elements in an HTML page.
 
 &nbsp;
 
@@ -8,11 +8,11 @@
 
 If you want to manipulate HTML elements, you have to find the elements first. There are several ways to do this:
 
-* Finding HTML elements by id
-* Finding HTML elements by tag name
-* Finding HTML elements by class name
-* Finding HTML elements by CSS selectors
-* Finding HTML elements by HTML object collections
+- Finding HTML elements by id
+- Finding HTML elements by tag name
+- Finding HTML elements by class name
+- Finding HTML elements by CSS selectors
+- Finding HTML elements by HTML object collections
 
 &nbsp;
 
@@ -21,7 +21,6 @@ If you want to manipulate HTML elements, you have to find the elements first. Th
 # Finding HTML Element by Id
 
 The easiest way to find an HTML element in the DOM, is by using the `element id`.
-
 
 ## Example
 
@@ -114,7 +113,6 @@ const x = document.querySelectorAll("p.intro");
 
 # Finding HTML Elements by HTML Object Collections
 
-
 ## Example
 
 This example finds the form element with `id="frm1"`, in the forms collection, and displays all element values:
@@ -132,92 +130,78 @@ document.getElementById("demo").innerHTML = text;
 
 The following HTML objects (and object collections) are also accessible:
 
-* document.anchors
-* document.body
-* document.documentElement
-* document.embeds
-* document.forms
-* document.head
-* document.images
-* document.links
-* document.scripts
-* document.title
+- document.anchors
+- document.body
+- document.documentElement
+- document.embeds
+- document.forms
+- document.head
+- document.images
+- document.links
+- document.scripts
+- document.title
 
 &nbsp;
 &nbsp;
-
-
-&nbsp;
-
-&nbsp;
-&nbsp;
-
 
 &nbsp;
 
 &nbsp;
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+&nbsp;
 
 &nbsp;
 
 &nbsp;
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+&nbsp;
 
 &nbsp;
 
 &nbsp;
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+&nbsp;
 
 &nbsp;
 
 &nbsp;
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+&nbsp;
 
 &nbsp;
 
 &nbsp;
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+&nbsp;
 
 &nbsp;
 
 &nbsp;
 &nbsp;
 
-
 &nbsp;
 
 &nbsp;
 &nbsp;
 
-
 &nbsp;
-
-&nbsp;
-&nbsp;
-
-
-&nbsp;
-
-&nbsp;
-&nbsp;
-
-
-&nbsp;
-
-&nbsp;
-&nbsp;
-
-
-&nbsp;
-
-&nbsp;
-&nbsp;
-
-
-&nbsp;
-

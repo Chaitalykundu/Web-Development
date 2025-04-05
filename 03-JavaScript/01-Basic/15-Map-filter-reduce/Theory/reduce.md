@@ -62,7 +62,6 @@ array.reduce(function(total, currentValue, currentIndex, arr), initialValue)
 
 The accumulated result from the last call of the callback function.
 
-
 &nbsp;
 
 &nbsp;

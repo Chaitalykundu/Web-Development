@@ -30,8 +30,7 @@ Tip: It is a good practice to always include a title attribute for the `<iframe>
 # Syntax
 
 ```html
-<iframe src="file_name">
-</iframe>
+<iframe src="file_name"> </iframe>
 ```
 
 &nbsp;

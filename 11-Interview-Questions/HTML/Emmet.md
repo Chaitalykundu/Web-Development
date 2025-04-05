@@ -7,12 +7,11 @@ table>tr>td
 ```
 
 ```html
-  <table>
-    <tr>
-        <td></td>
-
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td></td>
+  </tr>
+</table>
 ```
 
 &nbsp;
@@ -20,19 +19,18 @@ table>tr>td
 2.
 
 ```html
-  ul>li*3
+ul>li*3
 ```
 
 ```html
-  <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-  </ul>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 ```
 
-&nbsp;
-3.
+&nbsp; 3.
 
 ```html
 h1+h2+p+btn
@@ -45,7 +43,6 @@ h1+h2+p+btn
 <button></button>
 ```
 
-
 &nbsp;
 
 4.
@@ -56,14 +53,14 @@ h1+h2+p+btn
 
 ```html
 <table>
-    <tr>
-        <td></td>
-    </tr>
+  <tr>
+    <td></td>
+  </tr>
 </table>
 <table>
-    <tr>
-        <td></td>
-    </tr>
+  <tr>
+    <td></td>
+  </tr>
 </table>
 ```
 
@@ -77,12 +74,12 @@ table>tr>td^^ul>li
 
 ```html
 <table>
-    <tr>
-        <td></td>
-    </tr>
+  <tr>
+    <td></td>
+  </tr>
 </table>
 <ul>
-    <li></li>
+  <li></li>
 </ul>
 ```
 

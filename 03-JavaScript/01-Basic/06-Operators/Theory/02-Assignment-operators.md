@@ -10,7 +10,7 @@
 - [Bitwise Assignment Operators](#bitwise-assignment-operators)
 - [Logical Assignment Operators](#logical-assignment-operators)
 - [Chained Assignment Operator](#chained-assignment-operator)
-    - [Example](#example-1)
+  - [Example](#example-1)
 - [The += Operator](#the--operator)
   - [Examples](#examples)
 - [The -= Operator](#the---operator)

@@ -15,8 +15,6 @@
 
 &nbsp;
 
-
-
 # Description
 
 The `slice()` method extracts a part of a string.
@@ -85,10 +83,9 @@ console.log(fname.slice(2, 7)); //aital
 console.log(fname.slice(5)); //aly
 
 // From 2nd to 5th character
-console.log("slice,",n.slice(-7,5)); // hait
+console.log("slice,", n.slice(-7, 5)); // hait
 
-
-console.log("slice,",n.slice(-7,-4)); // hai
+console.log("slice,", n.slice(-7, -4)); // hai
 
 // Only the last character
 console.log(fname.slice(-1)); //y

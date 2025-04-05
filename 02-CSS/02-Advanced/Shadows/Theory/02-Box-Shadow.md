@@ -87,7 +87,10 @@ box-shadow: unset;
 
 ```css
 selector {
-  box-shadow: value value blur_value color, value value blur_value color, ......;
+  box-shadow:
+    value value blur_value color,
+    value value blur_value color,
+    ......;
 }
 ```
 
@@ -99,7 +102,9 @@ The following example shows a red and blue neon glow shadow:
 
 ```css
 h1 {
-  box-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+  box-shadow:
+    0 0 3px #ff0000,
+    0 0 5px #0000ff;
 }
 ```
 
@@ -112,7 +117,10 @@ The following example shows a white box with black, blue, and darkblue shadow:
 ```css
 h1 {
   color: white;
-  box-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  box-shadow:
+    1px 1px 2px black,
+    0 0 25px blue,
+    0 0 5px darkblue;
 }
 ```
 
@@ -127,6 +135,10 @@ h1 {
 ```css
 h1 {
   color: coral;
-  box-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  box-shadow:
+    -1px 0 black,
+    0 1px black,
+    1px 0 black,
+    0 -1px black;
 }
 ```

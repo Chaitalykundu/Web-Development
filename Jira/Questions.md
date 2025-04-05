@@ -30,8 +30,7 @@
 3. How to create Sprint
 4. WHat are the options with Sprint
 5. Is Sprint impact on board
-6. 
-
+6.
 
 &nbsp;
 

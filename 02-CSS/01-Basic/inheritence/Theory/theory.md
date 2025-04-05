@@ -5,17 +5,20 @@ CSS rule sets cascade down the CSS hierarchy from parent selectors to their chil
 &nbsp;
 
 ```html
-<div id="Parent"> Parent Div 
-    <div id="Child1">Child Div-I</div> 
-    <div id="Child2">Child Div-II</div> 
+<div id="Parent">
+  Parent Div
+  <div id="Child1">Child Div-I</div>
+  <div id="Child2">Child Div-II</div>
 </div>
 ```
 
 ```css
- #Parent { color: red; }
+#Parent {
+  color: red;
+}
 ```
 
-* Whole text will be red in color.
+- Whole text will be red in color.
 
 &nbsp;
 
@@ -23,20 +26,20 @@ CSS rule sets cascade down the CSS hierarchy from parent selectors to their chil
 
 CSS Properties which can be inherited
 
-* font-size
-* font-family
-* font-weight
-* color
+- font-size
+- font-family
+- font-weight
+- color
 
 &nbsp;
 
 CSS Properties that can’t be inherited
 
-* height
-* width
-* border
-* margin
-* padding etc.
+- height
+- width
+- border
+- margin
+- padding etc.
 
 There is a way by which these properties can also be inherited. For that, we need to use the inherit keyword.
 
@@ -44,27 +47,28 @@ There is a way by which these properties can also be inherited. For that, we nee
 
 &nbsp;
 
-# inherit keyword 
+# inherit keyword
 
 The inherit keyword specifies that a property should inherit its value from its parent element. The inherit keyword can be used for any CSS property and on any HTML element.
 
 &nbsp;
 
 ```html
-<div id="Parent"> Parent Div 
-    <div id="Child1">Child Div-I</div> 
-    <div id="Child2">Child Div-II</div> 
+<div id="Parent">
+  Parent Div
+  <div id="Child1">Child Div-I</div>
+  <div id="Child2">Child Div-II</div>
 </div>
 ```
 
 ```css
-#Parent { 
-    height: 100px; 
-    color: red; 
+#Parent {
+  height: 100px;
+  color: red;
 }
 
-#Child1 { 
-    height: inherit; 
+#Child1 {
+  height: inherit;
 }
 ```
 

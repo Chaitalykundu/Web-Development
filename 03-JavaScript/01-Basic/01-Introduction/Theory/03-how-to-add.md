@@ -6,7 +6,7 @@
 - [JavaScript in `<body>`](#javascript-in-body)
 - [JavaScript in `<head>`](#javascript-in-head)
 - [External JavaScript](#external-javascript)
-    - [External file: myScript.js](#external-file-myscriptjs)
+  - [External file: myScript.js](#external-file-myscriptjs)
 - [External JavaScript Advantages](#external-javascript-advantages)
 
 &nbsp;

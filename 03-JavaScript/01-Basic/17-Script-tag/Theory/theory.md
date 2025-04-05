@@ -32,7 +32,6 @@ The benefit of separate javascript file is that the browser can download it and 
 
 &nbsp;
 
-
 &nbsp;
 
 &nbsp;

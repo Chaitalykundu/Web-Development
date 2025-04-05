@@ -97,7 +97,7 @@
 1. What is tag in HTML
 2. How many types of tags are there
 3. What is Deprecated Tags
-   
+
 &nbsp;
 
 &nbsp;

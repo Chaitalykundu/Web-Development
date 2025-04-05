@@ -1,6 +1,6 @@
 # Task
 
- Create a simple form with two input fields: one for "Username" and one for "Password."
+Create a simple form with two input fields: one for "Username" and one for "Password."
 
 &nbsp;
 

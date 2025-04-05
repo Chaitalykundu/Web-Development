@@ -51,6 +51,21 @@ console.log(null >= 0); // true
 
 # `==` vs `===`
 
-Double equals (==) will try to convert the values to the same data type and then try to compare them.
+Double equals (`==`) will try to convert the values to the same data type and then try to compare them.
 
-Triple equals (===) strictly compares the value and the datatype.
+Triple equals (`===`) strictly compares the value and the datatype.
+
+&nbsp;
+
+&nbsp;
+
+## Example
+
+```js
+console.log("2" == 2); // true
+console.log("2" === 2); // false
+```
+
+&nbsp;
+
+&nbsp;

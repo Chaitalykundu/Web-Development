@@ -60,7 +60,9 @@ console.log("First Line\nSecond Line");
 ## 4. Use CSS for Display Formatting
 
 ```js
-document.write("<div style='white-space: pre-line;'>First Line\nSecond Line</div>");
+document.write(
+  "<div style='white-space: pre-line;'>First Line\nSecond Line</div>",
+);
 ```
 
 - `white-space: pre-line;` allows `\n` to create new lines in HTML.

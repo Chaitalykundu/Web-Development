@@ -11,7 +11,7 @@
   - [Key Point](#key-point-1)
 - [Example](#example-1)
 - [🚨 Real-World Bug Due to Hoisting](#-real-world-bug-due-to-hoisting)
-    - [Buggy Code (Due to Hoisting)](#buggy-code-due-to-hoisting)
+  - [Buggy Code (Due to Hoisting)](#buggy-code-due-to-hoisting)
   - [Why Does This Bug Happen?](#why-does-this-bug-happen)
   - [Corrected Code (Using Function Declaration)](#corrected-code-using-function-declaration)
 

@@ -12,7 +12,7 @@
 
 - JSON is used to send data between computers
 
-- JSON is language independent 
+- JSON is language independent
 
 &nbsp;
 

@@ -1,17 +1,17 @@
 # 1. What does HTML stands for, What is HTML and what is its purpose?
 
 ```md
-HTML stands for Hypertext Markup Language. 
+HTML stands for Hypertext Markup Language.
 
 It provides a way of displaying the web-pages with texts, images and other multimedia contents. It describes the structure of web pages.
 ```
 
-### Purpose 
+### Purpose
 
 ```md
 HTML is used to create Web pages and tells the browser how to display them.
 
-It designs the basic layout and formatting of Web pages. 
+It designs the basic layout and formatting of Web pages.
 
 It provides a standard set of tags and attributes that web browsers interpret to display text, images, multimedia, forms and other elements on webpages.
 ```
@@ -26,22 +26,20 @@ The basic structure of HTML consists of `<!DOCTYPE html>`, `<html>`, `<head>` an
 
 ```html
 <!DOCTYPE html>
-<html >
-  <head>
-  </head>
+<html>
+  <head> </head>
 
-  <body>
-  </body>
+  <body></body>
 </html>
 ```
 
-- ***!DOCTYPE html***: This specifies the document type and version of HTML. It helps the browser to interprete and display the page correctly.
+- **_!DOCTYPE html_**: This specifies the document type and version of HTML. It helps the browser to interprete and display the page correctly.
 
-- ***html*** : This is the root element of a webpage, which contains all other webpages.
+- **_html_** : This is the root element of a webpage, which contains all other webpages.
 
-- ***head*** : It contains meta information of the webpage like title, character encoding, links to external stylesheets and scripts and other metadata.
+- **_head_** : It contains meta information of the webpage like title, character encoding, links to external stylesheets and scripts and other metadata.
 
-- ***body*** : It contains the content of HTML document including text, images, links, forms, tables and other elements that will be displayed in the browser window.
+- **_body_** : It contains the content of HTML document including text, images, links, forms, tables and other elements that will be displayed in the browser window.
 
 &nbsp;
 
@@ -195,7 +193,7 @@ Using `start` attribute we can specify the starting number for list item.
 Using `accept` attribute we can specify the types of files user can upload.
 
 ```html
-<input type="file" accept=".jpg , .png">
+<input type="file" accept=".jpg , .png" />
 ```
 
 &nbsp;
@@ -203,7 +201,7 @@ Using `accept` attribute we can specify the types of files user can upload.
 # 17. Are the HTML tags and elements the same thing?
 
 ```md
-No. 
+No.
 ```
 
 &nbsp;
@@ -216,22 +214,23 @@ height and width
 
 &nbsp;
 
-# 19. What is HTML form validation ? 
+# 19. What is HTML form validation ?
 
 HTML form validation is a process of examining the HTML form page’s contents to avoid errored-out data being sent to the server. This process is a significant step in developing HTML-based web applications, as it can easily improve the quality of the web page or the web application. There are two ways to perform the HTML form Validation, and they are by Using HTML5 built-in functionality and by Using JavaScript.
 
 &nbsp;
 
-# 20. What is the usage of a novalidate attribute for the form tag that is introduced in HTML5? 
+# 20. What is the usage of a novalidate attribute for the form tag that is introduced in HTML5?
+
 Its value is a boolean type that indicateswhether or not the data being submitted by the form will be validated beforehand. By making this false, forms can be submitted without validation which helps users to resume later also.
 
 ```html
-<form action = "" method = "get"novalidate> 
-  Name:<br>
-  <input type="name" name="sname"><br> 
-  Doubt:<br>
-  <input type="number" name="doubt"><br> 
-  <input type="submit" value="Submit"> 
+<form action="" method="get" novalidate>
+  Name:<br />
+  <input type="name" name="sname" /><br />
+  Doubt:<br />
+  <input type="number" name="doubt" /><br />
+  <input type="submit" value="Submit" />
 </form>
 ```
 
@@ -251,7 +250,6 @@ Following is a list of 10 frequently used new elements in HTML 5
 - Search
 - Range
 - Telephone
-
 
 &nbsp;
 

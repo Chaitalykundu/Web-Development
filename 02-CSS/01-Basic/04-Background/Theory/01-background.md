@@ -10,7 +10,6 @@
 
 &nbsp;
 
-
 # Chapter Summary
 
 - We must use a / (slash) to separate `background-size` from the `background-position` property.
@@ -59,8 +58,9 @@ It does not matter if one of the values above are missing, e.g. `background:#ff0
 # Syntax
 
 ```css
-background: background-color background-image background-position/background-size background-repeat background-origin background-clip
-  background-attachment initial|inherit;
+background: background-color background-image
+  background-position/background-size background-repeat background-origin
+  background-clip background-attachment initial|inherit;
 ```
 
 &nbsp;

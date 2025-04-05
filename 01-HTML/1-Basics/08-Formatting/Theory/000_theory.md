@@ -44,7 +44,7 @@
 | 6     | `<sub>`        | subscript - smaller text placed below normal text | physical tag   |
 | 7     | `<sup>`        | superscript - smaller text placed up normal text  | physical tag   |
 | 8     | `<address>`    | address                                           |                |
-| 9     | `<s>`     | Strikeout                                         |                |
+| 9     | `<s>`          | Strikeout                                         |                |
 | 10    | `<q>`          | short quotation                                   | logical tag    |
 | 11    | `<blockquote>` | long quotation                                    | logical tag    |
 | 12    | `<abbr>`       | abbreviation or acronym                           | physical tag   |

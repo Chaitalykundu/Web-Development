@@ -15,8 +15,6 @@
 
 &nbsp;
 
-
-
 # Description
 
 The `replace()` method of `String` values returns a new string with one, some, or all matches of a pattern replaced by a `replacement`.

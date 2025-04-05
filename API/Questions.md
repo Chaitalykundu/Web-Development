@@ -39,7 +39,7 @@
 
 # Get data
 
-1. How the view of the response look like  
+1. How the view of the response look like
 
 &nbsp;
 

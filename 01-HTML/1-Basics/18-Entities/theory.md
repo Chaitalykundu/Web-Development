@@ -93,8 +93,8 @@ If you write 10 spaces in your text, the browser will remove 9 of them. To add r
 | £      | pound                              | `&pound;`   | `&#163;`      |
 | ¥      | yen                                | `&yen;`     | `&#165;`      |
 | €      | euro                               | `&euro;`    | `&#8364;`     |
-| ©      | copyright                          | `&copy;`    | `&#169;`      |
-| ®      | registered trademark               | `&reg;`     | `&#174;`      |
+| ©     | copyright                          | `&copy;`    | `&#169;`      |
+| ®     | registered trademark               | `&reg;`     | `&#174;`      |
 
 &nbsp;
 

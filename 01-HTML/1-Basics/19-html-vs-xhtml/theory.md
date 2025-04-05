@@ -1,7 +1,8 @@
 # HTML vs XHTML
 
 # XHTML
-`XHTML` stands for ***Extensible Hypertext Markup Language***.
+
+`XHTML` stands for **_Extensible Hypertext Markup Language_**.
 
 It can be considered as a part of the **XML markup language** this is because of XHTML have features of both XML and HTML.
 
@@ -19,9 +20,10 @@ XHTML is a stricter, more XML-based version of HTML.
 
 # HTML
 
-HTML is the `Hypertext Markup Language` which is the most widely used language over the internet. HTML is used to create web pages and link them from one to another. 
+HTML is the `Hypertext Markup Language` which is the most widely used language over the internet. HTML is used to create web pages and link them from one to another.
 
-### Note 
+### Note
+
 HTML is not a programming language. It is a markup language.
 
 We can use different other technologies like CSS and javascript to give a new look to the pages developed by HTML.
@@ -32,34 +34,33 @@ We can use different other technologies like CSS and javascript to give a new lo
 
 &nbsp;
 
+# Differences from HTML
 
-# Differences from HTML 
+- `<!DOCTYPE>` is mandatory
 
-* `<!DOCTYPE>` is mandatory
+- The xmlns attribute in `<html>` is mandatory
 
-* The xmlns attribute in `<html>` is mandatory
+- `<html>`, `<head>`, `<title>`, and `<body>` are mandatory
 
-* `<html>`, `<head>`, `<title>`, and `<body>` are mandatory
+- Elements must always be properly nested
 
-* Elements must always be properly nested
+- Elements must always be closed
 
-* Elements must always be closed
+- Elements must always be in lowercase
 
-* Elements must always be in lowercase
+- Attribute names must always be in lowercase
 
-* Attribute names must always be in lowercase
+- Attribute values must always be quoted
 
-* Attribute values must always be quoted
-
-* Attribute minimization is forbidden
-
-&nbsp;
+- Attribute minimization is forbidden
 
 &nbsp;
 
 &nbsp;
 
-## `<!DOCTYPE>` Is Mandatory 
+&nbsp;
+
+## `<!DOCTYPE>` Is Mandatory
 
 The DOCTYPE in XHTML is different from HTML. It must have an XHTML `<!DOCTYPE>` declaration. The `<html>`, `<head>`, `<title>`, and `<body>` elements are mandatory , and the xmlns attribute in `<html>` must specify the xml namespace for the document.
 
@@ -67,13 +68,13 @@ The DOCTYPE in XHTML is different from HTML. It must have an XHTML `<!DOCTYPE>` 
 
 ```xml
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"> 
-    <head> 
-        <title>Title of document</title> 
-    </head> 
-    <body> 
-        < -- Content -- > 
-    </body> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Title of document</title>
+    </head>
+    <body>
+        < -- Content -- >
+    </body>
 </html>
 ```
 
@@ -108,8 +109,8 @@ Wrong :
 Correct :
 
 ```xml
-<p> Paragraph 1 </p> 
-<p> Paragraph 2 </p> 
+<p> Paragraph 1 </p>
+<p> Paragraph 2 </p>
 ```
 
 &nbsp;
@@ -117,7 +118,7 @@ Correct :
 Wrong :
 
 ```xml
-<p> Paragraph 1 
+<p> Paragraph 1
 <p> Paragraph 2
 ```
 
@@ -125,14 +126,14 @@ Wrong :
 
 &nbsp;
 
-# XHTML Attribute Names Must be in Lowercase 
+# XHTML Attribute Names Must be in Lowercase
 
 In XHTML, attribute names must always be in lowercase.
 
 Correct :
 
 ```xml
-<a href= "https://www.codingninjas.com/">Coding Ninjas ! </a> 
+<a href= "https://www.codingninjas.com/">Coding Ninjas ! </a>
 ```
 
 &nbsp;
@@ -147,9 +148,9 @@ Wrong :
 
 &nbsp;
 
-## XHTML Attribute Values Must be Quoted 
+## XHTML Attribute Values Must be Quoted
 
-In XHTML, attribute values must always bequoted. 
+In XHTML, attribute values must always bequoted.
 
 Correct :
 

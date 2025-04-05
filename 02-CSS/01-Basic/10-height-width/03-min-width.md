@@ -22,8 +22,8 @@
 
 # CSS height Properties
 
-| Property   | Description                           | Default value |
-| ---------- | ------------------------------------- | ------------- |
+| Property  | Description                          | Default value |
+| --------- | ------------------------------------ | ------------- |
 | min-width | Sets the minimum width of an element | 0             |
 
 &nbsp;

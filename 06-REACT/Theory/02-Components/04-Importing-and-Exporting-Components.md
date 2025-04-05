@@ -3,7 +3,7 @@
 - [Overview](#overview)
 - [Root component file](#root-component-file)
 - [Exporting and importing a component](#exporting-and-importing-a-component)
-    - [Note](#note)
+  - [Note](#note)
 - [Default vs named exports](#default-vs-named-exports)
   - [Example](#example)
 - [Ways of importing and exporting default and named component](#ways-of-importing-and-exporting-default-and-named-component)

@@ -13,8 +13,6 @@
 
 &nbsp;
 
-
-
 # Description
 
 The `length` property returns the **length of a string**.

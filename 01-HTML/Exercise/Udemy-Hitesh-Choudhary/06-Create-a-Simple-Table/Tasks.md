@@ -1,6 +1,6 @@
 # Task
 
- Create a table with two rows and two columns. The first row should contain the headings "Name" and "Age." The second and third row should contain the data "John", "30" and "Harry", "26" respectively.
+Create a table with two rows and two columns. The first row should contain the headings "Name" and "Age." The second and third row should contain the data "John", "30" and "Harry", "26" respectively.
 
 &nbsp;
 

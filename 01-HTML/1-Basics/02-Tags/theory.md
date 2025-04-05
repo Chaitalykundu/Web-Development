@@ -7,9 +7,9 @@
   - [Empty tag](#empty-tag)
   - [Utility-Based Tags](#utility-based-tags)
 - [Deprecated Tags](#deprecated-tags)
-    - [Example](#example)
+  - [Example](#example)
 - [HTML Deprecated Attributes](#html-deprecated-attributes)
-    - [Example](#example-1)
+  - [Example](#example-1)
 
 &nbsp;
 

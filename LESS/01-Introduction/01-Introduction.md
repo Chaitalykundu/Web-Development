@@ -21,7 +21,7 @@
 
 LESS is a CSS **pre-processor** that enables customizable, manageable and reusable style sheet for website.
 
-LESS is a **dynamic style sheet language** that extends the capability of CSS. 
+LESS is a **dynamic style sheet language** that extends the capability of CSS.
 
 LESS is also cross browser friendly.
 
@@ -31,7 +31,7 @@ LESS is also cross browser friendly.
 
 # CSS Preprocessor
 
-CSS Preprocessor is a scripting language that extends CSS and gets compiled into regular CSS syntax, so that it can be read by your web browser. 
+CSS Preprocessor is a scripting language that extends CSS and gets compiled into regular CSS syntax, so that it can be read by your web browser.
 
 It provides functionalities like variables, functions, mixins and operations that allow you to build dynamic CSS.
 

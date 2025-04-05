@@ -14,8 +14,6 @@
 
 &nbsp;
 
-
-
 # Description
 
 The `toLowerCase()` method converts **a string to lowercase letters**.

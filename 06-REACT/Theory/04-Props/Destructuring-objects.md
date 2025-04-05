@@ -5,7 +5,9 @@
 To group your properties within a set of curly braces.
 
 ```js
-{ img, name, description, price} 
+{
+  img, name, description, price;
+}
 ```
 
 or
@@ -30,17 +32,15 @@ function Navbar(navbar) {
 To receive the properties where you need them by stating the names of the properties without attaching the prefix ‘props’.
 
 ```js
-    return (
-      <div>
-  		<img src={img} alt="products" />
+return (
+  <div>
+    <img src={img} alt="products" />
 
-        <h4>{name}</h4>
-        <p>{description}</p>
-        <h4>{price}</h4>
-      </div>
-    );
-
-
+    <h4>{name}</h4>
+    <p>{description}</p>
+    <h4>{price}</h4>
+  </div>
+);
 ```
 
 &nbsp;

@@ -2,7 +2,6 @@
 
 [LESS official documentation](https://lesscss.org/)
 
-
 [tutorialspoint](https://www.tutorialspoint.com/less/index.htm)
 
 https://www.geeksforgeeks.org/css-preprocessor-less/

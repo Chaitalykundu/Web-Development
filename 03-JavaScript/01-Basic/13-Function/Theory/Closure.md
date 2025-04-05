@@ -6,9 +6,9 @@
 - [When to use closure in JavaScript?](#when-to-use-closure-in-javascript)
 - [What is the benefit of closure in JavaScript?](#what-is-the-benefit-of-closure-in-javascript)
 - [Lexical Scoping](#lexical-scoping)
-    - [Child can access the variable declared in parent](#child-can-access-the-variable-declared-in-parent)
-    - [Child can't access the variable declared in another child](#child-cant-access-the-variable-declared-in-another-child)
-    - [Parent can't access the variable declared in child](#parent-cant-access-the-variable-declared-in-child)
+  - [Child can access the variable declared in parent](#child-can-access-the-variable-declared-in-parent)
+  - [Child can't access the variable declared in another child](#child-cant-access-the-variable-declared-in-another-child)
+  - [Parent can't access the variable declared in child](#parent-cant-access-the-variable-declared-in-child)
   - [Overall](#overall)
 
 &nbsp;

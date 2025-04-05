@@ -15,8 +15,6 @@
 
 &nbsp;
 
-
-
 # Description
 
 The `substring()` method extracts characters, between two indices (positions), from a string, and returns the substring.

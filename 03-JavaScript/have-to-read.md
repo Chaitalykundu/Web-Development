@@ -18,12 +18,10 @@
 - for.....of
 - for.....in
 
-
 - How the single threads works
 - How the execution environment comes into the picture
 - How the global execution context , function execution context work
 - How javascript is able to manipulate the dom
-
 
 &nbsp;
 

@@ -42,94 +42,95 @@ Common examples are "en" for English, "es" for Spanish, "fr" for French, and so 
 
 &nbsp;
 
-| Language                | ISO Code |
-| ----------------------- | -------- |
-| Abkhazian               | ab       |
-| Afar                    | aa       |
-| Afrikaans               | af       |
-| Akan                    | ak       |
-| Albanian                | sq       |
-| Amharic                 | am       |
-| Arabic                  | ar       |
-| Aragonese               | an       |
-| Armenian                | hy       |
-| Assamese                | as       |
-| Avaric                  | av       |
-| Avestan                 | ae       |
-| Aymara                  | ay       |
-| Azerbaijani             | az       |
-| Bambara                 | bm       |
-| Bashkir                 | ba       |
-| Basque                  | eu       |
-| Belarusian              | be       |
-| Bengali (Bangla)        | bn       |
-| Bihari                  | bh       |
-| Bislama                 | bi       |
-| Bosnian                 | bs       |
-| Breton                  | br       |
-| Bulgarian               | bg       |
-| Burmese                 | my       |
-| Catalan                 | ca       |
-| Chamorro                | ch       |
-| Chechen                 | ce       |
-| Chichewa, Chewa, Nyanja | ny       |
-| Chinese                 | zh       |
-| Chinese (Simplified)    | zh-Hans  |
-| Chinese (Traditional)   | zh-Hant  |
-| Chuvash                 | cv       |
-| Cornish                 | kw       |
-| Corsican                | co       |
-|Cree| cr
-|Croatian| hr
-|Czech| cs
-|Danish| da
-|Divehi, Dhivehi, Maldivian| dv
-|Dutch| nl
-|Dzongkha| dz
-|English| en
-|Esperanto| eo
-|Estonian| et
-|Ewe| ee
-|Faroese| fo
-|Fijian| fj
-|Finnish| fi
-|French| fr
-|Fula, Fulah, Pulaar, Pular| ff
-|Galician| gl
-|Gaelic (Scottish)| gd
-|Gaelic (Manx) |gv
-|Georgian| ka
-|German| de
-|Greek| el
-|Greenlandic| kl
-|Guarani| gn
-|Gujarati| gu
-|Haitian Creole| ht
-|Hausa| ha
-|Hebrew| he
-|Herero| hz
-|Hindi| hi
-|Hiri Motu| ho
-|Hungarian| hu
-|Icelandic| is
-|Ido| io
-|Igbo| ig
-|Indonesian| id, in
-|Interlingua| ia
-|Interlingue| ie
-|Inuktitut| iu
-|Inupiak| ik
-|Irish| ga
-|Italian| it
-|Japanese| ja
-|Javanese| jv
-|Kalaallisut, Greenlandic| kl
-|Kannada| kn
-|Kanuri| kr
-|Kashmiri| ks
-|Kazakh| kk
-|Khmer| km
-|Kikuyu| ki
+| Language                   | ISO Code |
+| -------------------------- | -------- |
+| Abkhazian                  | ab       |
+| Afar                       | aa       |
+| Afrikaans                  | af       |
+| Akan                       | ak       |
+| Albanian                   | sq       |
+| Amharic                    | am       |
+| Arabic                     | ar       |
+| Aragonese                  | an       |
+| Armenian                   | hy       |
+| Assamese                   | as       |
+| Avaric                     | av       |
+| Avestan                    | ae       |
+| Aymara                     | ay       |
+| Azerbaijani                | az       |
+| Bambara                    | bm       |
+| Bashkir                    | ba       |
+| Basque                     | eu       |
+| Belarusian                 | be       |
+| Bengali (Bangla)           | bn       |
+| Bihari                     | bh       |
+| Bislama                    | bi       |
+| Bosnian                    | bs       |
+| Breton                     | br       |
+| Bulgarian                  | bg       |
+| Burmese                    | my       |
+| Catalan                    | ca       |
+| Chamorro                   | ch       |
+| Chechen                    | ce       |
+| Chichewa, Chewa, Nyanja    | ny       |
+| Chinese                    | zh       |
+| Chinese (Simplified)       | zh-Hans  |
+| Chinese (Traditional)      | zh-Hant  |
+| Chuvash                    | cv       |
+| Cornish                    | kw       |
+| Corsican                   | co       |
+| Cree                       | cr       |
+| Croatian                   | hr       |
+| Czech                      | cs       |
+| Danish                     | da       |
+| Divehi, Dhivehi, Maldivian | dv       |
+| Dutch                      | nl       |
+| Dzongkha                   | dz       |
+| English                    | en       |
+| Esperanto                  | eo       |
+| Estonian                   | et       |
+| Ewe                        | ee       |
+| Faroese                    | fo       |
+| Fijian                     | fj       |
+| Finnish                    | fi       |
+| French                     | fr       |
+| Fula, Fulah, Pulaar, Pular | ff       |
+| Galician                   | gl       |
+| Gaelic (Scottish)          | gd       |
+| Gaelic (Manx)              | gv       |
+| Georgian                   | ka       |
+| German                     | de       |
+| Greek                      | el       |
+| Greenlandic                | kl       |
+| Guarani                    | gn       |
+| Gujarati                   | gu       |
+| Haitian Creole             | ht       |
+| Hausa                      | ha       |
+| Hebrew                     | he       |
+| Herero                     | hz       |
+| Hindi                      | hi       |
+| Hiri Motu                  | ho       |
+| Hungarian                  | hu       |
+| Icelandic                  | is       |
+| Ido                        | io       |
+| Igbo                       | ig       |
+| Indonesian                 | id, in   |
+| Interlingua                | ia       |
+| Interlingue                | ie       |
+| Inuktitut                  | iu       |
+| Inupiak                    | ik       |
+| Irish                      | ga       |
+| Italian                    | it       |
+| Japanese                   | ja       |
+| Javanese                   | jv       |
+| Kalaallisut, Greenlandic   | kl       |
+| Kannada                    | kn       |
+| Kanuri                     | kr       |
+| Kashmiri                   | ks       |
+| Kazakh                     | kk       |
+| Khmer                      | km       |
+| Kikuyu                     | ki       |
+
 Kinyarwanda (Rwanda) rw
 Kirundi rn
 Kyrgyz ky

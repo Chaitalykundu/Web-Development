@@ -1,4 +1,5 @@
 # Overview
+
 - [Overview](#overview)
 - [Arrow functions (=\>)](#arrow-functions-)
   - [Note](#note)
@@ -15,20 +16,17 @@
   - [4. Multi-line Function (With {} and return)](#4-multi-line-function-with--and-return)
 - [Key Characteristics of Arrow Functions](#key-characteristics-of-arrow-functions)
 - [When to Use Arrow Functions](#when-to-use-arrow-functions)
-    - [Callbacks and event listeners](#callbacks-and-event-listeners)
-    - [Array methods](#array-methods)
-    - [Inside objects (if this is not needed)](#inside-objects-if-this-is-not-needed)
+  - [Callbacks and event listeners](#callbacks-and-event-listeners)
+  - [Array methods](#array-methods)
+  - [Inside objects (if this is not needed)](#inside-objects-if-this-is-not-needed)
 - [When to Avoid Arrow Functions](#when-to-avoid-arrow-functions)
 - [What About `this`](#what-about-this)
 
-
 &nbsp;
 
 &nbsp;
 
 &nbsp;
-
-
 
 # Arrow functions (=>)
 
@@ -46,6 +44,7 @@ Arrow functions are **not hoisted**. They must be defined before they are used.
 &nbsp;
 
 ## Note
+
 We don't need the `function` keyword, the `return` keyword, and the `curly brackets`if the function is a single statement.
 
 ```js
@@ -58,16 +57,14 @@ Using `const` is safer than using `var`, because a function expression is always
 
 &nbsp;
 
-
 &nbsp;
-
 
 # Syntax
 
 ```js
 const functionName = (parameters) => {
-// Function body
-return someValue; // (optional)
+  // Function body
+  return someValue; // (optional)
 };
 ```
 
@@ -87,9 +84,8 @@ const functionName = (parameters) => functionality;
 
 ```js
 var hello = function () {
-return "Hello World!";
+  return "Hello World!";
 };
-
 ```
 
 &nbsp;
@@ -102,7 +98,7 @@ return "Hello World!";
 
 ```js
 var hello = () => {
-return "Hello World!";
+  return "Hello World!";
 };
 ```
 
@@ -113,7 +109,7 @@ return "Hello World!";
 ```js
 // ES5
 var x = function (x, y) {
-return x * y;
+  return x * y;
 };
 // ES6
 const x = (x, y) => x * y;
@@ -158,10 +154,9 @@ console.log(squareCalculate(4));
 
 ## 3. Multiple Parameters (Parentheses Required)
 
-
 ```js
 const multipleParameter = (a, b, c) =>
-a > b && a > c ? a : b > a && b > c ? b : c;
+  a > b && a > c ? a : b > a && b > c ? b : c;
 console.log(multipleParameter(4, 5, 4));
 ```
 
@@ -171,8 +166,8 @@ console.log(multipleParameter(4, 5, 4));
 
 ```js
 const subtract = (a, b) => {
-console.log(`Subtracting ${b} from ${a}`);
-return a - b;
+  console.log(`Subtracting ${b} from ${a}`);
+  return a - b;
 };
 console.log(subtract(10, 4)); // Output: 6
 ```
@@ -187,10 +182,10 @@ console.log(subtract(10, 4)); // Output: 6
 
 ```js
 function Person(name) {
-this.name = name;
-this.sayName = () => {
-console.log(this.name);
-};
+  this.name = name;
+  this.sayName = () => {
+    console.log(this.name);
+  };
 }
 const person = new Person("Alice");
 person.sayName(); // Output: Alice
@@ -204,7 +199,7 @@ If a regular function were used inside sayName, this would be undefined or refer
 
 ```js
 const User = (name) => {
-this.name = name;
+  this.name = name;
 };
 const user = new User("John"); // ❌ Error: User is not a constructor
 ```
@@ -215,11 +210,11 @@ const user = new User("John"); // ❌ Error: User is not a constructor
 
 ```js
 function normalFunction() {
-console.log(arguments);
+  console.log(arguments);
 }
 normalFunction(1, 2, 3); // ✅ Works
 const arrowFunction = () => {
-console.log(arguments);
+  console.log(arguments);
 };
 arrowFunction(1, 2, 3); // ❌ Error: arguments is not defined
 ```
@@ -274,7 +269,6 @@ console.log(squared); // Output: [1, 4, 9]
 &nbsp;
 
 # What About `this`
-
 
 The handling of `this` is also different in arrow functions compared to regular functions.
 

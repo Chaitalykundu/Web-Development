@@ -8,6 +8,6 @@ DOM = Document Object Model
 
 We have the following when we run javascript in a browser
 
-* DOM
-* BOM
-* Javascript core
+- DOM
+- BOM
+- Javascript core

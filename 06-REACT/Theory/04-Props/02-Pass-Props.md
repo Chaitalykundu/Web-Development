@@ -2,8 +2,8 @@
 
 We can pass props to a component in 2 ways
 
-* Pass props to the child component
-* Read props inside the child component
+- Pass props to the child component
+- Read props inside the child component
 
 &nbsp;
 
@@ -12,20 +12,18 @@ We can pass props to a component in 2 ways
 First, pass some props to `ChildComponent`. For example, let’s pass one props: text (a text)
 
 ```js
-import React from 'react'
-import ChildComponent from './ChildComponent'
+import React from "react";
+import ChildComponent from "./ChildComponent";
 
 export default function ParentComponent() {
   return (
     <div>
-
-    <h1>Props</h1>
+      <h1>Props</h1>
       Hello, I am Parent Component
-
       {/* Rendering child component and passing props 'text' */}
-      <ChildComponent text='called from parent component'/>
+      <ChildComponent text="called from parent component" />
     </div>
-  )
+  );
 }
 ```
 
@@ -35,11 +33,11 @@ Now you can read these props inside the `ChildComponent` component.
 
 ```js
 function ChildComponent(props) {
-    return (
-      <div>
-        <p>I'm the 1st child! I am {props.text}</p> 
-      </div>
-    )
+  return (
+    <div>
+      <p>I'm the 1st child! I am {props.text}</p>
+    </div>
+  );
 }
 
 export default ChildComponent;
@@ -50,24 +48,22 @@ export default ChildComponent;
 First, pass some props to `ChildComponent2`. For example, let’s pass two props: person (an object), and size (a number):
 
 ```js
-import React from 'react'
-import ChildComponent2 from './ChildComponent2'
+import React from "react";
+import ChildComponent2 from "./ChildComponent2";
 
 export default function ParentComponent() {
   return (
     <div>
-
-    <h1>Props</h1>
+      <h1>Props</h1>
       Hello, I am Parent Component
-
-
- {/* Rendering 2nd child component and passing props 'person' and 'size' */}
-    <ChildComponent2 person={{ name: 'Lin Lanying', id: '1bX5QH6' }}
-      size={100} />
+      {/* Rendering 2nd child component and passing props 'person' and 'size' */}
+      <ChildComponent2
+        person={{ name: "Lin Lanying", id: "1bX5QH6" }}
+        size={100}
+      />
     </div>
-  )
+  );
 }
-
 ```
 
 &nbsp;
@@ -76,11 +72,14 @@ Now you can read these props inside the `ChildComponent2` component.
 
 ```js
 function ChildComponent(props) {
-    return (
-      <div>
-        <p>I'm the 2nd child! I am {props.person.name} with id {props.person.id} and size {props.size}</p> 
-      </div>
-    )
+  return (
+    <div>
+      <p>
+        I'm the 2nd child! I am {props.person.name} with id {props.person.id}{" "}
+        and size {props.size}
+      </p>
+    </div>
+  );
 }
 
 export default ChildComponent;
@@ -90,10 +89,10 @@ export default ChildComponent;
 
 &nbsp;
 
-# 2. Read props inside the child component 
+# 2. Read props inside the child component
 
 ```js
-import { getImageUrl } from './utils.js';
+import { getImageUrl } from "./utils.js";
 
 function Avatar({ person, size }) {
   return (
@@ -112,29 +111,28 @@ export default function Profile() {
     <div>
       <Avatar
         size={100}
-        person={{ 
-          name: 'Katsuko Saruhashi', 
-          imageId: 'YfeOqp2'
+        person={{
+          name: "Katsuko Saruhashi",
+          imageId: "YfeOqp2",
         }}
       />
       <Avatar
         size={80}
         person={{
-          name: 'Aklilu Lemma', 
-          imageId: 'OKS67lh'
+          name: "Aklilu Lemma",
+          imageId: "OKS67lh",
         }}
       />
       <Avatar
         size={50}
-        person={{ 
-          name: 'Lin Lanying',
-          imageId: '1bX5QH6'
+        person={{
+          name: "Lin Lanying",
+          imageId: "1bX5QH6",
         }}
       />
     </div>
   );
 }
-
 ```
 
 &nbsp;
@@ -148,7 +146,7 @@ export default function Profile() {
 
 # Pitfall
 
-* Don’t miss the pair of { and } curlies inside of ( and ) when declaring props:
+- Don’t miss the pair of { and } curlies inside of ( and ) when declaring props:
 
   ```js
   function Avatar({ person, size }) {
@@ -156,7 +154,7 @@ export default function Profile() {
   }
   ```
 
-  This syntax is called ***`“destructuring”`*** and is equivalent to reading properties from a function parameter:
+  This syntax is called **_`“destructuring”`_** and is equivalent to reading properties from a function parameter:
 
   ```js
   function Avatar(props) {

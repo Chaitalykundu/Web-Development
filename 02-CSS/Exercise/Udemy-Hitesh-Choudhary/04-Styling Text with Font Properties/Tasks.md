@@ -12,8 +12,7 @@ Create a paragraph of text and apply various font properties such as color, weig
 
 - Apply the following styles to the text:
 
-    - Set the font color to red.
-    - Make the text bold.
-    - Set the font size to 18px.
-    - Apply an italic style to the text.
-
+  - Set the font color to red.
+  - Make the text bold.
+  - Set the font size to 18px.
+  - Apply an italic style to the text.

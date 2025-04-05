@@ -21,7 +21,6 @@ let result;
 
 result = "4" - true;
 console.log(result); // 3
-
 ```
 
 &nbsp;

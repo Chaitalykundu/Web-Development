@@ -14,5 +14,4 @@ The `overflow` property controls what happens to content that is too big to fit 
 | overflow-wrap   | Specifies whether or not the browser can break lines with long words, if they overflow its container     | normal        |
 | overflow-anchor | makes it possible to turn off scroll anchoring.                                                          | auto          |
 
-
 &nbsp;

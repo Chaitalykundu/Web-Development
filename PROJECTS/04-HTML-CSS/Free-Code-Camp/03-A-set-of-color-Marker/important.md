@@ -24,14 +24,13 @@
 
 - Color-stops allow you to fine-tune where colors are placed along the gradient line. They are a length unit like px or percentages that follow a color in the linear-gradient function. For example, in this red-black gradient, the transition from red to black takes place at the 90% point along the gradient line, so red takes up most of the available space:
 
-    ```css
-    linear-gradient(90deg, red 90%, black);
-    ```
+  ```css
+  linear-gradient(90deg, red 90%, black);
+  ```
 
 - If no gradientDirection argument is provided to the linear-gradient function, it arranges colors from top to bottom, or along a 180 degree line, by default.
 
-- 
-
+-
 
 &nbsp;
 

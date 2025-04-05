@@ -1,8 +1,8 @@
 NodeJS is an execution environment for javascript.
 
-It’s not a programming language 
+It’s not a programming language
 
-Node allows you to do all operations outside the browser. 
+Node allows you to do all operations outside the browser.
 
 NPM (Node Package Manager): NPM is a package manager to install node modules and packages to your project just like PIP for python.
 

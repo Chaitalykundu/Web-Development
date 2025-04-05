@@ -17,7 +17,7 @@
 
 - The `width` property is used to set the **_width_** of an element.
 
-- If `box-sizing` is set to `border-box`,  Height and width determines the height and width of the **border area** instead of **content area**
+- If `box-sizing` is set to `border-box`, Height and width determines the height and width of the **border area** instead of **content area**
 
 - Height and width applies to all elements but non-replaced inline elements, table columns, and column groups
 

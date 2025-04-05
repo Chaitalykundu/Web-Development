@@ -67,7 +67,7 @@ There are **two** types of File Paths
 In the following example, the file path points to a file in the `images` folder located at the root of the current web.
 
 ```html
-<img src="/images/picture.jpg" alt="Mountain"/>
+<img src="/images/picture.jpg" alt="Mountain" />
 ```
 
 &nbsp;

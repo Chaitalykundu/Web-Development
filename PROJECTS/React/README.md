@@ -1,5 +1,4 @@
-
-* Simple todo-app
-* Simple calculator app
-* Build a shopping cart
-* Display GitHub’s user stats using GitHub API
+- Simple todo-app
+- Simple calculator app
+- Build a shopping cart
+- Display GitHub’s user stats using GitHub API
