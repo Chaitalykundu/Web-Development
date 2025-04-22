@@ -17,16 +17,16 @@ javascript 54–84 of sigma course CWH
 | 1     | Introduction                         | Done   |
 | 2     | Variables (var, let, const)          | Done   |
 | 3     | Scopes                               |        |
-| 4     | Hoisting                             |
+| 4     | Hoisting                             |        |
 | 5     | Datatype (NNBBSSU)                   | Done   |
 | 6     | Operators                            | Done   |
 | 7     | Type Casting / Conversions           |        |
 | 8     | Control flow (Conditional statement) | Done   |
-| 9     | Type Coercion                        |
+| 9     | Type Coercion                        |        |
 | 10    | loops & iterations                   | Done   |
-| 11    | Iterables                            |
+| 11    | Iterables                            |        |
 | 12    | Functions + Arrow functions          |        |
-| 13    | String                               |
+| 13    | String                               |        |
 | 14    | Arrays + methods                     |        |
 | 10    | Objects + methods                    |        |
 | 4     | Closures                             |        |
