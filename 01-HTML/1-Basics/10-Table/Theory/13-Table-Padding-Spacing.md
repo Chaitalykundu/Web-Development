@@ -10,7 +10,7 @@ HTML tables can adjust the padding inside the cells, and also the space between 
 
 - By default the padding is set to 0.
 
-* To add padding on table cells, use the CSS padding property:
+- To add padding on table cells, use the CSS padding property:
 
 ```css
 th,

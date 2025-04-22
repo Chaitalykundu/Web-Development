@@ -2,15 +2,15 @@
 
 - The `<i>` tag specifies text in italic font without any extra importance.
 
-* This is a **container tag and inline element**
+- This is a **container tag and inline element**
 
-* the `<i>` tag should be used as a LAST resort when no other tag is more appropriate.
+- the `<i>` tag should be used as a LAST resort when no other tag is more appropriate.
 
-* There is also a CSS '**font-style**' property to set italic text.
+- There is also a CSS '**font-style**' property to set italic text.
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```html
 <i>Content</i>
@@ -18,7 +18,7 @@
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <p><i>Lorem ipsum</i> is the most popular filler text in history.</p>
@@ -53,12 +53,12 @@ i {
 
 &nbsp;
 
-# Global attribute:
+# Global attribute
 
 > The `<i>` tag supports the Global attributes in HTML.
 
 &nbsp;
 
-# Event attribute:
+# Event attribute
 
 > The `<i>` tag supports the Event attributes in HTML.

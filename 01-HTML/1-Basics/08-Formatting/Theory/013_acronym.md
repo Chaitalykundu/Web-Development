@@ -4,11 +4,11 @@
 
 - When you hover the mouse on content, then it will show the explanation of word.
 
-* The `<acronym>` tag is not supported in HTML5 and we can use `<abbr>`tag instead of this.
+- The `<acronym>` tag is not supported in HTML5 and we can use `<abbr>`tag instead of this.
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```html
 <acronym>text</acronym>
@@ -16,7 +16,7 @@
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <acronym title="Indian Space Research Organisaion">ISRO</acronym>

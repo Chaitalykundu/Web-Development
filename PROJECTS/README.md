@@ -8,7 +8,7 @@
 
 # Best front end project practice
 
-1. https://www.frontendmentor.io/challenges/
+1. <https://www.frontendmentor.io/challenges/>
 
 2. codewell.css
 

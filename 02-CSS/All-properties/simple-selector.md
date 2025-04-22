@@ -21,7 +21,7 @@
 
 - To select an element with a specific id, write a **hash** (#) character, followed by the id of the element.
 
-* **Note**: An id name cannot start with a number!
+- **Note**: An id name cannot start with a number!
 
 ## Example
 

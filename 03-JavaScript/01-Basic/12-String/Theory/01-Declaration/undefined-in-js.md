@@ -1,6 +1,7 @@
 The scenarios which return `undefined`
 
 1. Accessing an uninitialized variable
+
    ```js
    let num;
    console.log(num);

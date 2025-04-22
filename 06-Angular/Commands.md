@@ -78,7 +78,7 @@ I've been able to get Angular running in Codespaces by changing the Node version
 
 ## Build application
 
-> ng build --base-href "https://Chaitalykundu.github.io/repository_name/"
+> ng build --base-href "<https://Chaitalykundu.github.io/repository_name/>"
 
 ## Deploy
 

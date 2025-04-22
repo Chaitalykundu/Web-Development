@@ -29,7 +29,7 @@
 
 &nbsp;
 
-# Note:
+# Note
 
 Always specify an `<img>` element as the last child element of the `<picture>` element. The `<img>` element is used by browsers that do not support the `<picture>` element, or if none of the `<source>` tags match.
 

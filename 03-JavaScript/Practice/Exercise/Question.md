@@ -1,4 +1,4 @@
-[ Questions & Article](https://www.linkedin.com/posts/vijay-chollangi-3230abcd12271_javascript-activity-7072936137035546624-6-a9?utm_source=share&utm_medium=member_desktop)
+[Questions & Article](https://www.linkedin.com/posts/vijay-chollangi-3230abcd12271_javascript-activity-7072936137035546624-6-a9?utm_source=share&utm_medium=member_desktop)
 
 &nbsp;
 
@@ -22,7 +22,8 @@
 
 &nbsp;
 
-3.  Add the missing semicolons
+3. Add the missing semicolons
+
     ```js
     x = 2y = 3
     z = x + y

@@ -1,4 +1,4 @@
-https://www.linkedin.com/posts/naresh-reddy-k_zero-to-advance-in-sql-ugcPost-7256617430192410624-HZVH?utm_source=share&utm_medium=member_desktop
+<https://www.linkedin.com/posts/naresh-reddy-k_zero-to-advance-in-sql-ugcPost-7256617430192410624-HZVH?utm_source=share&utm_medium=member_desktop>
 
 &nbsp;
 

@@ -4,13 +4,13 @@
 
 - Semantic elements = elements with a meaning.
 
-* A semantic element clearly describes its meaning to both the browser and the developer.
+- A semantic element clearly describes its meaning to both the browser and the developer.
 
-* Examples of non-semantic elements: `<div>` and `<span>` - Tells nothing about its content.
+- Examples of non-semantic elements: `<div>` and `<span>` - Tells nothing about its content.
 
-* Examples of semantic elements:` <form>`, `<table>`, and `<article>` - Clearly defines its content.
+- Examples of semantic elements:`<form>`, `<table>`, and `<article>` - Clearly defines its content.
 
-* Semantic elements do not render as anything special in a browser. However, you can use CSS to style these elements
+- Semantic elements do not render as anything special in a browser. However, you can use CSS to style these elements
 
 &nbsp;
 

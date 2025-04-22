@@ -49,7 +49,7 @@ GET https://some-api.com/photos?orientation=landscape&size=500x400
 
 &nbsp;
 
-# Search Google - with query parameters!
+# Search Google - with query parameters
 
 &nbsp;
 

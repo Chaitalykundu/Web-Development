@@ -78,7 +78,7 @@ The `<meta>` tag supports the Global Attributes in HTML.
 
 # Examples
 
-### Define **keywords** for search engines:
+### Define **keywords** for search engines
 
 ```html
 <meta name="keywords" content="HTML, CSS, JavaScript" />
@@ -86,7 +86,7 @@ The `<meta>` tag supports the Global Attributes in HTML.
 
 &nbsp;
 
-### Define a **description** of your web page:
+### Define a **description** of your web page
 
 ```html
 <meta name="description" content="Free Web tutorials for HTML and CSS" />
@@ -94,7 +94,7 @@ The `<meta>` tag supports the Global Attributes in HTML.
 
 &nbsp;
 
-### Define the **author** of a page:
+### Define the **author** of a page
 
 ```html
 <meta name="author" content="John Doe" />

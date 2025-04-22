@@ -19,7 +19,7 @@ The `name` attribute specifies a name for the information/value of the content a
 
 &nbsp;
 
-# Note:
+# Note
 
 If the `http-equiv` attribute is set, the name attribute should not be set.
 

@@ -47,4 +47,4 @@ Source : [30+ javascript questions](https://www.youtube.com/watch?v=hQ9_27otvCo)
 
 Area of rectangle = length \* width
 
-Area of circle = 3.14 _ radius _ radius
+Area of circle = 3.14 _radius_ radius

@@ -1,6 +1,6 @@
 # Activity 1 : If-Else statements
 
-### Task 1:
+### Task 1
 
 Write a program to check if a number is positive or negative or zero and log the result to the console
 

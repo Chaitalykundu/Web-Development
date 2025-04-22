@@ -1,4 +1,4 @@
-# Warning !
+# Warning
 
 Array elements can be deleted using the JavaScript operator `delete`.
 

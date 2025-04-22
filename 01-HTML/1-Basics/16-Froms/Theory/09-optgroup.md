@@ -92,7 +92,7 @@ None
 
 &nbsp;
 
-# Tag-specific attributes:
+# Tag-specific attributes
 
 | Attribute | Value    | Description                                                                                                 |
 | --------- | -------- | ----------------------------------------------------------------------------------------------------------- |

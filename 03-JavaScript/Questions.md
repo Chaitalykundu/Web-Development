@@ -767,7 +767,7 @@ If you try to run ES6 JavaScript in an older browser (like Internet Explorer or 
 | Template Literals (`Hello ${name}`) | Displays raw string without variables     |
 | Destructuring (const {name} = obj;) | SyntaxError: `Unexpected token {`         |
 | import/export Modules               | SyntaxError: `Unexpected token 'import'`  |
-| Promise and async/await             | ReferenceError: `Promise is not defined ` |
+| Promise and async/await             | ReferenceError: `Promise is not defined` |
 
 &nbsp;
 

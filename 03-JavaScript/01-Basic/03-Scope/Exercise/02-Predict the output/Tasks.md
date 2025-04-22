@@ -1,4 +1,4 @@
-# Problem Statement:
+# Problem Statement
 
 Consider the following JavaScript code snippet. Predict the output and explain the behavior.
 
@@ -22,7 +22,7 @@ testScope();
 
 &nbsp;
 
-# Tasks:
+# Tasks
 
 - Predict the output at each console.log statement.
 - Explain the behavior of var and let in terms of hoisting and scope.

@@ -1,6 +1,6 @@
 # Exercise
 
-1.  **Process a User's Name** : Write a function that -
+1. **Process a User's Name** : Write a function that -
 
     - Takes a full name as input.
     - Removes extra spaces.

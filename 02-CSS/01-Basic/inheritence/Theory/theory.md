@@ -72,6 +72,6 @@ The inherit keyword specifies that a property should inherit its value from its 
 }
 ```
 
-## NOTE :
+## NOTE
 
 Only direct child elements can inherit a CSS property from its parent element using the `inherit` value if the CSS property is set by its parent element. This is to ensure that the CSS property to be inherited is inheritable.

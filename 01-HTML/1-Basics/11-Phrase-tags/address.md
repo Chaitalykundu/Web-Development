@@ -2,17 +2,17 @@
 
 - The `<address>` tag defines the contact information for the author/owner of a document or an article.
 
-* The contact information can be an email address, URL, physical address, phone number, social media handle etc.
+- The contact information can be an email address, URL, physical address, phone number, social media handle etc.
 
-* This is a **container tag and block element**
+- This is a **container tag and block element**
 
-* The text in the `<address>` element usually renders in italic, and browsers will always add a line break before and after the `<address>` element.
+- The text in the `<address>` element usually renders in italic, and browsers will always add a line break before and after the `<address>` element.
 
-* The `<address>` tag is useful for various contexts such as business contact information in the header of the page, or author related contact information, etc.
+- The `<address>` tag is useful for various contexts such as business contact information in the header of the page, or author related contact information, etc.
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```html
 <address>address</address>
@@ -20,7 +20,7 @@
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <address>
@@ -59,12 +59,12 @@ address {
 
 &nbsp;
 
-# Global attribute:
+# Global attribute
 
 > The `<address>` tag supports the Global attributes in HTML.
 
 &nbsp;
 
-# Event attribute:
+# Event attribute
 
 > The `<address>` tag supports the Event attributes in HTML.

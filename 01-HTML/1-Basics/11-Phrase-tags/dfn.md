@@ -6,7 +6,7 @@
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```html
 <dfn>text..</dfn>content
@@ -14,7 +14,7 @@
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <!-- 1. Just as the content of the <dfn> element:
@@ -80,12 +80,12 @@ dfn {
 
 &nbsp;
 
-# Global attribute:
+# Global attribute
 
 > The `<dfn>` tag supports the Global attributes in HTML.
 
 &nbsp;
 
-# Event attribute:
+# Event attribute
 
 > The `<dfn>` tag supports the Event attributes in HTML.

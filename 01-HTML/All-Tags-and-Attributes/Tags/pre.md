@@ -6,7 +6,7 @@
 
 - The text will be displayed exactly as written in the HTML source code.
 
-* It is widely used to display language examples e.g. Java, C#, C, C++ etc because it displays the code as it is typed.
+- It is widely used to display language examples e.g. Java, C#, C, C++ etc because it displays the code as it is typed.
 
 &nbsp;
 
@@ -18,7 +18,7 @@
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <pre>
@@ -55,12 +55,12 @@ pre {
 
 &nbsp;
 
-# Global attribute:
+# Global attribute
 
 > The `<pre>` tag supports the Global attributes in HTML.
 
 &nbsp;
 
-# Event attribute:
+# Event attribute
 
 > The `<pre>` tag supports the Event attributes in HTML.

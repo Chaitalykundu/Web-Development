@@ -2,11 +2,11 @@
 
 - `<ol>` tag defines an ordered list
 
-* In the ordered lists, all the list items are marked with numbers by default.
+- In the ordered lists, all the list items are marked with numbers by default.
 
 - It is known as numbered list also.
 
-* An ordered list starts with the `<ol>` tag. Each list item starts with the `<li>` tag.
+- An ordered list starts with the `<ol>` tag. Each list item starts with the `<li>` tag.
 
 &nbsp;
 
@@ -66,7 +66,7 @@ ol {
 
 - `type` attribute defines the numbering type
 
-* The `type` attribute defines the type of the list item marker:
+- The `type` attribute defines the type of the list item marker:
 
 | Type     | Description                                                  |
 | -------- | ------------------------------------------------------------ |
@@ -81,7 +81,7 @@ ol {
 
 &nbsp;
 
-## Numbers:
+## Numbers
 
 ```html
 <ol type="1">
@@ -101,7 +101,7 @@ ol {
 
 &nbsp;
 
-## Uppercase Letters:
+## Uppercase Letters
 
 ```html
 <ol type="A">
@@ -121,7 +121,7 @@ ol {
 
 &nbsp;
 
-## Lowercase Letters:
+## Lowercase Letters
 
 ```html
 <ol type="a">
@@ -141,7 +141,7 @@ ol {
 
 &nbsp;
 
-## Uppercase Roman Numbers:
+## Uppercase Roman Numbers
 
 ```html
 <ol type="I">
@@ -161,7 +161,7 @@ ol {
 
 &nbsp;
 
-## Lowercase Roman Numbers:
+## Lowercase Roman Numbers
 
 ```html
 <ol type="i">
@@ -251,7 +251,7 @@ ol {
 
 - By default, an ordered list will start counting from 1. If you want to start counting from a specified number, you can use the `start` attribute:
 
-* Example
+- Example
 
 ```html
 <ol start="50">

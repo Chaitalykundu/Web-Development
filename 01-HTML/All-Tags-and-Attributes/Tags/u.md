@@ -2,15 +2,15 @@
 
 - The `<u>` tag specifies underlined text.
 
-* This is a **container tag and inline element**
+- This is a **container tag and inline element**
 
-* The use of `<u>` tag should be ignored as it may generate confusion for a hyperlinked text.
+- The use of `<u>` tag should be ignored as it may generate confusion for a hyperlinked text.
 
-* There is also a CSS '**text-decoration**' property to set underlined text.
+- There is also a CSS '**text-decoration**' property to set underlined text.
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```html
 <u>Content</u>
@@ -18,7 +18,7 @@
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <p>This is some <u>mispeled</u> text.</p>
@@ -53,12 +53,12 @@ u {
 
 &nbsp;
 
-# Global attribute:
+# Global attribute
 
 > The `<u>` tag supports the Global attributes in HTML.
 
 &nbsp;
 
-# Event attribute:
+# Event attribute
 
 > The `<u>` tag supports the Event attributes in HTML.

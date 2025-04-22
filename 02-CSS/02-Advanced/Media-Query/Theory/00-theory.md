@@ -20,7 +20,7 @@ Media queries can be used to check many things, such as:
 - orientation of the viewport (landscape or portrait)
 - resolution
 
-### N.B:
+### N.B
 
 - If height > width = portrait
 - If height < width = landscape
@@ -55,7 +55,7 @@ The mediatype is optional (if omitted, it will be set to all). However, if you u
 
 &nbsp;
 
-# Example:
+# Example
 
 ```css
 @media screen and (min-width: 480px) {
@@ -97,7 +97,7 @@ Here are some commonly used media features:
 
 &nbsp;
 
-## Other media features are:
+## Other media features are
 
 | Other Features                            |
 | ----------------------------------------- |
@@ -136,7 +136,7 @@ Here are some commonly used media features:
 
 &nbsp;
 
-# Meaning of the `not`, `only`, and `and` keywords:
+# Meaning of the `not`, `only`, and `and` keywords
 
 - **_not_**: This keyword inverts the meaning of an entire media query.
 

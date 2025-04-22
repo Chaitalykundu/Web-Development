@@ -6,7 +6,7 @@
 
 &nbsp;
 
-# Syntax:
+# Syntax
 
 ```html
 <mark>write your content here....</mark>

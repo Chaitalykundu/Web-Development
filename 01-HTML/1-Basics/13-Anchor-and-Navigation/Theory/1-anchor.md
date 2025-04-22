@@ -70,7 +70,7 @@
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```html
 <a href="url">link text</a>

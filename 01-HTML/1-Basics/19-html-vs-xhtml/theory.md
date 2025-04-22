@@ -64,7 +64,7 @@ We can use different other technologies like CSS and javascript to give a new lo
 
 The DOCTYPE in XHTML is different from HTML. It must have an XHTML `<!DOCTYPE>` declaration. The `<html>`, `<head>`, `<title>`, and `<body>` elements are mandatory , and the xmlns attribute in `<html>` must specify the xml namespace for the document.
 
-### Example :
+### Example
 
 ```xml
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">

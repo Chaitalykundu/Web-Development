@@ -1,6 +1,6 @@
 # Activity 1 : Function Declaration
 
-### Task 1:
+### Task 1
 
 Write a function to check if a number is even or odd and log the result to the console
 

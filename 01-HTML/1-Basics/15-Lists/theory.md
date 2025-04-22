@@ -2,9 +2,9 @@
 
 - HTML Lists are used to specify **_lists of information_**.
 
-* All lists may contain one or more list elements.
+- All lists may contain one or more list elements.
 
-* There are three different types of HTML lists:
+- There are three different types of HTML lists:
 
   - Ordered List or Numbered List (ol)
   - Unordered List or Bulleted List (ul)
@@ -12,7 +12,7 @@
 
 - **Note**: We can create a list inside another list, which will be termed as nested List.
 
-* List items can contain other HTML elements
+- List items can contain other HTML elements
 
 &nbsp;
 

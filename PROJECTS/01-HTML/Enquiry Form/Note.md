@@ -2,7 +2,7 @@
 
 - The **_action_** attribute indicates where form data should be sent.
 
-### Example :
+### Example
 
 ```HTML
 <form action="/submit-url"></form>
@@ -18,7 +18,7 @@ This tells the browser that the form data should be sent to the path `/submit-ur
 
 - The `<legend>` element acts as a caption for the content in the fieldset element. It gives users context about what they should enter into that part of the form.
 
-### Example :
+### Example
 
 ```html
 <fieldset>

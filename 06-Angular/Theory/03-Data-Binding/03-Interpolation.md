@@ -316,7 +316,7 @@ Interpolation expressions can include component methods or other function calls,
 
 &nbsp;
 
-## Example (inefficient):
+## Example (inefficient)
 
 ```html
 <p>{{ calculateSum(10, 20) }}</p>

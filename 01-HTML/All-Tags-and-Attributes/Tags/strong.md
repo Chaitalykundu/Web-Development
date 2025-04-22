@@ -2,19 +2,19 @@
 
 - The `<strong>` tag is used to define text with strong importance for the search engines.
 
-* The content inside is typically displayed in **bold**.
+- The content inside is typically displayed in **bold**.
 
-* This is a **container tag and inline element**
+- This is a **container tag and inline element**
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```html
 <p>Content<strong>text</strong>Content</p>
 ```
 
-# Example :
+# Example
 
 ```html
 <p>This text contains <strong>important</strong> text.</p>
@@ -49,12 +49,12 @@ strong {
 
 &nbsp;
 
-# Global attribute:
+# Global attribute
 
 > The `<strong>` tag supports the Global attributes in HTML.
 
 &nbsp;
 
-# Event attribute:
+# Event attribute
 
 > The `<strong>` tag supports the Event attributes in HTML.

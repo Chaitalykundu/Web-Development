@@ -83,7 +83,7 @@ box-shadow: unset;
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```css
 selector {
@@ -96,7 +96,7 @@ selector {
 
 &nbsp;
 
-## Example 1:
+## Example 1
 
 The following example shows a red and blue neon glow shadow:
 
@@ -110,7 +110,7 @@ h1 {
 
 &nbsp;
 
-## Example 2:
+## Example 2
 
 The following example shows a white box with black, blue, and darkblue shadow:
 

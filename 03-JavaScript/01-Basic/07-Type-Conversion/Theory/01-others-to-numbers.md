@@ -2,7 +2,7 @@
 
 &nbsp;
 
-## more methods that can be used to convert strings to numbers:
+## more methods that can be used to convert strings to numbers
 
 | Method       | Description                                         |
 | ------------ | --------------------------------------------------- |

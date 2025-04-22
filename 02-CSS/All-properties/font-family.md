@@ -33,7 +33,7 @@ There are **two** types of font family names:
 
 - If a font name contains white-space, it must be quoted. Single quotes must be used when using the "style" attribute in HTML.
 
-* It is a good practice to quote font family names that contain white space, digits, or punctuation characters other than hyphens. Ex:
+- It is a good practice to quote font family names that contain white space, digits, or punctuation characters other than hyphens. Ex:
   `font-family: "Goudy Bookletter 1911", sans-serif;
 `
 
@@ -92,7 +92,7 @@ p.a {
 
 &nbsp;
 
-# define the generic-family categories.
+# define the generic-family categories
 
 # serif
 

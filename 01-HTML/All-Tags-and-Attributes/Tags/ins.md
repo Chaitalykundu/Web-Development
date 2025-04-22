@@ -5,7 +5,7 @@
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```html
 <ins>Insert the text.......</ins>
@@ -13,7 +13,7 @@
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <p>My favorite color is <del>blue</del> <ins>red</ins>!</p>
@@ -51,12 +51,12 @@ ins {
 
 &nbsp;
 
-# Global attribute:
+# Global attribute
 
 > The `<ins>` tag supports the Global attributes in HTML.
 
 &nbsp;
 
-# Event attribute:
+# Event attribute
 
 > The `<ins>` tag supports the Event attributes in HTML.

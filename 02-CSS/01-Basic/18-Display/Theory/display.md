@@ -47,7 +47,7 @@ There are following CSS display values which are commonly used.
 
 &nbsp;
 
-# Note:
+# Note
 
 - div is a block element.
 

@@ -2,15 +2,15 @@
 
 - The `<sub>` tag defines subscript text.
 
-* Subscript text appears half a character below the normal line, and is sometimes rendered in a smaller font.
+- Subscript text appears half a character below the normal line, and is sometimes rendered in a smaller font.
 
-* This is a **container tag and inline element**
+- This is a **container tag and inline element**
 
-* There is also a CSS '**vertical-align**' property to set italic text.
+- There is also a CSS '**vertical-align**' property to set italic text.
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```html
 <p>Content <sub>text</sub>content</p>
@@ -18,7 +18,7 @@
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <p>This text contains <sub>subscript</sub> text.</p>
@@ -54,12 +54,12 @@ sub {
 
 &nbsp;
 
-# Global attribute:
+# Global attribute
 
 > The `<sub>` tag supports the Global attributes in HTML.
 
 &nbsp;
 
-# Event attribute:
+# Event attribute
 
 > The `<sub>` tag supports the Event attributes in HTML.

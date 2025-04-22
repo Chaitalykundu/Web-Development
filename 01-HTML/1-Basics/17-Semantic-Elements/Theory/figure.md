@@ -2,13 +2,13 @@
 
 - - The `<figure>` element represents self-contained content and will allow you to associate an image with a caption.
 
-* While the content of the <figure> element is related to the main flow, its position is independent of the main flow, and if removed it should not affect the flow of the document.
+- While the content of the <figure> element is related to the main flow, its position is independent of the main flow, and if removed it should not affect the flow of the document.
 
 &nbsp;
 
 &nbsp;
 
-# Example:
+# Example
 
 ```html
 <figure>

@@ -1,6 +1,6 @@
 - The CSS box-sizing property allows us to include the padding and border in an element's total width and height
 
-* By default, the width and height of an element is calculated like this:
+- By default, the width and height of an element is calculated like this:
 
 ```md
 width + padding + border = actual width of an element

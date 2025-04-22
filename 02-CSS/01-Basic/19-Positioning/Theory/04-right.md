@@ -38,11 +38,11 @@ Negative values are allowed.
 
 - If `position: absolute;` or `position: fixed;` - the `right` property sets the right edge of an element to a unit to the right of the right edge of its nearest positioned ancestor.
 
-* If `position: relative;` - the right property sets the right edge of an element to a unit to the left/right of its normal position.
+- If `position: relative;` - the right property sets the right edge of an element to a unit to the left/right of its normal position.
 
-* If `position: sticky;` - the right property behaves like its position is relative when the element is inside the viewport, and like its position is fixed when it is outside.
+- If `position: sticky;` - the right property behaves like its position is relative when the element is inside the viewport, and like its position is fixed when it is outside.
 
-* If `position: static;` - the right property has no effect.
+- If `position: static;` - the right property has no effect.
 
 &nbsp;
 

@@ -56,11 +56,11 @@
 
 - An RGB color value represents RED, GREEN, and BLUE light sources.
 
-* rgb(red, green, blue)
+- rgb(red, green, blue)
 
-* Each parameter (red, green, and blue) defines the intensity of the color with a value between `0 and 255`.
+- Each parameter (red, green, and blue) defines the intensity of the color with a value between `0 and 255`.
 
-* This means that there are 256 x 256 x 256 = 16777216 possible colors!
+- This means that there are 256 x 256 x 256 = 16777216 possible colors!
 
 ```html
 <h1 style="background-color:rgb(255, 99, 71);">Hello World</h1>
@@ -74,9 +74,9 @@
 
 - RGBA color values are an extension of RGB color values with an Alpha channel - which specifies the opacity for a color.
 
-* rgba(red, green, blue, alpha)
+- rgba(red, green, blue, alpha)
 
-* The alpha parameter is a number between 0.0 (fully transparent) and 1.0 (not transparent at all)
+- The alpha parameter is a number between 0.0 (fully transparent) and 1.0 (not transparent at all)
 
 ```html
 <h1 style="background-color:rgba(255, 99, 71, 0.5);">...</h1>
@@ -90,7 +90,7 @@
 
 - A hexadecimal color is specified with: `#RRGGBB`, where the RR (red), GG (green) and BB (blue) hexadecimal integers specify the components of the color.
 
-* rr (red), gg (green) and bb (blue) are hexadecimal values between `00 and ff`
+- rr (red), gg (green) and bb (blue) are hexadecimal values between `00 and ff`
 
 ```html
 <h1 style="background-color:#ff6347;">Hello World</h1>
@@ -104,7 +104,7 @@
 
 - HSL stands for hue, saturation, and lightness.
 
-* hsl(hue, saturation, lightness)
+- hsl(hue, saturation, lightness)
 
   - **Hue** is a degree on the color wheel from 0 to 360. 0 is red, 120 is green, and 240 is blue.
 
@@ -122,17 +122,17 @@
 
 - Saturation can be described as the intensity of a color.
 
-* 100% is pure color, no shades of gray.
-* 50% is 50% gray, but you can still see the color.
-* 0% is completely gray; you can no longer see the color.
+- 100% is pure color, no shades of gray.
+- 50% is 50% gray, but you can still see the color.
+- 0% is completely gray; you can no longer see the color.
 
 # Lightness
 
 - The lightness of a color can be described as how much light you want to give the color.
 
-* 0% means no light (black)
-* 50% means 50% light (neither dark nor light),
-* 100% means full lightness (white).
+- 0% means no light (black)
+- 50% means 50% light (neither dark nor light),
+- 100% means full lightness (white).
 
 &nbsp;
 

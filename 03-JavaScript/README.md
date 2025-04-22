@@ -233,38 +233,38 @@ Left-hand-side expressions
   • Event Object
   • Bubbling and Capturing
 
-1.  DOM Manipulation
+1. DOM Manipulation
     • Selecting DOM Elements
     • Modifying Element Properties
     • Creating and Appending Elements
 
-2.  Regular Expressions
+2. Regular Expressions
     • Pattern Matching
     • RegExp Methods: test(), exec(), match(), replace()
 
-3.  Browser APIs
+3. Browser APIs
     • localStorage and sessionStorage
     • navigator Object
     • Geolocation API
     • Canvas API
 
-4.  Web APIs
+4. Web APIs
     • setTimeout(), setInterval()
     • XMLHttpRequest
     • Fetch API
     • WebSockets
 
-5.  Functional Programming
+5. Functional Programming
     • Higher-Order Functions
     • map(), reduce(), filter()
     • Pure Functions and Immutability
 
-6.  Promises and Asynchronous Patterns
+6. Promises and Asynchronous Patterns
     • Promise Chaining
     • Error Handling with Promises
     • Async/Await
 
-7.  ES6+ Features
+7. ES6+ Features
     • Template Literals
     • Destructuring Assignment
     • Rest and Spread Operators
@@ -273,13 +273,13 @@ Left-hand-side expressions
     • Default Parameters
     • let, const Block Scoping
 
-8.  Browser Object Model (BOM)
+8. Browser Object Model (BOM)
     • window Object
     • history Object
     • location Object
     • navigator Object
 
-9.  Node.js Specific Concepts
+9. Node.js Specific Concepts
     • require()
     • Node.js Modules (module.exports)
     • File System Module (fs)

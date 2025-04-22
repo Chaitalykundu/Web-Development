@@ -10,7 +10,7 @@ The text between the `<video>` and `</video>` tags will only be displayed in bro
 
 &nbsp;
 
-# Syntax 1:
+# Syntax 1
 
 ```html
 <video src="" attributes></video>
@@ -18,7 +18,7 @@ The text between the `<video>` and `</video>` tags will only be displayed in bro
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <video src="../assets/aaaa.mp4" width="555px" controls></video>
@@ -28,7 +28,7 @@ The text between the `<video>` and `</video>` tags will only be displayed in bro
 
 &nbsp;
 
-# Syntax 2:
+# Syntax 2
 
 ```html
 <video attributes>
@@ -39,7 +39,7 @@ The text between the `<video>` and `</video>` tags will only be displayed in bro
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <video controls muted preload="">
@@ -75,12 +75,12 @@ None
 
 &nbsp;
 
-# Global attribute:
+# Global attribute
 
 > The `<video>` tag supports the Global attributes in HTML.
 
 &nbsp;
 
-# Event attribute:
+# Event attribute
 
 > The `<video>` tag supports the Event attributes in HTML.

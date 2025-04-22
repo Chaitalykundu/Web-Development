@@ -105,7 +105,7 @@ Arrays are a special kind of objects, with numbered indexes.
 
 &nbsp;
 
-# When to Use `Arrays`. When to use `Objects`.
+# When to Use `Arrays`. When to use `Objects`
 
 - JavaScript does not support associative arrays.
 - You should use `objects` when you want the element names to be **strings** (text).
@@ -151,7 +151,7 @@ The `typeof` operator returns `object` because a **JavaScript array is an object
 
 &nbsp;
 
-## Solution 1:
+## Solution 1
 
 To solve this problem ECMAScript 5 (JavaScript 2009) defined a new method `Array.isArray()`:
 

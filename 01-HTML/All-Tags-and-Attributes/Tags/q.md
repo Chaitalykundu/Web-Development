@@ -2,13 +2,13 @@
 
 - The `<q>` tag defines a short quotation.
 
-* Browsers normally insert quotation marks around the quotation.
+- Browsers normally insert quotation marks around the quotation.
 
-* This is a **container tag and inline element**
+- This is a **container tag and inline element**
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```html
 <p>Content<q>Quoted text</q></p>
@@ -16,7 +16,7 @@
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <p>Dr. Seuss once said : <q>Reality is finally better than your dreams.</q></p>
@@ -62,12 +62,12 @@ q:after {
 
 &nbsp;
 
-# Global attribute:
+# Global attribute
 
 > The `<q>` tag supports the Global attributes in HTML.
 
 &nbsp;
 
-# Event attribute:
+# Event attribute
 
 > The `<q>` tag supports the Event attributes in HTML.

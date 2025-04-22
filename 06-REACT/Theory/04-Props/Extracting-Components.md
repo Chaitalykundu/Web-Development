@@ -1,4 +1,4 @@
-https://legacy.reactjs.org/docs/components-and-props.html
+<https://legacy.reactjs.org/docs/components-and-props.html>
 
 consider this `Comment` component:
 

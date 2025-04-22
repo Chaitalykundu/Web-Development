@@ -2,21 +2,21 @@
 
 - HTML `<strike>` tag was used to strike a line through the text, contained within it.
 
-* This is a **container tag and inline element**
+- This is a **container tag and inline element**
 
-* `<strike>` tag is not supported in HTML5
+- `<strike>` tag is not supported in HTML5
 
-* We can use `<del>` or CSS to achieve the same result.
+- We can use `<del>` or CSS to achieve the same result.
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```html
 Content<strike>text</strike>Content
 ```
 
-# Example :
+# Example
 
 ```html
 <p>

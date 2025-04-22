@@ -3,7 +3,7 @@
 - [Overview](#overview)
 - [Tags](#tags)
 - [Types of tags](#types-of-tags)
-  - [Container tag ](#container-tag-)
+  - [Container tag](#container-tag-)
   - [Empty tag](#empty-tag)
   - [Utility-Based Tags](#utility-based-tags)
 - [Deprecated Tags](#deprecated-tags)

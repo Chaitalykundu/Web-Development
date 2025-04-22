@@ -21,13 +21,13 @@ The font property may be specified as either **_a single keyword_**, which will 
 
 &nbsp;
 
-## If font is specified as a system keyword,
+## If font is specified as a system keyword
 
 it must be one of: `caption`, `icon`, `menu`, `message-box`, `small-caption`, `status-bar`.
 
 &nbsp;
 
-## If font is specified as a shorthand for several font-related properties, then:
+## If font is specified as a shorthand for several font-related properties, then
 
 - it must include values for:
 

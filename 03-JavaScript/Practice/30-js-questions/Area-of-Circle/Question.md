@@ -20,6 +20,6 @@ Write a program which does the following:
 
 &nbsp;
 
-# Expected output:
+# Expected output
 
 > 248.71940000000004

@@ -11,7 +11,7 @@ Redesign an existing webpage using semantic HTML tags like `<header>`, `<section
 
 &nbsp;
 
-### Features:
+### Features
 
 - Use `h1-h6` for headings, `p` for descriptions.
 - Add a profile picture using `<img>`.

@@ -1,9 +1,9 @@
 # HTML `<nav>` Element
 
-- The` <nav>` element defines a set of navigation links.
+- The`<nav>` element defines a set of navigation links.
 
-* Notice that NOT all links of a document should be inside a `<nav>` element.
-* The `<nav>` element is intended only for major blocks of navigation links.
+- Notice that NOT all links of a document should be inside a `<nav>` element.
+- The `<nav>` element is intended only for major blocks of navigation links.
 
 &nbsp;
 &nbsp;

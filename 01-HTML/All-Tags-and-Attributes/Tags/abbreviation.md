@@ -2,11 +2,11 @@
 
 - The `<abbr>` tag is used to represent an acronym or abbreviation of a longer word or phrase, such as www, HTML, HTTP, etc.
 
-* The content written between `<abbr>` tags renders with dotted underline in some browser.
+- The content written between `<abbr>` tags renders with dotted underline in some browser.
 
-* This tag can be used with "title" attribute (optional), and the value of title attribute will be pop-up when the mouse hovers over the content written between `<abbr>` tag.
+- This tag can be used with "title" attribute (optional), and the value of title attribute will be pop-up when the mouse hovers over the content written between `<abbr>` tag.
 
-# Syntax :
+# Syntax
 
 ```html
 <abbr>text</abbr>
@@ -14,7 +14,7 @@
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <abbr title="HyperText Markup language">HTML</abbr>
@@ -54,12 +54,12 @@ abbr {
 
 &nbsp;
 
-# Global attribute:
+# Global attribute
 
 > The `<abbr>` tag supports the Global attributes in HTML.
 
 &nbsp;
 
-# Event attribute:
+# Event attribute
 
 > The `<abbr>` tag supports the Event attributes in HTML.

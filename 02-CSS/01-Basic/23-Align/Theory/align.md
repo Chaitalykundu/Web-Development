@@ -153,7 +153,7 @@ Another method for aligning elements is to use the float property:
 
 # The clearfix Hack
 
-## Note:
+## Note
 
 If an element is taller than the element containing it, and it is floated, it will overflow outside of its container. You can use the "**_clearfix hack_**" to fix this.
 

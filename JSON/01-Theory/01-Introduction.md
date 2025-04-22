@@ -16,13 +16,13 @@
 
 &nbsp;
 
-## N.B:
+## N.B
 
 The JSON syntax is derived from JavaScript object notation, but the JSON format is text only.
 
 &nbsp;
 
-# Example:
+# Example
 
 ```json
 {

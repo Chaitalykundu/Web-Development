@@ -2,7 +2,7 @@
 
 - A list within another list is termed as nested list.
 
-* If you want a bullet list inside a numbered list then such type of list will called as nested list.
+- If you want a bullet list inside a numbered list then such type of list will called as nested list.
 
 &nbsp;
 

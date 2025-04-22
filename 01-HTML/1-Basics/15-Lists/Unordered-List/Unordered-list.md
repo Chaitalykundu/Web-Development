@@ -2,9 +2,9 @@
 
 - `<ul>` tag defines an unordered list
 
-* In Unordered list, all the list items are marked with bullets.
+- In Unordered list, all the list items are marked with bullets.
 
-* It is also known as bulleted list.
+- It is also known as bulleted list.
 
 - The Unordered list starts with `<ul>` tag and list items start with the `<li>` tag.
 
@@ -54,9 +54,9 @@ ul {
 
 - The CSS `list-style-type` property is used to define the style of the list item marker.
 
-* We can also use type="listed_value"
+- We can also use type="listed_value"
 
-* It can have one of the following values:
+- It can have one of the following values:
 
   | Value  | Description                                     |
   | ------ | ----------------------------------------------- |

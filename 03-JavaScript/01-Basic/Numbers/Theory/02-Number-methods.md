@@ -3,6 +3,7 @@
 All number methods return a new value. They do not change the original value.
 
 &nbsp;
+
 | Name | Description |
 | ----------------- | ----------------------------------------------------------------------- |
 | toString() | Converts a number to a string |

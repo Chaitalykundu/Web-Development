@@ -1,6 +1,6 @@
 # Activity 1 : Arithmetic operators
 
-### Task 1:
+### Task 1
 
 Write a program to add two numbers and log the result to the console
 

@@ -94,7 +94,7 @@ It provides essential details to the browser and search engines, influencing how
 
 &nbsp;
 
-# Semantic Elements:
+# Semantic Elements
 
 | Semantic Elements | Description       |
 | ----------------- | ----------------- |

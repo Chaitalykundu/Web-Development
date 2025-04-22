@@ -45,7 +45,7 @@ Flexbox layout is most appropriate to the components of an application, and smal
 
 &nbsp;
 
-# Features of Flexbox:
+# Features of Flexbox
 
 - High flexibility
 - Arrangement & alignment of items
@@ -109,7 +109,7 @@ The `main axis` is defined by the `flex-direction` property, and the `cross axis
 
 &nbsp;
 
-## Main Axis:
+## Main Axis
 
 - **Main Start**: The start of the main axis.
 - **Main Size**: The length between Main Start and Main End.
@@ -117,7 +117,7 @@ The `main axis` is defined by the `flex-direction` property, and the `cross axis
 
 &nbsp;
 
-## Cross Axis:
+## Cross Axis
 
 The cross axis will be perpendicular to the main axis.
 

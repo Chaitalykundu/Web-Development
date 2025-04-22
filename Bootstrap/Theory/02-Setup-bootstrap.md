@@ -85,7 +85,7 @@ The CDN method is the easiest and fastest way to include Bootstrap in our projec
 
 &nbsp;
 
-## Steps to Set Up Bootstrap via CDN:
+## Steps to Set Up Bootstrap via CDN
 
 1. **Create an HTML File**: Create a new `.html` file (e.g., index.html).
 
@@ -188,7 +188,7 @@ You can also include Popper and our JS separately. If you don’t plan to use **
 
 &nbsp;
 
-## Cons of CDN:
+## Cons of CDN
 
 - Requires an internet connection to load Bootstrap files.
 
@@ -206,7 +206,7 @@ This is a good option if you want to **work offline or avoid relying on external
 
 &nbsp;
 
-## Steps to Set Up Bootstrap Locally:
+## Steps to Set Up Bootstrap Locally
 
 1. **Download Bootstrap**:
 
@@ -223,6 +223,7 @@ This is a good option if you want to **work offline or avoid relying on external
 
 - Create an HTML file (e.g., index.html).
 - Link the local Bootstrap files in your project like this:
+
   ```html
   <!DOCTYPE html>
   <html lang="en">
@@ -253,7 +254,7 @@ This is a good option if you want to **work offline or avoid relying on external
 
 &nbsp;
 
-## Pros of Local Installation:
+## Pros of Local Installation
 
 - Works without an internet connection.
 - More control over the files (e.g., customizations).
@@ -263,7 +264,7 @@ This is a good option if you want to **work offline or avoid relying on external
 
 &nbsp;
 
-## Cons of Local Installation:
+## Cons of Local Installation
 
 - Requires downloading and managing files manually.
 - No automatic updates—you need to update the files yourself.
@@ -290,13 +291,13 @@ This is a good option if you want to **work offline or avoid relying on external
 
 # Which Method Should You Choose?
 
-## Use CDN:
+## Use CDN
 
 - For quick setups and smaller projects.
 - When you need to ensure performance through caching and faster delivery.
 
 &nbsp;
 
-## Use Local Installation:
+## Use Local Installation
 
 - For offline work or larger projects that require custom modifications to Bootstrap files.

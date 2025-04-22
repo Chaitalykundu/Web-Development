@@ -12,7 +12,7 @@ There are **_three_** supported audio formats in HTML: **_MP3, WAV, and OGG_**.
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```html
 <audio src="" attributes></audio>
@@ -20,7 +20,7 @@ There are **_three_** supported audio formats in HTML: **_MP3, WAV, and OGG_**.
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <audio src="../assets/aaaa.mp3" controls></audio>
@@ -50,12 +50,12 @@ None
 
 &nbsp;
 
-# Global attribute:
+# Global attribute
 
 > The `<audio>` tag supports the Global attributes in HTML.
 
 &nbsp;
 
-# Event attribute:
+# Event attribute
 
 > The `<audio>` tag supports the Event attributes in HTML.

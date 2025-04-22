@@ -2,7 +2,7 @@
 
 - The `<footer>` element defines a footer for a document or section.
 
-* A `<footer>` element typically contains:
+- A `<footer>` element typically contains:
 
   - authorship information
   - copyright information

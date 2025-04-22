@@ -34,7 +34,7 @@
 
 &nbsp;
 
-# Secondary color :
+# Secondary color
 
 - magenta : rgb(255, 0, 255);
 

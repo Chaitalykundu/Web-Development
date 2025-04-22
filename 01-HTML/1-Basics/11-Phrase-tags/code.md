@@ -6,7 +6,7 @@
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```html
 <code>text</code>
@@ -14,7 +14,7 @@
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <p>
@@ -52,12 +52,12 @@ code {
 
 &nbsp;
 
-# Global attribute:
+# Global attribute
 
 > The `<code>` tag supports the Global attributes in HTML.
 
 &nbsp;
 
-# Event attribute:
+# Event attribute
 
 > The `<code>` tag supports the Event attributes in HTML.

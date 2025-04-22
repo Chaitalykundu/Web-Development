@@ -48,7 +48,7 @@ fruits[fruits.length] = "Lemon"; // Adds "Lemon" to fruits
 
 &nbsp;
 
-# WARNING !
+# WARNING
 
 Adding elements with high indexes can create undefined "holes" in an array:
 

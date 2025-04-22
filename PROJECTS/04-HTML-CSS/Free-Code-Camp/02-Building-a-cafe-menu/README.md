@@ -8,9 +8,9 @@
 
 - meta element with an attribute named charset set to the value utf-8 to tell the browser how to encode characters for the page
 
-* meta elements are self-closing.
+- meta elements are self-closing.
 
-* For the styling of the page to look similar on mobile as it does on a desktop or laptop, you need to add a meta element with a special content attribute.
+- For the styling of the page to look similar on mobile as it does on a desktop or laptop, you need to add a meta element with a special content attribute.
 
 &nbsp;
 
@@ -24,7 +24,7 @@
 
 - There will be two sections on the menu, one for coffees and one for desserts.
 
-* Add a section element within the main element so you have a place to put all the coffees available.
+- Add a section element within the main element so you have a place to put all the coffees available.
 
   &nbsp;
 
@@ -44,7 +44,7 @@
 
 - The p elements are nested in an article element with the class attribute of item. So we need to put `display:inline-block;` in `p` of item class
 
-* the price didn't stay over on the right. This is because `inline-block` elements only take up the width of their content. To spread them out, add a `width` property to the flavor and `price` class selectors that have a value of `50%` each.
+- the price didn't stay over on the right. This is because `inline-block` elements only take up the width of their content. To spread them out, add a `width` property to the flavor and `price` class selectors that have a value of `50%` each.
 
 &nbsp;
 

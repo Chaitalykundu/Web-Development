@@ -6,7 +6,7 @@ Create a paragraph of text and apply various font properties such as color, weig
 
 &nbsp;
 
-# Instructions:
+# Instructions
 
 - Create a paragraph (`<p>`) element with the class name `styled-text`.
 

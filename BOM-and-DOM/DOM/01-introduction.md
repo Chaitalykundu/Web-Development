@@ -37,7 +37,7 @@ There are mainly 3 types of nodes.
 
 &nbsp;
 
-# N.B:
+# N.B
 
 - In HTML, `<HTML></HTML>` is root node and `<head></head>` and `<body></body>` are it's children.
 

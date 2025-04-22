@@ -6,7 +6,7 @@ Create a `div` element that appears as a perfect **circle** using the `border-ra
 
 &nbsp;
 
-# Instructions:
+# Instructions
 
 - Create a `div` element with the class name **circle**.
 

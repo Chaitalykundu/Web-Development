@@ -2,11 +2,11 @@
 
 - HTML `<del>` tag defines text that has been deleted from a document.
 
-* Browsers will usually strike a line through deleted text.
+- Browsers will usually strike a line through deleted text.
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```html
 <del> Content........</del>
@@ -14,7 +14,7 @@
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <p>My favorite color is <del>blue</del> <ins>red</ins>!</p>
@@ -52,12 +52,12 @@ del {
 
 &nbsp;
 
-# Global attribute:
+# Global attribute
 
 > The `<del>` tag supports the Global attributes in HTML.
 
 &nbsp;
 
-# Event attribute:
+# Event attribute
 
 > The `<del>` tag supports the Event attributes in HTML.

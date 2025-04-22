@@ -172,7 +172,7 @@ A dynamic language allows changes to variables, objects, and types at runtime (w
 
 &nbsp;
 
-### JavaScript is dynamically typed, meaning:
+### JavaScript is dynamically typed, meaning
 
 - You don't need to declare variable types explicitly (let x = 10; instead of int x = 10;).
 

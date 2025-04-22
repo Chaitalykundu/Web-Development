@@ -88,7 +88,7 @@ console.log(result); // "324"
 
 &nbsp;
 
-## more methods that can be used to convert numbers to strings:
+## more methods that can be used to convert numbers to strings
 
 | Method          | Description                                                                              |
 | --------------- | ---------------------------------------------------------------------------------------- |
@@ -180,7 +180,7 @@ String(Date()); // returns "Thu Jul 17 2014 15:38:19 GMT+0200 (W. Europe Dayligh
 Date().toString(); // returns "Thu Jul 17 2014 15:38:19 GMT+0200 (W. Europe Daylight Time)"
 ```
 
-## more methods that can be used to convert dates to strings:
+## more methods that can be used to convert dates to strings
 
 | Method            | Description                                       |
 | ----------------- | ------------------------------------------------- |

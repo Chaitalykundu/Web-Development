@@ -1,4 +1,4 @@
 - Action
 
-* Label :
+- Label :
   - Can be used many types

@@ -2,13 +2,13 @@
 
 - The `<font>` tag is used to define the font style for the text contained within it.
 
-* It defines the font size, color, and face or the text in an HTML document.
+- It defines the font size, color, and face or the text in an HTML document.
 
-* This is not Supported in HTML5.
+- This is not Supported in HTML5.
 
 &nbsp;
 
-# Syntax :
+# Syntax
 
 ```html
 <font size=" " color=" " face=" "> Content....</font>
@@ -16,7 +16,7 @@
 
 &nbsp;
 
-# Example :
+# Example
 
 ```html
 <font size="5" color="green">Text with Increased size and default face</font>

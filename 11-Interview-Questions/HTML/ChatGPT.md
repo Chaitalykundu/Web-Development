@@ -68,7 +68,7 @@
 9. How do you create a table in HTML, and what attributes can be used with tables?
 10. What is the difference between inline, block, and inline-block elements?
 11. What is the purpose of the `<canvas>` element in HTML5?
-12. What is the difference between `<b> `and `<strong>`, and between `<i>` and `<em>` tags?
+12. What is the difference between `<b>`and `<strong>`, and between `<i>` and `<em>` tags?
 13. How can you include SVG graphics directly in an HTML document?
 14. What are the different input types available in HTML5?
 15. What is the difference between GET and POST methods in form submission?

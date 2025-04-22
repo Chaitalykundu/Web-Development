@@ -6,7 +6,7 @@
 
 - coercion & falsy value
 
-- Console Object Methods => https://www.youtube.com/watch?v=1WNtGvrLisglist=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR&index=25
+- Console Object Methods => <https://www.youtube.com/watch?v=1WNtGvrLisglist=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR&index=25>
 
 - string methods > replace
 
