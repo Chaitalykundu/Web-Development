@@ -19,17 +19,18 @@
     - [let](#let)
     - [const](#const)
     - [var vs let vs const](#var-vs-let-vs-const)
-- [Escape Sequence](#escape-sequence)
+  - [Escape Sequence](#escape-sequence)
   - [Scope](#scope)
-- [Datatype](#datatype)
+  - [Datatype](#datatype)
   - [Operators](#operators)
     - [Theory](#theory-2)
     - [Arithmetic operators](#arithmetic-operators)
     - [Assignment operator](#assignment-operator)
-- [Bitwise operators](#bitwise-operators)
+    - [Bitwise operators](#bitwise-operators)
   - [Function](#function)
     - [Theory](#theory-3)
     - [Function Definition](#function-definition)
+    - [Function Declaration](#function-declaration)
     - [Arrow functions](#arrow-functions)
     - [Parameters](#parameters)
 - [Closure](#closure)
@@ -58,11 +59,11 @@
 - [Datatype](#datatype-1)
   - [2. Is null an independent type or object](#2-is-null-an-independent-type-or-object)
 - [Variable](#variable-1)
-  - [8. Can we declare Many Variables is one statement](#8-can-we-declare-many-variables-is-one-statement)
+    - [8. Can we declare Many Variables is one statement](#8-can-we-declare-many-variables-is-one-statement)
 - [Closure](#closure-1)
-  - [1. What is a closure in JavaScript?](#1-what-is-a-closure-in-javascript)
-  - [2. Why are closures important in JavaScript?](#2-why-are-closures-important-in-javascript)
-  - [3. Can you give an example of a closure in JavaScript?](#3-can-you-give-an-example-of-a-closure-in-javascript)
+    - [1. What is a closure in JavaScript?](#1-what-is-a-closure-in-javascript)
+    - [2. Why are closures important in JavaScript?](#2-why-are-closures-important-in-javascript)
+    - [3. Can you give an example of a closure in JavaScript?](#3-can-you-give-an-example-of-a-closure-in-javascript)
 - [1. What are the Difference Between String `indexOf()` and String `search()`](#1-what-are-the-difference-between-string-indexof-and-string-search)
 - [2.Why do we use functions?](#2why-do-we-use-functions)
 - [3. What are the ways to empty an array?](#3-what-are-the-ways-to-empty-an-array)
@@ -274,7 +275,7 @@
 
 &nbsp;
 
-# Escape Sequence
+## Escape Sequence
 
 1. What is escape sequence
 2. Explain some common escape sequences
@@ -295,7 +296,7 @@
 
 &nbsp;
 
-# Datatype
+## Datatype
 
 1. What is the difference between null and undefine
 2. Is null a independent type or object
@@ -341,7 +342,7 @@
 
 &nbsp;
 
-# Bitwise operators
+### Bitwise operators
 
 1. What is Bitwise operator
 2. Name the Assignment operators
@@ -384,6 +385,16 @@
 2. What are the ways to define a function
 3. What is anonymous function
 4. Can we use named function inside function expression
+
+&nbsp;
+
+&nbsp;
+
+### Function Declaration
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -443,6 +454,14 @@
 1. What is a closure in JavaScript?
 2. Why are closures important in JavaScript?
 3. Can you give an example of a closure in JavaScript?
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -760,13 +779,13 @@ If you try to run ES6 JavaScript in an older browser (like Internet Explorer or 
 
 &nbsp;
 
-| ES6 Feature                         | Issue in Older Browsers                   |
-| ----------------------------------- | ----------------------------------------- |
-| `let` and `const`                   | SyntaxError: `Unexpected identifier`      |
-| Arrow Functions (()=>{})            | SyntaxError: `Unexpected token '=>'`      |
-| Template Literals (`Hello ${name}`) | Displays raw string without variables     |
-| Destructuring (const {name} = obj;) | SyntaxError: `Unexpected token {`         |
-| import/export Modules               | SyntaxError: `Unexpected token 'import'`  |
+| ES6 Feature                         | Issue in Older Browsers                  |
+| ----------------------------------- | ---------------------------------------- |
+| `let` and `const`                   | SyntaxError: `Unexpected identifier`     |
+| Arrow Functions (()=>{})            | SyntaxError: `Unexpected token '=>'`     |
+| Template Literals (`Hello ${name}`) | Displays raw string without variables    |
+| Destructuring (const {name} = obj;) | SyntaxError: `Unexpected token {`        |
+| import/export Modules               | SyntaxError: `Unexpected token 'import'` |
 | Promise and async/await             | ReferenceError: `Promise is not defined` |
 
 &nbsp;

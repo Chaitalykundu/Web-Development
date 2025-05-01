@@ -29,4 +29,21 @@ We can also use `git commit -a`. This automatically stage all tracked, modified 
 
 &nbsp;
 
+# How can we clone a repo and and push it in different repo
+
+Steps :
+
+1. clone the repo `git clone <repo_link>`
+2. delete the `.git` file
+3. `git init`
+4. `git add .`
+5. `git commit -m "message"`
+6. `git branch -M master`
+7. `git remote add origin https://github.com/Chaitalykundu/aa.git`
+8. `git push -u origin master`
+
+&nbsp;
+
+&nbsp;
+
 &nbsp;

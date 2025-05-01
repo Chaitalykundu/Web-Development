@@ -33,6 +33,7 @@
 # Function Definition
 
 A **function definition** refers to the actual implementation of a function.
+
 It can be created using a function declaration, a function expression, or an arrow function.
 
 &nbsp;
@@ -60,6 +61,7 @@ JavaScript provides multiple ways to define functions, each with its own syntax 
 # Function Declarations (Named Function)
 
 A **function declaration** is when a function is defined using the `function` keyword with a `name`.
+
 These functions are hoisted, meaning they **can be called before their definition** in the code.
 Declared functions are not executed immediately. They are "saved for later use", and will be executed later, when they are invoked (called upon).
 

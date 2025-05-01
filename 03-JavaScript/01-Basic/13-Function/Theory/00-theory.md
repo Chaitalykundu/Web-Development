@@ -1,7 +1,7 @@
 # Overview
 
 - [Overview](#overview)
-- [Definition](#definition)
+- [Introduction](#introduction)
 - [Features of Function / Why do we use functions](#features-of-function--why-do-we-use-functions)
 - [Function Components](#function-components)
 - [Syntax](#syntax)
@@ -18,7 +18,7 @@
 
 &nbsp;
 
-# Definition
+# Introduction
 
 A function is a block of codes designed to perform a particular task.
 
