@@ -72,7 +72,6 @@ javascript 54–84 of sigma course CWH
 | 27    |                                      | comma operator                                  |        |
 | 28    |                                      | Unary operator                                  |        |
 | 29    |                                      | Precedence                                      |        |
-|       |                                      |                                                 |        |
 | 30    | Type casting                         | Theory                                          |        |
 | 31    |                                      | others to numbers                               |        |
 | 32    |                                      | others to string                                |        |
@@ -96,7 +95,6 @@ javascript 54–84 of sigma course CWH
 | 48    |                                      | break                                           |        |
 | 49    |                                      | continue                                        |
 |       |                                      | labeled loop                                    |
-|       |                                      |                                                 |        |
 | 50    | Iterables                            | Iterates over a string                          |        |
 | 51    |                                      | Iterates over an array                          |        |
 | 52    |                                      | Iterates over a set                             |        |
@@ -125,7 +123,6 @@ javascript 54–84 of sigma course CWH
 |       |                                      | Build-in functions                              |        |
 |       |                                      | getter                                          |
 |       |                                      | setter                                          |
-|       |                                      |                                                 |
 |       | Asynchronous js                      | working with APIs                               |
 |       |                                      | Callback Functions                              |
 |       |                                      | Promises                                        |
@@ -234,56 +231,56 @@ Left-hand-side expressions
   • Bubbling and Capturing
 
 1. DOM Manipulation
-    • Selecting DOM Elements
-    • Modifying Element Properties
-    • Creating and Appending Elements
+   • Selecting DOM Elements
+   • Modifying Element Properties
+   • Creating and Appending Elements
 
 2. Regular Expressions
-    • Pattern Matching
-    • RegExp Methods: test(), exec(), match(), replace()
+   • Pattern Matching
+   • RegExp Methods: test(), exec(), match(), replace()
 
 3. Browser APIs
-    • localStorage and sessionStorage
-    • navigator Object
-    • Geolocation API
-    • Canvas API
+   • localStorage and sessionStorage
+   • navigator Object
+   • Geolocation API
+   • Canvas API
 
 4. Web APIs
-    • setTimeout(), setInterval()
-    • XMLHttpRequest
-    • Fetch API
-    • WebSockets
+   • setTimeout(), setInterval()
+   • XMLHttpRequest
+   • Fetch API
+   • WebSockets
 
 5. Functional Programming
-    • Higher-Order Functions
-    • map(), reduce(), filter()
-    • Pure Functions and Immutability
+   • Higher-Order Functions
+   • map(), reduce(), filter()
+   • Pure Functions and Immutability
 
 6. Promises and Asynchronous Patterns
-    • Promise Chaining
-    • Error Handling with Promises
-    • Async/Await
+   • Promise Chaining
+   • Error Handling with Promises
+   • Async/Await
 
 7. ES6+ Features
-    • Template Literals
-    • Destructuring Assignment
-    • Rest and Spread Operators
-    • Arrow Functions
-    • Classes and Inheritance
-    • Default Parameters
-    • let, const Block Scoping
+   • Template Literals
+   • Destructuring Assignment
+   • Rest and Spread Operators
+   • Arrow Functions
+   • Classes and Inheritance
+   • Default Parameters
+   • let, const Block Scoping
 
 8. Browser Object Model (BOM)
-    • window Object
-    • history Object
-    • location Object
-    • navigator Object
+   • window Object
+   • history Object
+   • location Object
+   • navigator Object
 
 9. Node.js Specific Concepts
-    • require()
-    • Node.js Modules (module.exports)
-    • File System Module (fs)
-    • npm (Node Package Manager)
+   • require()
+   • Node.js Modules (module.exports)
+   • File System Module (fs)
+   • npm (Node Package Manager)
 
 10. Testing Frameworks
     • Jasmine
@@ -296,78 +293,114 @@ Left-hand-side expressions
 
 &nbsp;
 
-JS Functions
+- JS Functions
+- JS Objects
+- JS Events
+- JS Strings
+- JS Numbers
+- JS BigInt
+- JS Number Methods
+- JS Number Properties
+- JS Arrays
+- JS Array Methods
+- JS Array Sort
+- JS Array Iteration
+- JS Array Const
+- JS Dates
+- JS Date Formats
+- JS Date Get Methods
+- JS Date Set Methods
+- JS Math
+- JS Random
+- JS Sets
+- JS Maps
+- JS RegExp
+- JS Precedence
+- JS Errors
+- JS Scope
+- JS Hoisting
+- JS Strict Mode
+- JS this Keyword
+- JS Arrow Function
+- JS Classes
+- JS Modules
+- JS JSON
+- JS Debugging
+- JS Style Guide
+- JS Best Practices
+- JS Mistakes
+- JS Performance
+- JS Reserved Words
 
-JS Objects
+&nbsp;
 
-JS Events
+&nbsp;
 
-JS Strings
+&nbsp;
 
-JS Numbers
+- WEEK 1: JAVASCRIPT BASICS
 
-JS BigInt
+  - Day 1 → What is JavaScript?
+    - → Learn the history, features & what JavaScript can build.
 
-JS Number Methods
-
-JS Number Properties
-
-JS Arrays
-
-JS Array Methods
-
-JS Array Sort
-
-JS Array Iteration
-
-JS Array Const
-
-JS Dates
-
-JS Date Formats
-
-JS Date Get Methods
-
-JS Date Set Methods
-
-JS Math
-
-JS Random
-
-JS Sets
-
-JS Maps
-
-JS RegExp
-
-JS Precedence
-
-JS Errors
-
-JS Scope
-
-JS Hoisting
-
-JS Strict Mode
-
-JS this Keyword
-
-JS Arrow Function
-
-JS Classes
-
-JS Modules
-
-JS JSON
-
-JS Debugging
-
-JS Style Guide
-
-JS Best Practices
-
-JS Mistakes
-
-JS Performance
-
-JS Reserved Words
+  - Day 2 → Setting Up Environment
+    - → Install VS Code, Chrome, Live Server Extension.
+  - Day 3 → Variables & Data Types
+    - → Understand var, let, const, strings, numbers, booleans.
+  - Day 4 → Operators in JS
+    - → Arithmetic, Assignment, Comparison, Logical Operators.
+  - Day 5 → Conditional Statements
+    - → Master if, else, switch, ternary operator.
+  - Day 6 → Loops in JavaScript
+    - → Learn for, while, do-while, break, continue.
+  - Day 7 → Mini Project
+    - → Build a Simple Calculator.
+- WEEK 2: FUNCTIONS & DOM MANIPULATION
+  - Day 8 → Functions in JavaScript
+    - → Regular Functions, Arrow Functions, Parameters, Return.
+  - Day 9 → Arrays & Objects
+    - → Learn Arrays Methods & Object Properties.
+  - Day 10 → Introduction to the DOM
+    - → Select & Manipulate HTML Elements using JavaScript.
+  - Day 11 → JavaScript Events
+    - → Handle Click, Mouse, Form & Keyboard Events.
+  - Day 12 → Project: To-Do List App
+    - → Build a simple dynamic to-do app.
+  - Day 13 → Advanced DOM Manipulation
+    - → Create, Update & Remove Elements Dynamically.
+  - Day 14 → Challenge: Build a Counter App
+    - → Apply DOM and Event Skills.
+- WEEK 3: INTERMEDIATE JAVASCRIPT
+  - Day 15 → ES6 Features
+    - → Destructuring, Spread & Rest Operators.
+  - Day 16 → Master Array Methods
+    - → map(), filter(), reduce(), find()
+  - Day 17 → LocalStorage
+    - → Store & Retrieve Data from the Browser.
+  - Day 18 → Fetch API & JSON
+    - → Make API Requests in JavaScript.
+  - Day 19 → Promises & Async/Await
+    - → Handle Asynchronous Operations.
+  - Day 20 → Project: Weather App
+    - → Build a Weather App using OpenWeather API.
+  - Day 21 → Challenge: Random Quote Generator
+    - → Fetch Random Quotes from API.
+- WEEK 4: ADVANCED JAVASCRIPT & PROJECTS
+  - Day 22 → Closures & Scope
+    - → Deep dive into JavaScript Closures.
+  - Day 23 → Hoisting & Execution Context
+    - → Understand the JavaScript Engine Workflow.
+  - Day 24 → Error Handling
+    - → Use try, catch, finally in JS.
+  - Day 25 → Modules & Import/Export
+    - → Organize Your JS Code Professionally.
+  - Day 26 → Object-Oriented Programming (OOP)
+    - → Classes, Constructors, Inheritance in JS.
+  - Day 27 → Project: Quiz App
+    - → Interactive Quiz with Score Tracking.
+  - Day 28 → JavaScript Interview Prep
+    - → Top 20 Frequently Asked JS Interview Questions.
+  - Day 29 → Final Project: CRUD App
+    - → Build a Full Create, Read, Update, Delete App.
+  - Day 30 → Deployment & Portfolio
+    - → Deploy Projects on Netlify or GitHub Pages & Share.
