@@ -6,9 +6,8 @@
 - [Syntax](#syntax)
   - [Syntax 1](#syntax-1)
   - [Syntax 2](#syntax-2)
-    - [Important points](#important-points)
 - [Example](#example)
-- [Define a function](#define-a-function)
+- [Structure](#structure)
   - [Note](#note)
 - [How Hoisting Works](#how-hoisting-works)
 - [When to use Function Declarations?](#when-to-use-function-declarations)
@@ -79,19 +78,6 @@ function function_name(parameter 1, parameter 2,…) {
 
 &nbsp;
 
-### Important points
-
-- Starts with `function`.
-- Must have a **name**.
-- Can have zero, one, or multiple parameters.
-- Contains a block of code inside `{}`.
-- Optionally uses a return statement to give back a value.
-- Semicolons are used to separate executable JavaScript statements. Since a function declaration is not an executable statement, it is not common to end it with a semicolon.
-
-&nbsp;
-
-&nbsp;
-
 # Example
 
 Without parameter
@@ -116,20 +102,22 @@ function add(a, b) {
 
 &nbsp;
 
-# Define a function
+# Structure
 
-To define a function, use
-
-- the `function` keyword
-- **function name**,
-- **a set of parentheses** for parameters(if any) and
-- **curly braces** to enclose the function body
+- Starts with `function`.
+- Must have a **name**.
+- Can have zero, one, or multiple parameters.
+- Contains a block of code inside `{}`.
+- Optionally uses a return statement to give back a value.
+- Semicolons are used to separate executable JavaScript statements.
 
 &nbsp;
 
 ## Note
 
-Function names can contain **letters, digits, underscores, and dollar signs** (same rules as variables).
+- Function names can contain **letters, digits, underscores, and dollar signs** (same rules as variables).
+
+- Since a function declaration is not an executable statement, it is not common to end it with a semicolon.
 
 &nbsp;
 
@@ -152,6 +140,8 @@ This is why you can call the function before its actual definition.
 - When the function needs to be available anywhere in the file.
 - When defining utility/helper functions (like add(), subtract(), fetchData(), etc.).
 - When you want cleaner, more readable code structure.
+- Helps with stack traces when debugging.
+- Useful for recursive functions within their own scope.
 
 &nbsp;
 
@@ -171,15 +161,15 @@ This is why you can call the function before its actual definition.
 
 &nbsp;
 
-1. **<u>Hoisting</u>**: Function declarations are hoisted, meaning they can be called before they are defined in the code.
+1. **<u>Named Function</u>**: The function has an explicit name, making debugging easier.
 
-```js
-sayHello(); // ✅ Works due to hoisting
-function sayHello() {
-  console.log("Hello!");
-}
-```
+2. **<u>Hoisting</u>**: Function declarations are hoisted, meaning they can be called before they are defined in the code.
 
-2. **<u>Named Function</u>**: The function has an explicit name, making debugging easier.
+   ```js
+   sayHello(); // ✅ Works due to hoisting
+   function sayHello() {
+     console.log("Hello!");
+   }
+   ```
 
 3. **<u>Global or Local Scope</u>**: Functions can be defined globally or within another function (nested functions).

@@ -95,17 +95,18 @@ console.log(greet("Alice")); // Function Call
 
 # Types of Functions
 
-- **Named Functions** - A function expression can also have a name (useful for recursion and debugging).
+- **Named Functions / Function Declaration** - ADefined using the function keyword with a name. (useful for recursion and debugging).
 
+- **Function Expression** - A function assigned to a variable.
 - **Anonymous Functions** - Functions without a name - (e.g., arrow functions in JavaScript).
 
 - **Arrow Functions** - Arrow functions provide a shorter syntax for function expressions.
 
 - **Immediately Invoked Function Expressions (IIFE)** - An IIFE is a function that runs immediately after being defined.
 
-- **Generator Functions** - A generator function allows pausing and resuming execution using yield.
+- **Generator Functions** - A generator function allows pausing and resuming execution using `yield`.
 
-- **Constructor Functions** - JavaScript allows functions to be created dynamically using the Function constructor.
+- **Constructor Functions** - JavaScript allows functions to be created dynamically using the Function constructor. Used to create objects. Called with `new`.
 
 - **Higher-Order Functions** - Functions that take other functions as arguments or return them.
 

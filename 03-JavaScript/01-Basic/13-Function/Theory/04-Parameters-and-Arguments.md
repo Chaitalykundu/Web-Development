@@ -1,15 +1,18 @@
 # Overview
 
 - [Overview](#overview)
+- [Summary](#summary)
 - [Parameters](#parameters)
 - [Arguments](#arguments)
 - [Syntax](#syntax)
 - [Example](#example)
 - [Parameter Rules](#parameter-rules)
+- [Types of parameters](#types-of-parameters)
 - [Default Parameters](#default-parameters)
-  - [Default Parameter Values](#default-parameter-values)
-    - [Example](#example-1)
+  - [Example](#example-1)
+  - [Behind the Scenes](#behind-the-scenes)
 - [Rest Parameter (…args)](#rest-parameter-args)
+  - [Syntax](#syntax-1)
   - [Example](#example-2)
 - [The Arguments Object (Regular Functions Only)](#the-arguments-object-regular-functions-only)
 - [Arguments are Passed by Value](#arguments-are-passed-by-value)
@@ -21,9 +24,24 @@
 
 &nbsp;
 
+# Summary
+
+| Term      | Where It Appears     | Purpose                                       | Example              |
+| --------- | -------------------- | --------------------------------------------- | -------------------- |
+| Parameter | Function Definition  | Acts as a variable for input                  | function greet(name) |
+| Argument  | Function Call        | Actual value passed to a function             | greet("Alice")       |
+| Return    | Inside Function Body | Sends result back to where function is called | return a + b;        |
+|           |                      |                                               |                      |
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Parameters
 
-The variables that are defined when the function is declared are known as parameters
+The Parameters are the **variables** that are defined when the function is declared.
 
 Function parameters are the names listed in the function definition.
 
@@ -35,7 +53,7 @@ A function can have zero, one, or multiple parameters.
 
 # Arguments
 
-The values that are declared within a function when the function is called are known as an argument.
+Argument are the values that are declared within a function when the function is called.
 
 Function arguments are the real values passed to (and received by) the function
 
@@ -84,11 +102,25 @@ Here,
 
 # Parameter Rules
 
-JavaScript `function` definitions do not specify data types for parameters.
+- JavaScript `function` definitions do not specify data types for parameters.
 
-JavaScript `functions` do not perform type checking on the passed arguments.
+- JavaScript `functions` do not perform type checking on the passed arguments.
 
-JavaScript `functions` do not check the number of arguments received.
+- JavaScript `functions` do not check the number of arguments received.
+
+&nbsp;
+
+&nbsp;
+
+# Types of parameters
+
+| Parameter Type                 | Syntax/Use               | Example Purpose                       |
+| ------------------------------ | ------------------------ | ------------------------------------- |
+| Required Parameter             | function(a, b)           | Must be passed                        |
+| Default Parameter              | function(a = 10)         | Assigns default if no argument        |
+| Rest Parameter                 | function(...args)        | Collects remaining args in array      |
+| Optional Parameter             | if (param !== undefined) | Logic decides if param is optional    |
+| Named Parameter (Destructured) | function({a, b})         | Cleaner with many/optional parameters |
 
 &nbsp;
 
@@ -96,23 +128,21 @@ JavaScript `functions` do not check the number of arguments received.
 
 # Default Parameters
 
+A default parameter allows you to assign a default value to a function parameter if no argument is passed for that parameter, or if it is explicitly `undefined`
+
 If a function is called with **missing arguments** (argument is not provided), the missing values are set to undefined.
 
 Using default parameters, we can set a **fallback** value.
 
-Sometimes this is acceptable, but sometimes it is better to assign a default value to the parameter:
-
-&nbsp;
-
-&nbsp;
-
-## Default Parameter Values
+Sometimes this is acceptable, but sometimes it is better to assign a default value to the parameter.
 
 ES6 allows function parameters to have default values.
 
 &nbsp;
 
-### Example
+&nbsp;
+
+## Example
 
 If y is not passed or undefined, then y = 10.
 
@@ -125,13 +155,45 @@ myFunction(5);
 
 &nbsp;
 
+## Behind the Scenes
+
+```javascript
+function myFunction(x, y = 10) { ... }
+```
+
+is equivalent to:
+
+```js
+Copy;
+Edit;
+function myFunction(x, y = 10) {
+  if (y === undefined) {
+    y = 10;
+  }
+}
+```
+
+&nbsp;
+
 &nbsp;
 
 # Rest Parameter (…args)
 
+The rest parameter `(...)` allows a function to accept an indefinite number of arguments as an array.
+
+It collects the “rest” of the arguments not explicitly named.
+
 If we don't know how many arguments will be passed, we use the `rest parameter (…)` to gather them into an array.
 
 &nbsp;
+
+## Syntax
+
+```js
+function func(...rest) {
+  // rest is an array of all remaining arguments
+}
+```
 
 &nbsp;
 
@@ -146,6 +208,8 @@ function sum(...args) {
 
 let x = sum(4, 9, 16, 25, 29, 100, 66, 77);
 ```
+
+&nbsp;
 
 &nbsp;
 
@@ -188,6 +252,8 @@ function sumAll() {
 ```
 
 If a function is called with too many arguments (more than declared), these arguments can be reached using the arguments object.
+
+&nbsp;
 
 &nbsp;
 

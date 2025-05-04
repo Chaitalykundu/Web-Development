@@ -3,9 +3,11 @@
 - [Overview](#overview)
 - [Summary](#summary)
 - [Function Expressions](#function-expressions)
-- [Basic Structure](#basic-structure)
+- [Syntax](#syntax)
 - [Example](#example)
+- [Structure](#structure)
 - [Why use Function Expressions?](#why-use-function-expressions)
+- [When do we use Function Expression](#when-do-we-use-function-expression)
 - [Key Characteristics / features](#key-characteristics--features)
 - [Named vs Anonymous Function Expressions](#named-vs-anonymous-function-expressions)
   - [Anonymous Function Expression](#anonymous-function-expression)
@@ -46,12 +48,25 @@ These are not hoisted, meaning they cannot be called before they are defined.
 
 &nbsp;
 
-# Basic Structure
+# Syntax
+
+With named function
 
 ```js
 let variableName = function (parameters) {
   // function body
   return someValue; // (optional)
+};
+```
+
+&nbsp;
+
+anonymous / without named function
+
+```js
+let variableName = function (parameters) {
+  // function body
+  return someVal  ue; // (optional)
 };
 ```
 
@@ -74,8 +89,6 @@ const x = function (a, b) {
 
 &nbsp;
 
-&nbsp;
-
 After a function expression has been stored in a variable, the variable can be used as a function:
 
 ```js
@@ -95,6 +108,16 @@ Functions stored in variables do not need function names. They are always invoke
 
 &nbsp;
 
+# Structure
+
+- Starts with variable_name
+- `function`. keyword
+- a **name** (optional)
+- Can have zero, one, or multiple parameters.
+- Contains a block of code inside `{}`.
+- Optionally uses a return statement to give back a value.
+- Semicolons are used to separate executable JavaScript statements.
+
 &nbsp;
 
 &nbsp;
@@ -107,6 +130,28 @@ Functions stored in variables do not need function names. They are always invoke
 - Useful for functional programming styles.
 
 &nbsp;
+
+&nbsp;
+
+# When do we use Function Expression
+
+1. A function expression is often used when you need an anonymous function to pass around as a callback or event handler.
+2. Returning Functions from Other Functions
+3. Immediately Invoked Function Expressions (IIFE)
+4. Function expressions, especially arrow functions, are widely used in asynchronous programming for promises and callbacks.
+   ```js
+   fetch("url")
+     .then(function (response) {
+       return response.json();
+     })
+     .then(function (data) {
+       console.log(data);
+     })
+     .catch(function (error) {
+       console.log("Error:", error);
+     });
+   ```
+5. Creating Closures: Function expressions allow you to create closures, where an inner function has access to the variables of the outer function.
 
 &nbsp;
 
@@ -129,32 +174,32 @@ Functions stored in variables do not need function names. They are always invoke
 
 1. **<u>Not Hoisted</u>**: Function expressions are not hoisted, so they must be defined before use.
 
-```js
-console.log(sayHello()); // ❌ Error: Cannot access 'sayHello' before initialization
-const sayHello = function () {
-  return "Hello!";
-};
-```
+   ```js
+   console.log(sayHello()); // ❌ Error: Cannot access 'sayHello' before initialization
+   const sayHello = function () {
+     return "Hello!";
+   };
+   ```
 
 2. **<u>Anonymous Functions</u>**: The function does not require a name (though it can have one).
 
 3. **<u>Named Function Expressions</u>**: You can also use a named function inside a function expression.
 
-```js
-const factorial = function fact(n) {
-  if (n === 1) return 1;
-  return n * fact(n - 1);
-};
-console.log(factorial(5)); // Output: 120
-```
+   ```js
+   const factorial = function fact(n) {
+     if (n === 1) return 1;
+     return n * fact(n - 1);
+   };
+   console.log(factorial(5)); // Output: 120
+   ```
 
 4. **<u>Useful for Callbacks</u>**: Function expressions are commonly used as callback functions.
 
-```js
-setTimeout(function () {
-  console.log("This runs after 2 seconds.");
-}, 2000);
-```
+   ```js
+   setTimeout(function () {
+     console.log("This runs after 2 seconds.");
+   }, 2000);
+   ```
 
 &nbsp;
 
@@ -173,6 +218,8 @@ const sayHi = function () {
   console.log("Hi there!");
 };
 ```
+
+&nbsp;
 
 ## Named Function Expression
 

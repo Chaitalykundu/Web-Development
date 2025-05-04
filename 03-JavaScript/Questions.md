@@ -31,8 +31,9 @@
     - [Theory](#theory-3)
     - [Function Definition](#function-definition)
     - [Function Declaration](#function-declaration)
-    - [Arrow functions](#arrow-functions)
+    - [Function Expressions](#function-expressions)
     - [Parameters](#parameters)
+    - [Arrow functions](#arrow-functions)
 - [Closure](#closure)
 - [String](#string)
 - [Answer](#answer)
@@ -59,11 +60,11 @@
 - [Datatype](#datatype-1)
   - [2. Is null an independent type or object](#2-is-null-an-independent-type-or-object)
 - [Variable](#variable-1)
-    - [8. Can we declare Many Variables is one statement](#8-can-we-declare-many-variables-is-one-statement)
+  - [8. Can we declare Many Variables is one statement](#8-can-we-declare-many-variables-is-one-statement)
 - [Closure](#closure-1)
-    - [1. What is a closure in JavaScript?](#1-what-is-a-closure-in-javascript)
-    - [2. Why are closures important in JavaScript?](#2-why-are-closures-important-in-javascript)
-    - [3. Can you give an example of a closure in JavaScript?](#3-can-you-give-an-example-of-a-closure-in-javascript)
+  - [1. What is a closure in JavaScript?](#1-what-is-a-closure-in-javascript)
+  - [2. Why are closures important in JavaScript?](#2-why-are-closures-important-in-javascript)
+  - [3. Can you give an example of a closure in JavaScript?](#3-can-you-give-an-example-of-a-closure-in-javascript)
 - [1. What are the Difference Between String `indexOf()` and String `search()`](#1-what-are-the-difference-between-string-indexof-and-string-search)
 - [2.Why do we use functions?](#2why-do-we-use-functions)
 - [3. What are the ways to empty an array?](#3-what-are-the-ways-to-empty-an-array)
@@ -392,9 +393,36 @@
 
 ### Function Declaration
 
+1. What is function declaration
+2. What is the structure of function declaration
+3. How does Hoisting Work
+4. When do we use Function Declaration
+5. What are the Key Characteristics of function declaration
+
 &nbsp;
 
 &nbsp;
+
+### Function Expressions
+
+1. What is function Expression
+2. What is the structure of function Expression
+3. When do we use Function Expression
+4. hat are the Key Characteristics of function Expression
+
+&nbsp;
+
+&nbsp;
+
+### Parameters
+
+1. What is parameter
+2. What is argument
+3. What are the rules of parameter
+4. How many Types of parameters are there in js
+5. What is default parameter
+6. What is Rest parameter
+7.
 
 &nbsp;
 
@@ -423,11 +451,6 @@
 &nbsp;
 
 &nbsp;
-
-### Parameters
-
-1. What is parameter
-2. What is argument
 
 &nbsp;
 

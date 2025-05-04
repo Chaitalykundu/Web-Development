@@ -110,8 +110,8 @@
 7-Day JavaScript Function Learning Plan:
   23-04-2025:
     Day 1: Function Basics:
-        - Function Declaration vs Expression
-        - Parameters, Arguments, Return
+        ✔ Function Declaration vs Expression @done(25-05-04 15:54)
+        - Parameters, Arguments, Return @started(25-05-04 16:00)
         - Arrow Functions
 
       Practice:

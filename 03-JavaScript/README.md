@@ -2,6 +2,8 @@
 
 YouTube : [JavaScript tutorial - Code with Harry](https://www.youtube.com/watch?v=ER9SspLe4Hg&list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR)
 
+https://javascript.info/
+
 &nbsp;
 
 javascript 54–84 of sigma course CWH
@@ -341,6 +343,7 @@ Left-hand-side expressions
 - WEEK 1: JAVASCRIPT BASICS
 
   - Day 1 → What is JavaScript?
+
     - → Learn the history, features & what JavaScript can build.
 
   - Day 2 → Setting Up Environment
@@ -355,6 +358,7 @@ Left-hand-side expressions
     - → Learn for, while, do-while, break, continue.
   - Day 7 → Mini Project
     - → Build a Simple Calculator.
+
 - WEEK 2: FUNCTIONS & DOM MANIPULATION
   - Day 8 → Functions in JavaScript
     - → Regular Functions, Arrow Functions, Parameters, Return.
