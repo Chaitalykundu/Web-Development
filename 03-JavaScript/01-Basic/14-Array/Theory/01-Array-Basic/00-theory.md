@@ -3,16 +3,17 @@
 - [Overview](#overview)
 - [Array](#array)
 - [Characteristics of array](#characteristics-of-array)
+- [Syntax](#syntax)
 - [Why Use Arrays?](#why-use-arrays)
 - [Converting an Array to a String](#converting-an-array-to-a-string)
   - [Example](#example)
 - [Arrays are Objects](#arrays-are-objects)
 - [The Difference Between Arrays and Objects](#the-difference-between-arrays-and-objects)
-- [When to Use `Arrays`. When to use `Objects`.](#when-to-use-arrays-when-to-use-objects)
+- [When to Use `Arrays`. When to use `Objects`](#when-to-use-arrays-when-to-use-objects)
 - [Associative Arrays](#associative-arrays)
   - [Example](#example-1)
 - [How to Recognize an Array](#how-to-recognize-an-array)
-  - [Solution 1:](#solution-1)
+  - [Solution 1](#solution-1)
   - [Solution 2](#solution-2)
 
 &nbsp;
@@ -23,7 +24,7 @@
 
 # Array
 
-An array is a special variable, which can hold more than one value.
+An array is a special type of object used to store multiple values in a single variable.
 
 ```js
 const cars = ["Saab", "Volvo", "BMW"];
@@ -36,11 +37,23 @@ const multiple = [3, "cow", false]; // it can hold different datatypes
 
 # Characteristics of array
 
-- Array can hold multiple values with same or different datatypes
+- **Ordered Collection**: Elements maintain the order in which they are inserted.
+- **Zero-based Indexing**: The first element is accessed with index 0.
+- **Flexible Types**: You can store different types of data in the same array (numbers, strings, objects, etc.).
+- **Dynamically Sized**: Size of array is dynamic
+- **Mutable**: Arrays are mutable. Means it can be changed.
 
-- Size of array is dynamic
+&nbsp;
 
-- Arrays are mutable. Means it can be changed.
+&nbsp;
+
+# Syntax
+
+Using Array Literals (most common way)
+
+```js
+let array_name = [value1, value2,...];
+```
 
 &nbsp;
 
@@ -48,7 +61,7 @@ const multiple = [3, "cow", false]; // it can hold different datatypes
 
 # Why Use Arrays?
 
-An array can hold many values under a single name, and you can access the values by referring to an index number.
+An array can hold many values under a single variable, and you can access the values by referring to an index number.
 
 &nbsp;
 
@@ -124,6 +137,8 @@ Arrays with named indexes are called `associative arrays` (or hashes).
 JavaScript does not support arrays with named indexes.
 
 In JavaScript, arrays always use numbered indexes.
+
+&nbsp;
 
 ## Example
 

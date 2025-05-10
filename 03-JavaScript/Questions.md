@@ -34,6 +34,8 @@
     - [Function Expressions](#function-expressions)
     - [Parameters](#parameters)
     - [Arrow functions](#arrow-functions)
+  - [Array](#array)
+    - [Array basic](#array-basic)
 - [Closure](#closure)
 - [String](#string)
 - [Answer](#answer)
@@ -60,11 +62,11 @@
 - [Datatype](#datatype-1)
   - [2. Is null an independent type or object](#2-is-null-an-independent-type-or-object)
 - [Variable](#variable-1)
-  - [8. Can we declare Many Variables is one statement](#8-can-we-declare-many-variables-is-one-statement)
+    - [8. Can we declare Many Variables is one statement](#8-can-we-declare-many-variables-is-one-statement)
 - [Closure](#closure-1)
-  - [1. What is a closure in JavaScript?](#1-what-is-a-closure-in-javascript)
-  - [2. Why are closures important in JavaScript?](#2-why-are-closures-important-in-javascript)
-  - [3. Can you give an example of a closure in JavaScript?](#3-can-you-give-an-example-of-a-closure-in-javascript)
+    - [1. What is a closure in JavaScript?](#1-what-is-a-closure-in-javascript)
+    - [2. Why are closures important in JavaScript?](#2-why-are-closures-important-in-javascript)
+    - [3. Can you give an example of a closure in JavaScript?](#3-can-you-give-an-example-of-a-closure-in-javascript)
 - [1. What are the Difference Between String `indexOf()` and String `search()`](#1-what-are-the-difference-between-string-indexof-and-string-search)
 - [2.Why do we use functions?](#2why-do-we-use-functions)
 - [3. What are the ways to empty an array?](#3-what-are-the-ways-to-empty-an-array)
@@ -447,6 +449,19 @@
 &nbsp;
 
 &nbsp;
+
+## Array
+
+### Array basic
+
+1. What is array
+2. What are the key characteristics of array
+3. Why do we Use Arrays
+4. How to convert an Array to a String
+5. how can we have objects in an Array
+6. What are The Differences Between Arrays and Objects
+7. When do we Use `Arrays`. When to use `Objects`
+8. What is Associative Array
 
 &nbsp;
 

@@ -1,30 +1,30 @@
 # Roadmap
 
-| Day                                   | Theory                                                                | Practice                                                       |
-| ------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Day 1: Introduction to Arrays         | What is an array?                                                     | Create, access, and update arrays                              |
-|                                       | Creating arrays: [] vs new Array()                                    | Try small problems on arrays (e.g., reverse an array manually) |
-|                                       | Accessing elements with indices                                       |
-|                                       | Modifying and assigning values                                        |
-|                                       | .length property                                                      |
-| Day 2: Adding & Removing Elements     | .push(), .pop()                                                       | Add/remove elements in different positions                     |
-|                                       | .shift(), .unshift()                                                  | Implement your own .push() using indexing                      |
-|                                       | .splice(), .slice()                                                   |
-| Day 3: Looping & Iteration            | Traditional for loop                                                  | Iterate and sum all array elements                             |
-|                                       | for...of loop                                                         | Find max/min using loop                                        |
-|                                       | .forEach() method                                                     |
-| Day 4: Searching and Indexing         | .indexOf(), .lastIndexOf()                                            | Search for items                                               |
-|                                       | .includes(), .find(), .findIndex()                                    | Filter based on conditions                                     |
-|                                       | .some(), .every()                                                     |
-| Day 5: Transforming Arrays            | .map()                                                                | Double values in an array using .map()                         |
-|                                       | .filter()                                                             | Filter even/odd numbers                                        |
-|                                       | .reduce()                                                             | Find sum or product using .reduce()                            |
-| Day 6: Sorting and Advanced Features  | .sort() with compare functions                                        | Sort array of numbers or strings                               |
-|                                       | .reverse()                                                            | Clone an array using spread operator                           |
-|                                       | Destructuring arrays                                                  |
-|                                       | Spread/rest syntax                                                    |
-| Day 7: Real-World Practice & Chaining | Chaining methods: .filter().map().reduce()                            | Manipulate arrays of objects (e.g., filter users by age)       |
-|                                       | Working with arrays of objects                                        | Solve 2–3 problems on LeetCode/HackerRank                      |
+| Day                                   | Theory                                                                | Practice                                                       | Status |
+| ------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------- | ------ |
+| Day 1: Introduction to Arrays         | What is an array?                                                     | Create, access, and update arrays                              |        |
+|                                       | Creating arrays: [] vs new Array()                                    | Try small problems on arrays (e.g., reverse an array manually) |        |
+|                                       | Accessing elements with indices                                       |                                                                |        |
+|                                       | Modifying and assigning values                                        |                                                                |        |
+|                                       | .length property                                                      |                                                                |        |
+| Day 2: Adding & Removing Elements     | .push(), .pop()                                                       | Add/remove elements in different positions                     |        |
+|                                       | .shift(), .unshift()                                                  | Implement your own .push() using indexing                      |        |
+|                                       | .splice(), .slice()                                                   |                                                                |        |
+| Day 3: Looping & Iteration            | Traditional for loop                                                  | Iterate and sum all array elements                             |        |
+|                                       | for...of loop                                                         | Find max/min using loop                                        |        |
+|                                       | .forEach() method                                                     |                                                                |        |
+| Day 4: Searching and Indexing         | .indexOf(), .lastIndexOf()                                            | Search for items                                               |        |
+|                                       | .includes(), .find(), .findIndex()                                    | Filter based on conditions                                     |        |
+|                                       | .some(), .every()                                                     |                                                                |        |
+| Day 5: Transforming Arrays            | .map()                                                                | Double values in an array using .map()                         |        |
+|                                       | .filter()                                                             | Filter even/odd numbers                                        |        |
+|                                       | .reduce()                                                             | Find sum or product using .reduce()                            |        |
+| Day 6: Sorting and Advanced Features  | .sort() with compare functions                                        | Sort array of numbers or strings                               |        |
+|                                       | .reverse()                                                            | Clone an array using spread operator                           |        |
+|                                       | Destructuring arrays                                                  |                                                                |        |
+|                                       | Spread/rest syntax                                                    |                                                                |        |
+| Day 7: Real-World Practice & Chaining | Chaining methods: .filter().map().reduce()                            | Manipulate arrays of objects (e.g., filter users by age)       |        |
+|                                       | Working with arrays of objects                                        | Solve 2–3 problems on LeetCode/HackerRank                      |        |
 |                                       | Common array interview problems (e.g., frequency counter, duplicates) |
 
 &nbsp;
